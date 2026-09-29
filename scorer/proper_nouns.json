@@ -1,0 +1,8 @@
+{
+ "_comment": "Per-story proper nouns excluded from the Guiraud calculation. Character names only, lowercased, comma-separated; not titles like king or captain, which are scored as common words. score.py reads this and the per-story files in proper_nouns/ (which add names, never remove them). Pass --proper to override.",
+ "emperors_new_clothes_englishVE.txt": "",
+ "frog_prince_englishVE.txt": "",
+ "princess_and_the_pea_englishVE.txt": "",
+ "treasure_island_englishM.txt": "jim,silver,livesey,trelawney,ben,hawkins,flint",
+ "jack_and_the_beanstalk_english_oneoff.txt": "jack,master"
+}

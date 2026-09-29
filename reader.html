@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Reader | Graded Readers</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Graded Readers</a>
+  <nav class="topnav">
+    <a class="pill" href="index.html">Library</a>
+    <a class="pill" href="method.html">Method</a>
+    <button class="pill" id="theme-btn" type="button">Dark</button>
+  </nav>
+</header>
+
+<div class="readerbar" id="bar" hidden>
+  <div class="seg" id="langseg" role="group" aria-label="Language" hidden>
+    <button type="button" data-lang="en" aria-pressed="true">English</button>
+    <button type="button" data-lang="fr" aria-pressed="false">Fran&ccedil;ais</button>
+    <button type="button" data-lang="both" aria-pressed="false">Side by side</button>
+  </div>
+  <div class="seg" role="group" aria-label="Text size">
+    <button type="button" id="smaller" aria-label="Smaller text">A-</button>
+    <button type="button" id="larger" aria-label="Larger text">A+</button>
+  </div>
+  <label class="tool"><input type="checkbox" id="sumtoggle"> Summaries</label>
+  <select class="select" id="chsel" aria-label="Jump to chapter"></select>
+</div>
+
+<main>
+  <p class="loading" id="loading">Loading story&hellip;</p>
+  <article class="paper" id="paper" hidden></article>
+</main>
+<script src="js/reader.js"></script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Graded Readers: public-domain tales in controlled English</title>
+<meta name="description" content="Public-domain stories retold in controlled English at five levels, each checked by an open scorer. Some have a French version.">
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Graded Readers</a>
+  <nav class="topnav">
+    <a class="pill on" href="index.html">Library</a>
+    <a class="pill" href="method.html">Method</a>
+    <button class="pill" id="theme-btn" type="button">Dark</button>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section class="intro">
+    <h1>Graded English readers</h1>
+    <p id="lede">Public-domain tales retold in plain, literal English at five levels. Each level caps sentence length and how much new vocabulary a chapter may bring in, and an open scorer checks every story against its limits.</p>
+    <p>Drafted with AI and checked by script, not edited by a publisher. <a href="method.html">Read the method and its limits.</a></p>
+  </section>
+
+  <div class="controls">
+    <div class="levels" id="levels" role="group" aria-label="Filter by level"></div>
+    <div class="right">
+      <input class="search" id="q" type="search" placeholder="Search titles" aria-label="Search titles" autocomplete="off">
+      <select class="select" id="sort" aria-label="Sort stories">
+        <option value="level">Sort: level</option>
+        <option value="title">Sort: title A to Z</option>
+        <option value="short">Sort: shortest first</option>
+        <option value="long">Sort: longest first</option>
+      </select>
+      <button class="pill" id="frbtn" type="button" aria-pressed="false">French version</button>
+    </div>
+  </div>
+  <div class="count" id="count" aria-live="polite"></div>
+  <div class="grid" id="grid"></div>
+  <p class="empty" id="empty" hidden>No story matches.</p>
+
+  <details class="levelinfo">
+    <summary>The five levels and their limits</summary>
+    <div class="tablewrap"><table class="levels-table">
+      <thead><tr><th>Level</th><th class="num">Longest sentence</th><th class="num">Guiraud ceiling, chapter</th><th class="num">Guiraud ceiling, story</th><th class="num">Stories</th></tr></thead>
+      <tbody id="ltable"></tbody>
+    </table></div>
+    <p style="color:var(--muted);font-size:13px;margin:4px 0 0">Chapters are 300 to 600 words at every level. Guiraud is unique word stems divided by the square root of the word count, and a lower value means more repetition.</p>
+  </details>
+</main>
+
+<footer class="foot">Retellings of public-domain works. Stories CC BY 4.0, code MIT. Copyright (c) 2026 Nathan Schaumann.</footer>
+<script src="js/library.js"></script>
+</body>
+</html>

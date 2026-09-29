@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Method | Graded Readers</title>
+<link rel="icon" href="data:,">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/theme.js"></script>
+</head>
+<body>
+<header class="topbar">
+  <a class="brand" href="index.html">Graded Readers</a>
+  <nav class="topnav">
+    <a class="pill" href="index.html">Library</a>
+    <a class="pill on" href="method.html">Method</a>
+    <button class="pill" id="theme-btn" type="button">Dark</button>
+  </nav>
+</header>
+<main class="doc">
+<h1>Method</h1>
+<p>How the readers were written and checked, and what that does not prove.</p>
+<h2>The five levels</h2>
+<p>Every story is a plain, literal retelling of a public-domain tale, written so a learner meets the same small core of words many times. Each level has hard limits. Chapters at every level are 300 to 600 words, aiming for about 400.</p>
+<div class='tablewrap'><table><thead><tr><th>Level</th><th>Longest sentence</th><th>Guiraud ceiling per chapter</th><th>Guiraud ceiling for the whole story</th></tr></thead><tbody><tr><td>Very Easy</td><td>10 words</td><td>6.2</td><td>6.0</td></tr><tr><td>Easy</td><td>12 words</td><td>6.4</td><td>6.1</td></tr><tr><td>Medium</td><td>15 words</td><td>6.5</td><td>6.3</td></tr><tr><td>Hard</td><td>20 words</td><td>6.6</td><td>6.5</td></tr><tr><td>Very Hard</td><td>24 words</td><td>7.0</td><td>7.0</td></tr></tbody></table></div>
+<p>One story, Jack and the Beanstalk, is a one-off with its own limits: 10 words per sentence and ceilings of 5.5 (chapter) and 6.0 (whole story). The limits live in <code>scorer/difficulty_constraints.csv</code>. There are ceilings only, no floors: a low score is never a failure.</p>
+<p>The writing rules on top of the numbers: every word in its most literal sense (no metaphors), character names preferred over pronouns, and a lean toward dialogue over reported speech.</p>
+<h2>What Guiraud is</h2>
+<p>Guiraud lexical diversity is the number of different word stems divided by the square root of the number of words, so a text that keeps reusing its words scores low and a text that keeps bringing in new words scores high.</p>
+<h2>How the scorer checks a story</h2>
+<p><code>scorer/score.py</code> reads a story file and splits it into chapters. It sets aside character and place names, then reduces each remaining word to its base form (so "ran" and "runs" both count as "run"), using a word list, a table of irregular forms and a set of suffix rules. It then works out the Guiraud score for each chapter and for the story so far, and flags anything outside the level's limits: a chapter under 300 or over 600 words, a sentence over the level's cap, or a chapter or whole-story score above its ceiling. Nothing in it calls a network or a model.</p>
+<h2>Limitations</h2>
+<ul><li><strong>AI-drafted, not professionally edited.</strong> The stories were drafted with Claude (Anthropic) under these rules and checked by the automated scorer. No professional editor or publisher has reviewed them.</li><li><strong>The level is a lexical measure, not a validated one.</strong> Sentence length and word repetition are checked. Nobody has tested the levels against learners, or mapped them to CEFR or ACTFL. A low Guiraud score means words repeat, not that the words are common.</li><li><strong>Guiraud shifts with text length,</strong> so scores from very short and very long texts compare only roughly. That is why chapter length is fixed to one band.</li><li><strong>Older stories break the chapter rule.</strong> Stories written before the 300 to 600 word rule were held to shorter chapters, capped at 120 to 400 words depending on level, and were not rewritten. Of the 572 chapters in this collection, 247 are under 300 words, and 28 of the 51 stories have at least one. The scorer flags these.</li><li><strong>A few scores are over their ceiling.</strong> Two whole stories are just above theirs (The Pied Piper of Hamelin, 6.11 against 6.1, and The Steadfast Tin Soldier, 6.15 against 6.1), and 7 chapters sit above their per-chapter ceiling. Stories were later shortened by deleting filler sentences, and those chapters were left as they were.</li><li><strong>These are adaptations.</strong> They compress, simplify and sometimes reorder the source. They are not translations, and they end where the plot ends.</li><li><strong>Four stories keep an older script format,</strong> where spoken lines start with the speaker's name.</li><li><strong>The French is machine-assisted.</strong> The ten Very Hard stories have a French version written sentence by sentence with AI help. No professional translator has checked it.</li></ul>
+</main>
+<footer class="foot">Generated from METHOD.md by scripts/build.py. Stories CC BY 4.0, code MIT. Copyright (c) 2026 Nathan Schaumann.</footer>
+</body>
+</html>
