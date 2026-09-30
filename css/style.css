@@ -203,3 +203,13 @@ details.report p { margin: 8px 0; }
   .search { width: 100%; }
   .controls .right { margin-left: 0; width: 100%; }
 }
+
+/* Reader page: holds the "Nathan Schaumann, all projects" link, lined up with the story title. */
+.home-wrap { max-width: 44rem; margin: 14px auto 0; padding: 0 35px; }
+@media (max-width: 640px) { .home-wrap { padding: 0 16px; } }
+
+/* "Nathan Schaumann, all projects" link: its inline dark blue is unreadable on the dark theme. */
+:root[data-theme="dark"] .home-link a { color: #9db4ff !important; }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) .home-link a { color: #9db4ff !important; }
+}
