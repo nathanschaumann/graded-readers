@@ -1,5 +1,7 @@
-/* Graded Readers: shared styles. Light and dark from tokens. */
+/* Graded Readers: shared styles. Light is the default on every device; dark is only ever an explicit choice
+   made with the Dark button (html[data-theme="dark"]). The system colour setting is never followed. */
 :root {
+  color-scheme: light;
   --bg: #eef1f6; --card: #fff; --card-2: #f5f7fb;
   --border: #dde3ef; --border-soft: #e8ecf4;
   --text: #1a2030; --muted: #5d6b89;
@@ -34,24 +36,6 @@
   --lv-VH: #c4a6ff; --lv-VH-bg: #2f2350;
   --lv-oneoff: #b3bdd4; --lv-oneoff-bg: #2a3142;
   --shadow: 0 1px 6px rgba(0,0,0,.4);
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #12151d; --card: #1b202c; --card-2: #212838;
-    --border: #2c3446; --border-soft: #262d3d;
-    --text: #e6eaf4; --muted: #9aa6c0;
-    --accent: #7c9bff; --accent-text: #9db4ff; --accent-soft: #24304f;
-    --on-accent: #0d1220;
-    --paper: #181d29; --paper-text: #dfe4f0;
-    --fr-bg: #1e2638; --fr-bar: #4d64a8;
-    --lv-VE: #6fd6a0; --lv-VE-bg: #17322a;
-    --lv-E: #6bd2dc; --lv-E-bg: #15313a;
-    --lv-M: #9db4ff; --lv-M-bg: #22305a;
-    --lv-H: #f0c96a; --lv-H-bg: #3a2f14;
-    --lv-VH: #c4a6ff; --lv-VH-bg: #2f2350;
-    --lv-oneoff: #b3bdd4; --lv-oneoff-bg: #2a3142;
-    --shadow: 0 1px 6px rgba(0,0,0,.4);
-  }
 }
 
 * , *::before, *::after { box-sizing: border-box; }
@@ -208,8 +192,15 @@ details.report p { margin: 8px 0; }
 .home-wrap { max-width: 44rem; margin: 14px auto 0; padding: 0 35px; }
 @media (max-width: 640px) { .home-wrap { padding: 0 16px; } }
 
-/* "Nathan Schaumann, all projects" link: its inline dark blue is unreadable on the dark theme. */
+/* "Nathan Schaumann, all projects" link: its inline dark blue is unreadable on the explicit dark theme. */
 :root[data-theme="dark"] .home-link a { color: #9db4ff !important; }
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) .home-link a { color: #9db4ff !important; }
+
+/* Touch-size tap targets (phones, tablets, any touch screen): every control at least 32px tall.
+   Plain-text controls grow their tap area with padding that a matching negative margin cancels,
+   so the layout does not move. A desktop mouse keeps the compact look. */
+@media (pointer: coarse), (max-width: 900px) {
+  .brand { display: inline-flex; align-items: center; min-height: 32px; }
+  .pill, .seg button, .tool, .readerbar .select { min-height: 32px; }
+  .intro p > a { display: inline-block; padding: 7px 0; margin: -7px 0; }
+  details.levelinfo summary, details.report summary { padding: 7px 0; margin: -7px 0; }
 }

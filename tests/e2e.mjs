@@ -60,12 +60,14 @@ async function waitFor(expr, ms = 15000) {
 }
 
 const problems = [];
+// The tab icon is /favicon.svg on the home site (nschaumann.com); this test serves only this repo, so that one 404 is expected.
+const isHomeSiteIcon = u => /\/favicon\.svg$/.test(String(u || "").trim().split(/\s+/).pop());
 listeners.push(m => {
   if (m.method === "Runtime.exceptionThrown") problems.push("exception: " + JSON.stringify(m.params.exceptionDetails.text + " " + ((m.params.exceptionDetails.exception || {}).description || "")).slice(0, 200));
   if (m.method === "Runtime.consoleAPICalled" && (m.params.type === "error" || m.params.type === "warning")) problems.push("console." + m.params.type + ": " + JSON.stringify(m.params.args.map(a => a.value || a.description)).slice(0, 200));
-  if (m.method === "Log.entryAdded" && m.params.entry.level === "error") problems.push("log error: " + m.params.entry.text + " " + (m.params.entry.url || ""));
+  if (m.method === "Log.entryAdded" && m.params.entry.level === "error" && !isHomeSiteIcon(m.params.entry.url)) problems.push("log error: " + m.params.entry.text + " " + (m.params.entry.url || ""));
   if (m.method === "Network.loadingFailed") problems.push("request failed: " + m.params.errorText);
-  if (m.method === "Network.responseReceived" && m.params.response.status >= 400) problems.push("HTTP " + m.params.response.status + " " + m.params.response.url);
+  if (m.method === "Network.responseReceived" && m.params.response.status >= 400 && !isHomeSiteIcon(m.params.response.url)) problems.push("HTTP " + m.params.response.status + " " + m.params.response.url);
 });
 
 async function go(url) {
@@ -175,6 +177,19 @@ try {
   const after = await ev("getComputedStyle(document.body).backgroundColor");
   check(before !== after, "theme toggle changes the background (" + before + " -> " + after + ")");
   await ev("document.getElementById('theme-btn').click()");
+  // light by default: a dark system setting must not darken any page; only the Dark button does
+  await ev("try { localStorage.removeItem('gr-theme'); } catch (e) {}");
+  await send("Emulation.setEmulatedMedia", { features: [{ name: "prefers-color-scheme", value: "dark" }] });
+  for (const pg of ["index.html", "reader.html?story=cinderella", "method.html"]) {
+    await go(pg);
+    const bg = await ev("getComputedStyle(document.body).backgroundColor");
+    check(bg === "rgb(238, 241, 246)", "system dark setting leaves " + pg + " light (" + bg + ")");
+  }
+  await ev("document.getElementById('theme-btn').click()");
+  const darkBg = await ev("getComputedStyle(document.body).backgroundColor");
+  check(darkBg === "rgb(18, 21, 29)", "the Dark button still makes it dark (" + darkBg + ")");
+  await ev("try { localStorage.removeItem('gr-theme'); } catch (e) {}");
+  await send("Emulation.setEmulatedMedia", { features: [{ name: "prefers-color-scheme", value: "" }] });
   // bad slug
   await go("reader.html?story=..%2Fetc");
   check(await ev("document.getElementById('loading').className === 'err'"), "an invalid story id shows an error, not a fetch");

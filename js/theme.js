@@ -1,15 +1,13 @@
-/* Light/dark theme: saved choice wins, otherwise follow the system. Loaded in <head> to avoid a flash. */
+/* Theme: light on every device. The Dark button is an explicit choice the reader makes (a reading preference),
+   saved in this browser. The system light/dark setting is never followed. Loaded in <head> to avoid a flash. */
 (function () {
   var KEY = "gr-theme";
   function saved() { try { return localStorage.getItem(KEY); } catch (e) { return null; } }
   function apply(v) {
-    if (v === "light" || v === "dark") document.documentElement.setAttribute("data-theme", v);
-    else document.documentElement.removeAttribute("data-theme");
+    document.documentElement.setAttribute("data-theme", v === "dark" ? "dark" : "light");
   }
   function current() {
-    var v = document.documentElement.getAttribute("data-theme");
-    if (v) return v;
-    return window.matchMedia && matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    return document.documentElement.getAttribute("data-theme") === "dark" ? "dark" : "light";
   }
   apply(saved());
   window.grTheme = {
