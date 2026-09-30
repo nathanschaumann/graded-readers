@@ -4,7 +4,7 @@ Public-domain tales retold in plain, literal English at five levels, with an ope
 
 ## What is in it
 
-51 stories: Very Easy 13, Easy 14, Medium 8, Hard 5, Very Hard 10, plus one one-off (Jack and the Beanstalk). The ten Very Hard stories have a French version. The library has a level filter, search and sort. Reader pages have light and dark themes, adjustable text size, a language toggle (English, French or side by side), optional summaries and a scorer report.
+52 stories: Very Easy 13, Easy 14, Medium 8, Hard 6, Very Hard 10, plus one one-off (Jack and the Beanstalk). The ten Very Hard stories have a French version. The library has a level filter, search and sort. Reader pages have light and dark themes, adjustable text size, a language toggle (English, French or side by side), optional summaries and a scorer report.
 
 Each level caps sentence length (10, 12, 15, 20 and 24 words) and a Guiraud lexical-diversity ceiling per chapter and per story. Chapters run 300 to 600 words. Exact limits: [METHOD.md](METHOD.md).
 

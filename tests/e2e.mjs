@@ -115,7 +115,7 @@ try {
   await go("index.html");
   await waitFor("document.querySelectorAll('.card').length > 0");
   const total = await ev("document.querySelectorAll('.card').length");
-  check(total === 51, "library shows all 51 stories (" + total + ")");
+  check(total === 52, "library shows all 52 stories (" + total + ")");
   await ev("localStorage.clear()");
 
   await ev("[...document.querySelectorAll('#levels .pill')].find(b => b.textContent.startsWith('Very Hard')).click()");

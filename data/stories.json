@@ -30,7 +30,7 @@
    "maxSentence": 20,
    "chapterCeiling": 6.6,
    "cumCeiling": 6.5,
-   "count": 5
+   "count": 6
   },
   {
    "code": "VH",
@@ -787,6 +787,26 @@
    "chaptersOverCeiling": 0,
    "sentencesOverCap": 0,
    "chapterLengthFlags": 18,
+   "french": false,
+   "script": false
+  },
+  {
+   "slug": "peter_pan",
+   "file": "peter_pan_englishH.txt",
+   "title": "Peter Pan",
+   "level": "H",
+   "levelLabel": "Hard",
+   "words": 4046,
+   "chapters": 9,
+   "sentences": 327,
+   "longest": 20,
+   "sentenceCap": 20,
+   "guiraud": 5.52,
+   "guiraudCeiling": 6.5,
+   "chapterCeiling": 6.6,
+   "chaptersOverCeiling": 2,
+   "sentencesOverCap": 0,
+   "chapterLengthFlags": 0,
    "french": false,
    "script": false
   },
