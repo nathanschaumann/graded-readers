@@ -2,6 +2,8 @@
 
 Public-domain tales retold in plain, literal English at five levels, with an open scorer that checks each story against its level's limits. Most have a French version. It is a static site: no server, no accounts, no build step to view it.
 
+Built from July 2026, first as a standalone story generator and then inside my private study app; published here as a standalone copy on 29 September 2026.
+
 ## What is in it
 
 52 stories: Very Easy 13, Easy 14, Medium 8, Hard 6, Very Hard 10, plus one one-off (Jack and the Beanstalk). 51 of the 52 stories have a French version (every one except Cinderella). The library has a level filter, search and sort. Reader pages have light and dark themes, adjustable text size, a language toggle (English, French or side by side), optional summaries and a scorer report.
