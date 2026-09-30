@@ -1,0 +1,291 @@
+{
+ "slug": "little_red_hen",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Seeds in the Farmyard",
+   "en": "A little red hen lived in a small farmyard.",
+   "tgt": "Une:o petite:a poule:n rouge:a vivait:v dans:o une:o petite:a basse-cour:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "She lived there with her chicks.",
+   "tgt": "Elle:o vivait:v là:a avec:o ses:o poussins:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The chicks were too small to work.",
+   "tgt": "Les:o poussins:n étaient:v trop:a petits:a pour:o travailler:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "A cat, a dog, and a pig lived nearby.",
+   "tgt": "Un:o chat:n ,:o un:o chien:n et:o un:o cochon:n vivaient:v près:a de:o là:a .:o"
+  },
+  {
+   "n": 5,
+   "en": "The hen wanted fresh bread for her hungry chicks.",
+   "tgt": "La:o poule:n voulait:v du:o pain:n frais:a pour:o ses:o poussins:n affamés:a .:o"
+  },
+  {
+   "n": 6,
+   "en": "One day, she found wheat seeds on the ground.",
+   "tgt": "Un:o jour:n ,:o elle:o trouva:v des:o graines:n de:o blé:n sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"Who will help me plant the wheat?\" she asked.",
+   "tgt": "«:o Qui:o va:v m':o aider:v à:o planter:v le:o blé:n ?:o »:o demanda:v -t-elle:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "\"Not I,\" said the cat.",
+   "tgt": "«:o Pas:a moi:o ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"Not I,\" said the dog.",
+   "tgt": "«:o Pas:a moi:o ,:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Not I,\" said the pig.",
+   "tgt": "«:o Pas:a moi:o ,:o »:o dit:v le:o cochon:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"Then I will plant it myself,\" said the hen.",
+   "tgt": "«:o Alors:o je:o vais:v le:o planter:v moi-même:o ,:o »:o dit:v la:o poule:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "So she planted the wheat in a small field.",
+   "tgt": "Alors:o elle:o planta:v le:o blé:n dans:o un:o petit:a champ:n .:o"
+  },
+  {
+   "n": 13,
+   "chapter": "The Wheat Grows Tall",
+   "en": "Sun and rain fell on the small field every day.",
+   "tgt": "Le:o soleil:n et:o la:o pluie:n tombaient:v sur:o le:o petit:a champ:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The hen pulled the weeds herself.",
+   "tgt": "La:o poule:n arracha:v les:o mauvaises:a herbes:n elle-même:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "The wheat grew tall in the sun.",
+   "tgt": "Le:o blé:n poussa:v haut:a dans:o le:o soleil:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "Soon the wheat turned a golden color.",
+   "tgt": "Bientôt:a le:o blé:n prit:v une:o couleur:n dorée:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "The hen looked at the tall wheat.",
+   "tgt": "La:o poule:n regarda:v le:o grand:a blé:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"The wheat is ready to cut,\" she said.",
+   "tgt": "«:o Le:o blé:n est:v prêt:a à:o couper:v »:o ,:o dit-elle:v .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"Who will help me cut the wheat?\" she asked.",
+   "tgt": "«:o Qui:o va:v m':o aider:v à:o couper:v le:o blé:n ?:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"Not I,\" said the dog.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"Not I,\" said the pig.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o cochon:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"Not I,\" said the cat.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"Then I will cut it myself,\" she said.",
+   "tgt": "«:o Alors:o je:o vais:v le:o couper:v moi-même:o »:o ,:o dit-elle:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "The hen cut the wheat alone.",
+   "tgt": "La:o poule:n coupa:v le:o blé:n seule:a .:o"
+  },
+  {
+   "n": 25,
+   "chapter": "Grinding the Flour",
+   "en": "The cut wheat lay in a big pile.",
+   "tgt": "Le:o blé:n coupé:a gisait:v en:o un:o grand:a tas:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The hen wanted to grind it into flour.",
+   "tgt": "La:o poule:n voulait:v le:o moudre:v en:o farine:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"Who will help me grind the wheat?\" she asked.",
+   "tgt": "«:o Qui:o va:v m':o aider:v à:o moudre:v le:o blé:n ?:o »:o demanda-t-elle:v .:o"
+  },
+  {
+   "n": 28,
+   "en": "She looked at the cat, dog, and pig.",
+   "tgt": "Elle:o regarda:v le:o chat:n ,:o le:o chien:n et:o le:o cochon:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"Not I,\" they all said.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dirent-ils:v tous:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"Then I will grind it myself,\" said the hen.",
+   "tgt": "«:o Alors:o je:o vais:v le:o moudre:v moi-même:o ,:o »:o dit:v la:o poule:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The hen had to grind the wheat alone.",
+   "tgt": "La:o poule:n dut:v moudre:v le:o blé:n seule:a .:o"
+  },
+  {
+   "n": 32,
+   "en": "Soon the wheat became white flour.",
+   "tgt": "Bientôt:a le:o blé:n devint:v de:o la:o farine:n blanche:a .:o"
+  },
+  {
+   "n": 33,
+   "en": "The hen put the flour into a bag.",
+   "tgt": "La:o poule:n mit:v la:o farine:n dans:o un:o sac:n .:o"
+  },
+  {
+   "n": 34,
+   "chapter": "Baking the Bread",
+   "en": "The hen mixed the flour with water.",
+   "tgt": "La:o poule:n mélangea:v la:o farine:n avec:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "She made a soft dough.",
+   "tgt": "Elle:o fit:v une:o pâte:n molle:a .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"Who will help me bake the bread?\" she asked.",
+   "tgt": "«:o Qui:o va:v m':o aider:v à:o faire:v le:o pain:n ?:o »:o demanda-t-elle:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"Not I,\" said the pig.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o cochon:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"Not I,\" said the cat.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"Not I,\" said the dog.",
+   "tgt": "«:o Pas:o moi:o ,:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"Then I will bake it myself,\" she said.",
+   "tgt": "«:o Alors:a je:o vais:v le:o cuire:v moi-même:o ,:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "The hen had to bake the bread alone.",
+   "tgt": "La:o poule:n dut:v cuire:v le:o pain:n seule:a .:o"
+  },
+  {
+   "n": 42,
+   "en": "She put the dough into a hot oven.",
+   "tgt": "Elle:o mit:v la:o pâte:n dans:o un:o four:n chaud:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "Soon a warm smell filled the small house.",
+   "tgt": "Bientôt:a une:o odeur:n chaude:a remplit:v la:o petite:a maison:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The cat, dog, and pig smelled it from far away.",
+   "tgt": "Le:o chat:n ,:o le:o chien:n et:o le:o cochon:n le:o sentirent:v de:o loin:a .:o"
+  },
+  {
+   "n": 45,
+   "chapter": "Who Will Eat It?",
+   "en": "The cat, dog, and pig came to the house.",
+   "tgt": "Le:o chat:n ,:o le:o chien:n et:o le:o cochon:n vinrent:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"That smells so good,\" said the cat.",
+   "tgt": "«:o Ça:o sent:v si:a bon:a ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"Who will eat this bread?\" asked the hen.",
+   "tgt": "«:o Qui:o va:v manger:v ce:o pain:n ?:o »:o demanda:v la:o poule:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "\"Give it to me!\" said the cat.",
+   "tgt": "«:o Donne:v -le:o -moi:o !:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "\"I want some too!\" said the dog.",
+   "tgt": "«:o Je:o veux:v en:o aussi:a !:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"Share it with us!\" said the pig.",
+   "tgt": "«:o Partagez:v -le:o avec:o nous:o !:o »:o dit:v le:o cochon:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"You did not help me,\" said the hen.",
+   "tgt": "«:o Vous:o ne:o m':o avez:v pas:o aidée:v ,:o »:o dit:v la:o poule:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"My chicks and I will eat it,\" she said.",
+   "tgt": "«:o Mes:o poussins:n et:o moi:o mangerons:v cela:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 53,
+   "en": "So the hen ate the warm bread with her chicks.",
+   "tgt": "Alors:a la:o poule:n mangea:v le:o pain:n chaud:a avec:o ses:o poussins:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "The bread tasted sweet.",
+   "tgt": "Le:o pain:n avait:v un:o goût:n sucré:a .:o"
+  },
+  {
+   "n": 55,
+   "en": "The chicks pecked every crumb from the plate.",
+   "tgt": "Les:o poussins:n picorèrent:v chaque:o miette:n de:o l':o assiette:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The cat, dog, and pig walked away hungry.",
+   "tgt": "Le:o chat:n ,:o le:o chien:n ,:o et:o le:o cochon:n partirent:v affamés:a .:o"
+  }
+ ]
+}

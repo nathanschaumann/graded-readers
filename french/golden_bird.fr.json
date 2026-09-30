@@ -1,0 +1,1477 @@
+{
+ "slug": "golden_bird",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Golden Apple Tree",
+   "en": "In the king's garden stood a tree of golden apples.",
+   "tgt": "Dans:o le:o jardin:n du:o roi:n se:o dressait:v un:o arbre:n aux:o pommes:n d':o or:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Every night, the thief took one golden apple from the tree.",
+   "tgt": "Chaque:o nuit:n ,:o le:o voleur:n prit:v une:o pomme:n dorée:a dans:o l':o arbre:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Each morning, the king counted his golden apples.",
+   "tgt": "Chaque:o matin:n ,:o le:o roi:n compta:v ses:o pommes:n dorées:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "One morning, an apple was gone.",
+   "tgt": "Un:o matin:n ,:o une:o pomme:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 5,
+   "en": "The king called his three sons into the garden.",
+   "tgt": "Le:o roi:n appela:v ses:o trois:o fils:n dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "King: A thief takes an apple from my tree every night.",
+   "tgt": "Roi:o ::o Un:o voleur:n prend:v une:o pomme:n de:o mon:o arbre:n chaque:o nuit:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "King: One of my sons must watch the tree tonight.",
+   "tgt": "Roi:o ::o L':o un:o de:o mes:o fils:n doit:v surveiller:v l':o arbre:n cette:o nuit:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Eldest: Father, I am the eldest son.",
+   "tgt": "Aîné:o ::o Père:n ,:o je:o suis:v le:o fils:n aîné:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "Eldest: I will watch the tree tonight.",
+   "tgt": "Aîné:o ::o Je:o surveillerai:v l':o arbre:n cette:o nuit:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "King: Good.",
+   "tgt": "Roi:o ::o Bien:a .:o"
+  },
+  {
+   "n": 11,
+   "en": "King: Come and wake me if you see the thief.",
+   "tgt": "Roi:o ::o Venez:v me:o réveiller:v si:o vous:o voyez:v le:o voleur:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "Second: Father, I will watch the tree too.",
+   "tgt": "Deuxième:o ::o Père:n ,:o je:o surveillerai:v l':o arbre:n aussi:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "King: Tonight your brother will watch, and you will watch tomorrow.",
+   "tgt": "Roi:o «:o Cette:o nuit:n ton:o frère:n va:v monter:v la:o garde:n ,:o et:o tu:o monteras:v la:o garde:n demain:a .:o »:o"
+  },
+  {
+   "n": 14,
+   "en": "Night came, and the eldest son sat under the tree.",
+   "tgt": "La:o nuit:n tomba:v ,:o et:o le:o fils:n aîné:a s':o assit:v sous:o l':o arbre:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He watched the tree, and he waited for the thief.",
+   "tgt": "Il:o surveilla:v l':o arbre:n ,:o et:o il:o attendit:v le:o voleur:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "He watched, but no thief came.",
+   "tgt": "Il:o surveilla:v ,:o mais:o aucun:o voleur:n ne:o vint:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "At midnight, he grew tired, and he fell asleep.",
+   "tgt": "À:o minuit:n ,:o il:o eut:v sommeil:n ,:o et:o il:o s':o endormit:v .:o"
+  },
+  {
+   "n": 18,
+   "en": "In the morning, another golden apple was gone.",
+   "tgt": "Le:o matin:n ,:o une:o autre:a pomme:n dorée:a avait:v disparu:v .:o"
+  },
+  {
+   "n": 19,
+   "chapter": "Two Failed Nights",
+   "en": "King: You fell asleep, and the thief came again.",
+   "tgt": "Roi:o «:o Tu:o t':o es:v endormi:v ,:o et:o le:o voleur:n est:v venu:v encore:a .:o »:o"
+  },
+  {
+   "n": 20,
+   "en": "Eldest: I am sorry, Father.",
+   "tgt": "Aîné:o «:o Je:o suis:v désolé:a ,:o Père:o .:o »:o"
+  },
+  {
+   "n": 21,
+   "en": "Second: Father, let me watch the tree tonight.",
+   "tgt": "Deuxième:o «:o Père:o ,:o laisse:v -moi:o surveiller:v l':o arbre:n cette:o nuit:n .:o »:o"
+  },
+  {
+   "n": 22,
+   "en": "King: Do not fall asleep like your brother.",
+   "tgt": "Roi:o «:o Ne:o t':o endors:v pas:o comme:o ton:o frère:n .:o »:o"
+  },
+  {
+   "n": 23,
+   "en": "Night came again, and the second son sat under the tree.",
+   "tgt": "La:o nuit:n tomba:v encore:a ,:o et:o le:o deuxième:a fils:n s':o assit:v sous:o l':o arbre:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "He watched the tree, and he waited for the thief.",
+   "tgt": "Il:o surveilla:v l':o arbre:n ,:o et:o il:o attendit:v le:o voleur:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He watched, but no thief came.",
+   "tgt": "Il:o regarda:v ,:o mais:o aucun:o voleur:n ne:o vint:v .:o"
+  },
+  {
+   "n": 26,
+   "en": "Near midnight, he grew tired, and he fell asleep.",
+   "tgt": "Vers:o minuit:n ,:o il:o se:o sentit:v fatigué:a ,:o et:o il:o s':o endormit:v .:o"
+  },
+  {
+   "n": 27,
+   "en": "In the morning, another golden apple was gone.",
+   "tgt": "Le:o matin:n ,:o une:o autre:a pomme:n d':o or:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 28,
+   "en": "King: Both of my elder sons have failed me, and I am worried.",
+   "tgt": "Le:o roi:n ::o Mes:o deux:o fils:n aînés:a m':o ont:v déçu:v ,:o et:o je:o suis:v inquiet:a .:o"
+  },
+  {
+   "n": 29,
+   "en": "Youngest: Father, let me watch the tree tonight.",
+   "tgt": "Le:o plus:o jeune:a ::o Père:n ,:o laissez:v -moi:o surveiller:v l':o arbre:n ce:o soir:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Eldest: You will fail like your brothers.",
+   "tgt": "L':o aîné:n ::o Tu:o échoueras:v comme:o tes:o frères:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "King: Let him try.",
+   "tgt": "Le:o roi:n ::o Laissez:v -le:o essayer:v .:o"
+  },
+  {
+   "n": 32,
+   "en": "King: He may do better than both of you.",
+   "tgt": "Le:o roi:n ::o Il:o peut:v faire:v mieux:a que:o vous:o deux:o .:o"
+  },
+  {
+   "n": 33,
+   "chapter": "The Youngest Son's Watch",
+   "en": "That night, the youngest son sat under the golden tree.",
+   "tgt": "Cette:o nuit:n -là:o ,:o le:o fils:n cadet:a s':o assit:v sous:o l':o arbre:n d':o or:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "He did not fall asleep this time.",
+   "tgt": "Il:o ne:o s':o endormit:v pas:o cette:o fois:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "He watched the tree closely, and he waited for the thief.",
+   "tgt": "Il:o surveilla:v l':o arbre:n attentivement:a ,:o et:o il:o attendit:v le:o voleur:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "He watched, but no thief came.",
+   "tgt": "Il:o regarda:v ,:o mais:o aucun:o voleur:n ne:o vint:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "Near midnight, a golden bird came to the tree.",
+   "tgt": "Vers:o minuit:n ,:o un:o oiseau:n doré:a vint:v à:o l':o arbre:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "The bird took an apple from the tree.",
+   "tgt": "L':o oiseau:n prit:v une:o pomme:n dans:o l':o arbre:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The youngest son shot at the golden bird.",
+   "tgt": "Le:o fils:n cadet:a tira:v sur:o l':o oiseau:n doré:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "He only won one feather, and the bird flew away.",
+   "tgt": "Il:o ne:o gagna:v qu':o une:o plume:n ,:o et:o l':o oiseau:n s':o envola:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "In the morning, the youngest son brought the feather to the king.",
+   "tgt": "Le:o matin:n ,:o le:o fils:n cadet:a apporta:v la:o plume:n au:o roi:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Youngest: Father, I saw a golden bird take the apple.",
+   "tgt": "Cadet:o .:o «:o Père:n ,:o j':o ai:v vu:v un:o oiseau:n doré:a prendre:v la:o pomme:n .:o »:o"
+  },
+  {
+   "n": 43,
+   "en": "Youngest: I could not catch it, but here is a feather.",
+   "tgt": "Cadet:o .:o «:o Je:o ne:o pus:v pas:o l':o attraper:v ,:o mais:o voici:v une:o plume:n .:o »:o"
+  },
+  {
+   "n": 44,
+   "en": "The king held the feather and looked at it closely.",
+   "tgt": "Le:o roi:n tint:v la:o plume:n et:o la:o regarda:v de:o près:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "King: I must have the golden bird.",
+   "tgt": "Roi:o .:o «:o Je:o dois:v avoir:v l':o oiseau:n doré:a .:o »:o"
+  },
+  {
+   "n": 46,
+   "en": "King: My eldest son will go and find this golden bird.",
+   "tgt": "Roi:o .:o «:o Mon:o fils:n aîné:a ira:v trouver:v cet:o oiseau:n doré:a .:o »:o"
+  },
+  {
+   "n": 47,
+   "chapter": "The Fox and the Two Brothers",
+   "en": "The eldest son rode out to find the golden bird.",
+   "tgt": "Le:o fils:n aîné:a partit:v à:o cheval:n pour:o trouver:v l':o oiseau:n doré:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "At the edge of a forest, a fox stepped onto the road.",
+   "tgt": "Au:o bord:n d':o une:o forêt:n ,:o un:o renard:n s':o avança:v sur:o la:o route:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "Fox: Where are you going in a hurry?",
+   "tgt": "«:o Renard:o »:o ::o Où:o allez:v -vous:o en:o toute:o hâte:n ?:o"
+  },
+  {
+   "n": 50,
+   "en": "Eldest: I do not need your help, fox.",
+   "tgt": "«:o Aîné:o »:o ::o Je:o n':o ai:v pas:o besoin:n de:o ton:o aide:n ,:o renard:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "Fox: Listen to me, and I will help you.",
+   "tgt": "«:o Renard:o »:o ::o Écoute:v -moi:o ,:o et:o je:o t':o aiderai:v .:o"
+  },
+  {
+   "n": 52,
+   "en": "Fox: Tonight you will find two inns in a village.",
+   "tgt": "«:o Renard:o »:o ::o Ce:o soir:n ,:o tu:o trouveras:v deux:o auberges:n dans:o un:o village:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Fox: Stay at the poor inn, not the fine one.",
+   "tgt": "«:o Renard:o »:o ::o Reste:v à:o l':o auberge:n pauvre:a ,:o pas:o la:o belle:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "Eldest: I do not need advice from an animal.",
+   "tgt": "«:o Aîné:o »:o ::o Je:o n':o ai:v pas:o besoin:n de:o conseils:n d':o un:o animal:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "The eldest son rode on and forgot the fox.",
+   "tgt": "Le:o fils:n aîné:a continua:v sa:o route:n et:o oublia:v le:o renard:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "That night, he came to the village with two inns.",
+   "tgt": "Ce:o soir-là:a ,:o il:o arriva:v au:o village:n avec:o deux:o auberges:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Loud music came from the fine inn.",
+   "tgt": "De:o la:o musique:n forte:a venait:v de:o la:o belle:a auberge:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The eldest son went inside and forgot his father's bird.",
+   "tgt": "Le:o fils:n aîné:a entra:v et:o oublia:v l':o oiseau:n de:o son:o père:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "Days passed, and the eldest son did not come home.",
+   "tgt": "Les:o jours:n passèrent:v ,:o et:o le:o fils:n aîné:a ne:o rentra:v pas:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "King: My eldest son has not come home.",
+   "tgt": "«:o Roi:o »:o ::o Mon:o fils:n aîné:a n':o est:v pas:o rentré:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "King: My second son must go and find the bird now.",
+   "tgt": "Mon:o deuxième:a fils:n doit:v partir:v maintenant:a pour:o trouver:v l':o oiseau:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The second son rode out on the same forest road.",
+   "tgt": "Le:o deuxième:a fils:n prit:v la:o même:a route:n forestière:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "The same fox stepped onto the road before him.",
+   "tgt": "Le:o même:a renard:n s':o avança:v sur:o la:o route:n devant:o lui:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "Fox: Stay at the poor inn, not the fine one.",
+   "tgt": "Reste:v à:o la:o pauvre:a auberge:n ,:o pas:o à:o la:o belle:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "Second: I do not need advice from an animal.",
+   "tgt": "Je:o n':o ai:v pas:o besoin:n de:o conseils:n d':o un:o animal:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The second son also went into the fine inn.",
+   "tgt": "Le:o deuxième:a fils:n entra:v lui:o aussi:a dans:o la:o belle:a auberge:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Days passed, and the second son forgot the golden bird too.",
+   "tgt": "Les:o jours:n passèrent:v ,:o et:o le:o deuxième:a fils:n oublia:v lui:o aussi:a l':o oiseau:n d':o or:n .:o"
+  },
+  {
+   "n": 68,
+   "chapter": "The Youngest Son Meets the Fox",
+   "en": "King: Both of my elder sons are gone.",
+   "tgt": "Mes:o deux:o fils:n aînés:a ont:v disparu:v .:o"
+  },
+  {
+   "n": 69,
+   "en": "Youngest: Father, let me find the golden bird.",
+   "tgt": "Père:n ,:o laisse:v -moi:o trouver:v l':o oiseau:n d':o or:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The youngest son rode out on the forest road.",
+   "tgt": "Le:o fils:n cadet:a prit:v la:o route:n forestière:a .:o"
+  },
+  {
+   "n": 71,
+   "en": "The fox came onto the road before him.",
+   "tgt": "Le:o renard:n s':o avança:v sur:o la:o route:n devant:o lui:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "Fox: Where are you going in a hurry?",
+   "tgt": "Où:a vas:v -tu:o si:a vite:a ?:o"
+  },
+  {
+   "n": 73,
+   "en": "Youngest: I look for a golden bird, fox.",
+   "tgt": "Je:o cherche:v un:o oiseau:n d':o or:n ,:o renard:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "Fox: I know where the golden bird is.",
+   "tgt": "Je:o sais:v où:o se:o trouve:v l':o oiseau:n d':o or:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Youngest: Fox, will you help me?",
+   "tgt": "Renard:n ,:o vas:v -tu:o m':o aider:v ?:o"
+  },
+  {
+   "n": 76,
+   "en": "Fox: I will help you if you listen to me.",
+   "tgt": "Je:o t':o aiderai:v si:o tu:o m':o écoutes:v .:o"
+  },
+  {
+   "n": 77,
+   "en": "Youngest: I promise to listen to you, fox.",
+   "tgt": "Je:o promets:v de:o t':o écouter:v ,:o renard:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "Fox: Tonight you will find two inns in a village.",
+   "tgt": "Ce:o soir:n ,:o tu:o trouveras:v deux:o auberges:n dans:o un:o village:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "Fox: Stay at the poor inn, not the fine one.",
+   "tgt": "Reste:v à:o la:o pauvre:a auberge:n ,:o pas:o à:o la:o belle:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "Youngest: I will do as you say, fox.",
+   "tgt": "Je:o ferai:v ce:o que:o tu:o dis:v ,:o renard:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "That night, he came to the village.",
+   "tgt": "Cette:o nuit-là:n ,:o il:o arriva:v au:o village:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Loud music came from the fine inn.",
+   "tgt": "De:o la:o belle:a auberge:n venait:v une:o musique:n bruyante:a .:o"
+  },
+  {
+   "n": 83,
+   "en": "But the youngest son walked to the poor inn.",
+   "tgt": "Mais:o le:o fils:n cadet:a marcha:v vers:o la:o pauvre:a auberge:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "He slept at the poor inn that night.",
+   "tgt": "Il:o dormit:v à:o la:o pauvre:a auberge:n cette:o nuit-là:n .:o"
+  },
+  {
+   "n": 85,
+   "chapter": "The Golden Cage",
+   "en": "In the morning, the fox stood on the road.",
+   "tgt": "Le:o matin:n ,:o le:o renard:n se:o tenait:v sur:o la:o route:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "Fox: Today you will come to a castle.",
+   "tgt": "Renard:o ::o «:o Aujourd'hui:a tu:o viendras:v à:o un:o château:n .:o »:o"
+  },
+  {
+   "n": 87,
+   "en": "Fox: A golden bird sits in a wooden cage.",
+   "tgt": "Renard:o ::o «:o Un:o oiseau:n doré:a est:v assis:v dans:o une:o cage:n en:o bois:n .:o »:o"
+  },
+  {
+   "n": 88,
+   "en": "Fox: Take the bird, but take the wooden cage too.",
+   "tgt": "Renard:o ::o «:o Prends:v l':o oiseau:n ,:o mais:o prends:v aussi:a la:o cage:n en:o bois:n .:o »:o"
+  },
+  {
+   "n": 89,
+   "en": "Fox: Do not put the bird in the golden cage beside it.",
+   "tgt": "Renard:o ::o «:o Ne:o mets:v pas:o l':o oiseau:n dans:o la:o cage:n dorée:a à:o côté:n .:o »:o"
+  },
+  {
+   "n": 90,
+   "en": "Youngest: I will take the wooden cage, fox.",
+   "tgt": "Cadet:o ::o «:o Je:o prendrai:v la:o cage:n en:o bois:n ,:o renard:n .:o »:o"
+  },
+  {
+   "n": 91,
+   "en": "The youngest son came to the castle that night.",
+   "tgt": "Le:o fils:n cadet:a arriva:v au:o château:n cette:o nuit-là:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "He found the golden bird in its wooden cage.",
+   "tgt": "Il:o trouva:v l':o oiseau:n doré:a dans:o sa:o cage:n en:o bois:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "A golden cage stood on the wall beside it.",
+   "tgt": "Une:o cage:n dorée:a se:o trouvait:v sur:o le:o mur:n à:o côté:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "He thought the bird looked poor in the plain cage.",
+   "tgt": "Il:o pensa:v que:o l':o oiseau:n avait:v l':o air:n pauvre:a dans:o la:o cage:n simple:a .:o"
+  },
+  {
+   "n": 95,
+   "en": "He opened the golden cage and put the bird inside it.",
+   "tgt": "Il:o ouvrit:v la:o cage:n dorée:a et:o mit:v l':o oiseau:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The golden bird gave a loud cry.",
+   "tgt": "L':o oiseau:n doré:a poussa:v un:o cri:n fort:a .:o"
+  },
+  {
+   "n": 97,
+   "en": "Guards ran into the castle and caught the youngest son.",
+   "tgt": "Les:o gardes:n coururent:v dans:o le:o château:n et:o attrapèrent:v le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 98,
+   "en": "Bird King: Why did you try to steal my bird?",
+   "tgt": "Roi:n des:o Oiseaux:o ::o Pourquoi:o avez-vous:v essayé:v de:o voler:v mon:o oiseau:n ?:o"
+  },
+  {
+   "n": 99,
+   "en": "Youngest: I wanted to bring it to my father.",
+   "tgt": "Cadet:o ::o Je:o voulais:v l':o apporter:v à:o mon:o père:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Bird King: I will spare your life for a promise.",
+   "tgt": "Roi:n des:o Oiseaux:o ::o Je:o vais:v épargner:v votre:o vie:n pour:o une:o promesse:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Bird King: Bring me the golden horse, and you may have the bird.",
+   "tgt": "Roi:n des:o Oiseaux:o ::o Apportez-moi:v le:o cheval:n d':o or:n ,:o et:o vous:o pourrez:v avoir:v l':o oiseau:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "The youngest son agreed, and the guards let him go.",
+   "tgt": "Le:o fils:n cadet:a accepta:v ,:o et:o les:o gardes:n le:o laissèrent:v partir:v .:o"
+  },
+  {
+   "n": 103,
+   "chapter": "The Golden Saddle",
+   "en": "The youngest son left the castle without the bird.",
+   "tgt": "Le:o fils:n cadet:a quitta:v le:o château:n sans:o l':o oiseau:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "The fox stood on the road again.",
+   "tgt": "Le:o renard:n se:o tenait:v de:o nouveau:a sur:o la:o route:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "Fox: You did not listen to me.",
+   "tgt": "Renard:o ::o Vous:o ne:o m':o avez:v pas:o écouté:v .:o"
+  },
+  {
+   "n": 106,
+   "en": "Youngest: I am sorry, fox.",
+   "tgt": "Cadet:o ::o Je:o suis:v désolé:a ,:o renard:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "Youngest: I will listen now.",
+   "tgt": "Cadet:o ::o Je:o vais:v écouter:v maintenant:a .:o"
+  },
+  {
+   "n": 108,
+   "en": "Fox: I will forgive you and help you again.",
+   "tgt": "Renard:o ::o Je:o vais:v vous:o pardonner:v et:o vous:o aider:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 109,
+   "en": "Fox: Today you will come to a castle.",
+   "tgt": "Fox:o «:o Aujourd'hui:a tu:o viendras:v à:o un:o château:n .:o »:o"
+  },
+  {
+   "n": 110,
+   "en": "Fox: A golden horse stands with an old saddle.",
+   "tgt": "Fox:o «:o Un:o cheval:n d':o or:n se:o trouve:v avec:o une:o vieille:a selle:n .:o »:o"
+  },
+  {
+   "n": 111,
+   "en": "Fox: Take the horse, but use the old saddle.",
+   "tgt": "Fox:o «:o Prends:v le:o cheval:n ,:o mais:o utilise:v la:o vieille:a selle:n .:o »:o"
+  },
+  {
+   "n": 112,
+   "en": "Fox: Do not put the golden saddle on the horse.",
+   "tgt": "Fox:o «:o Ne:o mets:v pas:o la:o selle:n d':o or:n sur:o le:o cheval:n .:o »:o"
+  },
+  {
+   "n": 113,
+   "en": "Youngest: I will use the old saddle, fox.",
+   "tgt": "Youngest:o «:o J':o utiliserai:v la:o vieille:a selle:n ,:o renard:n .:o »:o"
+  },
+  {
+   "n": 114,
+   "en": "The youngest son came to the castle that night.",
+   "tgt": "Le:o fils:n cadet:a arriva:v au:o château:n cette:o nuit-là:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "He found the golden horse in the castle.",
+   "tgt": "Il:o trouva:v le:o cheval:n d':o or:n dans:o le:o château:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "A golden saddle stood on the wall.",
+   "tgt": "Une:o selle:n d':o or:n se:o trouvait:v sur:o le:o mur:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "He thought the horse looked poor in the old saddle.",
+   "tgt": "Il:o pensa:v que:o le:o cheval:n avait:v l':o air:n pauvre:a avec:o la:o vieille:a selle:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "He put the golden saddle on the horse.",
+   "tgt": "Il:o mit:v la:o selle:n d':o or:n sur:o le:o cheval:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "The golden horse gave a loud cry.",
+   "tgt": "Le:o cheval:n d':o or:n poussa:v un:o cri:n fort:a .:o"
+  },
+  {
+   "n": 120,
+   "en": "Guards ran into the castle and caught the youngest son.",
+   "tgt": "Des:o gardes:n coururent:v dans:o le:o château:n et:o attrapèrent:v le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 121,
+   "en": "Horse King: Why did you try to steal my horse?",
+   "tgt": "«:o Roi:n des:o Chevaux:n ::o Pourquoi:o avez-vous:v essayé:v de:o voler:v mon:o cheval:n ?:o »:o"
+  },
+  {
+   "n": 122,
+   "en": "Youngest: I wanted the horse for my father.",
+   "tgt": "«:o Le:o plus:o jeune:a ::o Je:o voulais:v le:o cheval:n pour:o mon:o père:n .:o »:o"
+  },
+  {
+   "n": 123,
+   "en": "Horse King: I will spare your life for a promise.",
+   "tgt": "«:o Roi:n des:o Chevaux:n ::o Je:o vais:v épargner:v votre:o vie:n pour:o une:o promesse:n .:o »:o"
+  },
+  {
+   "n": 124,
+   "en": "Horse King: Bring me the golden princess, and you may have the horse.",
+   "tgt": "«:o Roi:n des:o Chevaux:n ::o Amenez-moi:v la:o princesse:n dorée:a ,:o et:o vous:o pourrez:v avoir:v le:o cheval:n .:o »:o"
+  },
+  {
+   "n": 125,
+   "en": "The youngest son agreed, and the guards let him go.",
+   "tgt": "Le:o fils:n le:o plus:o jeune:a accepta:v ,:o et:o les:o gardes:n le:o laissèrent:v partir:v .:o"
+  },
+  {
+   "n": 126,
+   "chapter": "The Golden Princess",
+   "en": "The youngest son left the castle without the horse.",
+   "tgt": "Le:o fils:n le:o plus:o jeune:a quitta:v le:o château:n sans:o le:o cheval:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "The fox stood on the road again.",
+   "tgt": "Le:o renard:n se:o trouva:v de:o nouveau:a sur:o la:o route:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "Fox: You did not listen to me.",
+   "tgt": "«:o Renard:n ::o Vous:o ne:o m':o avez:v pas:o écouté:v .:o »:o"
+  },
+  {
+   "n": 129,
+   "en": "Youngest: I am sorry, fox.",
+   "tgt": "«:o Le:o plus:o jeune:a ::o Je:o suis:v désolé:a ,:o renard:n .:o »:o"
+  },
+  {
+   "n": 130,
+   "en": "Youngest: I will listen now.",
+   "tgt": "«:o Le:o plus:o jeune:a ::o Je:o vais:v écouter:v maintenant:a .:o »:o"
+  },
+  {
+   "n": 131,
+   "en": "Fox: I will forgive you and help you again.",
+   "tgt": "«:o Renard:n ::o Je:o vais:v vous:o pardonner:v et:o vous:o aider:v de:o nouveau:a .:o »:o"
+  },
+  {
+   "n": 132,
+   "en": "Fox: Tonight the golden princess will come to the garden.",
+   "tgt": "«:o Renard:n ::o Ce:o soir:n ,:o la:o princesse:n dorée:a viendra:v dans:o le:o jardin:n .:o »:o"
+  },
+  {
+   "n": 133,
+   "en": "Fox: Take her hand, and she will come with you.",
+   "tgt": "Fox:o ::o Prends:v lui:o la:o main:n ,:o et:o elle:o viendra:v avec:o toi:o .:o"
+  },
+  {
+   "n": 134,
+   "en": "Fox: Do not let her say goodbye to her father.",
+   "tgt": "Fox:o ::o Ne:o la:o laisse:v pas:o dire:v au-revoir:a à:o son:o père:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "Youngest: I will not let her say goodbye, fox.",
+   "tgt": "Youngest:o ::o Je:o ne:o la:o laisserai:v pas:o dire:v au-revoir:a ,:o renard:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "That night, the youngest son took the princess's hand.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o fils:n le:o plus:o jeune:a prit:v la:o main:n de:o la:o princesse:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "Princess: Where are you taking me?",
+   "tgt": "Princess:o ::o Où:o m':o emmenez:v -vous:o ?:o"
+  },
+  {
+   "n": 138,
+   "en": "Youngest: I must bring you to a castle.",
+   "tgt": "Youngest:o ::o Je:o dois:v vous:o amener:v à:o un:o château:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "Princess: Let me say goodbye to my father.",
+   "tgt": "Princess:o ::o Laissez:v -moi:o dire:v au-revoir:a à:o mon:o père:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "Youngest: The fox told me not to let you do that.",
+   "tgt": "Youngest:o ::o Le:o renard:n m':o a:v dit:v de:o ne:o pas:o vous:o laisser:v faire:v cela:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "Her tears were enough, and he let her say goodbye.",
+   "tgt": "Ses:o larmes:n suffirent:v ,:o et:o il:o la:o laissa:v dire:v au-revoir:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "Her father woke and ran to the gate.",
+   "tgt": "Son:o père:n se:o réveilla:v et:o courut:v vers:o la:o grille:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "Guards ran out and caught the youngest son at the gate.",
+   "tgt": "Des:o gardes:n sortirent:v en:o courant:v et:o attrapèrent:v le:o fils:n le:o plus:o jeune:a à:o la:o grille:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "Golden King: Why are you taking my daughter away?",
+   "tgt": "Golden:o King:o ::o Pourquoi:o emmenez:v -vous:o ma:o fille:n loin:a d':o ici:a ?:o"
+  },
+  {
+   "n": 145,
+   "en": "Youngest: I am sorry.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Je:o suis:v désolé:a .:o »:o"
+  },
+  {
+   "n": 146,
+   "en": "Youngest: I only did what she asked.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Je:o n':o ai:v fait:v que:o ce:o qu':o elle:o a:v demandé:v .:o »:o"
+  },
+  {
+   "n": 147,
+   "en": "Golden King: You may have her if you pass one test.",
+   "tgt": "Roi:n d':o Or:o ::o «:o Vous:o pouvez:v l':o avoir:v si:o vous:o réussissez:v une:o épreuve:n .:o »:o"
+  },
+  {
+   "n": 148,
+   "chapter": "The Fox Levels the Hill",
+   "en": "Golden King: A hill stands outside my window.",
+   "tgt": "Roi:n d':o Or:o ::o «:o Une:o colline:n se:o trouve:v devant:o ma:o fenêtre:n .:o »:o"
+  },
+  {
+   "n": 149,
+   "en": "Golden King: Remove the hill in eight days, and you may take my daughter.",
+   "tgt": "Roi:n d':o Or:o ::o «:o Enlevez:v la:o colline:n en:o huit:o jours:n ,:o et:o vous:o pouvez:v prendre:v ma:o fille:n .:o »:o"
+  },
+  {
+   "n": 150,
+   "en": "The youngest son looked at the hill, afraid.",
+   "tgt": "Le:o fils:n le:o plus:o jeune:a regarda:v la:o colline:n ,:o effrayé:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "He left by the gate, afraid and alone.",
+   "tgt": "Il:o partit:v par:o la:o porte:n ,:o effrayé:a et:o seul:a .:o"
+  },
+  {
+   "n": 152,
+   "en": "The fox stood outside the gate.",
+   "tgt": "Le:o renard:n se:o tenait:v devant:o la:o porte:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "Fox: Why do you look so afraid, my friend?",
+   "tgt": "Renard:o ::o «:o Pourquoi:o avez-vous:v l':o air:n si:o effrayé:a ,:o mon:o ami:n ?:o »:o"
+  },
+  {
+   "n": 154,
+   "en": "Youngest: The king wants me to remove a hill.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Le:o roi:n veut:v que:o j':o enlève:v une:o colline:n .:o »:o"
+  },
+  {
+   "n": 155,
+   "en": "Fox: Go and rest.",
+   "tgt": "Renard:o ::o «:o Allez:v vous:o reposer:v .:o »:o"
+  },
+  {
+   "n": 156,
+   "en": "Fox: I will move the hill for you.",
+   "tgt": "Renard:o ::o «:o Je:o vais:v déplacer:v la:o colline:n pour:o vous:o .:o »:o"
+  },
+  {
+   "n": 157,
+   "en": "Youngest: I cannot move a hill alone.",
+   "tgt": "«:o Je:o ne:o peux:v pas:o déplacer:v une:o colline:n seul:a .:o »:o"
+  },
+  {
+   "n": 158,
+   "en": "Fox: Trust me, and rest tonight.",
+   "tgt": "«:o Fais:v -moi:o confiance:n ,:o et:o repose:v -toi:o ce:o soir:n .:o »:o"
+  },
+  {
+   "n": 159,
+   "en": "The youngest son ate and fell asleep.",
+   "tgt": "Le:o fils:n cadet:a mangea:v et:o s':o endormit:v .:o"
+  },
+  {
+   "n": 160,
+   "en": "That night, the fox called to foxes.",
+   "tgt": "Cette:o nuit-là:n ,:o le:o renard:n appela:v d':o autres:a renards:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "A thousand foxes came and dug at the hill.",
+   "tgt": "Mille:o renards:n vinrent:v et:o creusèrent:v la:o colline:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "By morning, the hill was gone.",
+   "tgt": "Au:o matin:n ,:o la:o colline:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 163,
+   "en": "Golden King: You have passed the test, as I promised.",
+   "tgt": "«:o Tu:o as:v réussi:v l':o épreuve:n ,:o comme:o je:o l':o avais:v promis:v .:o »:o"
+  },
+  {
+   "n": 164,
+   "en": "Golden King: Take my daughter.",
+   "tgt": "«:o Prends:v ma:o fille:n .:o »:o"
+  },
+  {
+   "n": 165,
+   "en": "The youngest son and the princess rode away.",
+   "tgt": "Le:o fils:n cadet:a et:o la:o princesse:n partirent:v à:o cheval:n .:o"
+  },
+  {
+   "n": 166,
+   "chapter": "The Fox's Two Tricks",
+   "en": "The fox rode along beside the princess and the youngest son.",
+   "tgt": "Le:o renard:n chevaucha:v aux:o côtés:n de:o la:o princesse:n et:o du:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 167,
+   "en": "Fox: We must visit the Horse King, as you promised him.",
+   "tgt": "«:o Nous:o devons:v rendre:v visite:n au:o Roi:o des:o Chevaux:o ,:o comme:o tu:o le:o lui:o as:v promis:v .:o »:o"
+  },
+  {
+   "n": 168,
+   "en": "Youngest: I promised him the princess for the golden horse.",
+   "tgt": "«:o Je:o lui:o ai:v promis:v la:o princesse:n contre:o le:o cheval:n d':o or:n .:o »:o"
+  },
+  {
+   "n": 169,
+   "en": "Fox: I will become the princess for one day.",
+   "tgt": "Renard:o ::o Je:o vais:v devenir:v la:o princesse:n pour:o un:o jour:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "The fox spoke a strange word and turned into a princess.",
+   "tgt": "Le:o renard:n prononça:v un:o mot:n étrange:a et:o se:o transforma:v en:o princesse:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "The real princess hid in a quiet cave and waited.",
+   "tgt": "La:o vraie:a princesse:n se:o cacha:v dans:o une:o grotte:n tranquille:a et:o attendit:v .:o"
+  },
+  {
+   "n": 172,
+   "en": "The youngest son brought the fox to the Horse King.",
+   "tgt": "Le:o fils:n cadet:a amena:v le:o renard:n au:o Roi:n des:o Chevaux:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The Horse King looked closely, but he saw no trick.",
+   "tgt": "Le:o Roi:n des:o Chevaux:n regarda:v attentivement:a ,:o mais:o il:o ne:o vit:v aucune:o ruse:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "Horse King: You kept your promise, so take the golden horse.",
+   "tgt": "Roi:o des:o Chevaux:n ::o Tu:o as:v tenu:v ta:o promesse:n ,:o alors:o prends:v le:o cheval:n doré:a .:o"
+  },
+  {
+   "n": 175,
+   "en": "The youngest son rode away on the golden horse.",
+   "tgt": "Le:o fils:n cadet:a s':o en:o alla:v à:o cheval:n sur:o le:o cheval:n doré:a .:o"
+  },
+  {
+   "n": 176,
+   "en": "That night, the fox changed back and found the princess.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o renard:n reprit:v sa:o forme:n et:o retrouva:v la:o princesse:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "Fox: Now we must visit the Bird King, as you promised him.",
+   "tgt": "Renard:o ::o Maintenant:a nous:o devons:v rendre:v visite:n au:o Roi:n des:o Oiseaux:n ,:o comme:o tu:o le:o lui:o as:v promis:v .:o"
+  },
+  {
+   "n": 178,
+   "en": "Youngest: I promised him the horse for the golden bird.",
+   "tgt": "Cadet:o ::o Je:o lui:o ai:v promis:v le:o cheval:n pour:o l':o oiseau:n doré:a .:o"
+  },
+  {
+   "n": 179,
+   "en": "Fox: This time, I will become the golden horse.",
+   "tgt": "Renard:o ::o Cette:o fois:n ,:o je:o vais:v devenir:v le:o cheval:n doré:a .:o"
+  },
+  {
+   "n": 180,
+   "en": "The real horse stayed safe near the princess.",
+   "tgt": "Le:o vrai:a cheval:n resta:v en:o sécurité:n près:o de:o la:o princesse:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "The fox spoke a strange word and turned into a horse.",
+   "tgt": "Le:o renard:n prononça:v un:o étrange:a mot:n et:o se:o transforma:v en:o cheval:n .:o"
+  },
+  {
+   "n": 182,
+   "en": "The youngest son brought the fox to the Bird King.",
+   "tgt": "Le:o fils:n cadet:a amena:v le:o renard:n au:o Bird:o King:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "The Bird King checked the horse but noticed nothing wrong.",
+   "tgt": "Le:o Bird:o King:o examina:v le:o cheval:n mais:o ne:o remarqua:v rien:o d':o anormal:a .:o"
+  },
+  {
+   "n": 184,
+   "en": "Bird King: You kept your promise, so take the golden bird.",
+   "tgt": "Bird:o King:o «:o Tu:o as:v tenu:v ta:o promesse:n ,:o alors:o prends:v l':o oiseau:n doré:a .:o »:o"
+  },
+  {
+   "n": 185,
+   "en": "That night, the fox slipped past the guards and ran.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o renard:n passa:v furtivement:a devant:o les:o gardes:n et:o s':o enfuit:v .:o"
+  },
+  {
+   "n": 186,
+   "en": "The fox changed back into itself, safe in the forest.",
+   "tgt": "Le:o renard:n reprit:v sa:o forme:n originale:a ,:o sain:a et:o sauf:a dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 187,
+   "en": "Youngest: Fox, you have saved me three times now.",
+   "tgt": "Cadet:n ,:o «:o Renard:n ,:o tu:o m':o as:v sauvé:v trois:o fois:n maintenant:a .:o »:o"
+  },
+  {
+   "n": 188,
+   "en": "Fox: We are not finished yet, my friend.",
+   "tgt": "Renard:n ,:o «:o Nous:o ne:o sommes:v pas:o encore:a finis:a ,:o mon:o ami:n .:o »:o"
+  },
+  {
+   "n": 189,
+   "chapter": "The Well",
+   "en": "The youngest son had the bird, the horse, and the princess.",
+   "tgt": "Le:o fils:n cadet:a avait:v l':o oiseau:n ,:o le:o cheval:n ,:o et:o la:o princesse:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "They rode home.",
+   "tgt": "Ils:o rentrèrent:v chez:o eux:o à:o cheval:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "Fox: Listen well now.",
+   "tgt": "Renard:n ,:o «:o Écoute:v bien:a maintenant:a .:o »:o"
+  },
+  {
+   "n": 192,
+   "en": "Fox: Do not pay to save a man.",
+   "tgt": "Renard:n ,:o «:o Ne:o paie:v pas:o pour:o sauver:v un:o homme:n .:o »:o"
+  },
+  {
+   "n": 193,
+   "en": "Fox: And never sit at the edge of a well.",
+   "tgt": "«:o Et:o ne:o t':o assieds:v jamais:o au:o bord:n d':o un:o puits:n .:o »:o"
+  },
+  {
+   "n": 194,
+   "en": "Youngest: I will listen, fox.",
+   "tgt": "«:o J':o écouterai:v ,:o renard:n .:o »:o"
+  },
+  {
+   "n": 195,
+   "en": "On the road, men stood to kill two prisoners.",
+   "tgt": "Sur:o la:o route:n ,:o des:o hommes:n se:o tenaient:v là:a pour:o tuer:v deux:o prisonniers:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "The youngest son looked and saw his brothers.",
+   "tgt": "Le:o fils:n cadet:a regarda:v et:o vit:v ses:o frères:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "Youngest: Do not kill these men.",
+   "tgt": "«:o Ne:o tuez:v pas:o ces:o hommes:n .:o »:o"
+  },
+  {
+   "n": 198,
+   "en": "Youngest: I will pay for them.",
+   "tgt": "«:o Je:o paierai:v pour:o eux:o .:o »:o"
+  },
+  {
+   "n": 199,
+   "en": "He gave gold, and his brothers were free.",
+   "tgt": "Il:o donna:v de:o l':o or:n ,:o et:o ses:o frères:n étaient:v libres:a .:o"
+  },
+  {
+   "n": 200,
+   "en": "Eldest: Thank you, brother.",
+   "tgt": "«:o Merci:n ,:o frère:n .:o »:o"
+  },
+  {
+   "n": 201,
+   "en": "Eldest: We are sorry for what we did.",
+   "tgt": "«:o Nous:o sommes:v désolés:a pour:o ce:o que:o nous:o avons:v fait:v .:o »:o"
+  },
+  {
+   "n": 202,
+   "en": "Second: We should have listened to the fox.",
+   "tgt": "«:o Nous:o aurions:v dû:v écouter:v le:o renard:n .:o »:o"
+  },
+  {
+   "n": 203,
+   "en": "The youngest son let his brothers ride with him.",
+   "tgt": "Le:o fils:n cadet:a laissa:v ses:o frères:n chevaucher:v avec:o lui:o .:o"
+  },
+  {
+   "n": 204,
+   "en": "The brothers rode on and thanked him again.",
+   "tgt": "Les:o frères:n continuèrent:v à:o cheval:n et:o le:o remercièrent:v encore:a .:o"
+  },
+  {
+   "n": 205,
+   "en": "That day, they came to a well.",
+   "tgt": "Ce:o jour-là:a ,:o ils:o arrivèrent:v à:o un:o puits:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "Tired, the youngest son sat at the edge of the well.",
+   "tgt": "Fatigué:a ,:o le:o fils:n cadet:a s':o assit:v au:o bord:n du:o puits:n .:o"
+  },
+  {
+   "n": 207,
+   "chapter": "Thrown Down the Well",
+   "en": "Eldest: Our brother has the bird, the horse, and the princess.",
+   "tgt": "L':o Aîné:n ,:o «:o Notre:o frère:n a:v l':o oiseau:n ,:o le:o cheval:n et:o la:o princesse:n .:o »:o"
+  },
+  {
+   "n": 208,
+   "en": "Second: Father will love him more than us.",
+   "tgt": "Le:o Second:n ,:o «:o Le:o père:n l':o aimera:v plus:a que:o nous:o .:o »:o"
+  },
+  {
+   "n": 209,
+   "en": "Eldest: We can take them for ourselves.",
+   "tgt": "L':o Aîné:n ,:o «:o Nous:o pouvons:v les:o prendre:v pour:o nous:o .:o »:o"
+  },
+  {
+   "n": 210,
+   "en": "The youngest son rested, and his brothers came near him.",
+   "tgt": "Le:o fils:n cadet:a se:o reposa:v ,:o et:o ses:o frères:n s':o approchèrent:v de:o lui:o .:o"
+  },
+  {
+   "n": 211,
+   "en": "They pushed him into the well.",
+   "tgt": "Ils:o le:o poussèrent:v dans:o le:o puits:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "The youngest son fell into the water.",
+   "tgt": "Le:o fils:n cadet:a tomba:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 213,
+   "en": "Eldest: Now we will bring the bird, horse, and princess home.",
+   "tgt": "L':o Aîné:n ,:o «:o Maintenant:a nous:o ramènerons:v l':o oiseau:n ,:o le:o cheval:n et:o la:o princesse:n à:o la:o maison:n .:o »:o"
+  },
+  {
+   "n": 214,
+   "en": "Second: We will tell Father that we won them.",
+   "tgt": "Le:o Second:n ,:o «:o Nous:o dirons:v au:o père:n que:o nous:o les:o avons:v gagnés:v .:o »:o"
+  },
+  {
+   "n": 215,
+   "en": "Princess: Where is the man that saved me?",
+   "tgt": "La:o Princesse:n ,:o «:o Où:a est:v l':o homme:n qui:o m':o a:v sauvée:v ?:o »:o"
+  },
+  {
+   "n": 216,
+   "en": "Eldest: He stayed away.",
+   "tgt": "L':o Aîné:n ,:o «:o Il:o est:v resté:v loin:a .:o »:o"
+  },
+  {
+   "n": 217,
+   "en": "Eldest: He will not come home.",
+   "tgt": "L':o Aîné:n ::o Il:o ne:o viendra:v pas:o à:o la:o maison:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "The princess did not believe the brothers.",
+   "tgt": "La:o princesse:n ne:o crut:v pas:o les:o frères:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "Princess: I will not speak until he comes back.",
+   "tgt": "La:o princesse:n ::o Je:o ne:o parlerai:v pas:o jusqu':o à:o ce:o qu':o il:o revienne:v .:o"
+  },
+  {
+   "n": 220,
+   "en": "The horse did not eat, and the bird did not sing.",
+   "tgt": "Le:o cheval:n ne:o mangea:v pas:o ,:o et:o l':o oiseau:n ne:o chanta:v pas:o .:o"
+  },
+  {
+   "n": 221,
+   "en": "The brothers brought the horse, bird, and princess to the king.",
+   "tgt": "Les:o frères:n amenèrent:v le:o cheval:n ,:o l':o oiseau:n et:o la:o princesse:n au:o roi:n .:o"
+  },
+  {
+   "n": 222,
+   "en": "King: My sons are home!",
+   "tgt": "Le:o roi:n ::o Mes:o fils:n sont:v à:o la:o maison:n !:o"
+  },
+  {
+   "n": 223,
+   "en": "King: Where is your brother?",
+   "tgt": "Le:o roi:n ::o Où:o est:v votre:o frère:n ?:o"
+  },
+  {
+   "n": 224,
+   "en": "Eldest: He stayed away.",
+   "tgt": "L':o Aîné:n ::o Il:o resta:v loin:a .:o"
+  },
+  {
+   "n": 225,
+   "en": "The king did not believe them.",
+   "tgt": "Le:o roi:n ne:o les:o crut:v pas:o .:o"
+  },
+  {
+   "n": 226,
+   "chapter": "The Fox Saves Him",
+   "en": "In the well, the youngest son called for help.",
+   "tgt": "Dans:o le:o puits:n ,:o le:o fils:n le:o plus:a jeune:a appela:v à:o l':o aide:n .:o"
+  },
+  {
+   "n": 227,
+   "en": "He called out, and the fox heard him.",
+   "tgt": "Il:o cria:v ,:o et:o le:o renard:n l':o entendit:v .:o"
+  },
+  {
+   "n": 228,
+   "en": "Fox: I will save you.",
+   "tgt": "Le:o renard:n ::o Je:o te:o sauverai:v .:o"
+  },
+  {
+   "n": 229,
+   "en": "The fox went to find help from the animals.",
+   "tgt": "Le:o renard:n alla:v chercher:v de:o l':o aide:n auprès:o des:o animaux:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Animals came and pulled him out of the well.",
+   "tgt": "Des:o animaux:n vinrent:v et:o le:o tirèrent:v hors:o du:o puits:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "Youngest: Thank you, fox.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Merci:n ,:o renard:n .:o »:o"
+  },
+  {
+   "n": 232,
+   "en": "Fox: Your brothers pushed you in and took the bird, horse, and princess.",
+   "tgt": "Le:o renard:n ::o «:o Tes:o frères:n t':o ont:v poussé:v dans:o le:o puits:n et:o ont:v pris:v l':o oiseau:n ,:o le:o cheval:n et:o la:o princesse:n .:o »:o"
+  },
+  {
+   "n": 233,
+   "en": "Youngest: I cannot believe my brothers did this to me.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Je:o ne:o peux:v pas:o croire:v que:o mes:o frères:n m':o ont:v fait:v cela:o .:o »:o"
+  },
+  {
+   "n": 234,
+   "en": "Fox: Now they have your bird, horse, and princess.",
+   "tgt": "Le:o renard:n ::o «:o Maintenant:a ils:o ont:v ton:o oiseau:n ,:o ton:o cheval:n et:o ta:o princesse:n .:o »:o"
+  },
+  {
+   "n": 235,
+   "en": "Youngest: I must go home and tell the king the truth.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Je:o dois:v rentrer:v chez:o moi:o et:o dire:v la:o vérité:n au:o roi:n .:o »:o"
+  },
+  {
+   "n": 236,
+   "en": "Fox: Do not go home like this.",
+   "tgt": "Le:o renard:n ::o «:o Ne:o rentre:v pas:o chez:o toi:o ainsi:a .:o »:o"
+  },
+  {
+   "n": 237,
+   "en": "Fox: Wear old clothes.",
+   "tgt": "Le:o renard:n ::o «:o Porte:v de:o vieux:a vêtements:n .:o »:o"
+  },
+  {
+   "n": 238,
+   "en": "Fox: The princess, the horse, and the bird will know you.",
+   "tgt": "Le:o renard:n ::o «:o La:o princesse:n ,:o le:o cheval:n et:o l':o oiseau:n te:o reconnaîtront:v .:o »:o"
+  },
+  {
+   "n": 239,
+   "en": "Fox: They will not eat, sing, or speak until they see you.",
+   "tgt": "Le:o renard:n ::o «:o Ils:o ne:o mangeront:v pas:o ,:o ne:o chanteront:v pas:o ,:o ni:o ne:o parleront:v pas:o avant:o de:o te:o voir:v .:o »:o"
+  },
+  {
+   "n": 240,
+   "en": "Youngest: I will go to my father's castle now.",
+   "tgt": "Le:o plus:o jeune:a ::o «:o Je:o vais:v aller:v au:o château:n de:o mon:o père:n maintenant:a .:o »:o"
+  },
+  {
+   "n": 241,
+   "chapter": "The Truth Comes Out",
+   "en": "The youngest son walked to his father's castle in old clothes.",
+   "tgt": "Le:o fils:n cadet:a marcha:v vers:o le:o château:n de:o son:o père:n en:o vieux:a vêtements:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "The horse still did not eat.",
+   "tgt": "Le:o cheval:n ne:o mangea:v toujours:a pas:o .:o"
+  },
+  {
+   "n": 243,
+   "en": "The golden bird still did not sing.",
+   "tgt": "L':o oiseau:n d':o or:n ne:o chanta:v toujours:a pas:o .:o"
+  },
+  {
+   "n": 244,
+   "en": "The princess still did not speak.",
+   "tgt": "La:o princesse:n ne:o parla:v toujours:a pas:o .:o"
+  },
+  {
+   "n": 245,
+   "en": "The poor man walked into the castle.",
+   "tgt": "Le:o pauvre:a homme:n marcha:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "The horse began to eat.",
+   "tgt": "Le:o cheval:n commença:v à:o manger:v .:o"
+  },
+  {
+   "n": 247,
+   "en": "The bird began to sing.",
+   "tgt": "L':o oiseau:n commença:v à:o chanter:v .:o"
+  },
+  {
+   "n": 248,
+   "en": "Princess: That is him!",
+   "tgt": "«:o C':o est:v lui:o !:o »:o"
+  },
+  {
+   "n": 249,
+   "en": "Princess: That is the man that saved me.",
+   "tgt": "«:o C':o est:v l':o homme:n qui:o m':o a:v sauvée:v .:o »:o"
+  },
+  {
+   "n": 250,
+   "en": "King: This poor man cannot be my youngest son.",
+   "tgt": "«:o Ce:o pauvre:a homme:n ne:o peut:v pas:o être:v mon:o fils:n cadet:a .:o »:o"
+  },
+  {
+   "n": 251,
+   "en": "The youngest son took off his old clothes.",
+   "tgt": "Le:o fils:n cadet:a enleva:v ses:o vieux:a vêtements:n .:o"
+  },
+  {
+   "n": 252,
+   "en": "The king saw his true son.",
+   "tgt": "Le:o roi:n vit:v son:o vrai:a fils:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "King: My son!",
+   "tgt": "Roi:o ::o Mon:o fils:n !:o"
+  },
+  {
+   "n": 254,
+   "en": "King: I believed you were lost.",
+   "tgt": "Je:o croyais:v que:o vous:o étiez:v perdu:a .:o"
+  },
+  {
+   "n": 255,
+   "en": "Youngest: My brothers pushed me into a well.",
+   "tgt": "Mes:o frères:n m':o ont:v poussé:v dans:o un:o puits:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "King: Is this true?",
+   "tgt": "Est-ce:o vrai:a ?:o"
+  },
+  {
+   "n": 257,
+   "en": "King: Both of you, come here now.",
+   "tgt": "Vous:o deux:o ,:o venez:v ici:a maintenant:a .:o"
+  },
+  {
+   "n": 258,
+   "en": "Eldest: We wanted Father to be proud of us.",
+   "tgt": "Nous:o voulions:v que:o Père:o soit:v fier:a de:o nous:o .:o"
+  },
+  {
+   "n": 259,
+   "en": "King: You lied to me.",
+   "tgt": "Vous:o m':o avez:v menti:v .:o"
+  },
+  {
+   "n": 260,
+   "en": "King: You will both leave this castle and never return.",
+   "tgt": "Vous:o quitterez:v tous:o les:o deux:o ce:o château:n et:o ne:o reviendrez:v jamais:o .:o"
+  },
+  {
+   "n": 261,
+   "en": "The two brothers walked out of the castle.",
+   "tgt": "Les:o deux:o frères:n sortirent:v du:o château:n .:o"
+  },
+  {
+   "n": 262,
+   "chapter": "The Wedding",
+   "en": "King: My son, you have won the golden bird and more.",
+   "tgt": "Mon:o fils:n ,:o vous:o avez:v gagné:v l':o oiseau:n d':o or:n et:o bien:a plus:a .:o"
+  },
+  {
+   "n": 263,
+   "en": "Youngest: Father, I want to marry the golden princess.",
+   "tgt": "Je:o veux:v épouser:v la:o princesse:n dorée:a .:o"
+  },
+  {
+   "n": 264,
+   "en": "Princess: I want to marry him too, more than anything.",
+   "tgt": "Je:o veux:v l':o épouser:v aussi:a ,:o plus:a que:o tout:o .:o"
+  },
+  {
+   "n": 265,
+   "en": "The king agreed, and the castle celebrated.",
+   "tgt": "Le:o roi:n accepta:v ,:o et:o le:o château:n célébra:v .:o"
+  },
+  {
+   "n": 266,
+   "en": "Youngest: Fox, will you stay with us at the castle?",
+   "tgt": "Le:o plus:a jeune:a ::o Renard:o ,:o veux:v -tu:o rester:v avec:o nous:o au:o château:n ?:o"
+  },
+  {
+   "n": 267,
+   "en": "Fox: I have one more request before I can stay.",
+   "tgt": "Renard:o ::o J':o ai:v encore:a une:o demande:n avant:o de:o pouvoir:v rester:v .:o"
+  },
+  {
+   "n": 268,
+   "en": "Youngest: Ask me anything, fox.",
+   "tgt": "Le:o plus:a jeune:a ::o Demande:v -moi:o n':o importe:v quoi:o ,:o renard:n .:o"
+  },
+  {
+   "n": 269,
+   "en": "Youngest: I owe you my life.",
+   "tgt": "Le:o plus:a jeune:a ::o Je:o te:o dois:v la:o vie:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "Fox: Cut off my head, and then cut off my feet.",
+   "tgt": "Renard:o ::o Coupe:v -moi:o la:o tête:n ,:o puis:o coupe:v -moi:o les:o pieds:n .:o"
+  },
+  {
+   "n": 271,
+   "en": "The youngest son was afraid.",
+   "tgt": "Le:o fils:n cadet:a avait:v peur:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "Youngest: I could never hurt you.",
+   "tgt": "Le:o plus:a jeune:a ::o Je:o ne:o pourrais:v jamais:o te:o blesser:v .:o"
+  },
+  {
+   "n": 273,
+   "en": "Youngest: You have saved me.",
+   "tgt": "Le:o plus:a jeune:a ::o Tu:o m':o as:v sauvé:v .:o"
+  },
+  {
+   "n": 274,
+   "en": "Fox: You must trust me one more time, my friend.",
+   "tgt": "Renard:o ::o Tu:o dois:v me:o faire:v confiance:n encore:a une:o fois:n ,:o mon:o ami:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "Youngest: I trusted you before.",
+   "tgt": "Le:o plus:a jeune:a ::o Je:o t':o ai:v fait:v confiance:n avant:a .:o"
+  },
+  {
+   "n": 276,
+   "en": "Youngest: It was right.",
+   "tgt": "Le:o plus:a jeune:a ::o C':o était:v juste:a .:o"
+  },
+  {
+   "n": 277,
+   "en": "Fox: Trust me now, and do as I ask.",
+   "tgt": "«:o Fais:v -moi:o confiance:n maintenant:a ,:o et:o fais:v comme:o je:o demande:v .:o »:o"
+  },
+  {
+   "n": 278,
+   "chapter": "The Fox's Last Request",
+   "en": "The youngest son thought of all the fox had done.",
+   "tgt": "Le:o fils:n cadet:a pensa:v à:o tout:o ce:o que:o le:o renard:n avait:v fait:v .:o"
+  },
+  {
+   "n": 279,
+   "en": "Youngest: You saved me from the well and moved the hill for me.",
+   "tgt": "«:o Tu:o m':o as:v sauvé:v du:o puits:n et:o tu:o as:v déplacé:v la:o colline:n pour:o moi:o .:o »:o"
+  },
+  {
+   "n": 280,
+   "en": "Youngest: You helped me win the princess, and you saved me again.",
+   "tgt": "«:o Tu:o m':o as:v aidé:v à:o gagner:v la:o princesse:n ,:o et:o tu:o m':o as:v sauvé:v de:o nouveau:a .:o »:o"
+  },
+  {
+   "n": 281,
+   "en": "Youngest: I trust you, and I will trust you now.",
+   "tgt": "«:o Je:o te:o fais:v confiance:n ,:o et:o je:o te:o ferai:v confiance:n maintenant:a .:o »:o"
+  },
+  {
+   "n": 282,
+   "en": "He cut off the fox's head.",
+   "tgt": "Il:o coupa:v la:o tête:n du:o renard:n .:o"
+  },
+  {
+   "n": 283,
+   "en": "He cut off the fox's feet.",
+   "tgt": "Il:o coupa:v les:o pieds:n du:o renard:n .:o"
+  },
+  {
+   "n": 284,
+   "en": "A golden light came into the garden.",
+   "tgt": "Une:o lumière:n dorée:a entra:v dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "Where the fox had stood, a young man stood now.",
+   "tgt": "Là:a où:o le:o renard:n s':o était:v tenu:v ,:o un:o jeune:a homme:n se:o tenait:v maintenant:a .:o"
+  },
+  {
+   "n": 286,
+   "en": "Princess: Brother!",
+   "tgt": "«:o Frère:n !:o »:o"
+  },
+  {
+   "n": 287,
+   "en": "Princess: I never thought to see you again.",
+   "tgt": "«:o Je:o n':o ai:v jamais:o pensé:v te:o revoir:v .:o »:o"
+  },
+  {
+   "n": 288,
+   "en": "Young Man: A curse turned me into a fox.",
+   "tgt": "«:o Une:o malédiction:n m':o a:v transformé:v en:o renard:n .:o »:o"
+  },
+  {
+   "n": 289,
+   "en": "Young Man: Your true love could break the curse.",
+   "tgt": "Votre:o véritable:a amour:n pourrait:v briser:v la:o malédiction:n .:o"
+  },
+  {
+   "n": 290,
+   "en": "King: Welcome to the castle, young man.",
+   "tgt": "Bienvenue:n au:o château:n ,:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 291,
+   "en": "They all lived in peace.",
+   "tgt": "Ils:o vécurent:v tous:o en:o paix:n .:o"
+  }
+ ]
+}

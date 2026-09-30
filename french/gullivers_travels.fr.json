@@ -1,0 +1,1634 @@
+{
+ "slug": "gullivers_travels",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Storm at Sea",
+   "en": "Gulliver was a man from England.",
+   "tgt": "Gulliver:o était:v un:o homme:n d':o Angleterre:o .:o"
+  },
+  {
+   "n": 2,
+   "en": "He went to sea on great ships, for he wanted to see far lands.",
+   "tgt": "Il:o alla:v en:o mer:n sur:o de:o grands:a navires:n ,:o car:o il:o voulait:v voir:v des:o terres:n lointaines:a .:o"
+  },
+  {
+   "n": 3,
+   "en": "His ship sailed for many days over the wide sea.",
+   "tgt": "Son:o navire:n navigua:v pendant:o de:o nombreux:a jours:n sur:o la:o vaste:a mer:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "A storm came in the night, and the wind drove the ship through the dark.",
+   "tgt": "Une:o tempête:n arriva:v dans:o la:o nuit:n ,:o et:o le:o vent:n poussa:v le:o navire:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Waves came over the ship, and the masts fell.",
+   "tgt": "Des:o vagues:n passèrent:v sur:o le:o navire:n ,:o et:o les:o mâts:n tombèrent:v .:o"
+  },
+  {
+   "n": 6,
+   "en": "The ship hit rocks, and the sea came in.",
+   "tgt": "Le:o navire:n heurta:v des:o rochers:n ,:o et:o la:o mer:n entra:v .:o"
+  },
+  {
+   "n": 7,
+   "en": "The men could not hold the ship on the water.",
+   "tgt": "Les:o hommes:n ne:o pouvaient:v pas:o tenir:v le:o navire:n sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Gulliver and 6 of the men got away in a small boat.",
+   "tgt": "Gulliver:o et:o 6:o des:o hommes:n s':o échappèrent:v dans:o un:o petit:a bateau:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "But a great wave threw the boat over in the dark.",
+   "tgt": "Mais:o une:o grande:a vague:n renversa:v le:o bateau:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The boat and the other men were gone.",
+   "tgt": "Le:o bateau:n et:o les:o autres:a hommes:n avaient:v disparu:v .:o"
+  },
+  {
+   "n": 11,
+   "en": "Gulliver could not see the land, but he swam on through the waves.",
+   "tgt": "Gulliver:o ne:o voyait:v pas:o la:o terre:n ,:o mais:o il:o nagea:v à:o travers:o les:o vagues:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "He swam and swam, and his arms grew weak.",
+   "tgt": "Il:o nagea:v et:o nagea:v ,:o et:o ses:o bras:n devinrent:v faibles:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "His feet found ground under the water.",
+   "tgt": "Ses:o pieds:n trouvèrent:v le:o sol:n sous:o l':o eau:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "He walked through the shallow sea to a dark shore.",
+   "tgt": "Il:o traversa:v la:o mer:n peu:a profonde:a jusqu':o à:o une:o rive:n sombre:a .:o"
+  },
+  {
+   "n": 15,
+   "en": "He saw no houses and no fire on the shore.",
+   "tgt": "Il:o ne:o vit:v ni:o maisons:n ni:o feu:n sur:o la:o rive:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The grass under his feet was soft.",
+   "tgt": "L':o herbe:n sous:o ses:o pieds:n était:v douce:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "He lay down on the grass and slept.",
+   "tgt": "Il:o s':o allongea:v sur:o l':o herbe:n et:o dormit:v .:o"
+  },
+  {
+   "n": 18,
+   "chapter": "Tied to the Ground",
+   "en": "Day came, and Gulliver woke.",
+   "tgt": "Le:o jour:n vint:v ,:o et:o Gulliver:o se:o réveilla:v .:o"
+  },
+  {
+   "n": 19,
+   "en": "He lay on the grass, but he could not move.",
+   "tgt": "Il:o était:v allongé:a sur:o l':o herbe:n ,:o mais:o il:o ne:o pouvait:v pas:o bouger:v .:o"
+  },
+  {
+   "n": 20,
+   "en": "His arms, his legs, and his head were tied down.",
+   "tgt": "Ses:o bras:n ,:o ses:o jambes:n et:o sa:o tête:n étaient:v attachés:a au:o sol:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "More than 600 thin threads held him to the ground.",
+   "tgt": "Plus:a de:o 600:o fils:n fins:a le:o retenaient:v au:o sol:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "Small feet walked up his leg.",
+   "tgt": "De:o petits:a pieds:n montèrent:v le:o long:n de:o sa:o jambe:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "They came up over his chest, man after man.",
+   "tgt": "Ils:o montèrent:v sur:o sa:o poitrine:n ,:o homme:n après:o homme:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "Gulliver looked down and saw a man no taller than his hand.",
+   "tgt": "Gulliver:o regarda:v en:o bas:a et:o vit:v un:o homme:n pas:o plus:a grand:a que:o sa:o main:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The little man pointed an arrow at Gulliver's face.",
+   "tgt": "Le:o petit:a homme:n pointa:v une:o flèche:n vers:o le:o visage:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "40 more little men came up and walked over him, from legs to head.",
+   "tgt": "40:o autres:a petits:a hommes:n montèrent:v et:o marchèrent:v sur:o lui:o ,:o des:o jambes:n à:o la:o tête:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The men ran down to the ground when Gulliver shouted.",
+   "tgt": "Les:o hommes:n coururent:v vers:o le:o sol:n quand:o Gulliver:o cria:v .:o"
+  },
+  {
+   "n": 28,
+   "en": "Gulliver pulled, and one arm came free of the threads.",
+   "tgt": "Gulliver:o tira:v ,:o et:o un:o bras:n se:o libéra:v des:o fils:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "100 arrows, small as needles, came down on his hand.",
+   "tgt": "100:o flèches:n ,:o petites:a comme:o des:o aiguilles:n ,:o tombèrent:v sur:o sa:o main:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The little arrows hurt, but they could not go deep.",
+   "tgt": "Les:o petites:a flèches:n faisaient:v mal:a ,:o mais:o elles:o ne:o pouvaient:v pas:o aller:v loin:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "When Gulliver moved his arm, more arrows came down.",
+   "tgt": "Quand:o Gulliver:o bougea:v son:o bras:n ,:o d':o autres:a flèches:n tombèrent:v .:o"
+  },
+  {
+   "n": 32,
+   "en": "He lay still on the grass and waited.",
+   "tgt": "Il:o resta:v immobile:a sur:o l':o herbe:n et:o attendit:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "A lord of the little men climbed up on Gulliver's chest and spoke.",
+   "tgt": "Un:o seigneur:n des:o petits:a hommes:n monta:v sur:o la:o poitrine:n de:o Gulliver:o et:o parla:v .:o"
+  },
+  {
+   "n": 34,
+   "en": "Gulliver could not understand the words.",
+   "tgt": "Gulliver:o ne:o pouvait:v pas:o comprendre:v les:o mots:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "Gulliver put one free hand to his mouth to show he wanted food.",
+   "tgt": "Gulliver:o porta:v une:o main:n libre:a à:o sa:o bouche:n pour:o montrer:v qu':o il:o voulait:v de:o la:o nourriture:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The little people understood, and they were not afraid of the giant.",
+   "tgt": "Les:o petites:a gens:n comprirent:v ,:o et:o ils:o n':o avaient:v pas:o peur:n du:o géant:n .:o"
+  },
+  {
+   "n": 37,
+   "chapter": "The Great Cart",
+   "en": "Soon the little people brought food to the giant.",
+   "tgt": "Bientôt:a les:o petites:a gens:n apportèrent:v de:o la:o nourriture:n au:o géant:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "100 men carried meat and bread up to Gulliver's mouth.",
+   "tgt": "100:o hommes:n portèrent:v de:o la:o viande:n et:o du:o pain:n jusqu':o à:o la:o bouche:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "Gulliver ate it all and wanted more.",
+   "tgt": "Gulliver:o mangea:v tout:o et:o voulut:v davantage:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "The people brought him a strange drink, and it was sweet.",
+   "tgt": "Les:o gens:n lui:o apportèrent:v une:o boisson:n étrange:a ,:o et:o elle:o était:v douce:a .:o"
+  },
+  {
+   "n": 41,
+   "en": "Gulliver drank and drank, and soon he slept.",
+   "tgt": "Gulliver:o but:v et:o but:v ,:o et:o bientôt:a il:o dormit:v .:o"
+  },
+  {
+   "n": 42,
+   "en": "The little people had put a sleep powder in the sweet drink.",
+   "tgt": "Les:o petites:a gens:n avaient:v mis:v une:o poudre:n soporifique:a dans:o la:o boisson:n douce:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "They wanted to take the giant to the great city in his sleep.",
+   "tgt": "Ils:o voulaient:v transporter:v le:o géant:n à:o la:o grande:a cité:n pendant:o son:o sommeil:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The people of the land built a great cart for the giant.",
+   "tgt": "Les:o gens:n du:o pays:n construisirent:v une:o grand:a charrette:n pour:o le:o géant:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "900 men with ropes lifted Gulliver up on the cart.",
+   "tgt": "900:o hommes:n avec:o des:o cordes:n soulevèrent:v Gulliver:o sur:o la:o charrette:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "1500 small horses pulled the cart, and the horses were smaller than a hand.",
+   "tgt": "1500:o petits:a chevaux:n tirèrent:v la:o charrette:n ,:o et:o les:o chevaux:n étaient:v plus:a petits:a qu':o une:o main:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "They pulled the great cart for a night and a day to the city.",
+   "tgt": "Ils:o tirèrent:v la:o grande:a charrette:n pendant:o une:o nuit:n et:o un:o jour:n jusqu':o à:o la:o ville:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "In the city was an old temple, and no house in the land was as great.",
+   "tgt": "Dans:o la:o ville:n se:o trouvait:v un:o vieux:a temple:n ,:o et:o aucune:o maison:n du:o pays:n n':o était:v aussi:a grande:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "The people put 91 small chains on one of Gulliver's legs, and the chains held him.",
+   "tgt": "Les:o gens:n mirent:v 91:o petites:a chaînes:n sur:o une:o des:o jambes:n de:o Gulliver:o ,:o et:o les:o chaînes:n le:o retinrent:v .:o"
+  },
+  {
+   "n": 50,
+   "en": "When Gulliver woke, he could stand up and walk, but not far.",
+   "tgt": "Quand:o Gulliver:o se:o réveilla:v ,:o il:o pouvait:v se:o lever:v et:o marcher:v ,:o mais:o pas:o loin:a .:o"
+  },
+  {
+   "n": 51,
+   "en": "People came from all the land to look at the giant in the chains.",
+   "tgt": "Des:o gens:n vinrent:v de:o tout:o le:o pays:n pour:o regarder:v le:o géant:n dans:o les:o chaînes:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "At night, Gulliver lay down in the old temple and slept.",
+   "tgt": "La:o nuit:n ,:o Gulliver:o s':o allongea:v dans:o le:o vieux:a temple:n et:o dormit:v .:o"
+  },
+  {
+   "n": 53,
+   "chapter": "The King and the Pockets",
+   "en": "The king of the land came to see the giant.",
+   "tgt": "Le:o roi:n du:o pays:n vint:v voir:v le:o géant:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "The land was called Lilliput.",
+   "tgt": "Le:o pays:n s':o appelait:v Lilliput:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "The king stood a little taller than his lords.",
+   "tgt": "Le:o roi:n était:v un:o peu:a plus:a grand:a que:o ses:o seigneurs:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "He looked at the giant's face, at his hands, and at his feet.",
+   "tgt": "Il:o regarda:v le:o visage:n du:o géant:n ,:o ses:o mains:n ,:o et:o ses:o pieds:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "The king told the farmers of the land to bring the giant food for 1000 men.",
+   "tgt": "Le:o roi:n dit:v aux:o fermiers:n du:o pays:n d':o apporter:v de:o la:o nourriture:n au:o géant:n pour:o 1000:o hommes:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "Each day, 40 carts of meat and bread came to the temple, and Gulliver ate it all.",
+   "tgt": "Chaque:o jour:n ,:o 40:o chariots:n de:o viande:n et:o de:o pain:n vinrent:v au:o temple:n ,:o et:o Gulliver:o mangea:v tout:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "In 30 days, Gulliver learned to speak the words of Lilliput.",
+   "tgt": "En:o 30:o jours:n ,:o Gulliver:o apprit:v à:o parler:v les:o mots:n de:o Lilliput:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "Little people climbed up Gulliver's arm and stood on his hand.",
+   "tgt": "De:o petites:a gens:n grimpèrent:v sur:o le:o bras:n de:o Gulliver:o et:o se:o tinrent:v sur:o sa:o main:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "\"Set me free,\" Gulliver asked the king one day.",
+   "tgt": "«:o Libérez:v -moi:o ,:o »:o demanda:v Gulliver:o au:o roi:n un:o jour:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The king said that two lords must first look in Gulliver's pockets.",
+   "tgt": "Le:o roi:n dit:v que:o deux:o seigneurs:n devaient:v d':o abord:a regarder:v dans:o les:o poches:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 63,
+   "en": "Gulliver lifted the two lords up in one hand to his pockets.",
+   "tgt": "Gulliver:o souleva:v les:o deux:o seigneurs:n dans:o une:o main:n jusqu'à:o ses:o poches:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The lords found a knife and gold coins.",
+   "tgt": "Les:o seigneurs:n trouvèrent:v un:o couteau:n et:o des:o pièces:n d':o or:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "In one more pocket, the lords found Gulliver's watch.",
+   "tgt": "Dans:o une:o autre:a poche:n ,:o les:o seigneurs:n trouvèrent:v la:o montre:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 66,
+   "en": "The watch made a small noise over and over.",
+   "tgt": "La:o montre:n faisait:v un:o petit:a bruit:n encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 67,
+   "en": "The lords stood on Gulliver's hand to look at the watch.",
+   "tgt": "Les:o seigneurs:n se:o tinrent:v sur:o la:o main:n de:o Gulliver:o pour:o regarder:v la:o montre:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "They thought the watch was the god of the giant.",
+   "tgt": "Ils:o pensèrent:v que:o la:o montre:n était:v le:o dieu:n du:o géant:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The king let Gulliver have it all.",
+   "tgt": "Le:o roi:n laissa:v Gulliver:o avoir:v tout:o cela:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "The king said Gulliver could be free after one more promise.",
+   "tgt": "Le:o roi:n dit:v que:o Gulliver:o pourrait:v être:v libre:a après:o une:o promesse:n de:o plus:o .:o"
+  },
+  {
+   "n": 71,
+   "chapter": "The Promise and the Egg War",
+   "en": "The king came again to the temple with his men.",
+   "tgt": "Le:o roi:n vint:v de:o nouveau:a au:o temple:n avec:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "\"I will walk with care in your city,\" said Gulliver.",
+   "tgt": "«:o Je:o marcherai:v avec:o soin:n dans:o votre:o ville:n ,:o »:o dit:v Gulliver:o .:o"
+  },
+  {
+   "n": 73,
+   "en": "\"And I will help the land of Lilliput in war,\" he said.",
+   "tgt": "«:o Et:o j':o aiderai:v la:o terre:n de:o Lilliput:o en:o guerre:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "The king's men took the 91 chains from Gulliver's leg.",
+   "tgt": "Les:o hommes:n du:o roi:n prirent:v les:o 91:o chaînes:n de:o la:o jambe:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "He walked with great care over the little city.",
+   "tgt": "Il:o marcha:v avec:o grand:a soin:n au-dessus:o de:o la:o petite:a ville:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "He went over the city wall, for the wall was smaller than his leg.",
+   "tgt": "Il:o passa:v par-dessus:o le:o mur:n de:o la:o ville:n ,:o car:o le:o mur:n était:v plus:o petit:a que:o sa:o jambe:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "Across the sea lay one more land, Blefuscu.",
+   "tgt": "De:o l':o autre:a côté:n de:o la:o mer:n se:o trouvait:v une:o autre:a terre:n ,:o Blefuscu:o .:o"
+  },
+  {
+   "n": 78,
+   "en": "From the wall, Gulliver could see the ships of Blefuscu on the sea.",
+   "tgt": "Du:o mur:n ,:o Gulliver:o pouvait:v voir:v les:o navires:n de:o Blefuscu:o sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "The two little lands were enemies.",
+   "tgt": "Les:o deux:o petits:a pays:n étaient:v ennemis:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "Lilliput and Blefuscu had fought for years over which end of an egg to break first.",
+   "tgt": "Lilliput:o et:o Blefuscu:o s':o étaient:v battus:v pendant:o des:o années:n sur:o quel:o bout:n d':o un:o œuf:n casser:v en:o premier:a .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"The ships of Blefuscu will soon come over the sea,\" the king said to Gulliver.",
+   "tgt": "«:o Les:o navires:n de:o Blefuscu:o viendront:v bientôt:a sur:o la:o mer:n ,:o »:o dit:v le:o roi:n à:o Gulliver:o .:o"
+  },
+  {
+   "n": 82,
+   "en": "\"50 great ships of war lie on the sea at Blefuscu.\"",
+   "tgt": "«:o 50:o grands:a navires:n de:o guerre:n se:o trouvent:v sur:o la:o mer:n à:o Blefuscu:o .:o »:o"
+  },
+  {
+   "n": 83,
+   "en": "\"Will you help Lilliput, as you promised?\" asked the king.",
+   "tgt": "«:o Voulez-vous:v aider:v Lilliput:o ,:o comme:o vous:o l':o avez:v promis:v ?:o »:o demanda:v le:o roi:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "Gulliver carried the king to the sea in his hand.",
+   "tgt": "Gulliver:o porta:v le:o roi:n jusqu':o à:o la:o mer:n dans:o sa:o main:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The sea between the two lands was not deep for a giant.",
+   "tgt": "La:o mer:n entre:o les:o deux:o pays:n n':o était:v pas:o profonde:a pour:o un:o géant:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"I will bring you the ships of Blefuscu,\" said Gulliver.",
+   "tgt": "«:o Je:o vais:v vous:o apporter:v les:o navires:n de:o Blefuscu:o ,:o »:o dit:v Gulliver:o .:o"
+  },
+  {
+   "n": 87,
+   "chapter": "Gulliver Takes the Ships",
+   "en": "The men of Lilliput brought iron, and Gulliver made 50 great hooks.",
+   "tgt": "Les:o hommes:n de:o Lilliput:o apportèrent:v du:o fer:n ,:o et:o Gulliver:o fabriqua:v 50:o grands:a crochets:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "He tied one of the 50 ropes to each hook.",
+   "tgt": "Il:o attacha:v une:o des:o 50:o cordes:n à:o chaque:o crochet:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Gulliver walked into the sea between the two lands.",
+   "tgt": "Gulliver:o marcha:v dans:o la:o mer:n entre:o les:o deux:o terres:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "In the deep water, the sea came up over his chest.",
+   "tgt": "Dans:o l':o eau:n profonde:a ,:o la:o mer:n monta:v jusqu':o à:o sa:o poitrine:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "He held the hooks and ropes over the water.",
+   "tgt": "Il:o tint:v les:o crochets:n et:o les:o cordes:n au-dessus:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The men of Blefuscu saw the giant come through the sea.",
+   "tgt": "Les:o hommes:n de:o Blefuscu:o virent:v le:o géant:n traverser:v la:o mer:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "They jumped from their ships into the sea and swam to the shore.",
+   "tgt": "Ils:o sautèrent:v de:o leurs:o navires:n dans:o la:o mer:n et:o nagèrent:v vers:o le:o rivage:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "1000 arrows came down on Gulliver's hands and face.",
+   "tgt": "1000:o flèches:n tombèrent:v sur:o les:o mains:n et:o le:o visage:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "The little arrows hurt, but Gulliver walked on.",
+   "tgt": "Les:o petites:a flèches:n faisaient:v mal:a ,:o mais:o Gulliver:o continua:v à:o marcher:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "At the ships of Blefuscu, he put one hook on each ship.",
+   "tgt": "Près:o des:o navires:n de:o Blefuscu:o ,:o il:o posa:v un:o crochet:n sur:o chaque:o navire:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "But the ships did not move, for the anchors held.",
+   "tgt": "Mais:o les:o navires:n ne:o bougèrent:v pas:o ,:o car:o les:o ancres:n tenaient:v .:o"
+  },
+  {
+   "n": 98,
+   "en": "Gulliver took his knife and cut the anchor ropes one by one.",
+   "tgt": "Gulliver:o prit:v son:o couteau:n et:o coupa:v les:o cordes:n d':o ancre:n une:o par:o une:o .:o"
+  },
+  {
+   "n": 99,
+   "en": "He held the ends of all 50 ropes in one hand.",
+   "tgt": "Il:o tint:v les:o extrémités:n de:o toutes:o les:o 50:o cordes:n dans:o une:o main:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Gulliver turned and pulled the 50 ships after him through the sea.",
+   "tgt": "Gulliver:o se:o retourna:v et:o tira:v les:o 50:o navires:n derrière:o lui:o à:o travers:o la:o mer:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "The king of Lilliput stood on his shore and watched the ships come.",
+   "tgt": "Le:o roi:n de:o Lilliput:o se:o tint:v sur:o son:o rivage:n et:o regarda:v les:o navires:n arriver:v .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"One man took all the ships of Blefuscu!\" said the king.",
+   "tgt": "«:o Un:o homme:n a:v pris:v tous:o les:o navires:n de:o Blefuscu:o !:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "He made Gulliver the first lord of Lilliput that day.",
+   "tgt": "Il:o fit:v de:o Gulliver:o le:o premier:a seigneur:n de:o Lilliput:o ce:o jour-là:o .:o"
+  },
+  {
+   "n": 104,
+   "chapter": "The Fire in the Palace",
+   "en": "The king of Blefuscu sent men over the sea to ask for peace.",
+   "tgt": "Le:o roi:n de:o Blefuscu:o envoya:v des:o hommes:n par:o la:o mer:n pour:o demander:v la:o paix:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "Lilliput and Blefuscu made peace, and the war of the eggs was over.",
+   "tgt": "Lilliput:o et:o Blefuscu:o firent:v la:o paix:n ,:o et:o la:o guerre:n des:o œufs:n était:v terminée:a .:o"
+  },
+  {
+   "n": 106,
+   "en": "But the king of Lilliput wanted more than peace.",
+   "tgt": "Mais:o le:o roi:n de:o Lilliput:o voulait:v plus:a que:o la:o paix:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"Take all of Blefuscu for me,\" the king said to Gulliver.",
+   "tgt": "«:o Prenez:v tout:o Blefuscu:o pour:o moi:o ,:o »:o dit:v le:o roi:n à:o Gulliver:o .:o"
+  },
+  {
+   "n": 108,
+   "en": "\"Their land will be my land, and their people will be my people.\"",
+   "tgt": "«:o Leur:o terre:n sera:v ma:o terre:n ,:o et:o leur:o peuple:n sera:v mon:o peuple:n .:o »:o"
+  },
+  {
+   "n": 109,
+   "en": "Gulliver looked down at the little king.",
+   "tgt": "Gulliver:o regarda:v en:o bas:a le:o petit:a roi:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"No,\" said Gulliver.",
+   "tgt": "«:o Non:o ,:o »:o dit:v Gulliver:o .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"The people of Blefuscu are a free people, and I will not take their land.\"",
+   "tgt": "«:o Les:o gens:n de:o Blefuscu:o sont:v un:o peuple:n libre:a ,:o et:o je:o ne:o prendrai:v pas:o leur:o terre:n .:o »:o"
+  },
+  {
+   "n": 112,
+   "en": "The king said no more, but from that day he did not laugh with Gulliver.",
+   "tgt": "Le:o roi:n ne:o dit:v plus:o rien:o ,:o mais:o à:o partir:v de:o ce:o jour:n il:o ne:o rit:v plus:o avec:o Gulliver:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "One night, the people of the city came calling to the temple.",
+   "tgt": "Une:o nuit:n ,:o les:o gens:n de:o la:o ville:n vinrent:v appeler:v au:o temple:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"Fire, fire!\" the people called.",
+   "tgt": "«:o Feu:n ,:o feu:n !:o »:o crièrent:v les:o gens:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "\"The queen's rooms are on fire!\"",
+   "tgt": "«:o Les:o chambres:n de:o la:o reine:n sont:v en:o feu:n !:o »:o"
+  },
+  {
+   "n": 116,
+   "en": "Gulliver ran to the palace with great care for the little houses.",
+   "tgt": "Gulliver:o courut:v au:o palais:n avec:o grand:a soin:n pour:o les:o petites:a maisons:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "The people threw little buckets of water on the fire, but the fire grew.",
+   "tgt": "Les:o gens:n jetèrent:v de:o petits:a seaux:n d':o eau:n sur:o le:o feu:n ,:o mais:o le:o feu:n grandit:v .:o"
+  },
+  {
+   "n": 118,
+   "en": "The sea was not far, and Gulliver had his great hat.",
+   "tgt": "La:o mer:n n':o était:v pas:o loin:a ,:o et:o Gulliver:o avait:v son:o grand:a chapeau:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "He filled the hat with sea water and threw the water on the fire.",
+   "tgt": "Il:o remplit:v le:o chapeau:n d':o eau:n de:o mer:n et:o jeta:v l':o eau:n sur:o le:o feu:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "He went to the sea and came back, again and again.",
+   "tgt": "Il:o alla:v à:o la:o mer:n et:o revint:v ,:o encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 121,
+   "en": "Soon the fire was out, and the palace still stood.",
+   "tgt": "Bientôt:a le:o feu:n fut:v éteint:a ,:o et:o le:o palais:n tenait:v encore:a debout:a .:o"
+  },
+  {
+   "n": 122,
+   "en": "But sea water lay over all the rooms of the queen.",
+   "tgt": "Mais:o l':o eau:n de:o mer:n couvrait:v toutes:o les:o chambres:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "The queen did not laugh with Gulliver again.",
+   "tgt": "La:o reine:n ne:o rit:v plus:o avec:o Gulliver:o .:o"
+  },
+  {
+   "n": 124,
+   "chapter": "Flight to Blefuscu",
+   "en": "After the fire, some lords of the court wanted the giant gone.",
+   "tgt": "Après:o l':o incendie:n ,:o certains:o seigneurs:n de:o la:o cour:n voulaient:v le:o géant:n parti:a .:o"
+  },
+  {
+   "n": 125,
+   "en": "\"The giant eats the food of 1000 men,\" said one lord.",
+   "tgt": "«:o Le:o géant:n mange:v la:o nourriture:n de:o 1000:o hommes:n ,:o »:o dit:v un:o seigneur:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "\"He would not take Blefuscu for his king,\" said the queen.",
+   "tgt": "«:o Il:o ne:o prendrait:v pas:o Blefuscu:o pour:o son:o roi:n ,:o »:o dit:v la:o reine:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "The court said the giant must be tied down again, for all his days.",
+   "tgt": "La:o cour:n dit:v que:o le:o géant:n devait:v être:v attaché:a de:o nouveau:a ,:o pour:o tous:o ses:o jours:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "But one lord of the court was Gulliver's friend.",
+   "tgt": "Mais:o un:o seigneur:n de:o la:o cour:n était:v l':o ami:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 129,
+   "en": "That night, the friend came alone in the dark to the temple.",
+   "tgt": "Cette:o nuit-là:o ,:o l':o ami:n vint:v seul:a dans:o l':o obscurité:n jusqu':o au:o temple:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "The giant put the friend up on his hand.",
+   "tgt": "Le:o géant:n posa:v l':o ami:n sur:o sa:o main:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "\"The court will put you in chains again,\" said the friend.",
+   "tgt": "«:o La:o cour:n va:v vous:o mettre:v ·:o de:o nouveau:a dans:o les:o chaînes:n ,:o »:o dit:v l':o ami:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "\"Go from Lilliput this night.\"",
+   "tgt": "Pars:v de:o Lilliput:o cette:o nuit:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Gulliver did not want a war with the little people of the land.",
+   "tgt": "Gulliver:o ne:o voulait:v pas:o la:o guerre:n avec:o les:o petits:a peuples:n du:o pays:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "He thanked the friend and put him down on the ground.",
+   "tgt": "Il:o remercia:v l':o ami:n et:o le:o posa:v par:o terre:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "In the dark, Gulliver walked into the sea and went over to Blefuscu.",
+   "tgt": "Dans:o l':o obscurité:n ,:o Gulliver:o entra:v dans:o la:o mer:n et:o alla:v vers:o Blefuscu:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "The king of Blefuscu came to the shore with many of his little people.",
+   "tgt": "Le:o roi:n de:o Blefuscu:o vint:v au:o rivage:n avec:o beaucoup:a de:o ses:o petits:a peuples:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "He was glad to see the man that had not taken his land.",
+   "tgt": "Il:o était:v content:a de:o voir:v l':o homme:n qui:o n':o avait:v pas:o pris:v sa:o terre:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "\"You will be safe in Blefuscu,\" said the king of Blefuscu.",
+   "tgt": "«:o Vous:o serez:v en:o sécurité:n à:o Blefuscu:o ,:o »:o dit:v le:o roi:n de:o Blefuscu:o .:o"
+  },
+  {
+   "n": 139,
+   "en": "The people of Blefuscu brought the giant food each day.",
+   "tgt": "Les:o peuples:n de:o Blefuscu:o apportèrent:v de:o la:o nourriture:n au:o géant:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "But at night, Gulliver looked over the sea and wanted to go home to England.",
+   "tgt": "Mais:o la:o nuit:n ,:o Gulliver:o regardait:v la:o mer:n et:o voulait:v rentrer:v chez:o lui:o en:o Angleterre:o .:o"
+  },
+  {
+   "n": 141,
+   "chapter": "The Real Boat",
+   "en": "One day, Gulliver saw a real boat far out on the sea.",
+   "tgt": "Un:o jour:n ,:o Gulliver:o vit:v un:o vrai:a bateau:n loin:a sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "It was a boat from a great ship, and the sea had turned it over.",
+   "tgt": "C':o était:v un:o bateau:n d':o un:o grand:a navire:n ,:o et:o la:o mer:n l':o avait:v retourné:v .:o"
+  },
+  {
+   "n": 143,
+   "en": "The wind drove the boat into the shallow water, and Gulliver swam out to it.",
+   "tgt": "Le:o vent:n poussa:v le:o bateau:n vers:o les:o eaux:n peu:a profondes:a ,:o et:o Gulliver:o nagea:v jusqu':o à:o lui:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "With 2000 men of Blefuscu and many ropes, he turned the boat over in the water.",
+   "tgt": "Avec:o 2000:o hommes:n de:o Blefuscu:o et:o beaucoup:a de:o cordes:n ,:o il:o retourna:v le:o bateau:n dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "The king of Blefuscu gave Gulliver wood, and soon the boat was good again.",
+   "tgt": "Le:o roi:n de:o Blefuscu:o donna:v à:o Gulliver:o du:o bois:n ,:o et:o bientôt:a le:o bateau:n était:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 146,
+   "en": "The people of Blefuscu brought meat, bread, and milk for the long way home.",
+   "tgt": "Les:o gens:n de:o Blefuscu:o apportèrent:v de:o la:o viande:n ,:o du:o pain:n ,:o et:o du:o lait:n pour:o le:o long:a chemin:n du:o retour:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "Gulliver took 6 little cows of Blefuscu into the boat too.",
+   "tgt": "Gulliver:o prit:v aussi:a 6:o petites:a vaches:n de:o Blefuscu:o dans:o le:o bateau:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "He wanted to show England the little cows.",
+   "tgt": "Il:o voulait:v montrer:v à:o l':o Angleterre:o les:o petites:a vaches:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "Gulliver thanked the king of Blefuscu and sailed away.",
+   "tgt": "Gulliver:o remercia:v le:o roi:n de:o Blefuscu:o et:o navigua:v au:o loin:a .:o"
+  },
+  {
+   "n": 150,
+   "en": "After two days on the sea, Gulliver saw a great ship.",
+   "tgt": "Après:o deux:o jours:n sur:o la:o mer:n ,:o Gulliver:o vit:v un:o grand:a navire:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "It was a ship from England, with men as great as Gulliver.",
+   "tgt": "C':o était:v un:o navire:n d':o Angleterre:o ,:o avec:o des:o hommes:n aussi:a grands:a que:o Gulliver:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "The men of the ship took Gulliver and his boat up from the sea.",
+   "tgt": "Les:o hommes:n du:o navire:n prirent:v Gulliver:o et:o son:o bateau:n hors:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "Gulliver told the captain of Lilliput, and the captain laughed.",
+   "tgt": "Gulliver:o parla:v au:o capitaine:n de:o Lilliput:o ,:o et:o le:o capitaine:n rit:v .:o"
+  },
+  {
+   "n": 154,
+   "en": "Gulliver went to his boat and took out one little cow.",
+   "tgt": "Gulliver:o alla:v à:o son:o bateau:n et:o en:o sortit:v une:o petite:a vache:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "He put the little cow in the captain's hand.",
+   "tgt": "Il:o posa:v la:o petite:a vache:n dans:o la:o main:n du:o capitaine:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "The captain looked at it and laughed no more.",
+   "tgt": "Le:o capitaine:n le:o regarda:v et:o ne:o rit:v plus:o .:o"
+  },
+  {
+   "n": 157,
+   "en": "The ship sailed home, and Gulliver came to his house in England.",
+   "tgt": "Le:o navire:n rentra:v chez:o lui:o ,:o et:o Gulliver:o arriva:v à:o sa:o maison:n en:o Angleterre:o .:o"
+  },
+  {
+   "n": 158,
+   "en": "His wife had thought the sea had taken him, and she laughed and cried to see him.",
+   "tgt": "Sa:o femme:n avait:v cru:v que:o la:o mer:n l':o avait:v emporté:v ,:o et:o elle:o rit:v et:o pleura:v de:o joie:n en:o le:o voyant:v .:o"
+  },
+  {
+   "n": 159,
+   "en": "Gulliver stayed at home for 60 days.",
+   "tgt": "Gulliver:o resta:v chez:o lui:o pendant:o 60:o jours:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "But he still thought of the sea and far lands.",
+   "tgt": "Mais:o il:o pensait:v encore:a à:o la:o mer:n et:o aux:o terres:n lointaines:a .:o"
+  },
+  {
+   "n": 161,
+   "chapter": "The Land of the Giants",
+   "en": "When the 60 days were over, a new ship sailed from England.",
+   "tgt": "Quand:o les:o 60:o jours:n furent:v passés:a ,:o un:o nouveau:a navire:n quitta:v l':o Angleterre:o .:o"
+  },
+  {
+   "n": 162,
+   "en": "Gulliver went with it, for he still wanted to see far lands.",
+   "tgt": "Gulliver:o l':o accompagna:v ,:o car:o il:o voulait:v encore:a voir:v des:o terres:n lointaines:a .:o"
+  },
+  {
+   "n": 163,
+   "en": "Far out on the sea, a great storm drove the ship for many days.",
+   "tgt": "Loin:a sur:o la:o mer:n ,:o une:o grande:a tempête:n poussa:v le:o navire:n pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "No man on the ship knew the way home.",
+   "tgt": "Aucun:o homme:n sur:o le:o navire:n ne:o connaissait:v le:o chemin:n du:o retour:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "When the storm was over, the men saw a strange land.",
+   "tgt": "Quand:o la:o tempête:n fut:v passée:a ,:o les:o hommes:n aperçurent:v une:o terre:n étrange:a .:o"
+  },
+  {
+   "n": 166,
+   "en": "The men wanted water, so the captain sent a boat to the shore.",
+   "tgt": "Les:o hommes:n voulaient:v de:o l':o eau:n ,:o alors:o le:o capitaine:n envoya:v un:o bateau:n vers:o le:o rivage:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "Gulliver went with the boat and walked alone over the strange land.",
+   "tgt": "Gulliver:o monta:v dans:o le:o bateau:n et:o marcha:v seul:a sur:o cette:o terre:n étrange:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "He walked a mile from the shore and saw no man and no house.",
+   "tgt": "Il:o marcha:v à:o un:o mile:n du:o rivage:n et:o ne:o vit:v ni:o homme:n ni:o maison:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "When Gulliver came back, the boat was far out on the water.",
+   "tgt": "Quand:o Gulliver:o revint:v ,:o le:o bateau:n était:v loin:a sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "The men in the boat rowed fast for the ship.",
+   "tgt": "Les:o hommes:n dans:o le:o bateau:n ramèrent:v vite:a vers:o le:o navire:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "A giant man walked in the sea after the boat.",
+   "tgt": "Un:o homme:n géant:a marcha:v dans:o la:o mer:n après:o le:o bateau:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "The sea came only to the giant's knees.",
+   "tgt": "La:o mer:n arrivait:v seulement:a aux:o genoux:n du:o géant:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The giant was as tall as a ship's mast.",
+   "tgt": "Le:o géant:n était:v aussi:a grand:a que:o le:o mât:n d':o un:o navire:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "Gulliver called from the shore, but the boat did not come back.",
+   "tgt": "Gulliver:o appela:v depuis:o le:o rivage:n ,:o mais:o le:o bateau:n ne:o revint:v pas:o .:o"
+  },
+  {
+   "n": 175,
+   "en": "He ran from the sea into the land.",
+   "tgt": "Il:o courut:v de:o la:o mer:n vers:o l':o intérieur:n des:o terres:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "Gulliver came to a great field of yellow grain.",
+   "tgt": "Gulliver:o arriva:v à:o un:o grand:a champ:n de:o grain:n jaune:a .:o"
+  },
+  {
+   "n": 177,
+   "en": "The grain stood far over his head, as tall as the trees of England.",
+   "tgt": "Le:o grain:n s':o élevait:v bien:a au-dessus:o de:o sa:o tête:n ,:o aussi:a grand:a que:o les:o arbres:n d':o Angleterre:o .:o"
+  },
+  {
+   "n": 178,
+   "en": "He heard great feet come through the grain, and he hid and waited.",
+   "tgt": "Il:o entendit:v de:o grands:a pas:n traverser:v le:o grain:n ,:o et:o il:o se:o cacha:v et:o attendit:v .:o"
+  },
+  {
+   "n": 179,
+   "chapter": "The Giant Farmer",
+   "en": "Giant men came through the field and cut down the tall grain.",
+   "tgt": "Des:o hommes:n géants:a traversèrent:v le:o champ:n et:o coupèrent:v le:o grand:a grain:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "Great feet came down in the tall grain by Gulliver's head.",
+   "tgt": "De:o grands:a pieds:n s':o abattirent:v sur:o le:o grand:a grain:n près:o de:o la:o tête:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 181,
+   "en": "Gulliver called and called up at the giant men.",
+   "tgt": "Gulliver:o appela:v et:o appela:v encore:a les:o hommes:n géants:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "The great feet stood still in the grain.",
+   "tgt": "Les:o grands:a pieds:n s':o immobilisèrent:v dans:o le:o grain:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "The farmer of the field looked down and saw the little man in the grain.",
+   "tgt": "Le:o fermier:n du:o champ:n regarda:v en:o bas:a et:o vit:v le:o petit:a homme:n dans:o le:o grain:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "The farmer took Gulliver up between his finger and his thumb.",
+   "tgt": "Le:o fermier:n prit:v Gulliver:o entre:o son:o doigt:n et:o son:o pouce:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "He lifted the little man high over the field to look at him.",
+   "tgt": "Il:o souleva:v le:o petit:a homme:n haut:a au-dessus:o du:o champ:n pour:o le:o regarder:v .:o"
+  },
+  {
+   "n": 186,
+   "en": "Gulliver held the great thumb, for the ground was far down.",
+   "tgt": "Gulliver:o tint:v le:o grand:a pouce:n ,:o car:o le:o sol:n était:v loin:a en:o bas:a .:o"
+  },
+  {
+   "n": 187,
+   "en": "Gulliver bowed in the great hand and spoke, but the farmer could not understand the little words.",
+   "tgt": "Gulliver:o s':o inclina:v dans:o la:o grande:a main:n et:o parla:v ,:o mais:o le:o fermier:n ne:o pouvait:v pas:o comprendre:v les:o petits:a mots:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "The farmer put Gulliver in his pocket and carried him home.",
+   "tgt": "Le:o fermier:n mit:v Gulliver:o dans:o sa:o poche:n et:o le:o porta:v chez:o lui:o .:o"
+  },
+  {
+   "n": 189,
+   "en": "At the house, the farmer took Gulliver from the pocket and put him on the table.",
+   "tgt": "À:o la:o maison:n ,:o le:o fermier:n sortit:v Gulliver:o de:o la:o poche:n et:o le:o posa:v sur:o la:o table:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "The farmer's wife saw the little man, and her cup fell from her hand.",
+   "tgt": "La:o femme:n du:o fermier:n vit:v le:o petit:a homme:n ,:o et:o sa:o tasse:n tomba:v de:o sa:o main:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "But Gulliver bowed to her too, and soon she laughed.",
+   "tgt": "Mais:o Gulliver:o s':o inclina:v devant:o elle:o aussi:a ,:o et:o bientôt:a elle:o rit:v .:o"
+  },
+  {
+   "n": 192,
+   "en": "The farmer and his wife sat down at the table with bread and milk.",
+   "tgt": "Le:o fermier:n et:o sa:o femme:n s':o assirent:v à:o la:o table:n avec:o du:o pain:n et:o du:o lait:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "Gulliver drank milk from the smallest cup of the house, and the cup was as great as a bucket.",
+   "tgt": "Gulliver:o but:v du:o lait:n dans:o la:o plus:o petite:a tasse:n de:o la:o maison:n ,:o et:o la:o tasse:n était:v aussi:o grande:a qu':o un:o seau:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "He fell over the bread on the table, and the giants laughed.",
+   "tgt": "Il:o trébucha:v sur:o le:o pain:n sur:o la:o table:n ,:o et:o les:o géants:n rirent:v .:o"
+  },
+  {
+   "n": 195,
+   "en": "The farmer's daughter watched the little man with care.",
+   "tgt": "La:o fille:n du:o fermier:n observa:v le:o petit:a homme:n avec:o soin:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "That night, the daughter put soft cloth in a small box for Gulliver's bed.",
+   "tgt": "Ce:o soir-là:a ,:o la:o fille:n mit:v du:o tissu:n doux:a dans:o une:o petite:a boîte:n pour:o le:o lit:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 197,
+   "en": "In the box bed, Gulliver slept his first night in the land of the giants.",
+   "tgt": "Dans:o la:o boîte:n ,:o Gulliver:o dormit:v sa:o première:a nuit:n dans:o le:o pays:n des:o géants:n .:o"
+  },
+  {
+   "n": 198,
+   "chapter": "The Farmer's Daughter",
+   "en": "The farmer's daughter took care of Gulliver in the great house.",
+   "tgt": "La:o fille:n du:o fermier:n prit:v soin:n de:o Gulliver:o dans:o la:o grande:a maison:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "She made him new clothes from soft cloth.",
+   "tgt": "Elle:o lui:o fit:v de:o nouveaux:a vêtements:n en:o tissu:n doux:a .:o"
+  },
+  {
+   "n": 200,
+   "en": "She set his food by his box bed and kept him safe.",
+   "tgt": "Elle:o posa:v sa:o nourriture:n près:o de:o sa:o boîte:n et:o le:o garda:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 201,
+   "en": "Each day, the daughter gave Gulliver more words of the land.",
+   "tgt": "Chaque:o jour:n ,:o la:o fille:n donna:v à:o Gulliver:o plus:o de:o mots:n du:o pays:n .:o"
+  },
+  {
+   "n": 202,
+   "en": "She pointed at the bread, the milk, the cup, and the fire, and said each word.",
+   "tgt": "Elle:o pointa:v le:o pain:n ,:o le:o lait:n ,:o la:o tasse:n ,:o et:o le:o feu:n ,:o et:o dit:v chaque:o mot:n .:o"
+  },
+  {
+   "n": 203,
+   "en": "He learned fast, for he had learned the words of Lilliput too.",
+   "tgt": "Il:o apprit:v vite:a ,:o car:o il:o avait:v appris:v les:o mots:n de:o Lilliput:o aussi:a .:o"
+  },
+  {
+   "n": 204,
+   "en": "Soon the little man could speak with the daughter.",
+   "tgt": "Bientôt:a le:o petit:a homme:n put:v parler:v avec:o la:o fille:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "\"This land is Brobdingnag,\" said the daughter.",
+   "tgt": "«:o Cette:o terre:n est:v Brobdingnag:o ,:o »:o dit:v la:o fille:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "Gulliver told the daughter of England and of little Lilliput.",
+   "tgt": "Gulliver:o parla:v à:o la:o fille:n de:o l':o Angleterre:n et:o du:o petit:a Lilliput:o .:o"
+  },
+  {
+   "n": 207,
+   "en": "One day, an old farmer came to the house to see the little man.",
+   "tgt": "Un:o jour:n ,:o un:o vieux:a fermier:n vint:v à:o la:o maison:n pour:o voir:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 208,
+   "en": "Gulliver walked on the table, bowed, and spoke to him.",
+   "tgt": "Gulliver:o marcha:v sur:o la:o table:n ,:o s':o inclina:v ,:o et:o lui:o parla:v .:o"
+  },
+  {
+   "n": 209,
+   "en": "The old farmer looked and looked at the little man.",
+   "tgt": "Le:o vieux:a fermier:n regarda:v et:o regarda:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 210,
+   "en": "\"Show the little man at the market for money,\" the old farmer said.",
+   "tgt": "«:o Montrez:v le:o petit:a homme:n au:o marché:n pour:o de:o l':o argent:n ,:o »:o dit:v le:o vieux:a fermier:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "The farmer of the house heard him and thought of the money.",
+   "tgt": "Le:o fermier:n de:o la:o maison:n l':o entendit:v et:o pensa:v à:o l':o argent:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "\"The little man will go to the market,\" said the farmer of the house.",
+   "tgt": "«:o Le:o petit:a homme:n ira:v au:o marché:n ,:o »:o dit:v le:o fermier:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 213,
+   "en": "The daughter was afraid for Gulliver, so she said she would go too.",
+   "tgt": "La:o fille:n avait:v peur:n pour:o Gulliver:o ,:o alors:o elle:o dit:v qu':o elle:o irait:v aussi:a .:o"
+  },
+  {
+   "n": 214,
+   "en": "The daughter set more soft cloth in Gulliver's box for the market.",
+   "tgt": "La:o fille:n mit:v plus:a de:o tissu:n doux:a dans:o la:o boîte:n de:o Gulliver:o pour:o le:o marché:n .:o"
+  },
+  {
+   "n": 215,
+   "chapter": "Shown for Money",
+   "en": "On market day, the farmer rode his horse to the market town.",
+   "tgt": "Le:o jour:n du:o marché:n ,:o le:o fermier:n chevaucha:v son:o cheval:n jusqu':o au:o bourg:n du:o marché:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "The daughter held Gulliver's box with great care on the way.",
+   "tgt": "La:o fille:n tint:v la:o boîte:n de:o Gulliver:o avec:o grand:a soin:n pendant:o le:o trajet:n .:o"
+  },
+  {
+   "n": 217,
+   "en": "At the market, the farmer set the box on a great table.",
+   "tgt": "Au:o marché:n ,:o le:o fermier:n posa:v la:o boîte:n sur:o une:o grande:a table:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "\"Come and see the little man from the sea!\" called the farmer.",
+   "tgt": "«:o Venez:v voir:v le:o petit:a homme:n de:o la:o mer:n !:o »:o cria:v le:o fermier:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "The people of the town paid the farmer silver coins and came in to look.",
+   "tgt": "Les:o gens:n de:o la:o ville:n payèrent:v au:o fermier:n des:o pièces:n d':o argent:n et:o entrèrent:v pour:o regarder:v .:o"
+  },
+  {
+   "n": 220,
+   "en": "Gulliver walked up and down the table and bowed to the crowd.",
+   "tgt": "Gulliver:o fit:v des:o allers-retours:n sur:o la:o table:n et:o s':o inclina:v devant:o la:o foule:n .:o"
+  },
+  {
+   "n": 221,
+   "en": "He spoke the words of the land, and the crowd watched with open mouths.",
+   "tgt": "Il:o prononça:v les:o mots:n de:o la:o région:n ,:o et:o la:o foule:n regarda:v avec:o des:o bouches:n ouvertes:a .:o"
+  },
+  {
+   "n": 222,
+   "en": "He drank from a little cup, and the crowd laughed and paid more.",
+   "tgt": "Il:o but:v dans:o une:o petite:a coupe:n ,:o et:o la:o foule:n rit:v et:o paya:v davantage:a .:o"
+  },
+  {
+   "n": 223,
+   "en": "The farmer looked at all the silver and laughed.",
+   "tgt": "Le:o fermier:n regarda:v tout:o l':o argent:n et:o rit:v .:o"
+  },
+  {
+   "n": 224,
+   "en": "After that, the farmer showed Gulliver at market after market.",
+   "tgt": "Après:o cela:o ,:o le:o fermier:n montra:v Gulliver:o à:o marché:n après:o marché:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "They went from town to town for many weeks.",
+   "tgt": "Ils:o allèrent:v de:o ville:n en:o ville:n pendant:o de:o nombreuses:a semaines:n .:o"
+  },
+  {
+   "n": 226,
+   "en": "He could not rest, and he could not sleep.",
+   "tgt": "Il:o ne:o pouvait:v pas:o se:o reposer:v ,:o et:o il:o ne:o pouvait:v pas:o dormir:v .:o"
+  },
+  {
+   "n": 227,
+   "en": "Gulliver grew thin and tired and weak.",
+   "tgt": "Gulliver:o devint:v mince:a et:o fatigué:a et:o faible:a .:o"
+  },
+  {
+   "n": 228,
+   "en": "In the end, the farmer took Gulliver to the great city of the land.",
+   "tgt": "À:o la:o fin:n ,:o le:o fermier:n emmena:v Gulliver:o dans:o la:o grande:a ville:n du:o pays:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "The king and queen of the giants lived there, in a palace of high walls.",
+   "tgt": "Le:o roi:n et:o la:o reine:n des:o géants:n vivaient:v là:o ,:o dans:o un:o palais:n aux:o murs:n hauts:a .:o"
+  },
+  {
+   "n": 230,
+   "en": "Soon the queen heard of the little man and called for him to the palace.",
+   "tgt": "Bientôt:a la:o reine:n entendit:v parler:v du:o petit:a homme:n et:o le:o fit:v appeler:v au:o palais:n .:o"
+  },
+  {
+   "n": 231,
+   "chapter": "The Queen of the Giants",
+   "en": "The farmer carried Gulliver's box to the palace of the queen.",
+   "tgt": "Le:o fermier:n porta:v la:o boîte:n de:o Gulliver:o au:o palais:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 232,
+   "en": "Gulliver walked out of the box and bowed to the queen of the giants.",
+   "tgt": "Gulliver:o sortit:v de:o la:o boîte:n et:o s':o inclina:v devant:o la:o reine:n des:o géants:n .:o"
+  },
+  {
+   "n": 233,
+   "en": "\"Will you make your home at my palace?\" the queen asked the little man.",
+   "tgt": "«:o Voulez-vous:v faire:v votre:o maison:n dans:o mon:o palais:n ?:o »:o demanda:v la:o reine:n au:o petit:a homme:n .:o"
+  },
+  {
+   "n": 234,
+   "en": "\"I will come if the daughter comes too, for she takes care of me,\" said Gulliver.",
+   "tgt": "«:o Je:o viendrai:v si:o la:o fille:n vient:v aussi:a ,:o car:o elle:o s':o occupe:v de:o moi:o »:o ,:o dit:v Gulliver:o .:o"
+  },
+  {
+   "n": 235,
+   "en": "The queen was glad to let the daughter come.",
+   "tgt": "La:o reine:n fut:v heureuse:a de:o laisser:v la:o fille:n venir:v .:o"
+  },
+  {
+   "n": 236,
+   "en": "The queen bought Gulliver from the farmer for 1000 gold coins.",
+   "tgt": "La:o reine:n acheta:v Gulliver:o au:o fermier:n pour:o 1000:o pièces:n d':o or:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "The farmer took the gold, laughed, and rode home.",
+   "tgt": "Le:o fermier:n prit:v l':o or:n ,:o rit:v ,:o et:o rentra:v chez:o lui:o .:o"
+  },
+  {
+   "n": 238,
+   "en": "The queen's men built Gulliver a little room of wood.",
+   "tgt": "Les:o hommes:n de:o la:o reine:n construisirent:v à:o Gulliver:o une:o petite:a chambre:n de:o bois:n .:o"
+  },
+  {
+   "n": 239,
+   "en": "The little room had a door, two windows, a table, a chair, and a bed.",
+   "tgt": "La:o petite:a chambre:n avait:v une:o porte:n ,:o deux:o fenêtres:n ,:o une:o table:n ,:o une:o chaise:n ,:o et:o un:o lit:n .:o"
+  },
+  {
+   "n": 240,
+   "en": "The queen's men put soft cloth on the walls of the room.",
+   "tgt": "Les:o hommes:n de:o la:o reine:n posèrent:v du:o tissu:n doux:a sur:o les:o murs:n de:o la:o chambre:n .:o"
+  },
+  {
+   "n": 241,
+   "en": "On the roof of the room, the men put a great iron ring.",
+   "tgt": "Sur:o le:o toit:n de:o la:o chambre:n ,:o les:o hommes:n posèrent:v un:o grand:a anneau:n de:o fer:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "The daughter took the ring and carried the box from room to room.",
+   "tgt": "La:o fille:n prit:v l':o anneau:n et:o porta:v la:o boîte:n de:o chambre:n en:o chambre:n .:o"
+  },
+  {
+   "n": 243,
+   "en": "One day, the king of the giants came to see the queen's little man.",
+   "tgt": "Un:o jour:n ,:o le:o roi:n des:o géants:n vint:v voir:v le:o petit:a homme:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 244,
+   "en": "The king thought the queen's little man was a toy.",
+   "tgt": "Le:o roi:n pensa:v que:o le:o petit:a homme:n de:o la:o reine:n était:v un:o jouet:n .:o"
+  },
+  {
+   "n": 245,
+   "en": "But the toy bowed and asked the king about his great land.",
+   "tgt": "Mais:o le:o jouet:n s':o inclina:v et:o demanda:v au:o roi:n à:o propos:o de:o sa:o grande:a terre:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "The king asked Gulliver 100 questions, and Gulliver answered each one.",
+   "tgt": "Le:o roi:n posa:v à:o Gulliver:o 100:o questions:n ,:o et:o Gulliver:o répondit:v à:o chacune:o .:o"
+  },
+  {
+   "n": 247,
+   "en": "Gulliver spoke of the wars of England, and the king laughed and laughed.",
+   "tgt": "Gulliver:o parla:v des:o guerres:n d':o Angleterre:o ,:o et:o le:o roi:n rit:v et:o rit:v .:o"
+  },
+  {
+   "n": 248,
+   "en": "\"So small a people, and so great a war!\" said the king of the giants.",
+   "tgt": "«:o Un:o peuple:n si:a petit:a ,:o et:o une:o si:a grande:a guerre:n !:o »:o dit:v le:o roi:n des:o géants:n .:o"
+  },
+  {
+   "n": 249,
+   "chapter": "The Bowl of Cream",
+   "en": "Each day, Gulliver ate dinner at the queen's great table.",
+   "tgt": "Chaque:o jour:n ,:o Gulliver:o dînait:v à:o la:o grande:a table:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 250,
+   "en": "His little chair and table stood by the queen's great plate.",
+   "tgt": "Sa:o petite:a chaise:n et:o sa:o table:n se:o trouvaient:v près:o de:o la:o grande:a assiette:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 251,
+   "en": "A dwarf lived at the court of the queen too.",
+   "tgt": "Un:o nain:n vivait:v à:o la:o cour:n de:o la:o reine:n aussi:a .:o"
+  },
+  {
+   "n": 252,
+   "en": "Before Gulliver came, the dwarf was the smallest man of the court.",
+   "tgt": "Avant:o que:o Gulliver:o arrive:v ,:o le:o nain:n était:v le:o plus:o petit:a homme:n de:o la:o cour:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "But the court only watched Gulliver now, and no one watched the dwarf.",
+   "tgt": "Mais:o la:o cour:n ne:o regardait:v que:o Gulliver:o maintenant:a ,:o et:o personne:o ne:o regardait:v le:o nain:n .:o"
+  },
+  {
+   "n": 254,
+   "en": "The dwarf was angry at the little man.",
+   "tgt": "Le:o nain:n était:v en:o colère:n contre:o le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 255,
+   "en": "One day at dinner, a great silver bowl of sweet cream stood on the table.",
+   "tgt": "Un:o jour:n à:o dîner:n ,:o un:o grand:a bol:n d':o argent:n plein:a de:o crème:n sucrée:a se:o trouvait:v sur:o la:o table:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "The cream in the bowl was deep for a little man.",
+   "tgt": "La:o crème:n dans:o le:o bol:n était:v profonde:a pour:o un:o petit:a homme:n .:o"
+  },
+  {
+   "n": 257,
+   "en": "The dwarf took Gulliver from his chair and dropped him into the cream.",
+   "tgt": "Le:o nain:n prit:v Gulliver:o de:o sa:o chaise:n et:o le:o laissa:v tomber:v dans:o la:o crème:n .:o"
+  },
+  {
+   "n": 258,
+   "en": "Gulliver went down into the deep cream.",
+   "tgt": "Gulliver:o descendit:v dans:o la:o crème:n profonde:a .:o"
+  },
+  {
+   "n": 259,
+   "en": "But Gulliver had swum in the great sea, and he could swim in cream.",
+   "tgt": "Mais:o Gulliver:o avait:v nagé:v dans:o la:o grande:a mer:n ,:o et:o il:o pouvait:v nager:v dans:o la:o crème:n .:o"
+  },
+  {
+   "n": 260,
+   "en": "He held his head up and swam in the cream.",
+   "tgt": "Il:o maintint:v sa:o tête:n au-dessus:a et:o nagea:v dans:o la:o crème:n .:o"
+  },
+  {
+   "n": 261,
+   "en": "The daughter saw him and ran to the table.",
+   "tgt": "La:o fille:n le:o vit:v et:o courut:v à:o la:o table:n .:o"
+  },
+  {
+   "n": 262,
+   "en": "She put her great spoon into the cream, and Gulliver climbed on.",
+   "tgt": "Elle:o plongea:v sa:o grande:a cuillère:n dans:o la:o crème:n ,:o et:o Gulliver:o monta:v dessus:a .:o"
+  },
+  {
+   "n": 263,
+   "en": "The daughter lifted Gulliver out and made him dry with soft cloth.",
+   "tgt": "La:o fille:n sortit:v Gulliver:o et:o le:o sécha:v avec:o un:o tissu:n doux:a .:o"
+  },
+  {
+   "n": 264,
+   "en": "The queen was angry at the dwarf.",
+   "tgt": "La:o reine:n était:v en:o colère:n contre:o le:o nain:n .:o"
+  },
+  {
+   "n": 265,
+   "en": "She sent the dwarf away from the court that day.",
+   "tgt": "Elle:o renvoya:v le:o nain:n de:o la:o cour:n ce:o jour-là:a .:o"
+  },
+  {
+   "n": 266,
+   "en": "But after that, the daughter watched Gulliver with more care at dinner.",
+   "tgt": "Mais:o après:o cela:o ,:o la:o fille:n surveilla:v Gulliver:o avec:o plus:o de:o soin:n au:o dîner:n .:o"
+  },
+  {
+   "n": 267,
+   "chapter": "The Monkey on the Roof",
+   "en": "One warm morning, the queen called the daughter away.",
+   "tgt": "Un:o matin:n chaud:a ,:o la:o reine:n appela:v la:o fille:n loin:a .:o"
+  },
+  {
+   "n": 268,
+   "en": "The window of Gulliver's little room stood open to the garden.",
+   "tgt": "La:o fenêtre:n de:o la:o petite:a chambre:n de:o Gulliver:o donnait:v ouverte:a sur:o le:o jardin:n .:o"
+  },
+  {
+   "n": 269,
+   "en": "A monkey lived in the trees of the palace garden.",
+   "tgt": "Un:o singe:n vivait:v dans:o les:o arbres:n du:o jardin:n du:o palais:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "The monkey came down, ran over the wall, and climbed in at the open window.",
+   "tgt": "Le:o singe:n descendit:v ,:o courut:v par-dessus:o le:o mur:n ,:o et:o entra:v par:o la:o fenêtre:n ouverte:a .:o"
+  },
+  {
+   "n": 271,
+   "en": "It found Gulliver in the little room.",
+   "tgt": "Il:o trouva:v Gulliver:o dans:o la:o petite:a chambre:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "The monkey took Gulliver up in one arm, as monkeys hold their young.",
+   "tgt": "Le:o singe:n prit:v Gulliver:o dans:o un:o bras:n ,:o comme:o les:o singes:n tiennent:v leurs:o petits:n .:o"
+  },
+  {
+   "n": 273,
+   "en": "Gulliver saw the great teeth and could not get free.",
+   "tgt": "Gulliver:o vit:v les:o grandes:a dents:n et:o ne:o put:v pas:o se:o libérer:v .:o"
+  },
+  {
+   "n": 274,
+   "en": "It put food from its mouth into Gulliver's mouth.",
+   "tgt": "Il:o mit:v de:o la:o nourriture:n de:o sa:o bouche:n dans:o la:o bouche:n de:o Gulliver:o .:o"
+  },
+  {
+   "n": 275,
+   "en": "The monkey jumped out of the window with Gulliver and climbed up the palace wall.",
+   "tgt": "Le:o singe:n sauta:v par:o la:o fenêtre:n avec:o Gulliver:o et:o grimpa:v le:o long:o du:o mur:n du:o palais:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "It ran up and up, to the top of the palace roof.",
+   "tgt": "Il:o courut:v de:o plus:o en:o plus:o haut:a ,:o jusqu':o au:o sommet:n du:o toit:n du:o palais:n .:o"
+  },
+  {
+   "n": 277,
+   "en": "The garden lay far below the little man.",
+   "tgt": "Le:o jardin:n était:v loin:a en:o dessous:o du:o petit:a homme:n .:o"
+  },
+  {
+   "n": 278,
+   "en": "Great screams came from the garden below.",
+   "tgt": "De:o grands:a cris:n vinrent:v du:o jardin:n en:o bas:a .:o"
+  },
+  {
+   "n": 279,
+   "en": "The daughter ran out and called for the little man.",
+   "tgt": "La:o fille:n courut:v dehors:a et:o appela:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 280,
+   "en": "Men came with long ladders and climbed to the roof.",
+   "tgt": "Des:o hommes:n vinrent:v avec:o de:o longues:a échelles:n et:o montèrent:v sur:o le:o toit:n .:o"
+  },
+  {
+   "n": 281,
+   "en": "The monkey saw the men, set Gulliver down on the roof, and ran away over the wall.",
+   "tgt": "Le:o singe:n vit:v les:o hommes:n ,:o posa:v Gulliver:o sur:o le:o toit:n ,:o et:o s':o enfuit:v par-dessus:o le:o mur:n .:o"
+  },
+  {
+   "n": 282,
+   "en": "One of the queen's men put Gulliver in his pocket and climbed down the ladder.",
+   "tgt": "Un:o des:o hommes:n de:o la:o reine:n mit:v Gulliver:o dans:o sa:o poche:n et:o descendit:v l':o échelle:n .:o"
+  },
+  {
+   "n": 283,
+   "en": "The daughter held Gulliver, and her great tears fell on him.",
+   "tgt": "La:o fille:n tint:v Gulliver:o ,:o et:o ses:o grandes:a larmes:n tombèrent:v sur:o lui:o .:o"
+  },
+  {
+   "n": 284,
+   "en": "Gulliver was sick for two days from the monkey's food.",
+   "tgt": "Gulliver:o fut:v malade:a pendant:o deux:o jours:n à:o cause:n de:o la:o nourriture:n du:o singe:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "After that day, the window of the little room stood open no more.",
+   "tgt": "Après:o ce:o jour:n ,:o la:o fenêtre:n de:o la:o petite:a chambre:n resta:v ouverte:a plus:o jamais:o .:o"
+  },
+  {
+   "n": 286,
+   "chapter": "The Eagle and the Box",
+   "en": "One day, the king and queen went down to the sea and took Gulliver too.",
+   "tgt": "Un:o jour:n ,:o le:o roi:n et:o la:o reine:n descendirent:v vers:o la:o mer:n et:o emmenèrent:v Gulliver:o aussi:a .:o"
+  },
+  {
+   "n": 287,
+   "en": "Gulliver had not seen the sea for two years, and he wanted to see the waves again.",
+   "tgt": "Gulliver:o n':o avait:v pas:o vu:v la:o mer:n depuis:o deux:o ans:n ,:o et:o il:o voulait:v revoir:v les:o vagues:n .:o"
+  },
+  {
+   "n": 288,
+   "en": "But that day the daughter was sick and could not come down to the shore.",
+   "tgt": "Mais:o ce:o jour:n -là:o ,:o la:o fille:n était:v malade:a et:o ne:o pouvait:v pas:o descendre:v au:o rivage:n .:o"
+  },
+  {
+   "n": 289,
+   "en": "A boy carried Gulliver's box down to the rocks by the sea.",
+   "tgt": "Un:o garçon:n porta:v la:o boîte:n de:o Gulliver:o jusqu':o aux:o rochers:n au:o bord:n de:o la:o mer:n .:o"
+  },
+  {
+   "n": 290,
+   "en": "Gulliver was tired, and he lay down on the bed in the box.",
+   "tgt": "Gulliver:o était:v fatigué:a ,:o et:o il:o s':o allongea:v sur:o le:o lit:n dans:o la:o boîte:n .:o"
+  },
+  {
+   "n": 291,
+   "en": "The boy set the box on the rocks and walked away to look for birds' eggs.",
+   "tgt": "Le:o garçon:n posa:v la:o boîte:n sur:o les:o rochers:n et:o s':o éloigna:v pour:o chercher:v des:o œufs:n d':o oiseaux:n .:o"
+  },
+  {
+   "n": 292,
+   "en": "Gulliver woke when great wings came down over the box.",
+   "tgt": "Gulliver:o se:o réveilla:v quand:o de:o grandes:a ailes:n descendirent:v sur:o la:o boîte:n .:o"
+  },
+  {
+   "n": 293,
+   "en": "All at once, the box rose fast into the air.",
+   "tgt": "Tout:o à:o coup:o ,:o la:o boîte:n monta:v vite:a dans:o l':o air:n .:o"
+  },
+  {
+   "n": 294,
+   "en": "An eagle had taken the box by the great iron ring.",
+   "tgt": "Un:o aigle:n avait:v saisi:v la:o boîte:n par:o le:o grand:a anneau:n de:o fer:n .:o"
+  },
+  {
+   "n": 295,
+   "en": "The eagle flew high over the sea with the box.",
+   "tgt": "L':o aigle:n vola:v haut:a au-dessus:o de:o la:o mer:n avec:o la:o boîte:n .:o"
+  },
+  {
+   "n": 296,
+   "en": "Gulliver looked out of the window and saw only air and sea.",
+   "tgt": "Gulliver:o regarda:v par:o la:o fenêtre:n et:o ne:o vit:v que:o de:o l':o air:n et:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 297,
+   "en": "More great wings came, and other birds flew at the eagle.",
+   "tgt": "De:o grandes:a ailes:n arrivèrent:v ,:o et:o d':o autres:o oiseaux:n volèrent:v vers:o l':o aigle:n .:o"
+  },
+  {
+   "n": 298,
+   "en": "The eagle let the box go.",
+   "tgt": "L':o aigle:n lâcha:v la:o boîte:n .:o"
+  },
+  {
+   "n": 299,
+   "en": "The box fell down and down through the air.",
+   "tgt": "La:o boîte:n tomba:v de:o plus:o en:o plus:o bas:a dans:o l':o air:n .:o"
+  },
+  {
+   "n": 300,
+   "en": "It hit the sea and went under, but the box came up again.",
+   "tgt": "Elle:o heurta:v la:o mer:n et:o passa:v dessous:o ,:o mais:o la:o boîte:n remonta:v .:o"
+  },
+  {
+   "n": 301,
+   "en": "The box was good dry wood, and it did not sink.",
+   "tgt": "La:o boîte:n était:v faite:v de:o bon:a bois:n sec:a ,:o et:o elle:o ne:o coula:v pas:o .:o"
+  },
+  {
+   "n": 302,
+   "en": "Gulliver held fast in the box and was not hurt.",
+   "tgt": "Gulliver:o se:o tint:v fermement:a dans:o la:o boîte:n et:o ne:o fut:v pas:o blessé:a .:o"
+  },
+  {
+   "n": 303,
+   "en": "The waves lifted the box up and down on the great sea.",
+   "tgt": "Les:o vagues:n soulevèrent:v la:o boîte:n en:o haut:a et:o en:o bas:a sur:o la:o grande:a mer:n .:o"
+  },
+  {
+   "n": 304,
+   "chapter": "Home for Good",
+   "en": "Men on a great ship of England saw the box on the waves.",
+   "tgt": "Des:o hommes:n sur:o un:o grand:a navire:n d':o Angleterre:o virent:v la:o boîte:n sur:o les:o vagues:n .:o"
+  },
+  {
+   "n": 305,
+   "en": "Sailors came out with hooks and ropes.",
+   "tgt": "Des:o marins:n sortirent:v avec:o des:o crochets:n et:o des:o cordes:n .:o"
+  },
+  {
+   "n": 306,
+   "en": "The sailors put the hooks in the great ring and pulled the box to the ship.",
+   "tgt": "Les:o marins:n mirent:v les:o crochets:n dans:o le:o grand:a anneau:n et:o tirèrent:v la:o boîte:n vers:o le:o navire:n .:o"
+  },
+  {
+   "n": 307,
+   "en": "Gulliver called from the box, and the sailors answered him.",
+   "tgt": "Gulliver:o appela:v depuis:o la:o boîte:n ,:o et:o les:o marins:n lui:o répondirent:v .:o"
+  },
+  {
+   "n": 308,
+   "en": "The sailors cut a hole in the roof of the box.",
+   "tgt": "Les:o marins:n découpèrent:v un:o trou:n dans:o le:o toit:n de:o la:o boîte:n .:o"
+  },
+  {
+   "n": 309,
+   "en": "Gulliver came out of the box into the wind of the sea.",
+   "tgt": "Gulliver:o sortit:v de:o la:o boîte:n dans:o le:o vent:n de:o la:o mer:n .:o"
+  },
+  {
+   "n": 310,
+   "en": "The captain gave him hot food and hot drink.",
+   "tgt": "Le:o capitaine:n lui:o donna:v de:o la:o nourriture:n chaude:a et:o une:o boisson:n chaude:a .:o"
+  },
+  {
+   "n": 311,
+   "en": "Gulliver told the captain of the land of the giants.",
+   "tgt": "Gulliver:o raconta:v au:o capitaine:n l':o histoire:n du:o pays:n des:o géants:n .:o"
+  },
+  {
+   "n": 312,
+   "en": "The captain laughed, as the other captain had laughed at the little cows.",
+   "tgt": "Le:o capitaine:n rit:v ,:o comme:o l':o autre:o capitaine:n avait:v ri:v des:o petites:a vaches:n .:o"
+  },
+  {
+   "n": 313,
+   "en": "But the sailors looked at the box, at the ring, and at the strange wood.",
+   "tgt": "Mais:o les:o marins:n regardèrent:v la:o boîte:n ,:o la:o bague:n ,:o et:o le:o bois:n étrange:a .:o"
+  },
+  {
+   "n": 314,
+   "en": "\"No man of England made this box,\" said the captain.",
+   "tgt": "«:o Aucun:o homme:n d':o Angleterre:o n':o a:v fabriqué:v cette:o boîte:n ,:o »:o dit:v -il:o le:o capitaine:n .:o"
+  },
+  {
+   "n": 315,
+   "en": "The ship sailed for England, week after week.",
+   "tgt": "Le:o navire:n navigua:v vers:o l':o Angleterre:o ,:o semaine:n après:o semaine:n .:o"
+  },
+  {
+   "n": 316,
+   "en": "At home in England, Gulliver's wife laughed and cried again to see him.",
+   "tgt": "Chez:o lui:o en:o Angleterre:o ,:o la:o femme:n de:o Gulliver:o rit:v et:o pleura:v de:o nouveau:a en:o le:o voyant:v .:o"
+  },
+  {
+   "n": 317,
+   "en": "But the people of England looked strange and small to Gulliver.",
+   "tgt": "Mais:o les:o gens:n d':o Angleterre:o semblaient:v étranges:a et:o petits:a à:o Gulliver:o .:o"
+  },
+  {
+   "n": 318,
+   "en": "He walked with great care in the town, for the men looked small as children.",
+   "tgt": "Il:o marchait:v avec:o grand:a soin:n dans:o la:o ville:n ,:o car:o les:o hommes:n semblaient:v petits:a comme:o des:o enfants:n .:o"
+  },
+  {
+   "n": 319,
+   "en": "He bent his head at his own little door, for he had lived with giants.",
+   "tgt": "Il:o baissa:v la:o tête:n à:o sa:o propre:a petite:a porte:n ,:o car:o il:o avait:v vécu:v avec:o des:o géants:n .:o"
+  },
+  {
+   "n": 320,
+   "en": "His wife kissed him and asked him to go to sea no more.",
+   "tgt": "Sa:o femme:n l':o embrassa:v et:o lui:o demanda:v de:o ne:o plus:o aller:v en:o mer:n .:o"
+  },
+  {
+   "n": 321,
+   "en": "Gulliver stayed home with his wife for good.",
+   "tgt": "Gulliver:o resta:v chez:o lui:o avec:o sa:o femme:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 322,
+   "en": "At night, by the fire, he told his children of little Lilliput and the giants of Brobdingnag.",
+   "tgt": "Le:o soir:n ,:o près:o du:o feu:n ,:o il:o raconta:v à:o ses:o enfants:n le:o petit:a Lilliput:o et:o les:o géants:n de:o Brobdingnag:o .:o"
+  }
+ ]
+}

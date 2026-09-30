@@ -1,0 +1,1474 @@
+{
+ "slug": "sinbad_the_sailor",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Porter at the Gate",
+   "en": "A poor porter lived in Baghdad, and his name was Sinbad.",
+   "tgt": "Un:o pauvre:a porteur:n vivait:v à:o Bagdad:o ,:o et:o son:o nom:n était:v Sinbad:o .:o"
+  },
+  {
+   "n": 2,
+   "en": "Each day he carried heavy loads in the hot streets.",
+   "tgt": "Chaque:o jour:n il:o portait:v de:o lourdes:a charges:n dans:o les:o rues:n chaudes:a .:o"
+  },
+  {
+   "n": 3,
+   "en": "One day he set his load down at the gate of a great house.",
+   "tgt": "Un:o jour:n il:o posa:v sa:o charge:n devant:o la:o porte:n d':o une:o grande:a maison:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "He heard a great feast inside.",
+   "tgt": "Il:o entendit:v une:o grande:a festin:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"The master of this house rests all day,\" the porter said.",
+   "tgt": "«:o Le:o maître:n de:o cette:o maison:n se:o repose:v toute:o la:o journée:n ,:o »:o dit:v le:o porteur:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"I walk the hot streets under heavy loads, and my food is bread.\"",
+   "tgt": "«:o Je:o marche:v dans:o les:o rues:n chaudes:a sous:o de:o lourdes:a charges:n ,:o et:o ma:o nourriture:n est:v du:o pain:n .:o »:o"
+  },
+  {
+   "n": 7,
+   "en": "\"Why must one man walk all day, and one man rest and eat?\"",
+   "tgt": "«:o Pourquoi:o un:o homme:n doit-il:v marcher:v toute:o la:o journée:n ,:o et:o un:o autre:o se:o reposer:v et:o manger:v ?:o »:o"
+  },
+  {
+   "n": 8,
+   "en": "A servant heard him and went inside.",
+   "tgt": "Un:o serviteur:n l':o entendit:v et:o entra:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "He came back and said, \"My master asks for you.\"",
+   "tgt": "Il:o revint:v et:o dit:v ,:o «:o Mon:o maître:n vous:o demande:v .:o »:o"
+  },
+  {
+   "n": 10,
+   "en": "The porter went in and stood in a great hall full of guests.",
+   "tgt": "Le:o porteur:n entra:v et:o se:o tint:v dans:o une:o grande:a salle:n pleine:a d':o invités:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "A rich man sat at the feast.",
+   "tgt": "Un:o homme:n riche:a était:v assis:a au:o festin:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "\"What is your name?\" the man asked.",
+   "tgt": "«:o Quel:o est:v votre:o nom:n ?:o »:o demanda:v l':o homme:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "\"I am Sinbad the porter,\" said the porter.",
+   "tgt": "«:o Je:o suis:v Sinbad:o le:o porteur:n ,:o »:o dit:v le:o porteur:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"Sinbad is my name too, for I am Sinbad the Sailor,\" said the man.",
+   "tgt": "«:o Sinbad:o est:v mon:o nom:n aussi:a ,:o car:o je:o suis:v Sinbad:o le:o Marin:n ,:o »:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"You think the sea gave me my gold and this great house.\"",
+   "tgt": "«:o Vous:o pensez:v que:o la:o mer:n m':o a:v donné:v mon:o or:n et:o cette:o grande:a maison:n .:o »:o"
+  },
+  {
+   "n": 16,
+   "en": "\"Seven times I went to sea, and seven times the sea nearly killed me.\"",
+   "tgt": "«:o Sept:o fois:n j':o allai:v en:o mer:n ,:o et:o sept:o fois:n la:o mer:n faillit:v me:o tuer:v .:o »:o"
+  },
+  {
+   "n": 17,
+   "en": "\"Sit and eat, and hear the tales of my seven voyages.\"",
+   "tgt": "«:o Asseyez-vous:v ,:o mangez:v ,:o et:o écoutez:v les:o récits:n de:o mes:o sept:o voyages:n .:o »:o"
+  },
+  {
+   "n": 18,
+   "en": "The porter sat down, and Sinbad the Sailor began the first tale.",
+   "tgt": "Le:o porteur:n s':o assit:v ,:o et:o Sinbad:o le:o Marin:n commença:v le:o premier:a récit:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The father of Sinbad the Sailor was a rich man of Baghdad.",
+   "tgt": "Le:o père:n de:o Sinbad:o le:o Marin:n était:v un:o homme:n riche:a de:o Bagdad:o .:o"
+  },
+  {
+   "n": 20,
+   "en": "He died and left young Sinbad his gold, his houses, and his land.",
+   "tgt": "Il:o mourut:v et:o laissa:v au:o jeune:a Sinbad:o son:o or:n ,:o ses:o maisons:n ,:o et:o sa:o terre:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "Young Sinbad feasted with rich young men, and in one year the gold was gone.",
+   "tgt": "Le:o jeune:a Sinbad:o festoya:v avec:o de:o riches:a jeunes:a hommes:n ,:o et:o en:o un:o an:n l':o or:n disparut:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "One morning he saw what was left, and he was afraid.",
+   "tgt": "Un:o matin:n il:o vit:v ce:o qui:o restait:v ,:o et:o il:o fut:v effrayé:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "He sold the houses and the land and gave the gold for goods to trade.",
+   "tgt": "Il:o vendit:v les:o maisons:n et:o la:o terre:n et:o donna:v l':o or:n pour:o des:o marchandises:n à:o vendre:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "With his goods he went on a ship full of merchants.",
+   "tgt": "Avec:o ses:o marchandises:n il:o monta:v sur:o un:o navire:n plein:a de:o marchands:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The ship sailed for many days to far lands and far islands.",
+   "tgt": "Le:o navire:n navigua:v pendant:o de:o nombreux:a jours:n vers:o des:o terres:n lointaines:a et:o des:o îles:n lointaines:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "At the far islands Sinbad sold his goods, and the trade made him rich.",
+   "tgt": "Aux:o îles:n lointaines:a Sinbad:o vendit:v ses:o marchandises:n ,:o et:o le:o commerce:n le:o rendit:v riche:a .:o"
+  },
+  {
+   "n": 27,
+   "en": "One day the ship came to an island for water.",
+   "tgt": "Un:o jour:n le:o navire:n arriva:v à:o une:o île:n pour:o chercher:v de:o l':o eau:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "The men went ashore with food and a wooden tub, and made a fire on the sand.",
+   "tgt": "Les:o hommes:n débarquèrent:v avec:o de:o la:o nourriture:n et:o un:o baquet:n en:o bois:n ,:o et:o allumèrent:v un:o feu:n sur:o le:o sable:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "But the island was not land at all.",
+   "tgt": "Mais:o l':o île:n n':o était:v pas:o de:o la:o terre:n du:o tout:a .:o"
+  },
+  {
+   "n": 30,
+   "en": "It was a great whale, and it had slept so long that sand and trees grew on its back.",
+   "tgt": "C':o était:v une:o grande:a baleine:n ,:o et:o elle:o avait:v dormi:v si:a longtemps:a que:o du:o sable:n et:o des:o arbres:n avaient:v poussé:v sur:o son:o dos:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The fire woke the whale, and the sand began to move under the men.",
+   "tgt": "Le:o feu:n réveilla:v la:o baleine:n ,:o et:o le:o sable:n commença:v à:o bouger:v sous:o les:o hommes:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"To the ship!\" said the captain.",
+   "tgt": "«:o Au:o navire:n !:o »:o dit:v -il:o le:o capitaine:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The whale dived, and the island went down under the water.",
+   "tgt": "La:o baleine:n plongea:v ,:o et:o l':o île:n s':o enfonça:v sous:o l':o eau:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The men went back to the ship, but the waves had carried Sinbad far from it.",
+   "tgt": "Les:o hommes:n retournèrent:v au:o navire:n ,:o mais:o les:o vagues:n avaient:v emporté:v Sinbad:o loin:a de:o lui:o .:o"
+  },
+  {
+   "n": 35,
+   "en": "He took hold of the wooden tub, and the ship went on and left him.",
+   "tgt": "Il:o s':o agrippa:v au:o baquet:n en:o bois:n ,:o et:o le:o navire:n continua:v sa:o route:n et:o l':o abandonna:v .:o"
+  },
+  {
+   "n": 36,
+   "en": "All night Sinbad held the tub.",
+   "tgt": "Toute:o la:o nuit:n ,:o Sinbad:o tint:v le:o baquet:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "In the morning the waves left him on the sand of a far island.",
+   "tgt": "Le:o matin:n ,:o les:o vagues:n le:o laissèrent:v sur:o le:o sable:n d':o une:o île:n lointaine:a .:o"
+  },
+  {
+   "n": 38,
+   "chapter": "The King's Harbor",
+   "en": "Men of the island king found Sinbad on the sand.",
+   "tgt": "Des:o hommes:n du:o roi:n de:o l':o île:n trouvèrent:v Sinbad:o sur:o le:o sable:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The men gave him food and water and took him to the king.",
+   "tgt": "Les:o hommes:n lui:o donnèrent:v de:o la:o nourriture:n et:o de:o l':o eau:n et:o le:o conduisirent:v vers:o le:o roi:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "Sinbad told the king of the whale, the tub, and the lost ship.",
+   "tgt": "Sinbad:o parla:v au:o roi:n de:o la:o baleine:n ,:o du:o baquet:n et:o du:o navire:n perdu:a .:o"
+  },
+  {
+   "n": 41,
+   "en": "The king was glad and gave Sinbad work at the harbor.",
+   "tgt": "Le:o roi:n fut:v content:a et:o donna:v à:o Sinbad:o du:o travail:n au:o port:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Each day he saw the ships that came in from the sea.",
+   "tgt": "Chaque:o jour:n il:o voyait:v les:o navires:n qui:o entraient:v depuis:o la:o mer:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "He wanted to go home to Baghdad.",
+   "tgt": "Il:o voulait:v rentrer:v chez:o lui:o à:o Bagdad:o .:o"
+  },
+  {
+   "n": 44,
+   "en": "One day a ship came in that Sinbad knew.",
+   "tgt": "Un:o jour:n un:o navire:n entra:v que:o Sinbad:o connaissait:v .:o"
+  },
+  {
+   "n": 45,
+   "en": "It was his own ship, the ship that had left him on the whale.",
+   "tgt": "C':o était:v son:o propre:a navire:n ,:o le:o navire:n qui:o l':o avait:v laissé:v sur:o la:o baleine:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"I am Sinbad,\" he said to the captain.",
+   "tgt": "«:o Je:o suis:v Sinbad:o ,:o »:o dit:v -il:o au:o capitaine:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"Sinbad went down with the whale,\" said the captain.",
+   "tgt": "«:o Sinbad:o sombra:v avec:o la:o baleine:n ,:o »:o dit:v le:o capitaine:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "\"Who are you?\"",
+   "tgt": "«:o Qui:o êtes:v -vous:o ?:o »:o"
+  },
+  {
+   "n": 49,
+   "en": "\"Open the bales in your ship, and I will say what is in each one.\"",
+   "tgt": "«:o Ouvrez:v les:o balles:n dans:o votre:o navire:n ,:o et:o je:o dirai:v ce:o qui:o est:v dans:o chacune:o .:o »:o"
+  },
+  {
+   "n": 50,
+   "en": "Sinbad said what was in each bale before the men opened it.",
+   "tgt": "Sinbad:o dit:v ce:o qui:o était:v dans:o chaque:o balle:n avant:o que:o les:o hommes:n l':o ouvrent:v .:o"
+  },
+  {
+   "n": 51,
+   "en": "At that the captain knew him, and he gave back all the goods.",
+   "tgt": "À:o cela:o le:o capitaine:n le:o reconnut:v ,:o et:o il:o lui:o rendit:v tous:o les:o biens:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "Sinbad sold his goods and was a rich man again.",
+   "tgt": "Sinbad:o vendit:v ses:o biens:n et:o fut:v de:o nouveau:a un:o homme:n riche:a .:o"
+  },
+  {
+   "n": 53,
+   "en": "Sinbad gave rich gifts to the king, and the king gave rich gifts to Sinbad.",
+   "tgt": "Sinbad:o offrit:v de:o riches:a cadeaux:n au:o roi:n ,:o et:o le:o roi:n offrit:v de:o riches:a cadeaux:n à:o Sinbad:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "He sailed home to Baghdad with more gold than he had lost.",
+   "tgt": "Il:o rentra:v chez:o lui:o à:o Bagdad:o avec:o plus:o d':o or:n qu':o il:o en:o avait:v perdu:v .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"That was the first voyage,\" said Sinbad the Sailor.",
+   "tgt": "«:o C':o était:v le:o premier:a voyage:n ,:o »:o dit:v Sinbad:o le:o Marin:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "He gave the porter 100 pieces of gold and said, \"Come again and hear more.\"",
+   "tgt": "Il:o donna:v au:o porteur:n 100:o pièces:n d':o or:n et:o dit:v ::o «:o Reviens:v et:o entends:v davantage:a .:o »:o"
+  },
+  {
+   "n": 57,
+   "en": "On the second night, the porter came back, and Sinbad the Sailor told of the second voyage.",
+   "tgt": "Le:o deuxième:a soir:n ,:o le:o porteur:n revint:v ,:o et:o Sinbad:o le:o Marin:o raconta:v le:o deuxième:a voyage:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "For a year Sinbad rested in his great house, but in time he wanted the sea and far lands again.",
+   "tgt": "Pendant:o un:o an:n Sinbad:o se:o reposa:v dans:o sa:o grande:a maison:n ,:o mais:o avec:o le:o temps:n il:o voulut:v de:o nouveau:a la:o mer:n et:o des:o terres:n lointaines:a .:o"
+  },
+  {
+   "n": 59,
+   "en": "He took goods and went to sea with a ship of merchants.",
+   "tgt": "Il:o prit:v des:o marchandises:n et:o alla:v en:o mer:n avec:o un:o navire:n de:o marchands:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "One day the ship came to a green island.",
+   "tgt": "Un:o jour:n le:o navire:n arriva:v à:o une:o île:n verte:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "Sinbad ate and slept under a tree.",
+   "tgt": "Sinbad:o mangea:v et:o dormit:v sous:o un:o arbre:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "He woke, and the ship was gone.",
+   "tgt": "Il:o se:o réveilla:v ,:o et:o le:o navire:n était:v parti:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "No man had seen him under the tree, and the merchants had sailed on.",
+   "tgt": "Aucun:o homme:n ne:o l':o avait:v vu:v sous:o l':o arbre:n ,:o et:o les:o marchands:n étaient:v partis:a .:o"
+  },
+  {
+   "n": 64,
+   "en": "Sinbad climbed a high tree and saw no ship on the sea.",
+   "tgt": "Sinbad:o grimpa:v dans:o un:o grand:a arbre:n et:o ne:o vit:v aucun:o navire:n sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "He saw a great white thing far over the trees.",
+   "tgt": "Il:o vit:v une:o grande:a chose:n blanche:a loin:a au-delà:o des:o arbres:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The sun went low, and a great bird came down over the island.",
+   "tgt": "Le:o soleil:n descendit:v bas:a ,:o et:o un:o grand:a oiseau:n descendit:v sur:o l':o île:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Its great wings made the island dark.",
+   "tgt": "Ses:o grandes:a ailes:n plongèrent:v l':o île:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The bird sat down on the white thing, and Sinbad knew it was an egg.",
+   "tgt": "L':o oiseau:n se:o posa:v sur:o la:o chose:n blanche:a ,:o et:o Sinbad:o sut:v que:o c':o était:v un:o œuf:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "He knew the bird too, from tales the sailors told: it was a roc.",
+   "tgt": "Il:o connaissait:v aussi:a l':o oiseau:n ,:o grâce:o aux:o récits:n que:o les:o marins:n racontaient:v ::o c':o était:v un:o roc:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The roc was a bird so great that it could take an elephant in its claws.",
+   "tgt": "Le:o roc:n était:v un:o oiseau:n si:a grand:a qu':o il:o pouvait:v prendre:v un:o éléphant:n dans:o ses:o griffes:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "A roc could fly him from the island.",
+   "tgt": "Un:o roc:n pouvait:v le:o transporter:v hors:o de:o l':o île:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "In the dark, Sinbad tied himself with his turban to the leg of the bird and did not move.",
+   "tgt": "Dans:o l':o obscurité:n ,:o Sinbad:o s':o attacha:v avec:o son:o turban:n à:o la:o patte:n de:o l':o oiseau:n et:o ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 73,
+   "en": "In the morning the roc flew high over far lands, with Sinbad on its leg.",
+   "tgt": "Le:o matin:n ,:o le:o roc:n vola:v haut:a au-dessus:o de:o terres:n lointaines:a ,:o avec:o Sinbad:o sur:o sa:o patte:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "It came down in a great valley, and Sinbad made himself free of the leg.",
+   "tgt": "Il:o descendit:v dans:o une:o grande:a vallée:n ,:o et:o Sinbad:o se:o libéra:v de:o la:o patte:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The roc took a great snake in its claws and flew over walls that no man could climb.",
+   "tgt": "Le:o roc:n prit:v un:o grand:a serpent:n dans:o ses:o griffes:n et:o vola:v par-dessus:o des:o murs:n qu':o aucun:o homme:n ne:o pouvait:v escalader:v .:o"
+  },
+  {
+   "n": 76,
+   "chapter": "The Valley of Diamonds",
+   "en": "The ground of the valley was all stones.",
+   "tgt": "Le:o sol:n de:o la:o vallée:n était:v tout:a couvert:a de:o pierres:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "Sinbad took up a stone, and it was a diamond.",
+   "tgt": "Sinbad:o ramassa:v une:o pierre:n ,:o et:o c':o était:v un:o diamant:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "The valley was full of diamonds, more than a man could hold.",
+   "tgt": "La:o vallée:n était:v pleine:a de:o diamants:n ,:o plus:o qu':o un:o homme:n n':o en:o pouvait:v porter:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "In Baghdad, one stone from this valley could make a poor man rich.",
+   "tgt": "À:o Bagdad:o ,:o une:o pierre:n de:o cette:o vallée:n pouvait:v rendre:v un:o homme:n pauvre:a riche:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "But a man could not eat diamonds, and Sinbad wanted bread and water more than stones.",
+   "tgt": "Mais:o un:o homme:n ne:o pouvait:v pas:o manger:v des:o diamants:n ,:o et:o Sinbad:o voulait:v du:o pain:n et:o de:o l':o eau:n plus:o que:o des:o pierres:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "The walls of the valley had holes, and in the holes lived great snakes.",
+   "tgt": "Les:o murs:n de:o la:o vallée:n avaient:v des:o trous:n ,:o et:o dans:o les:o trous:n vivaient:v de:o grands:a serpents:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Each snake was as long as a ship.",
+   "tgt": "Chaque:o serpent:n était:v aussi:a long:a qu':o un:o navire:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "By day the snakes hid in the holes, for fear of the great birds.",
+   "tgt": "Le:o jour:n ,:o les:o serpents:n se:o cachaient:v dans:o les:o trous:n ,:o par:o peur:n des:o grands:a oiseaux:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "The sun went low, and the snakes came out of the holes.",
+   "tgt": "Le:o soleil:n descendit:v bas:a ,:o et:o les:o serpents:n sortirent:v des:o trous:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Sinbad found a small hole with no snake in it.",
+   "tgt": "Sinbad:o trouva:v un:o petit:a trou:n où:o il:o n':o y:o avait:v aucun:o serpent:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "He went in and put stones all around him.",
+   "tgt": "Il:o entra:v et:o plaça:v des:o pierres:n tout:a autour:a de:o lui:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "All night long the snakes went around and around the stones, and Sinbad did not sleep.",
+   "tgt": "Toute:a la:o nuit:n les:o serpents:n tournèrent:v et:o tournèrent:v autour:a des:o pierres:n ,:o et:o Sinbad:o ne:o dormit:v pas:o .:o"
+  },
+  {
+   "n": 88,
+   "en": "In the morning the snakes went back into the holes.",
+   "tgt": "Le:o matin:n les:o serpents:n retournèrent:v dans:o les:o trous:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Sinbad came out from the stones.",
+   "tgt": "Sinbad:o sortit:v de:o derrière:o les:o pierres:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "A great piece of meat fell down on the stones.",
+   "tgt": "Un:o grand:a morceau:n de:o viande:n tomba:v sur:o les:o pierres:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "Soon one more piece fell, and one more.",
+   "tgt": "Bientôt:a un:o autre:a morceau:n tomba:v ,:o et:o un:o autre:a .:o"
+  },
+  {
+   "n": 92,
+   "en": "Sinbad saw men high on the walls of the valley, small and far.",
+   "tgt": "Sinbad:o vit:v des:o hommes:n haut:a sur:o les:o murs:n de:o la:o vallée:n ,:o petits:a et:o loin:a .:o"
+  },
+  {
+   "n": 93,
+   "en": "He knew this valley from a tale merchants told in Baghdad.",
+   "tgt": "Il:o connaissait:v cette:o vallée:n grâce:o à:o un:o conte:n que:o des:o marchands:n avaient:v raconté:v à:o Bagdad:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "The meat was a trick of the diamond merchants.",
+   "tgt": "La:o viande:n était:v un:o tour:n des:o marchands:n de:o diamants:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Sinbad sat down by the meat to wait.",
+   "tgt": "Sinbad:o s':o assit:v près:o de:o la:o viande:n pour:o attendre:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "No man could go down into the valley of diamonds and come out again.",
+   "tgt": "Aucun:o homme:n ne:o pouvait:v descendre:v dans:o la:o vallée:n des:o diamants:n et:o en:o ressortir:v .:o"
+  },
+  {
+   "n": 97,
+   "en": "The diamond merchants had a trick: they went up on the walls and threw down great pieces of raw meat.",
+   "tgt": "Les:o marchands:n de:o diamants:n avaient:v un:o truc:n ::o ils:o montaient:v sur:o les:o murs:n et:o jetaient:v de:o grands:a morceaux:n de:o viande:n crue:a .:o"
+  },
+  {
+   "n": 98,
+   "en": "The meat was soft and wet, and where it fell, diamonds stuck to it.",
+   "tgt": "La:o viande:n était:v molle:a et:o humide:a ,:o et:o là:a où:o elle:o tombait:v ,:o des:o diamants:n y:o adhéraient:v .:o"
+  },
+  {
+   "n": 99,
+   "en": "Great eagles had nests on the tops of the walls.",
+   "tgt": "De:o grands:a aigles:n avaient:v leurs:o nids:n au:o sommet:n des:o murs:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Each eagle came down for the meat and took it up to its nest.",
+   "tgt": "Chaque:o aigle:n descendait:v pour:o la:o viande:n et:o l':o emportait:v jusqu':o à:o son:o nid:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "The diamonds went up with the meat.",
+   "tgt": "Les:o diamants:n montaient:v avec:o la:o viande:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "At the nests the merchants shouted and threw stones, and the eagles flew away.",
+   "tgt": "Aux:o nids:n ,:o les:o marchands:n criaient:v et:o jetaient:v des:o pierres:n ,:o et:o les:o aigles:n s':o envolaient:v .:o"
+  },
+  {
+   "n": 103,
+   "en": "The merchants took the diamonds out of the meat.",
+   "tgt": "Les:o marchands:n retiraient:v les:o diamants:n de:o la:o viande:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "First Sinbad filled his coat with diamonds.",
+   "tgt": "D':o abord:a ,:o Sinbad:o remplit:v son:o manteau:n de:o diamants:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "He tied himself with the turban under the greatest piece of meat.",
+   "tgt": "Il:o se:o lia:v avec:o le:o turban:n sous:o le:o plus:o grand:a morceau:n de:o viande:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "A great eagle came down, took the meat in its claws, and flew up with meat and man.",
+   "tgt": "Un:o grand:a aigle:n descendit:v ,:o prit:v la:o viande:n dans:o ses:o griffes:n ,:o et:o s':o envola:v avec:o la:o viande:n et:o l':o homme:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "It put them down in its nest, high on the wall.",
+   "tgt": "Il:o les:o déposa:v dans:o son:o nid:n ,:o haut:a sur:o le:o mur:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "A merchant ran to the nest, shouting and throwing stones, and the eagle flew away.",
+   "tgt": "Un:o marchand:n courut:v vers:o le:o nid:n ,:o criant:v et:o lançant:v des:o pierres:n ,:o et:o l':o aigle:n s':o envola:v .:o"
+  },
+  {
+   "n": 109,
+   "en": "Under the meat he found not diamonds but a man.",
+   "tgt": "Sous:o la:o viande:n il:o ne:o trouva:v pas:o des:o diamants:n mais:o un:o homme:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "The merchant fell back, afraid.",
+   "tgt": "Le:o marchand:n recula:v ,:o effrayé:a .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"Do not fear me,\" said Sinbad, \"for I have diamonds for you and for me.\"",
+   "tgt": "«:o Ne:o me:o craignez:v pas:o ,:o »:o dit:v Sinbad:o ,:o «:o car:o j':o ai:v des:o diamants:n pour:o vous:o et:o pour:o moi:o .:o »:o"
+  },
+  {
+   "n": 112,
+   "en": "Sinbad filled the merchant's hands with diamonds, and the merchant was glad.",
+   "tgt": "Sinbad:o remplit:v les:o mains:n du:o marchand:n de:o diamants:n ,:o et:o le:o marchand:n fut:v content:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "The other merchants came, and Sinbad told his tale and gave diamonds to each one.",
+   "tgt": "Les:o autres:a marchands:n vinrent:v ,:o et:o Sinbad:o raconta:v son:o histoire:n et:o donna:v des:o diamants:n à:o chacun:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "He went home with the merchants over land, and came into Baghdad with his coat full of diamonds.",
+   "tgt": "Il:o rentra:v chez:o lui:o avec:o les:o marchands:n par:o voie:n de:o terre:n ,:o et:o arriva:v à:o Bagdad:o avec:o son:o manteau:n plein:a de:o diamants:n .:o"
+  },
+  {
+   "n": 115,
+   "chapter": "The Giant's House",
+   "en": "\"The sea will kill you,\" said Sinbad's friends.",
+   "tgt": "«:o La:o mer:n vous:o tuera:v ,:o »:o dirent:v les:o amis:n de:o Sinbad:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "But Sinbad sailed again.",
+   "tgt": "Mais:o Sinbad:o navigua:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 117,
+   "en": "A great storm came over the sea, and it went on for a day and a night.",
+   "tgt": "Une:o grande:a tempête:n vint:v sur:o la:o mer:n ,:o et:o elle:o dura:v un:o jour:n et:o une:o nuit:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "It threw the ship onto the stones of an island, and the ship went to pieces.",
+   "tgt": "Il:o jeta:v le:o navire:n sur:o les:o rochers:n d':o une:o île:n ,:o et:o le:o navire:n se:o brisa:v en:o morceaux:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "Sinbad and some of the men came out of the sea to the island.",
+   "tgt": "Sinbad:o et:o quelques-uns:o des:o hommes:n sortirent:v de:o la:o mer:n vers:o l':o île:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "On the island stood a great house of dark stone, with an open gate.",
+   "tgt": "Sur:o l':o île:n se:o dressait:v une:o grande:a maison:n de:o pierre:n sombre:a ,:o avec:o une:o porte:n ouverte:a .:o"
+  },
+  {
+   "n": 121,
+   "en": "The men went into the house and sat down.",
+   "tgt": "Les:o hommes:n entrèrent:v dans:o la:o maison:n et:o s':o assirent:v .:o"
+  },
+  {
+   "n": 122,
+   "en": "At dark the ground shook, and the giant came to the house.",
+   "tgt": "À:o la:o nuit:n tombante:a ,:o le:o sol:n trembla:v ,:o et:o le:o géant:n vint:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "He stood as high as 3 men, and his teeth were long.",
+   "tgt": "Il:o était:v aussi:a grand:a que:o 3:o hommes:n ,:o et:o ses:o dents:n étaient:v longues:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "The men hid in the dark of the house.",
+   "tgt": "Les:o hommes:n se:o cachèrent:v dans:o l':o obscurité:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "No man could fight him, for he was too strong.",
+   "tgt": "Aucun:o homme:n ne:o pouvait:v le:o combattre:v ,:o car:o il:o était:v trop:a fort:a .:o"
+  },
+  {
+   "n": 126,
+   "en": "The giant took one of the men and ate him.",
+   "tgt": "Le:o géant:n prit:v un:o des:o hommes:n et:o le:o mangea:v .:o"
+  },
+  {
+   "n": 127,
+   "en": "The giant slept by the gate, and no man could go out.",
+   "tgt": "Le:o géant:n dormit:v près:o de:o la:o grille:n ,:o et:o aucun:o homme:n ne:o pouvait:v sortir:v .:o"
+  },
+  {
+   "n": 128,
+   "en": "In the morning the giant went away over the island.",
+   "tgt": "Le:o matin:n le:o géant:n s':o en:o alla:v au-delà:a de:o l':o île:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The men stood by the sea and wept.",
+   "tgt": "Les:o hommes:n se:o tinrent:v au:o bord:n de:o la:o mer:n et:o pleurèrent:v .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"We will leave this island, or we will die on it, man by man,\" said Sinbad.",
+   "tgt": "«:o Nous:o quitterons:v cette:o île:n ,:o ou:o nous:o mourrons:v sur:o elle:o ,:o homme:n par:o homme:n ,:o »:o dit:v Sinbad:o .:o"
+  },
+  {
+   "n": 131,
+   "en": "Some men said they would fight the giant in his sleep.",
+   "tgt": "Certains:o hommes:n dirent:v qu':o ils:o combattraient:v le:o géant:n pendant:o son:o sommeil:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "\"A fight would wake him, and no man would live,\" said Sinbad.",
+   "tgt": "«:o Un:o combat:n le:o réveillerait:v ,:o et:o aucun:o homme:n ne:o survivrait:v ,:o »:o dit:v Sinbad:o .:o"
+  },
+  {
+   "n": 133,
+   "en": "\"We will make rafts from the wood of the lost ship.\"",
+   "tgt": "«:o Nous:o ferons:v des:o radeaux:n avec:o le:o bois:n du:o navire:n perdu:a .:o »:o"
+  },
+  {
+   "n": 134,
+   "en": "The men made rafts from the wood, tied them with ropes, and hid them under trees.",
+   "tgt": "Les:o hommes:n fabriquèrent:v des:o radeaux:n avec:o le:o bois:n ,:o les:o attachèrent:v avec:o des:o cordes:n ,:o et:o les:o cachèrent:v sous:o des:o arbres:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "At dark the men went back into the house, so the giant would not look for them.",
+   "tgt": "À:o la:o nuit:n tombante:a les:o hommes:n rentrèrent:v dans:o la:o maison:n ,:o pour:o que:o le:o géant:n ne:o les:o cherche:v pas:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "In the night the giant took one more man.",
+   "tgt": "Dans:o la:o nuit:n le:o géant:n prit:v un:o homme:n de:o plus:a .:o"
+  },
+  {
+   "n": 137,
+   "en": "On the third day the rafts were done, and the men pushed out on the water.",
+   "tgt": "Le:o troisième:a jour:n les:o radeaux:n étaient:v prêts:a ,:o et:o les:o hommes:n s':o élancèrent:v sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "When the giant came home, he found no man in the house.",
+   "tgt": "Quand:o le:o géant:n rentra:v chez:o lui:o ,:o il:o ne:o trouva:v pas:o d':o homme:n dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "He went to the water and threw stones at the rafts.",
+   "tgt": "Il:o alla:v vers:o l':o eau:n et:o lança:v des:o pierres:n sur:o les:o radeaux:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "The stones went into the sea, and the rafts were too far out.",
+   "tgt": "Les:o pierres:n tombèrent:v dans:o la:o mer:n ,:o et:o les:o radeaux:n étaient:v trop:a loin:a .:o"
+  },
+  {
+   "n": 141,
+   "en": "For 2 days and 2 nights the rafts were on the sea, and the food was gone.",
+   "tgt": "Pendant:o 2:o jours:n et:o 2:o nuits:n les:o radeaux:n furent:v sur:o la:o mer:n ,:o et:o la:o nourriture:n était:v épuisée:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "A trade ship found them at last and took the men on.",
+   "tgt": "Un:o navire:n marchand:a les:o trouva:v enfin:a et:o prit:v les:o hommes:n à:o bord:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The captain was a good man and gave them food and water.",
+   "tgt": "Le:o capitaine:n était:v un:o bon:a homme:n et:o leur:o donna:v de:o la:o nourriture:n et:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "The ship traded from port to port, and Sinbad did a sailor's work for his way home.",
+   "tgt": "Le:o navire:n commerçait:v de:o port:n en:o port:n ,:o et:o Sinbad:o fit:v le:o travail:n d':o un:o marin:n pour:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "He came home to Baghdad with a purse of pearls the captain gave him for his work.",
+   "tgt": "Il:o rentra:v à:o Bagdad:o avec:o une:o bourse:n de:o perles:n que:o le:o capitaine:n lui:o donna:v pour:o son:o travail:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "When the tale was done, the porter asked, \"Why did you go back to the sea?\"",
+   "tgt": "Quand:o le:o conte:n fut:v terminé:a ,:o le:o porteur:n demanda:v ,:o «:o Pourquoi:o êtes-vous:v retourné:a à:o la:o mer:n ?:o »:o"
+  },
+  {
+   "n": 147,
+   "en": "\"At home I forgot the fear, but I did not forget the wonder,\" said Sinbad the Sailor.",
+   "tgt": "«:o À:o la:o maison:n j':o oubliai:v la:o peur:n ,:o mais:o je:o n':o oubliai:v pas:o l':o émerveillement:n ,:o »:o dit:v -il:o ,:o Sinbad:o le:o Marin:n .:o"
+  },
+  {
+   "n": 148,
+   "chapter": "The Wall of Wood",
+   "en": "On the fourth voyage the sea was calm for many days.",
+   "tgt": "Au:o cours:n du:o quatrième:a voyage:n ,:o la:o mer:n fut:v calme:a pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "In the dark of night the ship ran on stones and went down.",
+   "tgt": "Dans:o l':o obscurité:n de:o la:o nuit:n ,:o le:o navire:n heurta:v des:o pierres:n et:o coula:v .:o"
+  },
+  {
+   "n": 150,
+   "en": "The waves put Sinbad on a far shore, and he saw no other man in the water.",
+   "tgt": "Les:o vagues:n déposèrent:v Sinbad:o sur:o un:o rivage:n lointain:a ,:o et:o il:o ne:o vit:v personne:o d':o autre:a dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "On the island were fruit trees and water.",
+   "tgt": "Sur:o l':o île:n il:o y:o avait:v des:o arbres:n fruitiers:a et:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "But when dark came, great snakes came out of holes in the ground.",
+   "tgt": "Mais:o quand:o la:o nuit:n tomba:v ,:o de:o grands:a serpents:n sortirent:v de:o trous:n dans:o le:o sol:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "That night Sinbad went high into a tree and did not sleep.",
+   "tgt": "Cette:o nuit-là:a ,:o Sinbad:o monta:v haut:a dans:o un:o arbre:n et:o ne:o dormit:v pas:o .:o"
+  },
+  {
+   "n": 154,
+   "en": "By day he made a wall of wood and sticks, too high for the snakes.",
+   "tgt": "Le:o jour:n ,:o il:o construisit:v un:o mur:n de:o bois:n et:o de:o bâtons:n ,:o trop:a haut:a pour:o les:o serpents:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "He left one way in, and at dark he put wood over it.",
+   "tgt": "Il:o laissa:v une:o entrée:n ,:o et:o à:o la:o nuit:n tombante:a il:o posa:v du:o bois:n dessus:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "All night the snakes went around and around the wall, but not one came in.",
+   "tgt": "Toute:o la:o nuit:n les:o serpents:n tournèrent:v en:o rond:a autour:o du:o mur:n ,:o mais:o pas:o un:o n':o entra:v .:o"
+  },
+  {
+   "n": 157,
+   "en": "When morning came, the snakes went into the ground, and Sinbad slept.",
+   "tgt": "Quand:o le:o matin:n arriva:v ,:o les:o serpents:n rentrèrent:v dans:o le:o sol:n ,:o et:o Sinbad:o dormit:v .:o"
+  },
+  {
+   "n": 158,
+   "en": "He lived so for many days, with fruit by day and the wall by night.",
+   "tgt": "Il:o vécut:v ainsi:a pendant:o de:o nombreux:a jours:n ,:o avec:o des:o fruits:n le:o jour:n et:o le:o mur:n la:o nuit:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "At last he saw a ship far out on the sea.",
+   "tgt": "Enfin:a il:o aperçut:v un:o navire:n au:o loin:a sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "He made a great fire on the shore and put green wood on it.",
+   "tgt": "Il:o fit:v un:o grand:a feu:n sur:o le:o rivage:n et:o posa:v du:o bois:n vert:a dessus:o .:o"
+  },
+  {
+   "n": 161,
+   "en": "The men on the ship saw the fire and came in for him.",
+   "tgt": "Les:o hommes:n sur:o le:o navire:n virent:v le:o feu:n et:o vinrent:v le:o chercher:v .:o"
+  },
+  {
+   "n": 162,
+   "en": "The captain heard his tale and gave him silk to trade on the way home.",
+   "tgt": "Le:o capitaine:n entendit:v son:o récit:n et:o lui:o donna:v de:o la:o soie:n à:o vendre:v sur:o le:o chemin:n du:o retour:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "Sinbad came home from the fourth voyage with little gold, but with his life.",
+   "tgt": "Sinbad:o rentra:v chez:o lui:o après:o le:o quatrième:a voyage:n avec:o peu:a d':o or:n ,:o mais:o avec:o la:o vie:n sauve:a .:o"
+  },
+  {
+   "n": 164,
+   "en": "The fifth time, Sinbad took a ship of his own to sea, and other merchants came on it too.",
+   "tgt": "La:o cinquième:a fois:n ,:o Sinbad:o prit:v un:o navire:n à:o lui:o pour:o aller:v en:o mer:n ,:o et:o d':o autres:a marchands:n montèrent:v à:o bord:n eux:o aussi:a .:o"
+  },
+  {
+   "n": 165,
+   "en": "At an island the men went ashore and came to a great egg.",
+   "tgt": "Sur:o une:o île:n ,:o les:o hommes:n débarquèrent:v et:o arrivèrent:v devant:o un:o grand:a œuf:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "Sinbad knew what it was, for he had seen the egg of a roc before.",
+   "tgt": "Sinbad:o savait:v ce:o que:o c':o était:v ,:o car:o il:o avait:v vu:v l':o œuf:n d':o un:o roc:n avant:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "\"Leave the egg,\" Sinbad said, \"for the great birds will come back for it.\"",
+   "tgt": "«:o Laissez:v l':o œuf:n ,:o »:o dit:v Sinbad:o ,:o «:o car:o les:o grands:a oiseaux:n reviendront:v le:o chercher:v .:o »:o"
+  },
+  {
+   "n": 168,
+   "en": "But the merchants would not hear him.",
+   "tgt": "Mais:o les:o marchands:n ne:o voulurent:v pas:o l':o écouter:v .:o"
+  },
+  {
+   "n": 169,
+   "en": "They broke the egg with stones and ate the young bird.",
+   "tgt": "Ils:o brisèrent:v l':o œuf:n avec:o des:o pierres:n et:o mangèrent:v le:o jeune:a oiseau:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "The day went dark, for the father and the mother had come back.",
+   "tgt": "Le:o jour:n s':o assombrit:v ,:o car:o le:o père:n et:o la:o mère:n étaient:v revenus:v .:o"
+  },
+  {
+   "n": 171,
+   "en": "The men took the ship out, but the birds came again, each one with a great stone in its claws.",
+   "tgt": "Les:o hommes:n sortirent:v le:o navire:n en:o mer:n ,:o mais:o les:o oiseaux:n revinrent:v ,:o chacun:o avec:o une:o grande:a pierre:n dans:o ses:o griffes:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "One stone fell by the ship, and the sea went over it.",
+   "tgt": "Une:o pierre:n tomba:v près:o du:o navire:n ,:o et:o la:o mer:n passa:v par-dessus:a .:o"
+  },
+  {
+   "n": 173,
+   "en": "The other stone fell on the ship and broke it in 2.",
+   "tgt": "L':o autre:o pierre:n tomba:v sur:o le:o navire:n et:o le:o brisa:v en:o 2:o .:o"
+  },
+  {
+   "n": 174,
+   "en": "The other men went down with the ship and did not come up.",
+   "tgt": "Les:o autres:o hommes:n coulèrent:v avec:o le:o navire:n et:o ne:o remontèrent:v pas:o .:o"
+  },
+  {
+   "n": 175,
+   "en": "Sinbad took hold of a piece of the ship's wood.",
+   "tgt": "Sinbad:o saisit:v un:o morceau:n de:o bois:n du:o navire:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "He came ashore on an island of fruit and streams, and ate the fruit.",
+   "tgt": "Il:o arriva:v sur:o une:o île:n de:o fruits:n et:o de:o ruisseaux:n ,:o et:o mangea:v les:o fruits:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "By a stream sat an old man with a white beard.",
+   "tgt": "Au:o bord:n d':o un:o ruisseau:n était:v assis:a un:o vieux:a homme:n avec:o une:o barbe:n blanche:a .:o"
+  },
+  {
+   "n": 178,
+   "en": "With his hands he made signs at the stream, for he did not speak.",
+   "tgt": "Avec:o ses:o mains:n ,:o il:o fit:v des:o signes:n vers:o le:o ruisseau:n ,:o car:o il:o ne:o parlait:v pas:o .:o"
+  },
+  {
+   "n": 179,
+   "en": "Sinbad took the old man up on his shoulders and went into the stream.",
+   "tgt": "Sinbad:o prit:v le:o vieil:a homme:n sur:o ses:o épaules:n et:o entra:v dans:o le:o ruisseau:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "Over the stream, Sinbad went to set him down on the stones.",
+   "tgt": "De:o l':o autre:o côté:n du:o ruisseau:n ,:o Sinbad:o voulut:v le:o poser:v sur:o les:o pierres:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "But the old man put his legs over Sinbad's shoulders and held on to his neck.",
+   "tgt": "Mais:o le:o vieil:a homme:n passa:v ses:o jambes:n sur:o les:o épaules:n de:o Sinbad:o et:o s':o accrocha:v à:o son:o cou:n .:o"
+  },
+  {
+   "n": 182,
+   "en": "The legs were thin, but they were strong, and they would not let go.",
+   "tgt": "Les:o jambes:n étaient:v minces:a ,:o mais:o elles:o étaient:v fortes:a ,:o et:o elles:o ne:o lâchaient:v pas:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "From that day, the old man sat on Sinbad's shoulders by day and by night, and would not come down.",
+   "tgt": "À:o partir:v de:o ce:o jour:n ,:o le:o vieil:a homme:n resta:v sur:o les:o épaules:n de:o Sinbad:o le:o jour:n comme:o la:o nuit:n ,:o et:o ne:o voulait:v pas:o descendre:v .:o"
+  },
+  {
+   "n": 184,
+   "chapter": "The Gourd of Wine",
+   "en": "The old man made Sinbad walk under the fruit trees all day.",
+   "tgt": "L':o vieux:a homme:n fit:v Sinbad:o marcher:v sous:o les:o arbres:n fruitiers:a toute:o la:o journée:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "He ate the fruit from Sinbad's hands and gave him a little.",
+   "tgt": "Il:o mangea:v le:o fruit:n des:o mains:n de:o Sinbad:o et:o lui:o en:o donna:v un:o peu:a .:o"
+  },
+  {
+   "n": 186,
+   "en": "He was heavy, and Sinbad grew thin under him.",
+   "tgt": "Il:o était:v lourd:a ,:o et:o Sinbad:o maigrit:v sous:o lui:o .:o"
+  },
+  {
+   "n": 187,
+   "en": "In sleep too, the old legs held Sinbad's neck.",
+   "tgt": "Dans:o le:o sommeil:n aussi:a ,:o les:o vieilles:a jambes:n tenaient:v le:o cou:n de:o Sinbad:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "Grapes grew all over that island.",
+   "tgt": "Des:o raisins:n poussaient:v partout:a sur:o cette:o île:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "One day, under the trees, Sinbad took a dry gourd from the ground.",
+   "tgt": "Un:o jour:n ,:o sous:o les:o arbres:n ,:o Sinbad:o prit:v une:o gourde:n sèche:a par:o terre:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "He put the juice of the grapes in the gourd.",
+   "tgt": "Il:o mit:v le:o jus:n des:o raisins:n dans:o la:o gourde:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "He left it in the sun for some days, and the sun made the juice strong.",
+   "tgt": "Il:o la:o laissa:v au:o soleil:n pendant:o quelques:o jours:n ,:o et:o le:o soleil:n rendit:v le:o jus:n fort:a .:o"
+  },
+  {
+   "n": 192,
+   "en": "The juice was wine, and Sinbad drank a little and sang.",
+   "tgt": "Le:o jus:n était:v du:o vin:n ,:o et:o Sinbad:o en:o but:v un:o peu:a et:o chanta:v .:o"
+  },
+  {
+   "n": 193,
+   "en": "The old man put out his hands for the gourd, and Sinbad gave it to him.",
+   "tgt": "Le:o vieux:a homme:n tendit:v ses:o mains:n vers:o la:o gourde:n ,:o et:o Sinbad:o la:o lui:o donna:v .:o"
+  },
+  {
+   "n": 194,
+   "en": "The old man drank the wine down, and he drank it all.",
+   "tgt": "Le:o vieux:a homme:n but:v le:o vin:n jusqu':o au:o bout:n ,:o et:o il:o le:o but:v tout:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "Soon the old man slept, and his legs let go.",
+   "tgt": "Bientôt:a le:o vieux:a homme:n s':o endormit:v ,:o et:o ses:o jambes:n lâchèrent:v prise:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "Sinbad took him from his shoulders and set him down soft on the ground.",
+   "tgt": "Sinbad:o le:o prit:v de:o ses:o épaules:n et:o le:o posa:v doucement:a sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "Sinbad walked, and Sinbad ran.",
+   "tgt": "Sinbad:o marcha:v ,:o et:o Sinbad:o courut:v .:o"
+  },
+  {
+   "n": 198,
+   "en": "At the shore was a ship, and the men took Sinbad on.",
+   "tgt": "Au:o rivage:n se:o trouvait:v un:o navire:n ,:o et:o les:o hommes:n prirent:v Sinbad:o à:o bord:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "Sinbad told the men of the old man, and one old sailor knew the tale.",
+   "tgt": "Sinbad:o parla:v aux:o hommes:n du:o vieil:a homme:n ,:o et:o un:o vieux:a marin:n connaissait:v le:o récit:n .:o"
+  },
+  {
+   "n": 200,
+   "en": "\"That was the Old Man of the Sea,\" the old sailor said.",
+   "tgt": "«:o C':o était:v le:o Vieux:n de:o la:o Mer:n ,:o »:o dit:v le:o vieux:a marin:n .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"No man he took was free of him — you are the first.\"",
+   "tgt": "«:o Aucun:o homme:n qu':o il:o prenait:v n':o était:v libre:a de:o lui:o —:o vous:o êtes:v le:o premier:a .:o »:o"
+  },
+  {
+   "n": 202,
+   "en": "In every port Sinbad told his tale, and merchants gave him goods for the wonder of it.",
+   "tgt": "Dans:o chaque:o port:n Sinbad:o racontait:v son:o récit:n ,:o et:o des:o marchands:n lui:o donnaient:v des:o marchandises:n pour:o l':o émerveillement:n que:o cela:o suscitait:v .:o"
+  },
+  {
+   "n": 203,
+   "en": "He came home to Baghdad with a full purse.",
+   "tgt": "Il:o rentra:v chez:o lui:o à:o Bagdad:o avec:o une:o bourse:n pleine:a .:o"
+  },
+  {
+   "n": 204,
+   "en": "Merchants came to Sinbad and asked him to go on a sixth voyage with them.",
+   "tgt": "Des:o marchands:n vinrent:v voir:v Sinbad:o et:o lui:o demandèrent:v de:o partir:v en:o un:o sixième:a voyage:n avec:o eux:o .:o"
+  },
+  {
+   "n": 205,
+   "en": "Far out on that voyage, the captain lost the way.",
+   "tgt": "Loin:a dans:o ce:o voyage:n ,:o le:o capitaine:n perdit:v la:o route:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "A great wind took the ship into seas no man on it knew.",
+   "tgt": "Un:o grand:a vent:n poussa:v le:o navire:n dans:o des:o mers:n qu':o aucun:o homme:n à:o bord:n ne:o connaissait:v .:o"
+  },
+  {
+   "n": 207,
+   "en": "One morning the captain threw down his turban and wept.",
+   "tgt": "Un:o matin:n ,:o le:o capitaine:n jeta:v son:o turban:n à:o terre:n et:o pleura:v .:o"
+  },
+  {
+   "n": 208,
+   "en": "\"A current takes the ship,\" he said.",
+   "tgt": "«:o Un:o courant:n emporte:v le:o navire:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 209,
+   "en": "\"It runs to a black mountain, and no ship comes back from it.\"",
+   "tgt": "«:o Il:o court:v vers:o une:o montagne:n noire:a ,:o et:o aucun:o navire:n n':o en:o revient:v .:o »:o"
+  },
+  {
+   "n": 210,
+   "en": "The fast current took the ship on the stones under the mountain and broke it.",
+   "tgt": "Le:o courant:n rapide:a emporta:v le:o navire:n sur:o les:o pierres:n sous:o la:o montagne:n et:o le:o brisa:v .:o"
+  },
+  {
+   "n": 211,
+   "en": "No man but Sinbad came out of the sea alive.",
+   "tgt": "Aucun:o homme:n sauf:o Sinbad:o ne:o sortit:v vivant:a de:o la:o mer:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "The shore was full of the goods and the wood of lost ships.",
+   "tgt": "Le:o rivage:n était:v plein:a de:o marchandises:n et:o de:o bois:n de:o navires:n perdus:a .:o"
+  },
+  {
+   "n": 213,
+   "en": "The cliffs went up and up, and no man could climb them.",
+   "tgt": "Les:o falaises:n montaient:v toujours:a plus:a haut:a ,:o et:o aucun:o homme:n ne:o pouvait:v les:o escalader:v .:o"
+  },
+  {
+   "n": 214,
+   "en": "On that shore was a river, and every river Sinbad knew ran into the sea.",
+   "tgt": "Sur:o ce:o rivage:n se:o trouvait:v une:o rivière:n ,:o et:o chaque:o rivière:n que:o Sinbad:o connaissait:v coulait:v vers:o la:o mer:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "This river ran from the sea into the land, to a great cave deep under the mountain.",
+   "tgt": "Cette:o rivière:n coulait:v de:o la:o mer:n vers:o la:o terre:n ,:o jusqu':o à:o une:o grande:a grotte:n profonde:a sous:o la:o montagne:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "In the lost ships was food for some days.",
+   "tgt": "Dans:o les:o navires:n perdus:a se:o trouvait:v de:o la:o nourriture:n pour:o quelques:o jours:n .:o"
+  },
+  {
+   "n": 217,
+   "en": "Sinbad was afraid of the dark way, but more afraid of the empty shore.",
+   "tgt": "Sinbad:o avait:v peur:n de:o la:o voie:n sombre:a ,:o mais:o il:o avait:v encore:a plus:a peur:n du:o rivage:n vide:a .:o"
+  },
+  {
+   "n": 218,
+   "en": "He would go with the river.",
+   "tgt": "Il:o suivrait:v la:o rivière:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "He made a raft from the wood of the wrecks and tied it with ropes.",
+   "tgt": "Il:o construisit:v un:o radeau:n avec:o le:o bois:n des:o épaves:n et:o l':o attacha:v avec:o des:o cordes:n .:o"
+  },
+  {
+   "n": 220,
+   "en": "On the raft he put silk and jewels from the lost ships.",
+   "tgt": "Sur:o le:o radeau:n il:o posa:v de:o la:o soie:n et:o des:o joyaux:n des:o navires:n perdus:a .:o"
+  },
+  {
+   "n": 221,
+   "en": "He took the raft into the river and went in under the mountain.",
+   "tgt": "Il:o mena:v le:o radeau:n dans:o la:o rivière:n et:o entra:v sous:o la:o montagne:n .:o"
+  },
+  {
+   "n": 222,
+   "en": "The day grew small at his back, and was gone.",
+   "tgt": "Le:o jour:n diminua:v derrière:o lui:o ,:o et:o disparut:v .:o"
+  },
+  {
+   "n": 223,
+   "chapter": "Serendib",
+   "en": "Under the mountain the dark was deep, and Sinbad could not see his hands.",
+   "tgt": "Sous:o la:o montagne:n l':o obscurité:n était:v profonde:a ,:o et:o Sinbad:o ne:o pouvait:v pas:o voir:v ses:o mains:n .:o"
+  },
+  {
+   "n": 224,
+   "en": "The stone of the mountain came low over him, and he made himself small on the raft.",
+   "tgt": "La:o pierre:n de:o la:o montagne:n descendait:v bas:a au-dessus:o de:o lui:o ,:o et:o il:o se:o fit:v petit:a sur:o le:o radeau:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "The river ran on and on in the dark, and at last Sinbad slept.",
+   "tgt": "La:o rivière:n coulait:v sans:o fin:n dans:o l':o obscurité:n ,:o et:o enfin:a Sinbad:o s':o endormit:v .:o"
+  },
+  {
+   "n": 226,
+   "en": "He woke in the light of day, on a slow river in a land of green fields.",
+   "tgt": "Il:o se:o réveilla:v dans:o la:o lumière:n du:o jour:n ,:o sur:o une:o rivière:n lente:a dans:o un:o pays:n de:o champs:n verts:a .:o"
+  },
+  {
+   "n": 227,
+   "en": "They gave him food and brought him to the king.",
+   "tgt": "Ils:o lui:o donnèrent:v de:o la:o nourriture:n et:o le:o conduisirent:v au:o roi:n .:o"
+  },
+  {
+   "n": 228,
+   "en": "The land was Serendib, and the king of Serendib was good to strangers.",
+   "tgt": "Le:o pays:n était:v Serendib:o ,:o et:o le:o roi:n de:o Serendib:o était:v bon:a envers:o les:o étrangers:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "The king knew Sinbad's name, for merchants brought his tales over the sea.",
+   "tgt": "Le:o roi:n connaissait:v le:o nom:n de:o Sinbad:o ,:o car:o des:o marchands:n apportaient:v ses:o récits:n par-delà:o la:o mer:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Sinbad told the king all his tales, from the whale to the river under the mountain.",
+   "tgt": "Sinbad:o raconta:v au:o roi:n toutes:o ses:o récits:n ,:o depuis:o la:o baleine:n jusqu':o à:o la:o rivière:n sous:o la:o montagne:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "Of all the tales, the king asked for the valley of diamonds 2 times.",
+   "tgt": "De:o toutes:o les:o récits:n ,:o le:o roi:n demanda:v la:o vallée:n des:o diamants:n 2:o fois:n .:o"
+  },
+  {
+   "n": 232,
+   "en": "In time Sinbad wanted to go home, and the king gave him great gifts.",
+   "tgt": "Avec:o le:o temps:n ,:o Sinbad:o voulut:v rentrer:v chez:o lui:o ,:o et:o le:o roi:n lui:o donna:v de:o grands:a cadeaux:n .:o"
+  },
+  {
+   "n": 233,
+   "en": "One gift was a cup made from one red stone, and with it went spice and silk.",
+   "tgt": "Un:o cadeau:n était:v une:o coupe:n faite:a d':o une:o pierre:n rouge:a ,:o et:o avec:o elle:o partaient:v des:o épices:n et:o de:o la:o soie:n .:o"
+  },
+  {
+   "n": 234,
+   "en": "The king sent him home on a ship of Serendib, with the gifts and the goods of the raft.",
+   "tgt": "Le:o roi:n le:o renvoya:v chez:o lui:o sur:o un:o navire:n de:o Serendib:o ,:o avec:o les:o cadeaux:n et:o les:o marchandises:n du:o radeau:n .:o"
+  },
+  {
+   "n": 235,
+   "en": "Sinbad came home from the sixth voyage with more than from all the voyages before it.",
+   "tgt": "Sinbad:o rentra:v chez:o lui:o du:o sixième:a voyage:n avec:o plus:a que:o de:o tous:o les:o voyages:n avant:o lui:o .:o"
+  },
+  {
+   "n": 236,
+   "en": "\"6 voyages,\" said the porter, and he counted on his fingers.",
+   "tgt": "«:o 6:o voyages:n ,:o »:o dit:v -il:o le:o porteur:n ,:o et:o il:o compta:v sur:o ses:o doigts:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "\"One voyage more,\" said Sinbad.",
+   "tgt": "«:o Un:o voyage:n de:o plus:a ,:o »:o dit:v Sinbad:o .:o"
+  },
+  {
+   "n": 238,
+   "en": "The porter went home, and came back for the last tale.",
+   "tgt": "Le:o porteur:n rentra:v chez:o lui:o ,:o et:o revint:v pour:o la:o dernière:a histoire:n .:o"
+  },
+  {
+   "n": 239,
+   "en": "\"I am done with the sea,\" Sinbad said when he came home the sixth time.",
+   "tgt": "«:o J':o en:o ai:v fini:v avec:o la:o mer:n ,:o »:o dit:v Sinbad:o quand:o il:o rentra:v chez:o lui:o la:o sixième:a fois:n .:o"
+  },
+  {
+   "n": 240,
+   "en": "But the king of Baghdad sent for Sinbad and said, \"Take my gifts to the king of Serendib.\"",
+   "tgt": "Mais:o le:o roi:n de:o Bagdad:o envoya:v chercher:v Sinbad:o et:o dit:v ,:o «:o Porte:v mes:o cadeaux:n au:o roi:n de:o Serendib:o .:o »:o"
+  },
+  {
+   "n": 241,
+   "en": "No man says no to a king.",
+   "tgt": "Nul:o homme:n ne:o dit:v non:o à:o un:o roi:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "Sinbad went to sea one more time and gave the gifts to the king of Serendib.",
+   "tgt": "Sinbad:o repartit:v en:o mer:n une:o fois:n de:o plus:a et:o offrit:v les:o cadeaux:n au:o roi:n de:o Serendib:o .:o"
+  },
+  {
+   "n": 243,
+   "en": "On the way home, pirates took the ship.",
+   "tgt": "Sur:o le:o chemin:n du:o retour:n ,:o des:o pirates:n prirent:v le:o navire:n .:o"
+  },
+  {
+   "n": 244,
+   "en": "They sold the men in a port, and a rich master bought Sinbad.",
+   "tgt": "Ils:o vendirent:v les:o hommes:n dans:o un:o port:n ,:o et:o un:o riche:a maître:n acheta:v Sinbad:o .:o"
+  },
+  {
+   "n": 245,
+   "en": "\"Can you shoot with a bow?\" said the master, and Sinbad said he could.",
+   "tgt": "«:o Sais-tu:v tirer:v à:o l':o arc:n ?:o »:o dit:v -il:o le:o maître:n ,:o et:o Sinbad:o dit:v qu':o il:o le:o pouvait:v .:o"
+  },
+  {
+   "n": 246,
+   "en": "The master gave him a bow and arrows and brought him to a great tree by a road.",
+   "tgt": "Le:o maître:n lui:o donna:v un:o arc:n et:o des:o flèches:n et:o l':o amena:v à:o un:o grand:a arbre:n au:o bord:n d':o une:o route:n .:o"
+  },
+  {
+   "n": 247,
+   "en": "\"Shoot the elephants of the road, and bring me the great teeth.\"",
+   "tgt": "«:o Tire:v sur:o les:o éléphants:n de:o la:o route:n ,:o et:o apporte-moi:v les:o grandes:a dents:n .:o »:o"
+  },
+  {
+   "n": 248,
+   "en": "\"For the teeth are ivory, and ivory makes men rich.\"",
+   "tgt": "«:o Car:o les:o dents:n sont:v de:o l':o ivoire:n ,:o et:o l':o ivoire:n rend:v les:o hommes:n riches:a .:o »:o"
+  },
+  {
+   "n": 249,
+   "en": "Sinbad waited in the tree with the bow.",
+   "tgt": "Sinbad:o attendit:v dans:o l':o arbre:n avec:o l':o arc:n .:o"
+  },
+  {
+   "n": 250,
+   "en": "The elephants came down the road slow, the young ones by the old.",
+   "tgt": "Les:o éléphants:n descendirent:v la:o route:n lentement:a ,:o les:o jeunes:a à:o côté:n des:o vieux:a .:o"
+  },
+  {
+   "n": 251,
+   "en": "Sinbad put the arrow to the bow, and he put the bow down.",
+   "tgt": "Sinbad:o mit:v la:o flèche:n à:o l':o arc:n ,:o et:o il:o posa:v l':o arc:n .:o"
+  },
+  {
+   "n": 252,
+   "en": "He did not want to kill the great beasts.",
+   "tgt": "Il:o ne:o voulait:v pas:o tuer:v les:o grandes:a bêtes:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "Day after day, Sinbad brought the master no teeth.",
+   "tgt": "Jour:n après:o jour:n ,:o Sinbad:o n':o apporta:v aucune:o dent:n au:o maître:n .:o"
+  },
+  {
+   "n": 254,
+   "en": "\"Shoot,\" said the master, \"or you will go back to the port.\"",
+   "tgt": "«:o Tire:v ,:o »:o dit:v -il:o ,:o le:o maître:n ,:o «:o ou:o tu:o retourneras:v au:o port:n .:o »:o"
+  },
+  {
+   "n": 255,
+   "en": "In the morning, all the elephants of the road came around his tree.",
+   "tgt": "Le:o matin:n ,:o tous:o les:o éléphants:n de:o la:o route:n vinrent:v autour:o de:o son:o arbre:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "The greatest elephant put its trunk around Sinbad and lifted him from the tree.",
+   "tgt": "Le:o plus:o grand:a éléphant:n enroula:v sa:o trompe:n autour:o de:o Sinbad:o et:o le:o souleva:v de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 257,
+   "en": "It set him on its back and took him into the hills.",
+   "tgt": "Il:o le:o posa:v sur:o son:o dos:n et:o l':o emmena:v dans:o les:o collines:n .:o"
+  },
+  {
+   "n": 258,
+   "chapter": "The Elephants' Ground",
+   "en": "The elephant went into the green hills with Sinbad on its back.",
+   "tgt": "L':o éléphant:n entra:v dans:o les:o collines:n vertes:a avec:o Sinbad:o sur:o son:o dos:n .:o"
+  },
+  {
+   "n": 259,
+   "en": "It came to an open ground in the hills and put Sinbad down.",
+   "tgt": "Il:o arriva:v à:o un:o terrain:n ouvert:a dans:o les:o collines:n et:o déposa:v Sinbad:o .:o"
+  },
+  {
+   "n": 260,
+   "en": "All that ground was white with the teeth and the bones of elephants dead many years.",
+   "tgt": "Tout:o ce:o terrain:n était:v blanc:a de:o dents:n et:o d':o os:n d':o éléphants:n morts:a depuis:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 261,
+   "en": "A man could not count the teeth of that ground in a day.",
+   "tgt": "Un:o homme:n ne:o pouvait:v pas:o compter:v les:o dents:n de:o ce:o terrain:n en:o un:o jour:n .:o"
+  },
+  {
+   "n": 262,
+   "en": "Old elephants came to this ground to die, year after year, and no man knew it.",
+   "tgt": "Les:o vieux:a éléphants:n venaient:v mourir:v sur:o ce:o terrain:n ,:o année:n après:o année:n ,:o et:o aucun:o homme:n ne:o le:o savait:v .:o"
+  },
+  {
+   "n": 263,
+   "en": "This was the graveyard of the elephants.",
+   "tgt": "C':o était:v le:o cimetière:n des:o éléphants:n .:o"
+  },
+  {
+   "n": 264,
+   "en": "The men could take the teeth of the dead, and never kill elephants.",
+   "tgt": "Les:o hommes:n pouvaient:v prendre:v les:o dents:n des:o morts:n ,:o et:o ne:o jamais:o tuer:v les:o éléphants:n .:o"
+  },
+  {
+   "n": 265,
+   "en": "The elephant took Sinbad back down the hills to the tree again.",
+   "tgt": "L':o éléphant:n ramena:v Sinbad:o de:o nouveau:a en:o bas:a des:o collines:n jusqu':o à:o l':o arbre:n .:o"
+  },
+  {
+   "n": 266,
+   "en": "Sinbad put his hand on its trunk, and the elephant went slow into the trees.",
+   "tgt": "Sinbad:o posa:v sa:o main:n sur:o sa:o trompe:n ,:o et:o l':o éléphant:n avança:v lentement:a dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 267,
+   "en": "Sinbad told the master all that he had seen in the hills.",
+   "tgt": "Sinbad:o raconta:v au:o maître:n tout:o ce:o qu':o il:o avait:v vu:v dans:o les:o collines:n .:o"
+  },
+  {
+   "n": 268,
+   "en": "The master went with him into the hills, and it was all true.",
+   "tgt": "Le:o maître:n y:o alla:v avec:o lui:o ,:o et:o c':o était:v tout:o vrai:a .:o"
+  },
+  {
+   "n": 269,
+   "en": "\"You have made me a rich man,\" said the master.",
+   "tgt": "«:o Vous:o m':o avez:v rendu:v riche:a ,:o »:o dit:v -il:o le:o maître:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "\"From this day you are a free man.\"",
+   "tgt": "«:o À:o partir:v d':o aujourd'hui:o ,:o vous:o êtes:v un:o homme:n libre:a .:o »:o"
+  },
+  {
+   "n": 271,
+   "en": "For a month his men went into the hills and carried heavy ivory down to the master's house.",
+   "tgt": "Pendant:o un:o mois:n ,:o ses:o hommes:n allèrent:v dans:o les:o collines:n et:o portèrent:v de:o lourds:a ivoires:n jusqu':o à:o la:o maison:n du:o maître:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "The master gave Sinbad ivory of his own and put him on a ship for home.",
+   "tgt": "Le:o maître:n donna:v à:o Sinbad:o de:o l':o ivoire:n qui:o lui:o appartenait:v et:o le:o mit:v sur:o un:o navire:n pour:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 273,
+   "en": "Sinbad came home to Baghdad from the seventh and last voyage a rich man.",
+   "tgt": "Sinbad:o rentra:v chez:o lui:o à:o Bagdad:o après:o le:o septième:a et:o dernier:a voyage:n ,:o homme:n riche:a .:o"
+  },
+  {
+   "n": 274,
+   "en": "He gave gold to the poor of Baghdad and rested in his great house.",
+   "tgt": "Il:o donna:v de:o l':o or:n aux:o pauvres:n de:o Bagdad:o et:o se:o reposa:v dans:o sa:o grande:a maison:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "Sinbad never went to sea again.",
+   "tgt": "Sinbad:o ne:o retourna:v jamais:o en:o mer:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "When the last tale was done, the hall was quiet.",
+   "tgt": "Quand:o le:o dernier:a conte:n fut:v terminé:a ,:o la:o salle:n était:v silencieuse:a .:o"
+  },
+  {
+   "n": 277,
+   "en": "For a long time the porter said nothing.",
+   "tgt": "Pendant:o longtemps:a le:o porteur:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 278,
+   "en": "\"Seven times you went to sea,\" the porter said at last.",
+   "tgt": "«:o Sept:o fois:n vous:o allâtes:v en:o mer:n ,:o »:o dit:v le:o porteur:n à:o la:o fin:n .:o"
+  },
+  {
+   "n": 279,
+   "en": "\"Seven times the sea nearly killed you, and seven times you came home.\"",
+   "tgt": "«:o Sept:o fois:n la:o mer:n vous:o tua:v presque:a ,:o et:o sept:o fois:n vous:o rentrâtes:v chez:o vous:o .:o »:o"
+  },
+  {
+   "n": 280,
+   "en": "\"No man in the world tells seven such tales of the sea.\"",
+   "tgt": "«:o Aucun:o homme:n dans:o le:o monde:n ne:o raconte:v sept:o telles:a récits:n de:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 281,
+   "en": "\"At your gate I put my load down and said that the master of the house rests all day.\"",
+   "tgt": "«:o À:o votre:o porte:n j':o ai:v posé:v ma:o charge:n et:o dit:v que:o le:o maître:n de:o la:o maison:n se:o repose:v toute:o la:o journée:n .:o »:o"
+  },
+  {
+   "n": 282,
+   "en": "\"I know what work bought that rest.\"",
+   "tgt": "«:o Je:o sais:v quel:o travail:n a:v acheté:v ce:o repos:n .:o »:o"
+  },
+  {
+   "n": 283,
+   "en": "\"Your gold did not come to you by luck.\"",
+   "tgt": "«:o Votre:o or:n ne:o vint:v pas:o à:o vous:o par:o chance:n .:o »:o"
+  },
+  {
+   "n": 284,
+   "en": "At that, Sinbad the Sailor laughed, and the guests laughed with him.",
+   "tgt": "À:o cela:o ,:o Sinbad:o le:o Marin:o rit:v ,:o et:o les:o invités:n rirent:v avec:o lui:o .:o"
+  },
+  {
+   "n": 285,
+   "en": "\"No, my friend,\" he said.",
+   "tgt": "«:o Non:o ,:o mon:o ami:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 286,
+   "en": "\"It came by work, as your bread comes to you.\"",
+   "tgt": "«:o Il:o vint:v par:o le:o travail:n ,:o comme:o votre:o pain:n vient:v à:o vous:o .:o »:o"
+  },
+  {
+   "n": 287,
+   "en": "He put a purse of 100 gold pieces in the porter's hands.",
+   "tgt": "Il:o mit:v une:o bourse:n de:o 100:o pièces:n d':o or:n dans:o les:o mains:n du:o porteur:n .:o"
+  },
+  {
+   "n": 288,
+   "en": "It was the seventh purse of gold that came home with the porter.",
+   "tgt": "C':o était:v la:o septième:a bourse:n d':o or:n qui:o revint:v chez:o le:o porteur:n .:o"
+  },
+  {
+   "n": 289,
+   "en": "\"Come and eat at my table when you will,\" said Sinbad the Sailor.",
+   "tgt": "«:o Venez:v manger:v à:o ma:o table:n quand:o vous:o voudrez:v ,:o »:o dit:v -il:o Sinbad:o le:o Marin:o .:o"
+  },
+  {
+   "n": 290,
+   "en": "The porter came again, and again, and always ate at that table with him.",
+   "tgt": "Le:o porteur:n revint:v encore:a ,:o et:o encore:a ,:o et:o mangea:v toujours:a à:o cette:o table:n avec:o lui:o .:o"
+  },
+  {
+   "n": 291,
+   "en": "Porter and sailor had one name between them, and in the end one table.",
+   "tgt": "Le:o porteur:n et:o le:o marin:n avaient:v un:o nom:n commun:a entre:o eux:o ,:o et:o à:o la:o fin:n une:o seule:a table:n .:o"
+  },
+  {
+   "n": 292,
+   "en": "When men in the streets said gold came by luck, the porter told them of the seven voyages.",
+   "tgt": "Quand:o des:o hommes:n dans:o les:o rues:n disaient:v que:o l':o or:n venait:v par:o chance:n ,:o le:o porteur:n leur:o parlait:v des:o sept:o voyages:n .:o"
+  }
+ ]
+}

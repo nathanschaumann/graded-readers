@@ -1,0 +1,889 @@
+{
+ "slug": "bremen_town_musicians",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Old Donkey",
+   "en": "A donkey carried heavy sacks for a miller.",
+   "tgt": "Un:o âne:n porta:v de:o lourds:a sacs:n pour:o un:o meunier:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The sacks were full of grain for the mill.",
+   "tgt": "Les:o sacs:n étaient:v pleins:a de:o grain:n pour:o le:o moulin:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The donkey carried the grain for many years.",
+   "tgt": "L':o âne:n porta:v le:o grain:n pendant:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "But the donkey grew old and weak.",
+   "tgt": "Mais:o l':o âne:n devint:v vieux:a et:o faible:a .:o"
+  },
+  {
+   "n": 5,
+   "en": "His legs grew weaker every day.",
+   "tgt": "Ses:o jambes:n devenaient:v plus:a faibles:a chaque:o jour:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "He could no longer carry the heavy sacks.",
+   "tgt": "Il:o ne:o pouvait:v plus:o porter:v les:o lourds:a sacs:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The miller gave him no food now.",
+   "tgt": "Le:o meunier:n ne:o lui:o donnait:v plus:o de:o nourriture:n maintenant:a .:o"
+  },
+  {
+   "n": 8,
+   "en": "The miller planned to kill him.",
+   "tgt": "Le:o meunier:n planifiait:v de:o le:o tuer:v .:o"
+  },
+  {
+   "n": 9,
+   "en": "The donkey was afraid, and he left the mill that night.",
+   "tgt": "L':o âne:n avait:v peur:n ,:o et:o il:o quitta:v le:o moulin:n cette:o nuit-là:a .:o"
+  },
+  {
+   "n": 10,
+   "en": "There was a town named Bremen.",
+   "tgt": "Il:o y:o avait:v une:o ville:n nommée:a Bremen:o .:o"
+  },
+  {
+   "n": 11,
+   "en": "He thought he could still sing well.",
+   "tgt": "Il:o pensait:v qu':o il:o pouvait:v encore:a chanter:v bien:a .:o"
+  },
+  {
+   "n": 12,
+   "en": "\"I will go to Bremen,\" said the donkey.",
+   "tgt": "«:o J':o irai:v à:o Bremen:o ,:o »:o dit:v -il:o ,:o l':o âne:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "\"I will become a town musician there.\"",
+   "tgt": "«:o Je:o deviendrai:v un:o musicien:n de:o ville:n là-bas:a »:o .:o"
+  },
+  {
+   "n": 14,
+   "chapter": "The Old Dog",
+   "en": "A dog hunted with a hunter for many years.",
+   "tgt": "Un:o chien:n chassa:v avec:o un:o chasseur:n pendant:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Every day, the dog and the hunter ran together.",
+   "tgt": "Chaque:o jour:n ,:o le:o chien:n et:o le:o chasseur:n couraient:v ensemble:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "The dog caught many animals for him.",
+   "tgt": "Le:o chien:n attrapa:v de:o nombreux:a animaux:n pour:o lui:o .:o"
+  },
+  {
+   "n": 17,
+   "en": "But the dog grew old and slow.",
+   "tgt": "Mais:o le:o chien:n devint:v vieux:a et:o lent:a .:o"
+  },
+  {
+   "n": 18,
+   "en": "The old dog could not catch animals now.",
+   "tgt": "Le:o vieux:a chien:n ne:o pouvait:v pas:o attraper:v des:o animaux:n maintenant:a .:o"
+  },
+  {
+   "n": 19,
+   "en": "The hunter did not want an old dog.",
+   "tgt": "Le:o chasseur:n ne:o voulait:v pas:o un:o vieux:a chien:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "But the dog wanted to stay.",
+   "tgt": "Mais:o le:o chien:n voulait:v rester:v .:o"
+  },
+  {
+   "n": 21,
+   "en": "The hunter planned to kill him.",
+   "tgt": "Le:o chasseur:n planifiait:v de:o le:o tuer:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "The dog was afraid, so he left that night.",
+   "tgt": "Le:o chien:n avait:v peur:n ,:o alors:o il:o partit:v cette:o nuit-là:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "On the road, he met the old donkey.",
+   "tgt": "Sur:o la:o route:n ,:o il:o rencontra:v le:o vieux:a âne:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "\"Why are you afraid?\" asked the donkey.",
+   "tgt": "«:o Pourquoi:o avez:v -vous:o peur:n ?:o »:o demanda:v l':o âne:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The dog told the donkey the plan.",
+   "tgt": "Le:o chien:n dit:v à:o l':o âne:n le:o plan:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"Come to Bremen,\" said the donkey.",
+   "tgt": "«:o Viens:v à:o Brême:o ,:o »:o dit:v l':o âne:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"You can still bark loudly there.\"",
+   "tgt": "«:o Tu:o peux:v encore:a aboyer:v fort:a là-bas:a .:o »:o"
+  },
+  {
+   "n": 28,
+   "en": "The dog agreed, and they walked on together.",
+   "tgt": "Le:o chien:n accepta:v ,:o et:o ils:o marchèrent:v ensemble:a .:o"
+  },
+  {
+   "n": 29,
+   "chapter": "The Old Cat",
+   "en": "A cat caught mice for an old woman for many years.",
+   "tgt": "Un:o chat:n attrapa:v des:o souris:n pour:o une:o vieille:a femme:n pendant:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The woman had many mice in her house.",
+   "tgt": "La:o femme:n avait:v beaucoup:a de:o souris:n dans:o sa:o maison:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The cat sat in the window of the house.",
+   "tgt": "Le:o chat:n s':o assit:v à:o la:o fenêtre:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "But the cat grew old in the woman's house.",
+   "tgt": "Mais:o le:o chat:n vieillit:v dans:o la:o maison:n de:o la:o femme:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The cat's teeth were old and dull now.",
+   "tgt": "Les:o dents:n du:o chat:n étaient:v vieilles:a et:o émoussées:a maintenant:a .:o"
+  },
+  {
+   "n": 34,
+   "en": "She could no longer catch the mice for the woman.",
+   "tgt": "Elle:o ne:o pouvait:v plus:o attraper:v les:o souris:n pour:o la:o femme:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "The woman did not want the old cat now.",
+   "tgt": "La:o femme:n ne:o voulait:v plus:o le:o vieux:a chat:n maintenant:a .:o"
+  },
+  {
+   "n": 36,
+   "en": "The woman planned to drown the old cat.",
+   "tgt": "La:o femme:n prévoyait:v de:o noyer:v le:o vieux:a chat:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "The old cat was afraid, and she left that night.",
+   "tgt": "La:o vieille:a chatte:n avait:v peur:n ,:o et:o elle:o quitta:v cette:o nuit-là:a .:o"
+  },
+  {
+   "n": 38,
+   "en": "On the road, she met the donkey and the dog.",
+   "tgt": "Sur:o la:o route:n ,:o elle:o rencontra:v l':o âne:n et:o le:o chien:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"Why are you afraid?\" the donkey and the dog asked.",
+   "tgt": "«:o Pourquoi:o avez-vous:v peur:n ?:o »:o demandèrent:v l':o âne:n et:o le:o chien:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The cat told the donkey and the dog the plan.",
+   "tgt": "La:o chatte:n expliqua:v le:o plan:n à:o l':o âne:n et:o au:o chien:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Come to Bremen with us,\" said the donkey.",
+   "tgt": "«:o Venez:v à:o Brême:o avec:o nous:o ,:o »:o dit:v l':o âne:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"You can still sing well at night.\"",
+   "tgt": "«:o Tu:o peux:v encore:a bien:a chanter:v la:o nuit:n .:o »:o"
+  },
+  {
+   "n": 43,
+   "en": "The cat agreed, and they walked on together.",
+   "tgt": "La:o chatte:n accepta:v ,:o et:o ils:o marchèrent:v ensemble:a .:o"
+  },
+  {
+   "n": 44,
+   "chapter": "The Old Rooster",
+   "en": "A rooster lived on a farm for many years.",
+   "tgt": "Un:o coq:n vivait:v dans:o une:o ferme:n depuis:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "Every morning, he crowed loudly to wake the farm.",
+   "tgt": "Chaque:o matin:n ,:o il:o chantait:v fort:a pour:o réveiller:v la:o ferme:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "But the rooster grew old and tired.",
+   "tgt": "Mais:o le:o coq:n devint:v vieux:a et:o fatigué:a .:o"
+  },
+  {
+   "n": 47,
+   "en": "He did not crow loudly now.",
+   "tgt": "Il:o ne:o chantait:v plus:o fort:a maintenant:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "No one on the farm wanted the old rooster now.",
+   "tgt": "Personne:o à:o la:o ferme:n ne:o voulait:v le:o vieux:a coq:n maintenant:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "The farm had guests that day.",
+   "tgt": "La:o ferme:n avait:v des:o invités:n ce:o jour-là:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "The cook planned to cook the old rooster for the guests.",
+   "tgt": "Le:o cuisinier:n planifiait:v de:o cuisiner:v le:o vieux:a coq:n pour:o les:o invités:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The old rooster did not want to be cooked.",
+   "tgt": "Le:o vieux:a coq:n ne:o voulait:v pas:o être:v cuit:v .:o"
+  },
+  {
+   "n": 52,
+   "en": "He was afraid, so he flew from the farm that night.",
+   "tgt": "Il:o avait:v peur:n ,:o alors:o il:o s':o envola:v de:o la:o ferme:n cette:o nuit-là:a .:o"
+  },
+  {
+   "n": 53,
+   "en": "On the road, he met the three animals.",
+   "tgt": "Sur:o la:o route:n ,:o il:o rencontra:v les:o trois:o animaux:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Why are you afraid?\" the three animals asked.",
+   "tgt": "«:o Pourquoi:o avez-vous:v peur:n ?:o »:o demandèrent:v les:o trois:o animaux:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "The rooster told the three animals the cook's plan.",
+   "tgt": "Le:o coq:n raconta:v aux:o trois:o animaux:n le:o plan:n du:o cuisinier:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"Come to Bremen with us,\" said the donkey.",
+   "tgt": "«:o Venez:v à:o Bremen:o avec:o nous:o ,:o »:o dit:v le:o âne:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"You can still crow loudly there.\"",
+   "tgt": "«:o Vous:o pouvez:v encore:a chanter:v là-bas:a .:o »:o"
+  },
+  {
+   "n": 58,
+   "en": "The rooster agreed, and all four walked on together.",
+   "tgt": "Le:o coq:n accepta:v ,:o et:o tous:o les:o quatre:o marchèrent:v ensemble:a .:o"
+  },
+  {
+   "n": 59,
+   "chapter": "A Light in the Dark",
+   "en": "The four animals walked all day toward Bremen.",
+   "tgt": "Les:o quatre:o animaux:n marchèrent:v toute:o la:o journée:n vers:o Bremen:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "But night came before they reached the town.",
+   "tgt": "Mais:o la:o nuit:n tomba:v avant:o qu':o ils:o atteignent:v la:o ville:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "They stopped in a forest.",
+   "tgt": "Ils:o s':o arrêtèrent:v dans:o une:o forêt:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The forest was dark.",
+   "tgt": "La:o forêt:n était:v sombre:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "The donkey and the dog lay down by a tree.",
+   "tgt": "L':o âne:n et:o le:o chien:n s':o allongèrent:v près:o d':o un:o arbre:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The cat climbed up into the tree.",
+   "tgt": "Le:o chat:n grimpa:v dans:o l':o arbre:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "The rooster flew to the top of the tree.",
+   "tgt": "Le:o coq:n vola:v jusqu':o au:o sommet:n de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "He looked all around the forest.",
+   "tgt": "Il:o regarda:v tout:o autour:o de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "He saw a small light.",
+   "tgt": "Il:o vit:v une:o petite:a lumière:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "\"I see a light in the forest,\" said the rooster.",
+   "tgt": "«:o Je:o vois:v une:o lumière:n dans:o la:o forêt:n ,:o »:o dit:v le:o coq:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"A house is near,\" said the donkey.",
+   "tgt": "«:o Une:o maison:n est:v proche:a ,:o »:o dit:v l':o âne:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"A house may have food and be warm.\"",
+   "tgt": "«:o Une:o maison:n peut:v avoir:v de:o la:o nourriture:n et:o être:v chaude:a .:o »:o"
+  },
+  {
+   "n": 71,
+   "en": "\"We must go and see,\" said the dog.",
+   "tgt": "«:o Nous:o devons:v aller:v voir:v ,:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The four animals walked toward the small light.",
+   "tgt": "Les:o quatre:o animaux:n marchèrent:v vers:o la:o petite:a lumière:n .:o"
+  },
+  {
+   "n": 73,
+   "chapter": "The House in the Forest",
+   "en": "Soon, the four animals came to a small house.",
+   "tgt": "Bientôt:a ,:o les:o quatre:o animaux:n arrivèrent:v à:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "They saw a light in one window.",
+   "tgt": "Ils:o virent:v une:o lumière:n dans:o une:o fenêtre:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The four animals walked to look.",
+   "tgt": "Les:o quatre:o animaux:n s':o approchèrent:v pour:o regarder:v .:o"
+  },
+  {
+   "n": 76,
+   "en": "The donkey's front feet were on the window.",
+   "tgt": "Les:o pattes:n avant:a de:o l':o âne:n étaient:v sur:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "He looked inside the house.",
+   "tgt": "Il:o regarda:v à:o l':o intérieur:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "Robbers sat around a table and ate.",
+   "tgt": "Des:o voleurs:n étaient:v assis:a autour:o d':o une:o table:n et:o mangeaient:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "The table was full of food.",
+   "tgt": "La:o table:n était:v pleine:a de:o nourriture:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "The donkey came down and told the others.",
+   "tgt": "L':o âne:n descendit:v et:o dit:v aux:o autres:o .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"Robbers have food in there,\" he said.",
+   "tgt": "«:o Les:o voleurs:n ont:v de:o la:o nourriture:n là-dedans:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 82,
+   "en": "The animals had no food all day.",
+   "tgt": "Les:o animaux:n n':o avaient:v pas:o mangé:v de:o toute:o la:o journée:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "They wanted the food and the warm house.",
+   "tgt": "Ils:o voulaient:v la:o nourriture:n et:o la:o maison:n chaude:a .:o"
+  },
+  {
+   "n": 84,
+   "en": "\"We must make the robbers run away,\" said the donkey.",
+   "tgt": "«:o Nous:o devons:v faire:v fuir:v les:o voleurs:n ,:o »:o dit:v l':o âne:n .:o"
+  },
+  {
+   "n": 85,
+   "chapter": "The Musicians' Trick",
+   "en": "\"I have a plan,\" said the donkey.",
+   "tgt": "«:o J':o ai:v un:o plan:n ,:o »:o dit:v l':o âne:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"We can make one loud sound together.\"",
+   "tgt": "«:o Nous:o pouvons:v faire:v un:o son:n fort:a ensemble:a »:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "\"The robbers may think a monster came.\"",
+   "tgt": "«:o Les:o voleurs:n peuvent:v penser:v qu':o un:o monstre:n est:v venu:v .:o »:o"
+  },
+  {
+   "n": 88,
+   "en": "All four animals went to the window.",
+   "tgt": "Les:o quatre:o animaux:n allèrent:v tous:o à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "The donkey's front feet were on the window again.",
+   "tgt": "Les:o pattes:n avant:a de:o l':o âne:n étaient:v de:o nouveau:a sur:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "The dog climbed onto the donkey's back.",
+   "tgt": "Le:o chien:n grimpa:v sur:o le:o dos:n de:o l':o âne:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "The cat climbed onto the dog's back.",
+   "tgt": "Le:o chat:n grimpa:v sur:o le:o dos:n du:o chien:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The rooster flew up on top of the cat.",
+   "tgt": "Le:o coq:n vola:v sur:o le:o dos:n du:o chat:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The four animals made the sound together.",
+   "tgt": "Les:o quatre:o animaux:n firent:v le:o son:n ensemble:a .:o"
+  },
+  {
+   "n": 94,
+   "en": "The donkey brayed.",
+   "tgt": "L':o âne:n braya:v .:o"
+  },
+  {
+   "n": 95,
+   "en": "The dog barked.",
+   "tgt": "Le:o chien:n aboya:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "The cat screeched.",
+   "tgt": "Le:o chat:n cria:v .:o"
+  },
+  {
+   "n": 97,
+   "en": "The rooster crowed.",
+   "tgt": "Le:o coq:n chanta:v .:o"
+  },
+  {
+   "n": 98,
+   "en": "The robbers saw a strange shape and were afraid.",
+   "tgt": "Les:o voleurs:n virent:v une:o forme:n étrange:a et:o eurent:v peur:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "They ran out and into the forest.",
+   "tgt": "Ils:o coururent:v dehors:a et:o dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 100,
+   "chapter": "A Feast at Last",
+   "en": "The four animals came down from the window.",
+   "tgt": "Les:o quatre:o animaux:n descendirent:v de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "They walked to the door.",
+   "tgt": "Ils:o marchèrent:v jusqu':o à:o la:o porte:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "The donkey pushed the door open.",
+   "tgt": "L':o âne:n poussa:v la:o porte:n et:o l':o ouvrit:v .:o"
+  },
+  {
+   "n": 103,
+   "en": "The four animals went inside.",
+   "tgt": "Les:o quatre:o animaux:n entrèrent:v .:o"
+  },
+  {
+   "n": 104,
+   "en": "The table was still full of food.",
+   "tgt": "La:o table:n était:v encore:a pleine:a de:o nourriture:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "The four animals ate and were full.",
+   "tgt": "Les:o quatre:o animaux:n mangèrent:v et:o furent:v rassasiés:a .:o"
+  },
+  {
+   "n": 106,
+   "en": "The donkey went back out to the yard.",
+   "tgt": "L':o âne:n retourna:v dehors:a dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "There, he lay down on straw.",
+   "tgt": "Là:a ,:o il:o s':o allongea:v sur:o de:o la:o paille:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The straw was warm.",
+   "tgt": "La:o paille:n était:v chaude:a .:o"
+  },
+  {
+   "n": 109,
+   "en": "The dog lay down behind the door.",
+   "tgt": "Le:o chien:n se:o coucha:v derrière:o la:o porte:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "The cat lay down by the warm ashes.",
+   "tgt": "Le:o chat:n se:o coucha:v près:o des:o cendres:n chaudes:a .:o"
+  },
+  {
+   "n": 111,
+   "en": "The rooster flew up onto the roof.",
+   "tgt": "Le:o coq:n vola:v jusqu':o au:o toit:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Soon, all four animals were asleep.",
+   "tgt": "Bientôt:a ,:o les:o quatre:o animaux:n dormaient:v .:o"
+  },
+  {
+   "n": 113,
+   "en": "That night, they were warm, safe, and full.",
+   "tgt": "Cette:o nuit-là:n ,:o ils:o étaient:v chauds:a ,:o en:o sécurité:n et:o rassasiés:a .:o"
+  },
+  {
+   "n": 114,
+   "chapter": "A Robber in the Dark",
+   "en": "The robbers waited in the forest all night.",
+   "tgt": "Les:o brigands:n attendirent:v dans:o la:o forêt:n toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "The chief of the robbers waited too.",
+   "tgt": "Le:o chef:n des:o brigands:n attendit:v aussi:a .:o"
+  },
+  {
+   "n": 116,
+   "en": "But the house was dark and quiet.",
+   "tgt": "Mais:o la:o maison:n était:v sombre:a et:o silencieuse:a .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"One robber must go and look,\" said the chief.",
+   "tgt": "«:o Un:o brigand:n doit:v aller:v voir:v ,:o »:o dit:v le:o chef:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "One robber walked back to the house.",
+   "tgt": "Un:o brigand:n retourna:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "The robber opened the door and went inside.",
+   "tgt": "Le:o brigand:n ouvrit:v la:o porte:n et:o entra:v .:o"
+  },
+  {
+   "n": 120,
+   "en": "The house was warm now.",
+   "tgt": "La:o maison:n était:v chaude:a maintenant:a .:o"
+  },
+  {
+   "n": 121,
+   "en": "He wanted more light in the house.",
+   "tgt": "Il:o voulait:v plus:a de:o lumière:n dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "He walked toward the warm ashes.",
+   "tgt": "Il:o marcha:v vers:o les:o cendres:n chaudes:a .:o"
+  },
+  {
+   "n": 123,
+   "en": "He saw small lights in the ashes.",
+   "tgt": "Il:o vit:v de:o petites:a lumières:n dans:o les:o cendres:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "He thought they were coals.",
+   "tgt": "Il:o pensa:v qu':o elles:o étaient:v des:o charbons:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "He reached toward the lights in the dark.",
+   "tgt": "Il:o tendit:v la:o main:n vers:o les:o lumières:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The cat woke and scratched his face.",
+   "tgt": "Le:o chat:n se:o réveilla:v et:o lui:o griffa:v le:o visage:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "He ran back for the door.",
+   "tgt": "Il:o courut:v vers:o la:o porte:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "The dog woke and bit his leg.",
+   "tgt": "Le:o chien:n se:o réveilla:v et:o lui:o mordit:v la:o jambe:n .:o"
+  },
+  {
+   "n": 129,
+   "chapter": "Chased Into the Night",
+   "en": "The robber ran out into the yard.",
+   "tgt": "Le:o voleur:n courut:v dehors:a dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "The donkey woke and kicked him.",
+   "tgt": "L':o âne:n se:o réveilla:v et:o lui:o donna:v un:o coup:n de:o pied:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The robber fell down in the yard.",
+   "tgt": "Le:o voleur:n tomba:v dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "His face and his leg still hurt.",
+   "tgt": "Son:o visage:n et:o sa:o jambe:n lui:o faisaient:v encore:a mal:a .:o"
+  },
+  {
+   "n": 133,
+   "en": "He stood up and ran away.",
+   "tgt": "Il:o se:o leva:v et:o s':o enfuit:v .:o"
+  },
+  {
+   "n": 134,
+   "en": "From the roof, the rooster woke too.",
+   "tgt": "Du:o toit:n ,:o le:o coq:n se:o réveilla:v aussi:a .:o"
+  },
+  {
+   "n": 135,
+   "en": "The rooster crowed loudly into the night.",
+   "tgt": "Le:o coq:n chanta:v fort:a dans:o la:o nuit:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "The sound was strange to the robber.",
+   "tgt": "Le:o son:n était:v étrange:a pour:o le:o voleur:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "He was more afraid of the house now.",
+   "tgt": "Il:o avait:v encore:a plus:a peur:n de:o la:o maison:n maintenant:a .:o"
+  },
+  {
+   "n": 138,
+   "en": "He never wanted to go back.",
+   "tgt": "Il:o ne:o voulut:v jamais:o y:o retourner:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "He ran into the forest.",
+   "tgt": "Il:o courut:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "He did not stop in the dark.",
+   "tgt": "Il:o ne:o s':o arrêta:v pas:o dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "He ran back to the other robbers.",
+   "tgt": "Il:o courut:v rejoindre:v les:o autres:a voleurs:n .:o"
+  },
+  {
+   "n": 142,
+   "chapter": "The Robber's Story",
+   "en": "The robber reached the other robbers in the dark.",
+   "tgt": "Le:o voleur:n rejoignit:v les:o autres:a voleurs:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "He was tired, and he was afraid.",
+   "tgt": "Il:o était:v fatigué:a ,:o et:o il:o avait:v peur:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "The other robbers saw that he was afraid.",
+   "tgt": "Les:o autres:a voleurs:n virent:v qu':o il:o avait:v peur:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"Why are you afraid?\" asked the chief.",
+   "tgt": "«:o Pourquoi:o avez-vous:v peur:n ?:o »:o demanda:v le:o chef:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"I went inside the house,\" said the robber.",
+   "tgt": "«:o Je:o suis:v entré:v dans:o la:o maison:n ,:o »:o dit:v le:o voleur:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "\"I wanted more light in the dark house.\"",
+   "tgt": "«:o Je:o voulais:v plus:o de:o lumière:n dans:o la:o maison:n sombre:a .:o »:o"
+  },
+  {
+   "n": 148,
+   "en": "\"A witch sat by the warm ashes.\"",
+   "tgt": "«:o Une:o sorcière:n était:v assise:a près:o des:o cendres:n chaudes:a .:o »:o"
+  },
+  {
+   "n": 149,
+   "en": "\"She scratched my face with her nails!\"",
+   "tgt": "«:o Elle:o m':o a:v griffé:v le:o visage:n avec:o ses:o ongles:n !:o »:o"
+  },
+  {
+   "n": 150,
+   "en": "\"A man stood behind the door.\"",
+   "tgt": "«:o Un:o homme:n se:o tenait:v derrière:o la:o porte:n .:o »:o"
+  },
+  {
+   "n": 151,
+   "en": "\"He cut my leg with a knife!\"",
+   "tgt": "«:o Il:o m':o a:v coupé:v la:o jambe:n avec:o un:o couteau:n !:o »:o"
+  },
+  {
+   "n": 152,
+   "chapter": "Never Going Back",
+   "en": "\"A monster was in the yard,\" said the robber.",
+   "tgt": "«:o Un:o monstre:n était:v dans:o la:o cour:n ,:o »:o dit:v le:o voleur:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "\"The monster hit me with a club!\"",
+   "tgt": "«:o Le:o monstre:n m':o a:v frappé:v avec:o une:o massue:n !:o »:o"
+  },
+  {
+   "n": 154,
+   "en": "\"A judge was on the roof.\"",
+   "tgt": "«:o Un:o juge:n était:v sur:o le:o toit:n .:o »:o"
+  },
+  {
+   "n": 155,
+   "en": "\"He shouted for me to stop!\"",
+   "tgt": "«:o Il:o a:v crié:v pour:o que:o je:o m':o arrête:v !:o »:o"
+  },
+  {
+   "n": 156,
+   "en": "The chief had never heard such a story.",
+   "tgt": "Le:o chef:n n':o avait:v jamais:o entendu:v une:o telle:o histoire:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "The chief was afraid of the story too.",
+   "tgt": "Le:o chef:n avait:v peur:n de:o l':o histoire:n aussi:a .:o"
+  },
+  {
+   "n": 158,
+   "en": "\"We must never go back to that house,\" said the chief.",
+   "tgt": "«:o Nous:o ne:o devons:v jamais:o retourner:v dans:o cette:o maison:n ,:o »:o dit:v le:o chef:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "All the robbers agreed with the chief.",
+   "tgt": "Tous:o les:o voleurs:n étaient:v d':o accord:n avec:o le:o chef:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "The robbers were still afraid of the witch and the monster.",
+   "tgt": "Les:o voleurs:n avaient:v encore:a peur:n de:o la:o sorcière:n et:o du:o monstre:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "They ran from the forest that night.",
+   "tgt": "Ils:o coururent:v hors:o de:o la:o forêt:n cette:o nuit-là:a .:o"
+  },
+  {
+   "n": 162,
+   "chapter": "Home at Last",
+   "en": "Morning came to the small house in the forest.",
+   "tgt": "Le:o matin:n arriva:v à:o la:o petite:a maison:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "The house was quiet and warm.",
+   "tgt": "La:o maison:n était:v calme:a et:o chaude:a .:o"
+  },
+  {
+   "n": 164,
+   "en": "The four animals waited for many days.",
+   "tgt": "Les:o quatre:o animaux:n attendirent:v pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "But the robbers did not come back.",
+   "tgt": "Mais:o les:o voleurs:n ne:o revinrent:v pas:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "\"This house is home now,\" said the donkey.",
+   "tgt": "«:o Cette:o maison:n est:v maintenant:a notre:o foyer:n ,:o »:o dit:v le:o âne:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "\"We have food, and we are safe,\" said the dog.",
+   "tgt": "«:o Nous:o avons:v de:o la:o nourriture:n ,:o et:o nous:o sommes:v en:o sécurité:n ,:o »:o dit:v le:o chien:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "The cat and the rooster agreed with the others too.",
+   "tgt": "Le:o chat:n et:o le:o coq:n étaient:v aussi:a d':o accord:n avec:o les:o autres:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "The four animals wanted to stay in the house.",
+   "tgt": "Les:o quatre:o animaux:n voulaient:v rester:v dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "They never went on to Bremen.",
+   "tgt": "Ils:o n':o allèrent:v jamais:o jusqu':o à:o Brême:o .:o"
+  },
+  {
+   "n": 171,
+   "en": "They did not need Bremen now.",
+   "tgt": "Ils:o n':o avaient:v pas:o besoin:n de:o Brême:o maintenant:a .:o"
+  },
+  {
+   "n": 172,
+   "en": "The small house in the forest was their home.",
+   "tgt": "La:o petite:a maison:n dans:o la:o forêt:n était:v leur:o foyer:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The four musicians sang together in the house.",
+   "tgt": "Les:o quatre:o musiciens:n chantèrent:v ensemble:a dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "The four animals lived there, safe and warm.",
+   "tgt": "Les:o quatre:o animaux:n y:o vécurent:v ,:o en:o sécurité:n et:o au:o chaud:a .:o"
+  }
+ ]
+}

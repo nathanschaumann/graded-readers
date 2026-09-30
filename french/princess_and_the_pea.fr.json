@@ -1,0 +1,67 @@
+{
+ "slug": "princess_and_the_pea",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Princess in the Storm",
+   "en": "A prince wanted to marry a real princess.",
+   "tgt": "Un:o prince:n voulait:v épouser:v une:o vraie:a princesse:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He looked in every castle for a princess.",
+   "tgt": "Il:o chercha:v dans:o chaque:o château:n une:o princesse:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "But he never found anyone.",
+   "tgt": "Mais:o il:o ne:o trouva:v jamais:o personne:o .:o"
+  },
+  {
+   "n": 4,
+   "en": "One night, a storm came to the castle.",
+   "tgt": "Une:o nuit:n ,:o une:o tempête:n arriva:v au:o château:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Someone knocked at the castle gate in the rain.",
+   "tgt": "Quelqu':o un:o frappa:v à:o la:o porte:n du:o château:n sous:o la:o pluie:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "A girl stood outside in the storm.",
+   "tgt": "Une:o fille:n se:o tenait:v dehors:a dans:o la:o tempête:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"I am a real princess,\" the girl said.",
+   "tgt": "«:o Je:o suis:v une:o vraie:a princesse:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "The queen put a pea under twenty beds.",
+   "tgt": "La:o reine:n plaça:v un:o pois:n sous:o vingt:o lits:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "That night, the girl lay on all the beds.",
+   "tgt": "Cette:o nuit-là:o ,:o la:o fille:n s':o allongea:v sur:o tous:o les:o lits:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "She felt a hard pea under her all night.",
+   "tgt": "Elle:o sentit:v un:o pois:n dur:a sous:o elle:o toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"I did not sleep at all,\" the princess said.",
+   "tgt": "«:o Je:o n':o ai:v pas:o dormi:v du:o tout:o ,:o »:o dit:v la:o princesse:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "So the prince married the real princess the next day.",
+   "tgt": "Alors:o le:o prince:n épousa:v la:o vraie:a princesse:n le:o lendemain:n .:o"
+  }
+ ]
+}

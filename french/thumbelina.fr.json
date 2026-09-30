@@ -1,0 +1,770 @@
+{
+ "slug": "thumbelina",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Wish for a Child",
+   "en": "A woman lived alone in a small home.",
+   "tgt": "Une:o femme:n vivait:v seule:a dans:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The woman wanted to have a little child.",
+   "tgt": "La:o femme:n voulait:v avoir:v un:o petit:a enfant:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "One day, she went to see an old witch.",
+   "tgt": "Un:o jour:n ,:o elle:o alla:v voir:v une:o vieille:a sorcière:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "\"Please give me a child,\" the woman said.",
+   "tgt": "«:o Donnez-moi:v un:o enfant:n ,:o je:o vous:o en:o prie:v »:o ,:o dit:v la:o femme:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "The witch listened and gave her a small seed.",
+   "tgt": "La:o sorcière:n écouta:v et:o lui:o donna:v une:o petite:a graine:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"Put this seed in a pot by the window,\" said the witch.",
+   "tgt": "«:o Mettez:v cette:o graine:n dans:o un:o pot:n près:o de:o la:o fenêtre:n »:o ,:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"A flower will grow from this seed,\" she said.",
+   "tgt": "«:o Une:o fleur:n poussera:v de:o cette:o graine:n »:o ,:o dit-elle:v .:o"
+  },
+  {
+   "n": 8,
+   "en": "The woman thanked the witch and went home.",
+   "tgt": "La:o femme:n remercia:v la:o sorcière:n et:o rentra:v chez:o elle:o .:o"
+  },
+  {
+   "n": 9,
+   "en": "She put the seed in a pot by the window.",
+   "tgt": "Elle:o mit:v la:o graine:n dans:o un:o pot:n près:o de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "She gave it water every morning and every night.",
+   "tgt": "Elle:o lui:o donnait:v de:o l':o eau:n chaque:o matin:n et:o chaque:o soir:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "Soon a green plant grew, and a large bud sat on it.",
+   "tgt": "Bientôt:a une:o plante:n verte:a poussa:v ,:o et:o un:o grand:a bourgeon:n s':o posa:v dessus:o .:o"
+  },
+  {
+   "n": 12,
+   "en": "The woman looked at the dark red bud every day.",
+   "tgt": "La:o femme:n regardait:v le:o bourgeon:n rouge:a foncé:a chaque:o jour:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "One morning, the red bud opened in the warm sun.",
+   "tgt": "Un:o matin:n ,:o le:o bourgeon:n rouge:a s':o ouvrit:v dans:o le:o soleil:n chaud:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "In the flower sat a tiny girl.",
+   "tgt": "Dans:o la:o fleur:n était:v assise:a une:o toute:a petite:a fille:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "She was as small as the woman's thumb.",
+   "tgt": "Elle:o était:v aussi:a petite:a que:o le:o pouce:n de:o la:o femme:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"My pretty girl!\" said the woman.",
+   "tgt": "«:o Ma:o jolie:a fille:n !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 17,
+   "en": "The woman named her Thumbelina.",
+   "tgt": "La:o femme:n la:o nomma:v Thumbelina:o .:o"
+  },
+  {
+   "n": 18,
+   "en": "She made Thumbelina a little bed from a walnut shell.",
+   "tgt": "Elle:o lui:o fit:v un:o petit:a lit:n à:o partir:v d':o une:o coquille:n de:o noix:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "Thumbelina slept in the shell by the window.",
+   "tgt": "Thumbelina:o dormait:v dans:o la:o coquille:n près:o de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "Soft petals covered her at night.",
+   "tgt": "De:o doux:a pétales:n la:o couvraient:v la:o nuit:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "Every morning, Thumbelina sang in the sun by the window.",
+   "tgt": "Chaque:o matin:n ,:o Thumbelina:o chantait:v au:o soleil:n près:o de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "On warm nights, the woman left the window open.",
+   "tgt": "Les:o nuits:n chaudes:a ,:o la:o femme:n laissait:v la:o fenêtre:n ouverte:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "Thumbelina looked at the dark sky from her shell.",
+   "tgt": "Thumbelina:o regarda:v le:o ciel:n sombre:a depuis:o sa:o coquille:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "One night, an old toad came in at the open window.",
+   "tgt": "Une:o nuit:n ,:o un:o vieux:a crapaud:n entra:v par:o la:o fenêtre:n ouverte:a .:o"
+  },
+  {
+   "n": 25,
+   "en": "The old toad looked at the pretty girl.",
+   "tgt": "Le:o vieux:a crapaud:n regarda:v la:o jolie:a fille:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The toad wanted a wife for her son.",
+   "tgt": "Le:o crapaud:n voulait:v une:o femme:n pour:o son:o fils:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "She took the walnut shell with Thumbelina in it.",
+   "tgt": "Elle:o prit:v la:o coquille:n de:o noix:n avec:o Thumbelina:o dedans:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "The toad hopped away into the dark night.",
+   "tgt": "Le:o crapaud:n sauta:v dans:o la:o nuit:n sombre:a .:o"
+  },
+  {
+   "n": 29,
+   "en": "The old toad carried her away to a stream.",
+   "tgt": "Le:o vieux:a crapaud:n l':o emporta:v jusqu':o à:o un:o ruisseau:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "She put the shell on a lily pad in the water.",
+   "tgt": "Elle:o posa:v la:o coquille:n sur:o un:o nénuphar:n dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "In the morning, Thumbelina woke up on the lily pad.",
+   "tgt": "Le:o matin:n ,:o Thumbelina:o se:o réveilla:v sur:o le:o nénuphar:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "Water was all around the lily pad.",
+   "tgt": "L':o eau:n était:v tout:a autour:o du:o nénuphar:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "Thumbelina could not get back to the land.",
+   "tgt": "Thumbelina:o ne:o pouvait:v pas:o retourner:v sur:o la:o terre:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The old toad came back with her son.",
+   "tgt": "Le:o vieux:a crapaud:n revint:v avec:o son:o fils:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Croak, croak,\" was all the son could say.",
+   "tgt": "«:o Coâ:o ,:o coâ:o »:o était:v tout:o ce:o que:o le:o fils:n pouvait:v dire:v .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"You will live with my son in the mud,\" said the toad.",
+   "tgt": "«:o Tu:o vivras:v avec:o mon:o fils:n dans:o la:o boue:n ,:o »:o dit:v le:o crapaud:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "The toads hopped away to make a home in the mud.",
+   "tgt": "Les:o crapauds:n sautèrent:v pour:o faire:v un:o nid:n dans:o la:o boue:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "She began to cry in the morning sun.",
+   "tgt": "Elle:o commença:v à:o pleurer:v sous:o le:o soleil:n du:o matin:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "She did not want to live in the mud with the son.",
+   "tgt": "Elle:o ne:o voulait:v pas:o vivre:v dans:o la:o boue:n avec:o le:o fils:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "Little fish swam in the stream by the lily pad.",
+   "tgt": "De:o petits:a poissons:n nageaient:v dans:o le:o ruisseau:n près:o du:o nénuphar:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "The fish heard Thumbelina cry all day.",
+   "tgt": "Les:o poissons:n entendirent:v Thumbelina:o pleurer:v toute:a la:o journée:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"She should not live with the ugly toad,\" said one fish.",
+   "tgt": "«:o Elle:o ne:o devrait:v pas:o vivre:v avec:o le:o vilain:a crapaud:n ,:o »:o dit:v un:o poisson:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "The little fish began to bite the green stem of the pad.",
+   "tgt": "Le:o petit:a poisson:n commença:v à:o mordre:v la:o tige:n verte:a du:o nénuphar:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "They bit the stem again and again.",
+   "tgt": "Ils:o mordirent:v la:o tige:n encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "Soon the stem broke free from the mud.",
+   "tgt": "Bientôt:a la:o tige:n se:o détacha:v de:o la:o boue:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The lily pad floated away down the stream.",
+   "tgt": "Le:o nénuphar:n flotta:v au:o loin:a sur:o le:o ruisseau:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "Thumbelina thanked the little fish and smiled.",
+   "tgt": "Thumbelina:o remercia:v les:o petits:a poissons:n et:o sourit:v .:o"
+  },
+  {
+   "n": 48,
+   "chapter": "The Beetle and the Daisy",
+   "en": "Thumbelina floated on the lily pad for a long time.",
+   "tgt": "Thumbelina:o flotta:v sur:o le:o nénuphar:n pendant:o un:o long:a moment:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "The sun went down, and night came to the water.",
+   "tgt": "Le:o soleil:n se:o coucha:v ,:o et:o la:o nuit:n vint:v sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "In the morning, a beetle saw her from a tall tree.",
+   "tgt": "Le:o matin:n ,:o un:o scarabée:n la:o vit:v depuis:o un:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "He flew down to the lily pad.",
+   "tgt": "Il:o vola:v jusqu':o au:o nénuphar:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The beetle took Thumbelina up into the tall tree.",
+   "tgt": "Le:o scarabée:n emporta:v Thumbelina:o en:o haut:a dans:o le:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "The beetle thought Thumbelina was pretty.",
+   "tgt": "Le:o scarabée:n pensait:v que:o Thumbelina:o était:v jolie:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "Other beetles came to look at the tiny girl.",
+   "tgt": "D':o autres:a scarabées:n vinrent:v regarder:v la:o petite:a fille:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"She has only two legs,\" said one beetle.",
+   "tgt": "«:o Elle:o n':o a:v que:o deux:o jambes:n ,:o »:o dit:v un:o scarabée:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"She has no feelers,\" said the other beetles.",
+   "tgt": "«:o Elle:o n':o a:v pas:o d':o antennes:n ,:o »:o dirent:v les:o autres:a scarabées:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"She is not pretty at all,\" they all said.",
+   "tgt": "«:o Elle:o n':o est:v pas:o jolie:a du:o tout:a ,:o »:o dirent:v -ils:o tous:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "He did not want Thumbelina now.",
+   "tgt": "Il:o ne:o voulait:v plus:o Thumbelina:o maintenant:a .:o"
+  },
+  {
+   "n": 59,
+   "en": "The beetle flew down and put her on a daisy.",
+   "tgt": "Le:o scarabée:n descendit:v et:o la:o posa:v sur:o une:o marguerite:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "He flew away and left her all alone.",
+   "tgt": "Il:o s':o envola:v et:o la:o laissa:v toute:a seule:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "All summer, Thumbelina lived alone in the green woods.",
+   "tgt": "Tout:a l':o été:n ,:o Thumbelina:o vécut:v seule:a dans:o les:o bois:n verts:a .:o"
+  },
+  {
+   "n": 62,
+   "en": "She made a small bed of petals under the daisy.",
+   "tgt": "Elle:o fit:v un:o petit:a lit:n de:o pétales:n sous:o la:o marguerite:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "She lived on the water from the flowers every day.",
+   "tgt": "Elle:o vivait:v de:o l':o eau:n des:o fleurs:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "A swallow sang in a tree over her.",
+   "tgt": "Une:o hirondelle:n chanta:v dans:o un:o arbre:n au-dessus:o d':o elle:o .:o"
+  },
+  {
+   "n": 65,
+   "en": "Thumbelina loved to hear the swallow sing every day.",
+   "tgt": "Thumbelina:o aimait:v entendre:v l':o hirondelle:n chanter:v chaque:o jour:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "She was happy, but she thought of the woman at home.",
+   "tgt": "Elle:o était:v heureuse:a ,:o mais:o elle:o pensait:v à:o la:o femme:n à:o la:o maison:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Soon the days turned cold in the woods.",
+   "tgt": "Bientôt:a les:o jours:n devinrent:v froids:a dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The leaves turned yellow and fell to the ground.",
+   "tgt": "Les:o feuilles:n devinrent:v jaunes:a et:o tombèrent:v à:o terre:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "Snow began to fall from the dark sky.",
+   "tgt": "La:o neige:n commença:v à:o tomber:v du:o ciel:n sombre:a .:o"
+  },
+  {
+   "n": 70,
+   "en": "The snow covered the ground and all the flowers.",
+   "tgt": "La:o neige:n couvrit:v le:o sol:n et:o toutes:o les:o fleurs:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "Thumbelina was cold, and she had no warm home now.",
+   "tgt": "Thumbelina:o avait:v froid:n ,:o et:o elle:o n':o avait:v plus:o de:o maison:n chaude:a maintenant:a .:o"
+  },
+  {
+   "n": 72,
+   "en": "She could not keep her small bed warm in the snow.",
+   "tgt": "Elle:o ne:o pouvait:v pas:o garder:v son:o petit:a lit:n chaud:a dans:o la:o neige:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "She looked for a warm home under the ground.",
+   "tgt": "Elle:o chercha:v une:o maison:n chaude:a sous:o la:o terre:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "At last, she came to a little hole in the ground.",
+   "tgt": "Enfin:o ,:o elle:o arriva:v à:o un:o petit:a trou:n dans:o le:o sol:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "A field mouse lived in the warm hole under the ground.",
+   "tgt": "Un:o mulot:n vivait:v dans:o le:o trou:n chaud:a sous:o la:o terre:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"Please give me a little food,\" said Thumbelina.",
+   "tgt": "«:o Donnez-moi:v -moi:o s':o il:o vous:o plaît:v un:o peu:a de:o nourriture:n »:o ,:o dit:v Thumbelina:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"I have had no food for two days.\"",
+   "tgt": "«:o Je:o n':o ai:v pas:o mangé:v depuis:o deux:o jours:n .:o »:o"
+  },
+  {
+   "n": 78,
+   "en": "\"Come in and get warm,\" said the kind field mouse.",
+   "tgt": "«:o Entrez:v et:o réchauffez-vous:v »:o ,:o dit:v le:o gentil:a mulot:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "The field mouse gave her food and a warm bed.",
+   "tgt": "Le:o mulot:n lui:o donna:v de:o la:o nourriture:n et:o un:o lit:n chaud:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "\"You may stay here with me for the winter,\" said the mouse.",
+   "tgt": "«:o Vous:o pouvez:v rester:v ici:a avec:o moi:o pour:o l':o hiver:n »:o ,:o dit:v le:o mulot:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"But you must keep my home and sing for me.\"",
+   "tgt": "«:o Mais:o vous:o devez:v entretenir:v ma:o maison:n et:o chanter:v pour:o moi:o .:o »:o"
+  },
+  {
+   "n": 82,
+   "en": "Thumbelina thanked the kind field mouse.",
+   "tgt": "Thumbelina:o remercia:v le:o gentil:a mulot:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "She kept the little home warm all winter.",
+   "tgt": "Elle:o garda:v la:o petite:a maison:n chaude:a tout:o l':o hiver:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "Every morning, Thumbelina sang for the field mouse.",
+   "tgt": "Chaque:o matin:n ,:o Thumbelina:o chantait:v pour:o le:o mulot:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Thumbelina thought of the sun and the flowers.",
+   "tgt": "Thumbelina:o pensait:v au:o soleil:n et:o aux:o fleurs:n .:o"
+  },
+  {
+   "n": 86,
+   "chapter": "The Mole and the Swallow",
+   "en": "The field mouse had a rich neighbor, an old mole.",
+   "tgt": "La:o souris:n des:o champs:n avait:v un:o riche:a voisin:n ,:o une:o vieille:a taupe:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "The mole lived under the ground and did not love the sun.",
+   "tgt": "La:o taupe:n vivait:v sous:o la:o terre:n et:o n':o aimait:v pas:o le:o soleil:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "One day, the mole came to see the mouse.",
+   "tgt": "Un:o jour:n ,:o la:o taupe:n vint:v rendre:v visite:n à:o la:o souris:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Sing for my neighbor,\" said the field mouse.",
+   "tgt": "«:o Chante:v pour:o mon:o voisin:n ,:o »:o dit:v la:o souris:n des:o champs:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "Thumbelina sang for the mole in her soft voice.",
+   "tgt": "Thumbelina:o chanta:v pour:o la:o taupe:n de:o sa:o voix:n douce:a .:o"
+  },
+  {
+   "n": 91,
+   "en": "The mole loved her voice and wanted Thumbelina for his wife.",
+   "tgt": "La:o taupe:n aimait:v sa:o voix:n et:o voulait:v Thumbelina:o pour:o sa:o femme:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "\"You should marry the rich mole,\" the mouse said.",
+   "tgt": "«:o Tu:o devrais:v épouser:v la:o riche:a taupe:n ,:o »:o dit:v la:o souris:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The mole made a long tunnel under the ground.",
+   "tgt": "La:o taupe:n creusa:v un:o long:a tunnel:n sous:o la:o terre:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "One day, he took Thumbelina into the dark tunnel.",
+   "tgt": "Un:o jour:n ,:o il:o emmena:v Thumbelina:o dans:o le:o sombre:a tunnel:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "A bird was down on the ground in the tunnel.",
+   "tgt": "Un:o oiseau:n était:v tombé:a par:o terre:n dans:o le:o tunnel:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "It was a swallow, cold and still.",
+   "tgt": "C':o était:v une:o hirondelle:n ,:o froide:a et:o immobile:a .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"I do not love birds,\" said the mole.",
+   "tgt": "«:o Je:o n':o aime:v pas:o les:o oiseaux:n ,:o »:o dit:v la:o taupe:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "He went on into the dark.",
+   "tgt": "Il:o s':o enfonça:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "But Thumbelina thought of the swallow that sang in the summer.",
+   "tgt": "Mais:o Thumbelina:o pensa:v à:o l':o hirondelle:n qui:o chantait:v en:o été:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "At night, Thumbelina went back to the tunnel all alone.",
+   "tgt": "La:o nuit:n ,:o Thumbelina:o retourna:v seule:a au:o tunnel:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "She covered the cold swallow with hay.",
+   "tgt": "Elle:o couvrit:v l':o hirondelle:n froide:a de:o foin:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "Thumbelina felt the swallow, and it was a little warm.",
+   "tgt": "Thumbelina:o toucha:v l':o hirondelle:n ,:o et:o elle:o était:v un:o peu:a chaude:a .:o"
+  },
+  {
+   "n": 103,
+   "en": "The swallow was not dead at all.",
+   "tgt": "L':o hirondelle:n n':o était:v pas:o morte:a du:o tout:a .:o"
+  },
+  {
+   "n": 104,
+   "en": "All that winter, Thumbelina took hay and water to the swallow.",
+   "tgt": "Tout:o cet:o hiver:n ,:o Thumbelina:o apporta:v du:o foin:n et:o de:o l':o eau:n à:o l':o hirondelle:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "She kept the swallow a secret from the mole.",
+   "tgt": "Elle:o cacha:v l':o hirondelle:n à:o la:o taupe:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "Soon the swallow was strong again.",
+   "tgt": "Bientôt:a l':o hirondelle:n fut:v de:o nouveau:a forte:a .:o"
+  },
+  {
+   "n": 107,
+   "en": "Warm winds came, and spring came back to the fields.",
+   "tgt": "Des:o vents:n chauds:a vinrent:v ,:o et:o le:o printemps:n revint:v dans:o les:o champs:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The swallow could fly again in the spring.",
+   "tgt": "L':o hirondelle:n pouvait:v voler:v de:o nouveau:a au:o printemps:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "\"Thank you for the hay and the water,\" said the swallow.",
+   "tgt": "«:o Merci:n pour:o le:o foin:n et:o l':o eau:n ,:o »:o dit:v l':o hirondelle:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"Come away with me to a warm land,\" he said.",
+   "tgt": "«:o Viens:v avec:o moi:o dans:o un:o pays:n chaud:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 111,
+   "en": "Thumbelina wanted to go away and see that warm land.",
+   "tgt": "Thumbelina:o voulait:v partir:v et:o voir:v ce:o pays:n chaud:a .:o"
+  },
+  {
+   "n": 112,
+   "en": "But she thought of the kind field mouse and her warm home.",
+   "tgt": "Mais:o elle:o pensa:v à:o la:o gentille:a souris:n des:o champs:n et:o à:o sa:o maison:n chaleureuse:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "\"I will not leave her now,\" Thumbelina said to the swallow.",
+   "tgt": "«:o Je:o ne:o la:o quitterai:v pas:o maintenant:a ,:o »:o dit:v Thumbelina:o à:o l':o hirondelle:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "The swallow flew away all alone into the spring sky.",
+   "tgt": "L':o hirondelle:n s':o envola:v seule:a dans:o le:o ciel:n du:o printemps:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "Soon the field mouse wanted a wedding for the fall.",
+   "tgt": "Bientôt:a la:o souris:n des:o champs:n voulut:v un:o mariage:n pour:o l':o automne:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "\"You will marry the mole in the fall,\" said the mouse.",
+   "tgt": "«:o Tu:o épouseras:v la:o taupe:n en:o automne:n ,:o »:o dit:v la:o souris:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "The days turned cold, and the leaves turned yellow again.",
+   "tgt": "Les:o jours:n devinrent:v froids:a ,:o et:o les:o feuilles:n redevinrent:v jaunes:a .:o"
+  },
+  {
+   "n": 118,
+   "en": "The wedding day came at last.",
+   "tgt": "Le:o jour:n du:o mariage:n arriva:v enfin:a .:o"
+  },
+  {
+   "n": 119,
+   "en": "The field mouse made Thumbelina a wedding dress.",
+   "tgt": "La:o souris:n des:o champs:n fit:v à:o Thumbelina:o une:o robe:n de:o mariée:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"You will live with the mole under the ground,\" said the mouse.",
+   "tgt": "«:o Vous:o vivrez:v avec:o la:o taupe:n sous:o la:o terre:n ,:o »:o dit:v la:o souris:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "But Thumbelina did not want to live down under the ground.",
+   "tgt": "Mais:o Thumbelina:o ne:o voulait:v pas:o vivre:v sous:o la:o terre:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "\"Could I go out and see the sun one last time?\"",
+   "tgt": "«:o Pourrais:v -je:o sortir:v et:o voir:v le:o soleil:n une:o dernière:a fois:n ?:o »:o"
+  },
+  {
+   "n": 123,
+   "en": "The field mouse said yes.",
+   "tgt": "La:o souris:n des:o champs:n dit:v oui:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "Thumbelina went out and looked up at the warm sun.",
+   "tgt": "Thumbelina:o sortit:v et:o leva:v les:o yeux:n vers:o le:o soleil:n chaud:a .:o"
+  },
+  {
+   "n": 125,
+   "en": "She heard the swallow, and he flew down to her.",
+   "tgt": "Elle:o entendit:v l':o hirondelle:n ,:o et:o il:o descendit:v vers:o elle:o .:o"
+  },
+  {
+   "n": 126,
+   "en": "\"I will marry the mole,\" she said to the swallow.",
+   "tgt": "«:o Je:o vais:v épouser:v la:o taupe:n ,:o »:o dit:v -elle:o à:o l':o hirondelle:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "\"Come away with me to the warm land,\" said the swallow.",
+   "tgt": "«:o Viens:v avec:o moi:o vers:o la:o terre:n chaude:a ,:o »:o dit:v l':o hirondelle:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "Then she got on the swallow's back, and they flew away.",
+   "tgt": "Puis:o elle:o monta:v sur:o le:o dos:n de:o l':o hirondelle:n ,:o et:o ils:o s':o envolèrent:v .:o"
+  },
+  {
+   "n": 129,
+   "chapter": "The Prince of the Flowers",
+   "en": "The swallow flew on with Thumbelina over woods and cold water.",
+   "tgt": "L':o hirondelle:n continua:v à:o voler:v avec:o Thumbelina:o au-dessus:o des:o bois:n et:o de:o l':o eau:n froide:a .:o"
+  },
+  {
+   "n": 130,
+   "en": "At last, they came to a warm land of flowers.",
+   "tgt": "Enfin:o ,:o ils:o arrivèrent:v dans:o un:o pays:n chaud:a de:o fleurs:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The swallow put Thumbelina on a large flower.",
+   "tgt": "L':o hirondelle:n posa:v Thumbelina:o sur:o une:o grande:a fleur:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "In the large flower sat a tiny man.",
+   "tgt": "Dans:o la:o grande:a fleur:n était:v assis:a un:o petit:a homme:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "He was as small as Thumbelina, and he looked at her.",
+   "tgt": "Il:o était:v aussi:a petit:a que:o Thumbelina:o ,:o et:o il:o la:o regarda:v .:o"
+  },
+  {
+   "n": 134,
+   "en": "The man had white wings on his back.",
+   "tgt": "L':o homme:n avait:v des:o ailes:n blanches:a sur:o son:o dos:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "He had a small crown.",
+   "tgt": "Il:o avait:v une:o petite:a couronne:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "He was the prince of all the flowers.",
+   "tgt": "Il:o était:v le:o prince:n de:o toutes:o les:o fleurs:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "In every flower lived a tiny man or a tiny woman.",
+   "tgt": "Dans:o chaque:o fleur:n vivait:v un:o petit:a homme:n ou:o une:o petite:a femme:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "The prince looked at Thumbelina and smiled.",
+   "tgt": "Le:o prince:n regarda:v Thumbelina:o et:o sourit:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "\"Will you stay here and be my wife?\" asked the prince.",
+   "tgt": "«:o Voulez-vous:v rester:v ici:a et:o être:v ma:o femme:n ?:o »:o demanda:v le:o prince:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "Thumbelina looked at the little prince and said yes.",
+   "tgt": "Thumbelina:o regarda:v le:o petit:a prince:n et:o dit:v oui:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "The tiny men and women all came out of the flowers.",
+   "tgt": "Les:o petits:a hommes:n et:o femmes:n sortirent:v tous:o des:o fleurs:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "They came to the wedding of Thumbelina and the little prince.",
+   "tgt": "Ils:o vinrent:v au:o mariage:n de:o Thumbelina:o et:o du:o petit:a prince:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "One tiny woman put white wings on Thumbelina's back.",
+   "tgt": "Une:o petite:a femme:n posa:v des:o ailes:n blanches:a sur:o le:o dos:n de:o Thumbelina:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "Thumbelina could now fly from flower to flower.",
+   "tgt": "Thumbelina:o pouvait:v maintenant:a voler:v de:o fleur:n en:o fleur:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "She flew over the warm land of flowers with the prince.",
+   "tgt": "Elle:o vola:v sur:o la:o terre:n chaude:a des:o fleurs:n avec:o le:o prince:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "The tiny men and women sang for the wedding all night.",
+   "tgt": "Les:o petits:a hommes:n et:o femmes:n chantèrent:v pour:o le:o mariage:n toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "The swallow watched the wedding from his tree by the flowers.",
+   "tgt": "L':o hirondelle:n regarda:v le:o mariage:n depuis:o son:o arbre:n près:o des:o fleurs:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "He sang one last song for Thumbelina.",
+   "tgt": "Il:o chanta:v une:o dernière:a chanson:n pour:o Thumbelina:o .:o"
+  },
+  {
+   "n": 149,
+   "en": "The swallow flew away to his home over the cold water.",
+   "tgt": "L':o hirondelle:n s':o envola:v vers:o sa:o maison:n au-dessus:o de:o l':o eau:n froide:a .:o"
+  },
+  {
+   "n": 150,
+   "en": "Thumbelina watched him go from her flower.",
+   "tgt": "Thumbelina:o le:o regarda:v partir:v depuis:o sa:o fleur:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "She lived with the prince as queen of the flowers.",
+   "tgt": "Elle:o vécut:v avec:o le:o prince:n comme:o reine:n des:o fleurs:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "The little girl from the flower was home at last.",
+   "tgt": "La:o petite:a fille:n née:a de:o la:o fleur:n était:v enfin:a chez:o elle:o .:o"
+  }
+ ]
+}

@@ -1,0 +1,789 @@
+{
+ "slug": "steadfast_tin_soldier",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Twenty-Five Brothers",
+   "en": "A toy maker had one tin spoon.",
+   "tgt": "Un:o fabricant:n de:o jouets:n avait:v une:o cuillère:n en:o fer-blanc:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He melted the tin spoon over a fire.",
+   "tgt": "Il:o fit:v fondre:v la:o cuillère:n en:o fer-blanc:n sur:o un:o feu:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "He poured the liquid tin into a mold.",
+   "tgt": "Il:o versa:v le:o fer-blanc:n liquide:a dans:o un:o moule:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The mold made one soldier.",
+   "tgt": "Le:o moule:n produisit:v un:o soldat:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "25 tin soldiers came from the mold.",
+   "tgt": "25:o soldats:n de:o fer-blanc:n sortirent:v du:o moule:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Each soldier held a small gun.",
+   "tgt": "Chaque:o soldat:n tenait:v un:o petit:a fusil:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The soldiers all looked the same.",
+   "tgt": "Les:o soldats:n se:o ressemblaient:v tous:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "But there was no tin for the last one.",
+   "tgt": "Mais:o il:o n':o y:o avait:v pas:o de:o fer-blanc:n pour:o le:o dernier:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "That soldier got only one leg.",
+   "tgt": "Ce:o soldat:n n':o eut:v qu':o une:o seule:a jambe:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "He stood on his one leg.",
+   "tgt": "Il:o se:o tenait:v sur:o sa:o seule:a jambe:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "He stood as firm as his brothers.",
+   "tgt": "Il:o se:o tenait:v aussi:a ferme:a que:o ses:o frères:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The toy maker put the soldiers in a box.",
+   "tgt": "Le:o fabricant:n de:o jouets:n mit:v les:o soldats:n dans:o une:o boîte:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "A boy took the tin soldiers out of their box.",
+   "tgt": "Un:o garçon:n sortit:v les:o soldats:n de:o fer-blanc:n de:o leur:o boîte:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "He set them in a row on a table.",
+   "tgt": "Il:o les:o plaça:v en:o rang:n sur:o une:o table:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Many other toys filled the table too.",
+   "tgt": "Beaucoup:o d':o autres:o jouets:n remplissaient:v la:o table:n aussi:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "A paper castle stood at one end.",
+   "tgt": "Un:o château:n de:o papier:n se:o dressait:v à:o un:o bout:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "The castle had a door and small windows.",
+   "tgt": "Le:o château:n avait:v une:o porte:n et:o de:o petites:a fenêtres:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "The other soldiers stood in pairs.",
+   "tgt": "Les:o autres:o soldats:n se:o tenaient:v par:o paires:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The last soldier had no partner.",
+   "tgt": "Le:o dernier:a soldat:n n':o avait:v pas:o de:o partenaire:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "He stood alone at the end of the row.",
+   "tgt": "Il:o se:o tenait:v seul:a à:o l':o extrémité:n du:o rang:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "From there, he could see the castle door.",
+   "tgt": "De:o là:a ,:o il:o pouvait:v voir:v la:o porte:n du:o château:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "A toy goblin sat on the table.",
+   "tgt": "Un:o lutin:n jouet:n était:v assis:a sur:o la:o table:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The toy goblin sat inside a little box.",
+   "tgt": "Le:o lutin:n jouet:n était:v assis:a à:o l':o intérieur:n d':o une:o petite:a boîte:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "The little box had a lid.",
+   "tgt": "La:o petite:a boîte:n avait:v un:o couvercle:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "A paper dancer stood at the castle door.",
+   "tgt": "Une:o danseuse:n en:o papier:n se:o tenait:v à:o la:o porte:n du:o château:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "She had a dress.",
+   "tgt": "Elle:o avait:v une:o robe:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "A shiny spangle was on her dress.",
+   "tgt": "Une:o paillette:n brillante:a était:v sur:o sa:o robe:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "She held her arms out.",
+   "tgt": "Elle:o tendait:v ses:o bras:n en:o avant:a .:o"
+  },
+  {
+   "n": 29,
+   "en": "She lifted one leg.",
+   "tgt": "Elle:o leva:v une:o jambe:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The tin soldier could see only her other leg.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n ne:o pouvait:v voir:v que:o son:o autre:a jambe:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "He believed she had only one leg, like him.",
+   "tgt": "Il:o croyait:v qu':o elle:o n':o avait:v qu':o une:o jambe:n ,:o comme:o lui:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "He loved her for this.",
+   "tgt": "Il:o l':o aimait:v pour:o cela:o .:o"
+  },
+  {
+   "n": 33,
+   "en": "She had a castle.",
+   "tgt": "Elle:o avait:v un:o château:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "He had only a box.",
+   "tgt": "Il:o avait:v seulement:a une:o boîte:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "The boy went to bed.",
+   "tgt": "Le:o garçon:n alla:v au:o lit:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The house was still.",
+   "tgt": "La:o maison:n était:v silencieuse:a .:o"
+  },
+  {
+   "n": 37,
+   "en": "The boy put the other soldiers in their box.",
+   "tgt": "Le:o garçon:n mit:v les:o autres:a soldats:n dans:o leur:o boîte:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "But he forgot the last soldier on the table.",
+   "tgt": "Mais:o il:o oublia:v le:o dernier:a soldat:n sur:o la:o table:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "At night, the toys moved by themselves.",
+   "tgt": "La:o nuit:n ,:o les:o jouets:n bougeaient:v d':o eux-mêmes:o .:o"
+  },
+  {
+   "n": 40,
+   "en": "The boxed soldiers moved to come out.",
+   "tgt": "Les:o soldats:n en:o boîte:n bougèrent:v pour:o sortir:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "But they could not open the lid.",
+   "tgt": "Mais:o ils:o ne:o pouvaient:v pas:o ouvrir:v le:o couvercle:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "The tin soldier did not move.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "She stood on one leg all night.",
+   "tgt": "Elle:o se:o tint:v sur:o une:o jambe:n toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The tin soldier stood on his one leg too.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n se:o tint:v sur:o son:o unique:a jambe:n aussi:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "He held his gun.",
+   "tgt": "Il:o tenait:v son:o fusil:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "He watched her all night.",
+   "tgt": "Il:o la:o regarda:v toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "Midnight came.",
+   "tgt": "Minuit:n arriva:v .:o"
+  },
+  {
+   "n": 48,
+   "en": "The lid on the toy goblin's little box flew open.",
+   "tgt": "Le:o couvercle:n de:o la:o petite:a boîte:n du:o lutin:n jouet:n s':o ouvrit:v d':o un:o coup:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "He jumped.",
+   "tgt": "Il:o sauta:v .:o"
+  },
+  {
+   "n": 50,
+   "en": "He sat near the castle.",
+   "tgt": "Il:o s':o assit:v près:o du:o château:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The last soldier stood by the box.",
+   "tgt": "Le:o dernier:a soldat:n se:o tint:v près:o de:o la:o boîte:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The goblin looked at the last soldier.",
+   "tgt": "Le:o lutin:n regarda:v le:o dernier:a soldat:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "The last soldier watched the paper dancer.",
+   "tgt": "Le:o dernier:a soldat:n observa:v la:o danseuse:n en:o papier:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Stop looking at her,\" said the goblin.",
+   "tgt": "«:o Arrête:v de:o la:o regarder:v ,:o »:o dit:v -il:o le:o lutin:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "But the tin soldier said nothing.",
+   "tgt": "Mais:o le:o soldat:n de:o fer-blanc:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"You will be sorry tomorrow,\" said the goblin.",
+   "tgt": "«:o Tu:o seras:v désolé:a demain:a ,:o »:o dit:v le:o lutin:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "The tin soldier was not afraid.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n n':o avait:v pas:o peur:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "He watched the dancer.",
+   "tgt": "Il:o observa:v la:o danseuse:n .:o"
+  },
+  {
+   "n": 59,
+   "chapter": "The Fall",
+   "en": "Morning came.",
+   "tgt": "Le:o matin:n arriva:v .:o"
+  },
+  {
+   "n": 60,
+   "en": "The boy found the last soldier on the table.",
+   "tgt": "Le:o garçon:n trouva:v le:o dernier:a soldat:n sur:o la:o table:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "He set the tin soldier in the window.",
+   "tgt": "Il:o plaça:v le:o soldat:n de:o fer-blanc:n dans:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The window of the house was high over the street.",
+   "tgt": "La:o fenêtre:n de:o la:o maison:n était:v haute:a au-dessus:o de:o la:o rue:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The wind blew hard.",
+   "tgt": "Le:o vent:n souffla:v fort:a .:o"
+  },
+  {
+   "n": 64,
+   "en": "The window flew open.",
+   "tgt": "La:o fenêtre:n s':o ouvrit:v brusquement:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "The tin soldier fell from the window.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n tomba:v de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "He fell all the way to the street.",
+   "tgt": "Il:o tomba:v jusqu':o à:o la:o rue:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "He landed between two stones.",
+   "tgt": "Il:o atterrit:v entre:o deux:o pierres:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "His gun was stuck between the stones.",
+   "tgt": "Son:o fusil:n était:v coincé:a entre:o les:o pierres:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The boy looked for the tin soldier.",
+   "tgt": "Le:o garçon:n chercha:v le:o soldat:n de:o fer-blanc:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "A maid looked too.",
+   "tgt": "Une:o servante:n chercha:v aussi:a .:o"
+  },
+  {
+   "n": 71,
+   "en": "But they did not find him.",
+   "tgt": "Mais:o ils:o ne:o le:o trouvèrent:v pas:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "Rain fell hard on the street.",
+   "tgt": "La:o pluie:n tomba:v fort:a sur:o la:o rue:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The tin soldier lay between the stones.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n resta:v entre:o les:o pierres:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "Two boys came down the street.",
+   "tgt": "Deux:o garçons:n descendirent:v la:o rue:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "They saw the tin soldier in the street.",
+   "tgt": "Ils:o virent:v le:o soldat:n de:o fer-blanc:n dans:o la:o rue:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"Look, a tin soldier,\" said one boy.",
+   "tgt": "«:o Regardez:v ,:o un:o soldat:n de:o fer-blanc:n ,:o »:o dit:v un:o garçon:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"Let's make him a boat,\" said the other boy.",
+   "tgt": "«:o Faisons:v -lui:o un:o bateau:n ,:o »:o dit:v l':o autre:o garçon:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "The boys made a boat from paper.",
+   "tgt": "Les:o garçons:n fabriquèrent:v un:o bateau:n en:o papier:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "They put the tin soldier inside the boat.",
+   "tgt": "Ils:o placèrent:v le:o soldat:n de:o fer-blanc:n à:o l':o intérieur:n du:o bateau:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "The boys ran with the boat to the gutter.",
+   "tgt": "Les:o garçons:n coururent:v avec:o le:o bateau:n jusqu':o au:o caniveau:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "They set it in the gutter.",
+   "tgt": "Ils:o le:o placèrent:v dans:o le:o caniveau:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "It sailed down the gutter fast.",
+   "tgt": "Il:o navigua:v rapidement:a dans:o le:o caniveau:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "But the tin soldier did not move.",
+   "tgt": "Mais:o le:o soldat:n de:o fer-blanc:n ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 84,
+   "en": "He stood on his one leg inside the boat.",
+   "tgt": "Il:o se:o tint:v sur:o sa:o seule:a jambe:n à:o l':o intérieur:n du:o bateau:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The boat sailed into a dark tunnel.",
+   "tgt": "Le:o bateau:n navigua:v dans:o un:o tunnel:n sombre:a .:o"
+  },
+  {
+   "n": 86,
+   "en": "It was as dark as his box.",
+   "tgt": "C':o était:v aussi:a sombre:a que:o sa:o boîte:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "The tin soldier believed the goblin did this.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n croyait:v que:o le:o lutin:n avait:v fait:v cela:o .:o"
+  },
+  {
+   "n": 88,
+   "en": "A big rat came into the tunnel.",
+   "tgt": "Un:o grand:a rat:n entra:v dans:o le:o tunnel:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "The rat looked up at him.",
+   "tgt": "Le:o rat:n leva:v les:o yeux:n vers:o lui:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "\"You must pay a toll,\" said the rat.",
+   "tgt": "«:o Vous:o devez:v payer:v un:o péage:n ,:o »:o dit:v -il:o le:o rat:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "But the tin soldier said nothing.",
+   "tgt": "Mais:o le:o soldat:n de:o fer-blanc:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "He held his gun hard.",
+   "tgt": "Il:o tenait:v son:o fusil:n fermement:a .:o"
+  },
+  {
+   "n": 93,
+   "en": "The rat could not stop him.",
+   "tgt": "Le:o rat:n ne:o pouvait:v pas:o l':o arrêter:v .:o"
+  },
+  {
+   "n": 94,
+   "en": "The boat sailed on fast.",
+   "tgt": "Le:o bateau:n continua:v à:o naviguer:v vite:a .:o"
+  },
+  {
+   "n": 95,
+   "en": "Ahead, the tin soldier saw the way out.",
+   "tgt": "Devant:o lui:o ,:o le:o soldat:n de:o fer-blanc:n vit:v la:o sortie:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The boat came out of the tunnel.",
+   "tgt": "Le:o bateau:n sortit:v du:o tunnel:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "It sailed into a big canal.",
+   "tgt": "Il:o navigua:v dans:o un:o grand:a canal:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "The canal water was fast.",
+   "tgt": "L':o eau:n du:o canal:n était:v rapide:a .:o"
+  },
+  {
+   "n": 99,
+   "en": "The boat spun around and around.",
+   "tgt": "Le:o bateau:n tourna:v encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 100,
+   "en": "Water filled the boat.",
+   "tgt": "L':o eau:n remplit:v le:o bateau:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "The paper broke a little.",
+   "tgt": "Le:o papier:n se:o déchira:v un:o peu:a .:o"
+  },
+  {
+   "n": 102,
+   "en": "The tin soldier stood in the water.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n se:o tenait:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The water was up to his neck.",
+   "tgt": "L':o eau:n lui:o arrivait:v jusqu':o au:o cou:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "He believed he would not see her again.",
+   "tgt": "Il:o croyait:v qu':o il:o ne:o la:o reverrait:v plus:o .:o"
+  },
+  {
+   "n": 105,
+   "en": "The boat broke.",
+   "tgt": "Le:o bateau:n se:o brisa:v .:o"
+  },
+  {
+   "n": 106,
+   "en": "He sank into the water.",
+   "tgt": "Il:o coula:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "A big fish came by.",
+   "tgt": "Un:o grand:a poisson:n passa:v .:o"
+  },
+  {
+   "n": 108,
+   "en": "It swallowed the tin soldier.",
+   "tgt": "Il:o avala:v le:o soldat:n de:o fer-blanc:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "Inside the fish, it was dark.",
+   "tgt": "À:o l':o intérieur:n du:o poisson:n ,:o il:o faisait:v sombre:a .:o"
+  },
+  {
+   "n": 110,
+   "en": "It was as dark as the tunnel and his box.",
+   "tgt": "C':o était:v aussi:a sombre:a que:o le:o tunnel:n et:o sa:o boîte:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "The last soldier lay down inside the fish.",
+   "tgt": "Le:o dernier:a soldat:n s':o allongea:v à:o l':o intérieur:n du:o poisson:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "The toy soldier thought of the paper dancer.",
+   "tgt": "Le:o soldat:n de:o jouet:n pensa:v à:o la:o danseuse:n de:o papier:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "The fish swam in the sea.",
+   "tgt": "Le:o poisson:n nagea:v dans:o la:o mer:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "Days passed.",
+   "tgt": "Des:o jours:n passèrent:v .:o"
+  },
+  {
+   "n": 115,
+   "en": "At last, the fish was still.",
+   "tgt": "Enfin:a ,:o le:o poisson:n était:v immobile:a .:o"
+  },
+  {
+   "n": 116,
+   "en": "One day, a man caught the fish.",
+   "tgt": "Un:o jour:n ,:o un:o homme:n attrapa:v le:o poisson:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"What a big fish!\" said the man.",
+   "tgt": "«:o Quel:o grand:a poisson:n !:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 118,
+   "en": "He sold it at a market.",
+   "tgt": "Il:o le:o vendit:v dans:o un:o marché:n .:o"
+  },
+  {
+   "n": 119,
+   "chapter": "Back to the Same House",
+   "en": "A cook came to the market.",
+   "tgt": "Une:o cuisinière:n vint:v au:o marché:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "She bought the fish.",
+   "tgt": "Elle:o acheta:v le:o poisson:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "The cook was from the same house.",
+   "tgt": "La:o cuisinière:n venait:v de:o la:o même:a maison:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "She went to the kitchen.",
+   "tgt": "Elle:o alla:v à:o la:o cuisine:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "She cut the fish open.",
+   "tgt": "Elle:o ouvrit:v le:o poisson:n en:o le:o coupant:v .:o"
+  },
+  {
+   "n": 124,
+   "en": "Inside, she found the last soldier.",
+   "tgt": "À:o l':o intérieur:n ,:o elle:o trouva:v le:o dernier:a soldat:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "He still held his gun.",
+   "tgt": "Il:o tenait:v encore:a son:o fusil:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "But he did not move.",
+   "tgt": "Mais:o il:o ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 127,
+   "en": "The cook was very surprised.",
+   "tgt": "La:o cuisinière:n était:v très:a surprise:a .:o"
+  },
+  {
+   "n": 128,
+   "en": "She took him to the boy's room.",
+   "tgt": "Elle:o l':o emmena:v dans:o la:o chambre:n du:o garçon:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "She put him near the castle.",
+   "tgt": "Elle:o le:o posa:v près:o du:o château:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "The tin soldier was on the table again.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n était:v de:o nouveau:a sur:o la:o table:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The same paper castle stood there.",
+   "tgt": "Le:o même:a château:n de:o papier:n se:o trouvait:v là:a .:o"
+  },
+  {
+   "n": 132,
+   "en": "The same dancer stood at the door.",
+   "tgt": "La:o même:a danseuse:n se:o tenait:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "She still stood on one leg.",
+   "tgt": "Elle:o tenait:v encore:a sur:o une:o jambe:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "The tin soldier still held his gun.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n tenait:v encore:a son:o fusil:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "He watched her.",
+   "tgt": "Il:o la:o regardait:v .:o"
+  },
+  {
+   "n": 136,
+   "en": "She looked at him.",
+   "tgt": "Elle:o le:o regardait:v .:o"
+  },
+  {
+   "n": 137,
+   "en": "The tin soldier was glad to see her.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n était:v content:a de:o la:o voir:v .:o"
+  },
+  {
+   "n": 138,
+   "en": "He thought of his box.",
+   "tgt": "Il:o pensa:v à:o sa:o boîte:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "But they said nothing.",
+   "tgt": "Mais:o ils:o ne:o dirent:v rien:o .:o"
+  },
+  {
+   "n": 140,
+   "en": "The boy came to see the tin soldier.",
+   "tgt": "Le:o garçon:n vint:v voir:v le:o soldat:n de:o fer-blanc:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "He did not know of the fish.",
+   "tgt": "Il:o ne:o savait:v pas:o que:o le:o poisson:n existait:v .:o"
+  },
+  {
+   "n": 142,
+   "en": "One day, a boy took the tin soldier.",
+   "tgt": "Un:o jour:n ,:o un:o garçon:n prit:v le:o soldat:n de:o fer-blanc:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "He threw the tin soldier into the stove.",
+   "tgt": "Il:o jeta:v le:o soldat:n de:o fer-blanc:n dans:o le:o poêle:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "No one knew why.",
+   "tgt": "Personne:o ne:o savait:v pourquoi:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "Perhaps the toy goblin was behind it.",
+   "tgt": "Peut-être:a que:o le:o lutin:n jouet:n était:v derrière:o cela:o .:o"
+  },
+  {
+   "n": 146,
+   "en": "The tin soldier stood in the fire.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n se:o tenait:v dans:o le:o feu:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "He did not let go of his gun.",
+   "tgt": "Il:o ne:o lâcha:v pas:o son:o fusil:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "The tin soldier melted.",
+   "tgt": "Le:o soldat:n de:o fer-blanc:n fondit:v .:o"
+  },
+  {
+   "n": 149,
+   "en": "Perhaps it was the fire, or his love.",
+   "tgt": "C':o était:v peut-être:a le:o feu:n ,:o ou:o son:o amour:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "A door opened.",
+   "tgt": "Une:o porte:n s':o ouvrit:v .:o"
+  },
+  {
+   "n": 151,
+   "en": "A draft blew the paper dancer into the stove.",
+   "tgt": "Un:o courant:n d':o air:n souffla:v la:o danseuse:n en:o papier:n dans:o le:o poêle:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "She was gone.",
+   "tgt": "Elle:o avait:v disparu:v .:o"
+  },
+  {
+   "n": 153,
+   "en": "In the morning, the maid came to the stove.",
+   "tgt": "Le:o matin:n ,:o la:o servante:n vint:v au:o poêle:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "She found a little tin heart in the ashes.",
+   "tgt": "Elle:o trouva:v un:o petit:a cœur:n de:o fer-blanc:n dans:o les:o cendres:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "Of the dancer, only the spangle was left.",
+   "tgt": "De:o la:o danseuse:n ,:o il:o ne:o restait:v que:o la:o paillette:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "It was burnt black.",
+   "tgt": "Elle:o était:v toute:a noircie:a .:o"
+  }
+ ]
+}

@@ -1,0 +1,1119 @@
+{
+ "slug": "six_swans",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A King's Family",
+   "en": "A king lived in a castle.",
+   "tgt": "Un:o roi:n vivait:v dans:o un:o château:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He had six sons and one daughter.",
+   "tgt": "Il:o avait:v six:o fils:n et:o une:o fille:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The daughter was the youngest child.",
+   "tgt": "La:o fille:n était:v la:o plus:a jeune:a enfant:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The king's wife died many years ago.",
+   "tgt": "La:o femme:n du:o roi:n mourut:v il:o y:o a:v de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "The six brothers loved their sister.",
+   "tgt": "Les:o six:o frères:n aimaient:v leur:o sœur:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "She loved her six brothers too.",
+   "tgt": "Elle:o aimait:v aussi:a ses:o six:o frères:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The brothers watched over her every day.",
+   "tgt": "Les:o frères:n veillaient:v sur:o elle:o chaque:o jour:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "The king missed his wife.",
+   "tgt": "Le:o roi:n regrettait:v sa:o femme:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "The children grew up in the castle.",
+   "tgt": "Les:o enfants:n grandirent:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The king wanted a new wife.",
+   "tgt": "Le:o roi:n voulait:v une:o nouvelle:a femme:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "He believed his children needed a mother.",
+   "tgt": "Il:o croyait:v que:o ses:o enfants:n avaient:v besoin:n d':o une:o mère:n .:o"
+  },
+  {
+   "n": 12,
+   "chapter": "Lost in the Forest",
+   "en": "One day, the king rode into the forest.",
+   "tgt": "Un:o jour:n ,:o le:o roi:n chevaucha:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "He could not find his way to the castle.",
+   "tgt": "Il:o ne:o pouvait:v pas:o trouver:v son:o chemin:n vers:o le:o château:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The king rode on, but found no way.",
+   "tgt": "Le:o roi:n continua:v à:o cheval:n ,:o mais:o ne:o trouva:v aucun:o chemin:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He grew afraid in the forest.",
+   "tgt": "Il:o eut:v peur:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "He missed his children in the castle.",
+   "tgt": "Ses:o enfants:n au:o château:n lui:o manquaient:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "He still loved his six sons and his daughter.",
+   "tgt": "Il:o aimait:v encore:a ses:o six:o fils:n et:o sa:o fille:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Night came, but he was still afraid.",
+   "tgt": "La:o nuit:n tomba:v ,:o mais:o il:o avait:v encore:a peur:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "An old woman stood near the king.",
+   "tgt": "Une:o vieille:a femme:n se:o tenait:v près:o du:o roi:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"I know the way out of the forest,\" she said.",
+   "tgt": "«:o Je:o connais:v le:o chemin:n hors:o de:o la:o forêt:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"I will lead you to the castle,\" said the old woman.",
+   "tgt": "«:o Je:o vous:o conduirai:v au:o château:n ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"But my daughter will become your wife,\" she said.",
+   "tgt": "«:o Mais:o ma:o fille:n deviendra:v votre:o femme:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "The king did not know the old woman.",
+   "tgt": "Le:o roi:n ne:o connaissait:v pas:o la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "He wanted his children to have a mother.",
+   "tgt": "Il:o voulait:v que:o ses:o enfants:n aient:v une:o mère:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The king agreed.",
+   "tgt": "Le:o roi:n accepta:v .:o"
+  },
+  {
+   "n": 26,
+   "en": "The old woman led him to the castle.",
+   "tgt": "La:o vieille:a femme:n le:o conduisit:v au:o château:n .:o"
+  },
+  {
+   "n": 27,
+   "chapter": "The New Queen",
+   "en": "The old woman's daughter became the king's wife.",
+   "tgt": "La:o fille:n de:o la:o vieille:a femme:n devint:v la:o femme:n du:o roi:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "She became the new queen of the castle.",
+   "tgt": "Elle:o devint:v la:o nouvelle:a reine:n du:o château:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The queen never smiled at the six brothers.",
+   "tgt": "La:o reine:n ne:o sourit:v jamais:o aux:o six:o frères:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "But the queen had a secret.",
+   "tgt": "Mais:o la:o reine:n avait:v un:o secret:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "Her mother was a witch.",
+   "tgt": "Sa:o mère:n était:v une:o sorcière:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The queen knew magic too.",
+   "tgt": "La:o reine:n connaissait:v la:o magie:n aussi:a .:o"
+  },
+  {
+   "n": 33,
+   "en": "The queen did not love the six brothers.",
+   "tgt": "La:o reine:n n':o aimait:v pas:o les:o six:o frères:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "She wanted the kingdom for her own children one day.",
+   "tgt": "Elle:o voulait:v le:o royaume:n pour:o ses:o propres:a enfants:n un:o jour:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "The queen thought the six brothers were in her way.",
+   "tgt": "La:o reine:n pensait:v que:o les:o six:o frères:n étaient:v dans:o son:o chemin:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The king did not know his wife's secret.",
+   "tgt": "Le:o roi:n ne:o connaissait:v pas:o le:o secret:n de:o sa:o femme:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "He believed his children now had a mother.",
+   "tgt": "Il:o croyait:v que:o ses:o enfants:n avaient:v maintenant:a une:o mère:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "The king still loved his six sons.",
+   "tgt": "Le:o roi:n aimait:v encore:a ses:o six:o fils:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The six brothers did not know of her plan.",
+   "tgt": "Les:o six:o frères:n ne:o savaient:v pas:o son:o plan:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The sister did not know of it.",
+   "tgt": "La:o sœur:n ne:o le:o savait:v pas:o .:o"
+  },
+  {
+   "n": 41,
+   "chapter": "Six Little Shirts",
+   "en": "One day, the queen made a plan.",
+   "tgt": "Un:o jour:n ,:o la:o reine:n fit:v un:o plan:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "She took white silk out.",
+   "tgt": "Elle:o sortit:v de:o la:o soie:n blanche:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "The queen sewed six little shirts of silk.",
+   "tgt": "La:o reine:n cousit:v six:o petites:a chemises:n de:o soie:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "Each shirt held a secret charm.",
+   "tgt": "Chaque:o chemise:n contenait:v un:o charme:n secret:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "The charm came from her mother's magic.",
+   "tgt": "Le:o charme:n venait:v de:o la:o magie:n de:o sa:o mère:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "She sewed the shirts in secret.",
+   "tgt": "Elle:o cousit:v les:o chemises:n en:o secret:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The queen waited for the six brothers.",
+   "tgt": "La:o reine:n attendit:v les:o six:o frères:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "The king did not know of this.",
+   "tgt": "Le:o roi:n ne:o savait:v pas:o cela:o .:o"
+  },
+  {
+   "n": 49,
+   "en": "She wanted to find them alone.",
+   "tgt": "Elle:o voulait:v les:o trouver:v seuls:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "The shirts were made in one night.",
+   "tgt": "Les:o chemises:n furent:v faites:v en:o une:o nuit:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The queen's plan could begin.",
+   "tgt": "Le:o plan:n de:o la:o reine:n pouvait:v commencer:v .:o"
+  },
+  {
+   "n": 52,
+   "chapter": "Swans in the Sky",
+   "en": "The queen found the six brothers alone in the castle.",
+   "tgt": "La:o reine:n trouva:v les:o six:o frères:n seuls:a dans:o le:o château:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Their sister was not with them that day.",
+   "tgt": "Leur:o sœur:n n':o était:v pas:o avec:o eux:o ce:o jour-là:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "The queen took the six little shirts.",
+   "tgt": "La:o reine:n prit:v les:o six:o petites:a chemises:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "She threw a shirt over each brother.",
+   "tgt": "Elle:o jeta:v une:o chemise:n sur:o chaque:o frère:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The magic charm began.",
+   "tgt": "Le:o charme:n magique:a commença:v .:o"
+  },
+  {
+   "n": 57,
+   "en": "Each brother became a white swan.",
+   "tgt": "Chaque:o frère:n devint:v un:o cygne:n blanc:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "The six swans flew up.",
+   "tgt": "Les:o six:o cygnes:n s':o envolèrent:v .:o"
+  },
+  {
+   "n": 59,
+   "en": "They flew over the forest.",
+   "tgt": "Ils:o volèrent:v au-dessus:o de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "The sister watched from the castle.",
+   "tgt": "La:o sœur:n observait:v depuis:o le:o château:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "She saw her six brothers become swans.",
+   "tgt": "Elle:o vit:v ses:o six:o frères:n devenir:v des:o cygnes:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The king did not know of this.",
+   "tgt": "Le:o roi:n ne:o savait:v pas:o cela:o .:o"
+  },
+  {
+   "n": 63,
+   "en": "The sister stood still.",
+   "tgt": "La:o sœur:n resta:v immobile:a .:o"
+  },
+  {
+   "n": 64,
+   "en": "She wanted to save her brothers.",
+   "tgt": "Elle:o voulait:v sauver:v ses:o frères:n .:o"
+  },
+  {
+   "n": 65,
+   "chapter": "The Sister's Choice",
+   "en": "The sister ran to find her father.",
+   "tgt": "La:o sœur:n courut:v pour:o trouver:v son:o père:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "\"My six brothers are swans now!\" she said.",
+   "tgt": "«:o Mes:o six:o frères:n sont:v des:o cygnes:n maintenant:a !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "The king could not believe her.",
+   "tgt": "Le:o roi:n ne:o pouvait:v pas:o la:o croire:v .:o"
+  },
+  {
+   "n": 68,
+   "en": "He did not know of the queen's plan.",
+   "tgt": "Il:o ne:o savait:v pas:o le:o plan:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The charm came from the queen's magic.",
+   "tgt": "Le:o charme:n venait:v de:o la:o magie:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The sister wanted to find her brothers.",
+   "tgt": "La:o sœur:n voulait:v trouver:v ses:o frères:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"I will save them,\" she said.",
+   "tgt": "«:o Je:o les:o sauverai:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "The king did not want her to go.",
+   "tgt": "Le:o roi:n ne:o voulait:v pas:o qu':o elle:o parte:v .:o"
+  },
+  {
+   "n": 73,
+   "en": "He was afraid for his daughter.",
+   "tgt": "Il:o avait:v peur:n pour:o sa:o fille:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "But she was not afraid.",
+   "tgt": "Mais:o elle:o n':o avait:v pas:o peur:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "She left the castle alone.",
+   "tgt": "Elle:o quitta:v le:o château:n seule:a .:o"
+  },
+  {
+   "n": 76,
+   "en": "She walked into the forest.",
+   "tgt": "Elle:o marcha:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "She grew tired, but did not turn back.",
+   "tgt": "Elle:o se:o fatigua:v ,:o mais:o ne:o fit:v pas:o demi-tour:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "The sister looked for the six swans.",
+   "tgt": "La:o sœur:n chercha:v les:o six:o cygnes:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "She did not know where to find them.",
+   "tgt": "Elle:o ne:o savait:v pas:o où:o les:o trouver:v .:o"
+  },
+  {
+   "n": 80,
+   "chapter": "The Hut in the Forest",
+   "en": "The sister walked on through the forest.",
+   "tgt": "La:o sœur:n continua:v à:o marcher:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "Then she found a hut.",
+   "tgt": "Puis:o elle:o trouva:v une:o hutte:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "White feathers lay near the hut.",
+   "tgt": "Des:o plumes:n blanches:a étaient:v posées:a près:o de:o la:o hutte:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "The hut had six beds.",
+   "tgt": "La:o hutte:n avait:v six:o lits:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "Six beds meant six brothers were near.",
+   "tgt": "Six:o lits:n signifiaient:v que:o six:o frères:n étaient:v proches:a .:o"
+  },
+  {
+   "n": 85,
+   "en": "The sister went inside the hut.",
+   "tgt": "La:o sœur:n entra:v dans:o la:o hutte:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "She was far from the king's castle.",
+   "tgt": "Elle:o était:v loin:a du:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "She was still tired from her walk.",
+   "tgt": "Elle:o était:v encore:a fatiguée:a de:o sa:o marche:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "The sister waited for her brothers.",
+   "tgt": "La:o sœur:n attendit:v ses:o frères:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Night came to the forest.",
+   "tgt": "La:o nuit:n vint:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "She did not know when they would come.",
+   "tgt": "Elle:o ne:o savait:v pas:o quand:o ils:o viendraient:v .:o"
+  },
+  {
+   "n": 91,
+   "chapter": "The Six Swans Return",
+   "en": "At night, six swans flew to the hut in the forest.",
+   "tgt": "La:o nuit:n venue:a ,:o six:o cygnes:n volèrent:v vers:o la:o hutte:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "They flew near the sister.",
+   "tgt": "Ils:o volèrent:v près:o de:o la:o sœur:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "Each swan became a brother again.",
+   "tgt": "Chaque:o cygne:n redevint:v un:o frère:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "The six brothers stood near her.",
+   "tgt": "Les:o six:o frères:n se:o tinrent:v près:o d':o elle:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "\"Our sister has come to find us!\" one brother said.",
+   "tgt": "«:o Notre:o sœur:n est:v venue:v nous:o trouver:v !:o »:o dit:v un:o frère:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The brothers ran to their sister.",
+   "tgt": "Les:o frères:n coururent:v vers:o leur:o sœur:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"We can be human for fifteen minutes,\" said one brother.",
+   "tgt": "«:o Nous:o pouvons:v être:v humains:a pendant:o quinze:o minutes:n ,:o »:o dit:v un:o frère:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "\"Then we become swans again,\" he said.",
+   "tgt": "«:o Ensuite:a nous:o redevenons:v des:o cygnes:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 99,
+   "en": "The sister cried, for she had found her six brothers.",
+   "tgt": "La:o sœur:n pleura:v ,:o car:o elle:o avait:v trouvé:v ses:o six:o frères:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "They still loved their father the king.",
+   "tgt": "Ils:o aimaient:v encore:a leur:o père:n le:o roi:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "But she knew they had little time.",
+   "tgt": "Mais:o elle:o savait:v qu':o ils:o avaient:v peu:a de:o temps:n .:o"
+  },
+  {
+   "n": 102,
+   "chapter": "The Brothers' Secret",
+   "en": "\"You must free us from the charm,\" said one brother.",
+   "tgt": "«:o Vous:o devez:v nous:o libérer:v du:o charme:n ,:o »:o dit:v un:o frère:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"There is one way,\" he said.",
+   "tgt": "«:o Il:o y:o a:v une:o façon:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"You must sew six shirts of starwort,\" said another brother.",
+   "tgt": "«:o Tu:o dois:v coudre:v six:o chemises:n de:o stellaire:n ,:o »:o dit:v un:o autre:o frère:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "\"This will take six years,\" he said.",
+   "tgt": "«:o Cela:o prendra:v six:o ans:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"You must not speak for six years,\" said one brother.",
+   "tgt": "«:o Tu:o ne:o dois:v pas:o parler:v pendant:o six:o ans:n ,:o »:o dit:v un:o frère:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"You must not laugh,\" he said.",
+   "tgt": "«:o Tu:o ne:o dois:v pas:o rire:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 108,
+   "en": "\"If you speak, we stay swans forever,\" said another brother.",
+   "tgt": "«:o Si:o tu:o parles:v ,:o nous:o restons:v cygnes:n pour:o toujours:a ,:o »:o dit:v un:o autre:o frère:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "But the sister was not afraid.",
+   "tgt": "Mais:o la:o sœur:n n':o avait:v pas:o peur:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"I will do this for you,\" she said.",
+   "tgt": "«:o Je:o ferai:v cela:o pour:o vous:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 111,
+   "en": "The six brothers thanked their sister.",
+   "tgt": "Les:o six:o frères:n remercièrent:v leur:o sœur:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "They were far from the castle now.",
+   "tgt": "Ils:o étaient:v loin:a du:o château:n maintenant:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "She missed her father the king.",
+   "tgt": "Elle:o regrettait:v son:o père:n le:o roi:n .:o"
+  },
+  {
+   "n": 114,
+   "chapter": "Six Years of Silence",
+   "en": "The sister began to gather starwort.",
+   "tgt": "La:o sœur:n commença:v à:o cueillir:v de:o la:o stellaire:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "She said nothing, as the brothers had said.",
+   "tgt": "Elle:o ne:o dit:v rien:o ,:o comme:o les:o frères:n l':o avaient:v dit:v .:o"
+  },
+  {
+   "n": 116,
+   "en": "Every day, she gathered more starwort.",
+   "tgt": "Chaque:o jour:n ,:o elle:o cueillit:v davantage:a d':o stellaire:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "Every night, she sewed the starwort into shirts.",
+   "tgt": "Chaque:o nuit:n ,:o elle:o cousit:v la:o stellaire:n en:o chemises:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "She climbed a tree to sleep.",
+   "tgt": "Elle:o grimpa:v dans:o un:o arbre:n pour:o dormir:v .:o"
+  },
+  {
+   "n": 119,
+   "en": "The tree kept her hidden.",
+   "tgt": "L':o arbre:n la:o garda:v cachée:a .:o"
+  },
+  {
+   "n": 120,
+   "en": "She did not speak or laugh.",
+   "tgt": "Elle:o ne:o parla:v ni:o ne:o rit:v .:o"
+  },
+  {
+   "n": 121,
+   "en": "Six years would pass this way.",
+   "tgt": "Six:o ans:n passeraient:v ainsi:a .:o"
+  },
+  {
+   "n": 122,
+   "en": "The sister worked on, silent and alone.",
+   "tgt": "La:o sœur:n continua:v à:o travailler:v ,:o silencieuse:a et:o seule:a .:o"
+  },
+  {
+   "n": 123,
+   "en": "She would free her six brothers.",
+   "tgt": "Elle:o libérerait:v ses:o six:o frères:n .:o"
+  },
+  {
+   "n": 124,
+   "chapter": "The Young King's Discovery",
+   "en": "A young king rode through the forest.",
+   "tgt": "Un:o jeune:a roi:n traversa:v la:o forêt:n à:o cheval:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "He saw a girl asleep in a tree.",
+   "tgt": "Il:o vit:v une:o fille:n endormie:a dans:o un:o arbre:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "She held starwort and shirts in her arms.",
+   "tgt": "Elle:o tenait:v de:o la:o stellaire:n et:o des:o chemises:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "The young king asked her name, but she said nothing.",
+   "tgt": "Le:o jeune:a roi:n lui:o demanda:v son:o nom:n ,:o mais:o elle:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 128,
+   "en": "She could not speak, for six years remained.",
+   "tgt": "Elle:o ne:o pouvait:v pas:o parler:v ,:o car:o il:o restait:v six:o ans:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "She missed her six brothers.",
+   "tgt": "Elle:o regrettait:v ses:o six:o frères:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "The young king wanted to help the silent girl.",
+   "tgt": "Le:o jeune:a roi:n voulait:v aider:v la:o fille:n silencieuse:a .:o"
+  },
+  {
+   "n": 131,
+   "en": "He brought her down from the tree.",
+   "tgt": "Il:o la:o fit:v descendre:v de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "The young king took her to his castle.",
+   "tgt": "Le:o jeune:a roi:n l':o emmena:v à:o son:o château:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "She brought her starwort and shirts too.",
+   "tgt": "Elle:o lui:o apporta:v aussi:a de:o la:o stellaire:n et:o des:o chemises:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "The young king wanted her to become his wife.",
+   "tgt": "Le:o jeune:a roi:n voulait:v qu':o elle:o devienne:v sa:o femme:n .:o"
+  },
+  {
+   "n": 135,
+   "chapter": "The Silent Bride",
+   "en": "Soon the young king married the silent girl.",
+   "tgt": "Bientôt:a le:o jeune:a roi:n épousa:v la:o fille:n silencieuse:a .:o"
+  },
+  {
+   "n": 136,
+   "en": "She became the young queen, though she could not speak.",
+   "tgt": "Elle:o devint:v la:o jeune:a reine:n ,:o bien:o qu':o elle:o ne:o pût:v pas:o parler:v .:o"
+  },
+  {
+   "n": 137,
+   "en": "The young king had a mother.",
+   "tgt": "Le:o jeune:a roi:n avait:v une:o mère:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "She was an old queen.",
+   "tgt": "C':o était:v une:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "The old queen did not like the silent wife.",
+   "tgt": "La:o vieille:a reine:n n':o aimait:v pas:o la:o femme:n silencieuse:a .:o"
+  },
+  {
+   "n": 140,
+   "en": "\"She cannot even speak!\" said the old queen.",
+   "tgt": "«:o Elle:o ne:o peut:v même:a pas:o parler:v !:o »:o dit:v la:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "No one knew where the silent girl came from.",
+   "tgt": "Personne:o ne:o savait:v d':o où:o venait:v la:o fille:n silencieuse:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "The old queen thought the girl was a witch.",
+   "tgt": "La:o vieille:a reine:n pensait:v que:o la:o fille:n était:v une:o sorcière:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The old queen did not trust her.",
+   "tgt": "La:o vieille:a reine:n ne:o lui:o faisait:v pas:o confiance:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "But the young king loved her.",
+   "tgt": "Mais:o le:o jeune:a roi:n l':o aimait:v .:o"
+  },
+  {
+   "n": 145,
+   "en": "He would not listen to his mother.",
+   "tgt": "Il:o ne:o voulait:v pas:o écouter:v sa:o mère:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "The old queen began to make a plan.",
+   "tgt": "La:o vieille:a reine:n commença:v à:o faire:v un:o plan:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "The young queen still had her starwort shirts.",
+   "tgt": "La:o jeune:a reine:n avait:v encore:a ses:o chemises:n de:o stellaire:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "She sewed on in secret.",
+   "tgt": "Elle:o continua:v à:o coudre:v en:o secret:n .:o"
+  },
+  {
+   "n": 149,
+   "chapter": "A Child Is Born",
+   "en": "Time passed, and the young queen sewed on.",
+   "tgt": "Le:o temps:n passa:v ,:o et:o la:o jeune:a reine:n continua:v à:o coudre:v .:o"
+  },
+  {
+   "n": 150,
+   "en": "Soon the young queen had a baby.",
+   "tgt": "Bientôt:a la:o jeune:a reine:n eut:v un:o bébé:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "The baby was a boy.",
+   "tgt": "Le:o bébé:n était:v un:o garçon:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "The young king was happy.",
+   "tgt": "Le:o jeune:a roi:n était:v heureux:a .:o"
+  },
+  {
+   "n": 153,
+   "en": "But the old queen still had her plan.",
+   "tgt": "Mais:o la:o vieille:a reine:n avait:v encore:a son:o plan:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "One night, the young queen slept deeply.",
+   "tgt": "Une:o nuit:n ,:o la:o jeune:a reine:n dormit:v profondément:a .:o"
+  },
+  {
+   "n": 155,
+   "en": "The old queen took the baby away.",
+   "tgt": "La:o vieille:a reine:n emmena:v le:o bébé:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "She hid the baby where no one could find him.",
+   "tgt": "Elle:o cacha:v le:o bébé:n là:a où:o personne:o ne:o pouvait:v le:o trouver:v .:o"
+  },
+  {
+   "n": 157,
+   "en": "The old queen put blood on the sleeping queen.",
+   "tgt": "La:o vieille:a reine:n mit:v du:o sang:n sur:o la:o reine:n endormie:a .:o"
+  },
+  {
+   "n": 158,
+   "en": "\"The young queen killed her own baby!\" said the old queen.",
+   "tgt": "«:o La:o jeune:a reine:n a:v tué:v son:o propre:a bébé:n !:o »:o dit:v la:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The young king did not want to believe this.",
+   "tgt": "Le:o jeune:a roi:n ne:o voulait:v pas:o croire:v cela:o .:o"
+  },
+  {
+   "n": 160,
+   "en": "He still loved his silent queen.",
+   "tgt": "Il:o aimait:v encore:a sa:o reine:n silencieuse:a .:o"
+  },
+  {
+   "n": 161,
+   "chapter": "Falsely Accused",
+   "en": "The old queen told the whole castle.",
+   "tgt": "La:o vieille:a reine:n dit:v cela:o à:o tout:o le:o château:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "\"Everyone must know the truth!\" she said.",
+   "tgt": "«:o Tout:o le:o monde:n doit:v connaître:v la:o vérité:n !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "Everyone believed the old queen.",
+   "tgt": "Tout:o le:o monde:n crut:v la:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "They wanted the young queen punished.",
+   "tgt": "Ils:o voulaient:v que:o la:o jeune:a reine:n soit:v punie:a .:o"
+  },
+  {
+   "n": 165,
+   "en": "The young king still did not believe it.",
+   "tgt": "Le:o jeune:a roi:n ne:o le:o crut:v toujours:a pas:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "The king's council came to the castle.",
+   "tgt": "Le:o conseil:n du:o roi:n vint:v au:o château:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "They said the young queen must be punished.",
+   "tgt": "Ils:o dirent:v que:o la:o jeune:a reine:n devait:v être:v punie:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "The young king wanted them to wait.",
+   "tgt": "Le:o jeune:a roi:n voulait:v qu':o ils:o attendent:v .:o"
+  },
+  {
+   "n": 169,
+   "en": "But the council would not listen to him.",
+   "tgt": "Mais:o le:o conseil:n ne:o voulut:v pas:o l':o écouter:v .:o"
+  },
+  {
+   "n": 170,
+   "en": "They chose a day for the fire.",
+   "tgt": "Ils:o choisirent:v un:o jour:n pour:o le:o feu:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "That day would be the last day of her six years.",
+   "tgt": "Ce:o jour:n serait:v le:o dernier:a jour:n de:o ses:o six:o ans:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "The young queen could not speak to save herself.",
+   "tgt": "La:o jeune:a reine:n ne:o pouvait:v pas:o parler:v pour:o se:o sauver:v .:o"
+  },
+  {
+   "n": 173,
+   "en": "She thought of her brothers, far away.",
+   "tgt": "Elle:o pensa:v à:o ses:o frères:n ,:o loin:a d':o elle:o .:o"
+  },
+  {
+   "n": 174,
+   "en": "She was condemned to die in the fire.",
+   "tgt": "Elle:o fut:v condamnée:a à:o mourir:v dans:o le:o feu:n .:o"
+  },
+  {
+   "n": 175,
+   "chapter": "The Last Day",
+   "en": "The day of the fire came at last.",
+   "tgt": "Le:o jour:n du:o feu:n arriva:v enfin:a .:o"
+  },
+  {
+   "n": 176,
+   "en": "Guards led the young queen out.",
+   "tgt": "Des:o gardes:n conduisirent:v la:o jeune:a reine:n dehors:a .:o"
+  },
+  {
+   "n": 177,
+   "en": "She still had one shirt to finish.",
+   "tgt": "Elle:o avait:v encore:a une:o chemise:n à:o finir:v .:o"
+  },
+  {
+   "n": 178,
+   "en": "It was the sixth shirt, for the youngest brother.",
+   "tgt": "C':o était:v la:o sixième:a chemise:n ,:o pour:o le:o frère:n le:o plus:o jeune:a .:o"
+  },
+  {
+   "n": 179,
+   "en": "She sewed as she walked to the fire.",
+   "tgt": "Elle:o cousait:v pendant:o qu':o elle:o marchait:v vers:o le:o feu:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "One sleeve was not yet done.",
+   "tgt": "Une:o manche:n n':o était:v pas:o encore:a terminée:a .:o"
+  },
+  {
+   "n": 181,
+   "en": "There was no time to finish it.",
+   "tgt": "Il:o n':o y:o avait:v pas:o de:o temps:n pour:o la:o finir:v .:o"
+  },
+  {
+   "n": 182,
+   "en": "The young king watched, but could not help her.",
+   "tgt": "Le:o jeune:a roi:n regardait:v ,:o mais:o ne:o pouvait:v pas:o l':o aider:v .:o"
+  },
+  {
+   "n": 183,
+   "en": "The people gathered to watch her die.",
+   "tgt": "Les:o gens:n se:o rassemblèrent:v pour:o la:o regarder:v mourir:v .:o"
+  },
+  {
+   "n": 184,
+   "en": "The old queen smiled at this.",
+   "tgt": "La:o vieille:a reine:n sourit:v à:o cela:o .:o"
+  },
+  {
+   "n": 185,
+   "chapter": "The Swans Arrive",
+   "en": "Six swans flew over the fire.",
+   "tgt": "Six:o cygnes:n volèrent:v au-dessus:o du:o feu:n .:o"
+  },
+  {
+   "n": 186,
+   "en": "The swans flew near the young queen.",
+   "tgt": "Les:o cygnes:n volèrent:v près:o de:o la:o jeune:a reine:n .:o"
+  },
+  {
+   "n": 187,
+   "en": "The young queen threw the six shirts over them.",
+   "tgt": "La:o jeune:a reine:n lança:v les:o six:o chemises:n sur:o eux:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "Everyone saw the six brothers appear.",
+   "tgt": "Tout:o le:o monde:n vit:v les:o six:o frères:n apparaître:v .:o"
+  },
+  {
+   "n": 189,
+   "en": "But the sixth shirt had no left sleeve.",
+   "tgt": "Mais:o la:o sixième:a chemise:n n':o avait:v pas:o de:o manche:n gauche:a .:o"
+  },
+  {
+   "n": 190,
+   "en": "The youngest brother still had one swan wing.",
+   "tgt": "Le:o frère:n cadet:a avait:v encore:a une:o aile:n de:o cygne:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "His arm was a wing, not a hand.",
+   "tgt": "Son:o bras:n était:v une:o aile:n ,:o pas:o une:o main:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "But he was still her brother.",
+   "tgt": "Mais:o il:o était:v quand-même:a son:o frère:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "The young king stopped the fire at once.",
+   "tgt": "Le:o jeune:a roi:n arrêta:v le:o feu:n aussitôt:a .:o"
+  },
+  {
+   "n": 194,
+   "en": "He ran to his silent wife.",
+   "tgt": "Il:o courut:v vers:o sa:o femme:n silencieuse:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "The six brothers were free at last.",
+   "tgt": "Les:o six:o frères:n étaient:v enfin:a libres:a .:o"
+  },
+  {
+   "n": 196,
+   "chapter": "The Truth at Last",
+   "en": "The young queen could speak again.",
+   "tgt": "La:o jeune:a reine:n pouvait:v parler:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 197,
+   "en": "\"I can speak now!\" she said.",
+   "tgt": "«:o Je:o peux:v parler:v maintenant:a !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 198,
+   "en": "She told everyone the truth.",
+   "tgt": "Elle:o dit:v la:o vérité:n à:o tout:o le:o monde:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "She told of the charm and six silent years.",
+   "tgt": "Elle:o parla:v du:o charme:n et:o des:o six:o années:n silencieuses:a .:o"
+  },
+  {
+   "n": 200,
+   "en": "The six brothers said this too.",
+   "tgt": "Les:o six:o frères:n dirent:v cela:o aussi:a .:o"
+  },
+  {
+   "n": 201,
+   "en": "Everyone believed them now.",
+   "tgt": "Tout:o le:o monde:n les:o crut:v maintenant:a .:o"
+  },
+  {
+   "n": 202,
+   "en": "The old queen turned pale.",
+   "tgt": "La:o vieille:a reine:n devint:v pâle:a .:o"
+  },
+  {
+   "n": 203,
+   "en": "She could not deny the truth.",
+   "tgt": "Elle:o ne:o pouvait:v pas:o nier:v la:o vérité:n .:o"
+  },
+  {
+   "n": 204,
+   "en": "The old queen had lied to everyone.",
+   "tgt": "La:o vieille:a reine:n avait:v menti:v à:o tout:o le:o monde:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "She had taken the baby herself.",
+   "tgt": "Elle:o avait:v elle-même:o pris:v le:o bébé:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "The young king grew angry.",
+   "tgt": "Le:o jeune:a roi:n devint:v furieux:a .:o"
+  },
+  {
+   "n": 207,
+   "en": "\"You have done a terrible thing,\" he said.",
+   "tgt": "«:o Vous:o avez:v fait:v une:o chose:n terrible:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 208,
+   "chapter": "A Happy Family",
+   "en": "The old queen had to lead them to the baby.",
+   "tgt": "La:o vieille:a reine:n devait:v les:o conduire:v jusqu':o au:o bébé:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "She had hidden him nearby.",
+   "tgt": "Elle:o l':o avait:v caché:v près:o d':o ici:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "They found the baby safe and well.",
+   "tgt": "Ils:o trouvèrent:v le:o bébé:n sain:a et:o sauf:a .:o"
+  },
+  {
+   "n": 211,
+   "en": "Then the young king banished the old queen.",
+   "tgt": "Alors:o le:o jeune:a roi:n bannit:v la:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "She had to leave the castle forever.",
+   "tgt": "Elle:o dut:v quitter:v le:o château:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 213,
+   "en": "No one saw the old queen again.",
+   "tgt": "Personne:o ne:o revit:v la:o vieille:a reine:n .:o"
+  },
+  {
+   "n": 214,
+   "en": "The young queen held her baby again.",
+   "tgt": "La:o jeune:a reine:n tint:v de:o nouveau:a son:o bébé:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "The six brothers lived in the castle too.",
+   "tgt": "Les:o six:o frères:n vivaient:v aussi:a dans:o le:o château:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "The young king and queen ruled well together.",
+   "tgt": "Le:o jeune:a roi:n et:o la:o reine:n gouvernèrent:v bien:a ensemble:a .:o"
+  },
+  {
+   "n": 217,
+   "en": "The youngest brother still had his swan wing.",
+   "tgt": "Le:o frère:n cadet:a avait:v encore:a son:o aile:n de:o cygne:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "But everyone still loved him.",
+   "tgt": "Mais:o tout:o le:o monde:n l':o aimait:v encore:a .:o"
+  },
+  {
+   "n": 219,
+   "en": "They all lived well for many years.",
+   "tgt": "Ils:o vécurent:v tous:o bien:a pendant:o de:o nombreuses:a années:n .:o"
+  }
+ ]
+}

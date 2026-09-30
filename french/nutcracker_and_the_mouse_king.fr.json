@@ -1,0 +1,1129 @@
+{
+ "slug": "nutcracker_and_the_mouse_king",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Christmas Eve",
+   "en": "It was Christmas Eve at Clara's house.",
+   "tgt": "C':o était:v la:o veille:n de:o Noël:o chez:o Clara:o .:o"
+  },
+  {
+   "n": 2,
+   "en": "Clara and her brother stood by a tree.",
+   "tgt": "Clara:o et:o son:o frère:n se:o tenaient:v près:o d':o un:o arbre:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Clara's parents welcomed many guests into the house.",
+   "tgt": "Les:o parents:n de:o Clara:o accueillirent:v de:o nombreux:a invités:n dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "Many guests stood by the tree too.",
+   "tgt": "De:o nombreux:a invités:n se:o tenaient:v aussi:a près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Clara's brother wanted to open his presents.",
+   "tgt": "Le:o frère:n de:o Clara:o voulait:v ouvrir:v ses:o cadeaux:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"Not yet,\" said Clara's mother, \"we must wait for our guests.\"",
+   "tgt": "«:o Pas:o encore:a ,:o »:o dit:v la:o mère:n de:o Clara:o ,:o «:o nous:o devons:v attendre:v nos:o invités:n .:o »:o"
+  },
+  {
+   "n": 7,
+   "en": "Clara's brother did not want to wait.",
+   "tgt": "Le:o frère:n de:o Clara:o ne:o voulait:v pas:o attendre:v .:o"
+  },
+  {
+   "n": 8,
+   "en": "Clara opened the door.",
+   "tgt": "Clara:o ouvrit:v la:o porte:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "Her godfather stood at the door with a box.",
+   "tgt": "Son:o parrain:n se:o tenait:v à:o la:o porte:n avec:o une:o boîte:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "Her godfather was an old clockmaker.",
+   "tgt": "Son:o parrain:n était:v un:o vieux:a fabricant:n d':o horloges:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "He made wonderful toys.",
+   "tgt": "Il:o fabriquait:v de:o merveilleux:a jouets:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "Clara took her godfather inside.",
+   "tgt": "Clara:o fit:v entrer:v son:o parrain:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "\"Come in and get warm,\" said Clara's mother.",
+   "tgt": "«:o Entrez:v et:o réchauffez-vous:v ,:o »:o dit:v la:o mère:n de:o Clara:o .:o"
+  },
+  {
+   "n": 14,
+   "en": "Clara's brother looked at the box.",
+   "tgt": "Le:o frère:n de:o Clara:o regarda:v la:o boîte:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"What is inside the box?\" he said.",
+   "tgt": "«:o Qu':o est-ce:o qu':o il:o y:o a:v dans:o la:o boîte:n ?:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 16,
+   "en": "Clara wanted to see inside the box too.",
+   "tgt": "Clara:o voulait:v voir:v à:o l':o intérieur:n de:o la:o boîte:n aussi:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"You must wait and see,\" said the old clockmaker.",
+   "tgt": "«:o Vous:o devez:v attendre:v et:o voir:v ,:o »:o dit:v le:o vieux:a horloger:n .:o"
+  },
+  {
+   "n": 18,
+   "chapter": "A Gift for Clara",
+   "en": "The old clockmaker opened his box.",
+   "tgt": "Le:o vieux:a horloger:n ouvrit:v sa:o boîte:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "Inside the box were many small toys.",
+   "tgt": "À:o l':o intérieur:n de:o la:o boîte:n se:o trouvaient:v de:o nombreux:a petits:a jouets:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "Many guests looked at the wonderful toys.",
+   "tgt": "De:o nombreux:a invités:n regardèrent:v les:o merveilleux:a jouets:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "The old clockmaker turned to Clara.",
+   "tgt": "Le:o vieux:a horloger:n se:o tourna:v vers:o Clara:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"I have a wonderful gift for you,\" he said.",
+   "tgt": "«:o J':o ai:v un:o merveilleux:a cadeau:n pour:o vous:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "He gave Clara a small wooden man.",
+   "tgt": "Il:o donna:v à:o Clara:o un:o petit:a homme:n en:o bois:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "The small wooden man had a big jaw.",
+   "tgt": "Le:o petit:a homme:n en:o bois:n avait:v une:o grande:a mâchoire:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He wore a red coat.",
+   "tgt": "Il:o portait:v un:o manteau:n rouge:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"This is a nutcracker,\" said the old clockmaker.",
+   "tgt": "«:o C':o est:v un:o casse-noisette:n ,:o »:o dit:v le:o vieux:a horloger:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"He can crack nuts with his jaw,\" he said.",
+   "tgt": "«:o Il:o peut:v casser:v des:o noix:n avec:o sa:o mâchoire:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "Clara took the nutcracker in her arms.",
+   "tgt": "Clara:o prit:v le:o casse-noisette:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "She found a small nut in a bowl.",
+   "tgt": "Elle:o trouva:v une:o petite:a noix:n dans:o un:o bol:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Clara put the nut in the nutcracker's jaw.",
+   "tgt": "Clara:o plaça:v la:o noix:n dans:o la:o mâchoire:n du:o casse-noisette:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The nutcracker cracked the nut.",
+   "tgt": "Le:o casse-noisette:n cassa:v la:o noix:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"Be careful with his jaw,\" said the old clockmaker.",
+   "tgt": "«:o Faites:v attention:n à:o sa:o mâchoire:n ,:o »:o dit:v le:o vieux:a horloger:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "Clara laughed and held the nutcracker close.",
+   "tgt": "Clara:o rit:v et:o serra:v le:o casse-noisette:n contre:o elle:o .:o"
+  },
+  {
+   "n": 34,
+   "en": "But her brother wanted to hold the nutcracker too.",
+   "tgt": "Mais:o son:o frère:n voulait:v tenir:v le:o casse-noisette:n aussi:a .:o"
+  },
+  {
+   "n": 35,
+   "chapter": "The Nutcracker Is Broken",
+   "en": "Clara gave the nutcracker to her brother.",
+   "tgt": "Clara:o donna:v le:o casse-noisette:n à:o son:o frère:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"Be careful with him,\" said Clara.",
+   "tgt": "«:o Fais:v attention:n avec:o lui:o ,:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "He held the nutcracker in his arms.",
+   "tgt": "Il:o tenait:v le:o casse-noisette:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Her brother found a big nut in the bowl.",
+   "tgt": "Son:o frère:n trouva:v une:o grosse:a noix:n dans:o le:o bol:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The nut was too big for the jaw.",
+   "tgt": "La:o noix:n était:v trop:a grosse:a pour:o la:o mâchoire:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"This nut is too hard for him,\" said Clara.",
+   "tgt": "«:o Cette:o noix:n est:v trop:a dure:a pour:o lui:o ,:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 41,
+   "en": "But her brother put the nut in the jaw.",
+   "tgt": "Mais:o son:o frère:n mit:v la:o noix:n dans:o la:o mâchoire:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "He pushed hard on the jaw.",
+   "tgt": "Il:o poussa:v fort:a sur:o la:o mâchoire:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "The nutcracker's jaw broke.",
+   "tgt": "La:o mâchoire:n du:o casse-noisette:n se:o cassa:v .:o"
+  },
+  {
+   "n": 44,
+   "en": "Clara cried and took the nutcracker back.",
+   "tgt": "Clara:o pleura:v et:o reprit:v le:o casse-noisette:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"You broke my nutcracker!\" said Clara.",
+   "tgt": "«:o Tu:o as:v cassé:v mon:o casse-noisette:n !:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"I am sorry,\" said her brother.",
+   "tgt": "«:o Je:o suis:v désolé:a ,:o »:o dit:v son:o frère:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "Clara's mother told him to be careful next time.",
+   "tgt": "La:o mère:n de:o Clara:o lui:o dit:v d':o être:v prudent:a la:o prochaine:a fois:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "Clara found a ribbon.",
+   "tgt": "Clara:o trouva:v un:o ruban:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "She wrapped it around the nutcracker's jaw.",
+   "tgt": "Elle:o enroula:v cela:o autour:a de:o la:o mâchoire:n du:o casse-noisette:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Clara put the nutcracker in a small wooden bed.",
+   "tgt": "Clara:o posa:v le:o casse-noisette:n dans:o un:o petit:a lit:n en:o bois:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "When the guests went home, Clara's mother said it was time for bed.",
+   "tgt": "Quand:o les:o invités:n rentrèrent:v chez:o eux:o ,:o la:o mère:n de:o Clara:o dit:v qu':o il:o était:v l':o heure:n de:o dormir:v .:o"
+  },
+  {
+   "n": 52,
+   "en": "Clara went to her room, but she looked back at him.",
+   "tgt": "Clara:o alla:v dans:o sa:o chambre:n ,:o mais:o elle:o regarda:v en:o arrière:a vers:o lui:o .:o"
+  },
+  {
+   "n": 53,
+   "chapter": "Midnight",
+   "en": "Night came, and the house was dark.",
+   "tgt": "La:o nuit:n tomba:v ,:o et:o la:o maison:n était:v sombre:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "Clara's parents and her brother were in bed.",
+   "tgt": "Les:o parents:n de:o Clara:o et:o son:o frère:n étaient:v au:o lit:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "But Clara could not sleep at all.",
+   "tgt": "Mais:o Clara:o ne:o pouvait:v pas:o dormir:v du:o tout:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "She wanted to look at the nutcracker's broken jaw.",
+   "tgt": "Elle:o voulait:v regarder:v la:o mâchoire:n cassée:a du:o casse-noisette:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Clara went down to the tree in the dark.",
+   "tgt": "Clara:o descendit:v jusqu':o à:o l':o arbre:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "She found him in his small bed.",
+   "tgt": "Elle:o le:o trouva:v dans:o son:o petit:a lit:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "A clock struck midnight.",
+   "tgt": "Une:o horloge:n sonna:v minuit:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "Mice came from under the floor and the door.",
+   "tgt": "Des:o souris:n vinrent:v de:o sous:o le:o plancher:n et:o la:o porte:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "The floor was dark with mice.",
+   "tgt": "Le:o plancher:n était:v sombre:a de:o souris:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "One mouse had a small crown.",
+   "tgt": "Une:o souris:n avait:v une:o petite:a couronne:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "He was the mouse king.",
+   "tgt": "Il:o était:v le:o roi:n des:o souris:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The mouse king came behind his mice.",
+   "tgt": "Le:o roi:n des:o souris:n vint:v derrière:o ses:o souris:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "Clara went behind a chair in the dark.",
+   "tgt": "Clara:o alla:v derrière:o une:o chaise:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The nutcracker grew as big as Clara.",
+   "tgt": "Le:o casse-noisette:n devint:v aussi:a grand:a que:o Clara:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "His small bed fell to the floor.",
+   "tgt": "Son:o petit:a lit:n tomba:v sur:o le:o plancher:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The ribbon was still on his broken jaw.",
+   "tgt": "Le:o ruban:n était:v encore:a sur:o sa:o mâchoire:n cassée:a .:o"
+  },
+  {
+   "n": 69,
+   "en": "All the mice grew big too.",
+   "tgt": "Toutes:o les:o souris:n devinrent:v grandes:a aussi:a .:o"
+  },
+  {
+   "n": 70,
+   "en": "The nutcracker stood up.",
+   "tgt": "Le:o casse-noisette:n se:o leva:v .:o"
+  },
+  {
+   "n": 71,
+   "chapter": "The Mouse King's Army",
+   "en": "Clara still wore her slippers.",
+   "tgt": "Clara:o portait:v encore:a ses:o chaussons:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The toy soldiers stood by the tree.",
+   "tgt": "Les:o soldats:n jouets:n se:o tenaient:v près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "They had grown big too.",
+   "tgt": "Eux:o aussi:a ,:o ils:o avaient:v grandi:v .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"Here come the mice!\" said the nutcracker.",
+   "tgt": "«:o Voilà:o les:o souris:n !:o »:o dit:v le:o casse-noisette:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The mice ran at the soldiers.",
+   "tgt": "Les:o souris:n coururent:v vers:o les:o soldats:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "The wooden soldiers fell down hard.",
+   "tgt": "Les:o soldats:n de:o bois:n tombèrent:v durement:a .:o"
+  },
+  {
+   "n": 77,
+   "en": "Many mice fell down too.",
+   "tgt": "Beaucoup:o de:o souris:n tombèrent:v aussi:a .:o"
+  },
+  {
+   "n": 78,
+   "en": "The mice ran away.",
+   "tgt": "Les:o souris:n s':o enfuirent:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "The mouse king did not run.",
+   "tgt": "Le:o roi:n des:o souris:n ne:o courut:v pas:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "He fought the nutcracker.",
+   "tgt": "Il:o combattit:v le:o casse-noisette:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "The mouse king pushed him back.",
+   "tgt": "Le:o roi:n des:o souris:n le:o repoussa:v .:o"
+  },
+  {
+   "n": 82,
+   "en": "The nutcracker fell to the floor.",
+   "tgt": "Le:o casse-noisette:n tomba:v par:o terre:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "Clara watched from behind the chair.",
+   "tgt": "Clara:o observa:v depuis:o derrière:o la:o chaise:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "The mouse king stood over the nutcracker.",
+   "tgt": "Le:o roi:n des:o souris:n se:o tint:v au-dessus:o du:o casse-noisette:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The nutcracker could not get up.",
+   "tgt": "Le:o casse-noisette:n ne:o pouvait:v pas:o se:o lever:v .:o"
+  },
+  {
+   "n": 86,
+   "en": "Clara was afraid for him.",
+   "tgt": "Clara:o avait:v peur:n pour:o lui:o .:o"
+  },
+  {
+   "n": 87,
+   "chapter": "Clara's Slipper",
+   "en": "Clara ran to the nutcracker.",
+   "tgt": "Clara:o courut:v vers:o le:o casse-noisette:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "She looked down at her slippers.",
+   "tgt": "Elle:o regarda:v ses:o chaussons:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Clara took off one slipper.",
+   "tgt": "Clara:o enleva:v un:o chausson:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "She threw the slipper at the mouse king.",
+   "tgt": "Elle:o lança:v le:o chausson:n au:o roi:n des:o souris:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "The slipper struck the mouse king.",
+   "tgt": "Le:o chausson:n frappa:v le:o roi:n des:o souris:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The mouse king fell down.",
+   "tgt": "Le:o roi:n des:o souris:n tomba:v .:o"
+  },
+  {
+   "n": 93,
+   "en": "All the mice ran away.",
+   "tgt": "Toutes:o les:o souris:n s':o enfuirent:v .:o"
+  },
+  {
+   "n": 94,
+   "en": "The mouse king ran away too.",
+   "tgt": "Le:o roi:n des:o souris:n s':o enfuit:v aussi:a .:o"
+  },
+  {
+   "n": 95,
+   "en": "The nutcracker stood.",
+   "tgt": "Le:o casse-noisette:n se:o leva:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "Clara was not afraid now.",
+   "tgt": "Clara:o n':o avait:v plus:o peur:n maintenant:a .:o"
+  },
+  {
+   "n": 97,
+   "en": "He looked at Clara.",
+   "tgt": "Il:o regarda:v Clara:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "The soldiers went back to the tree.",
+   "tgt": "Les:o soldats:n retournèrent:v à:o l':o arbre:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "Then the nutcracker turned into a young man.",
+   "tgt": "Puis:o le:o casse-noisette:n se:o transforma:v en:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "He still wore his red coat.",
+   "tgt": "Il:o portait:v encore:a son:o manteau:n rouge:a .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"Thank you for saving me,\" he said.",
+   "tgt": "«:o Merci:n de:o m':o avoir:v sauvé:v ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 102,
+   "en": "The young man had kind eyes.",
+   "tgt": "Le:o jeune:a homme:n avait:v des:o yeux:n doux:a .:o"
+  },
+  {
+   "n": 103,
+   "en": "She said nothing.",
+   "tgt": "Elle:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "He said he had a story to tell.",
+   "tgt": "Il:o dit:v qu':o il:o avait:v une:o histoire:n à:o raconter:v .:o"
+  },
+  {
+   "n": 105,
+   "chapter": "The Nutcracker's Tale",
+   "en": "The young man told Clara a story.",
+   "tgt": "Le:o jeune:a homme:n raconta:v une:o histoire:n à:o Clara:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"My uncle is your godfather,\" he said.",
+   "tgt": "«:o Mon:o oncle:n est:v votre:o parrain:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"A king had a beautiful princess.\"",
+   "tgt": "«:o Un:o roi:n avait:v une:o belle:a princesse:n .:o »:o"
+  },
+  {
+   "n": 108,
+   "en": "\"One night, mice ate the king's cake.\"",
+   "tgt": "«:o Une:o nuit:n ,:o des:o souris:n mangèrent:v le:o gâteau:n du:o roi:n .:o »:o"
+  },
+  {
+   "n": 109,
+   "en": "\"The king killed the mouse queen's mice.\"",
+   "tgt": "«:o Le:o roi:n tua:v les:o souris:n de:o la:o reine:n des:o souris:n .:o »:o"
+  },
+  {
+   "n": 110,
+   "en": "\"The mouse queen swore revenge on the king.\"",
+   "tgt": "«:o La:o reine:n des:o souris:n jura:v vengeance:n contre:o le:o roi:n .:o »:o"
+  },
+  {
+   "n": 111,
+   "en": "\"She cursed the princess to be ugly.\"",
+   "tgt": "«:o Elle:o maudit:v la:o princesse:n à:o être:v laide:a .:o »:o"
+  },
+  {
+   "n": 112,
+   "en": "\"But a hard nut could break the curse.\"",
+   "tgt": "«:o Mais:o une:o noisette:n dure:a pouvait:v briser:v la:o malédiction:n .:o »:o"
+  },
+  {
+   "n": 113,
+   "en": "\"My uncle took me to the princess to crack it.\"",
+   "tgt": "«:o Mon:o oncle:n m':o emmena:v chez:o la:o princesse:n pour:o la:o casser:v .:o »:o"
+  },
+  {
+   "n": 114,
+   "en": "\"I cracked the hard nut and gave it to the princess.\"",
+   "tgt": "«:o Je:o cassai:v la:o noisette:n dure:a et:o la:o donnai:v à:o la:o princesse:n .:o »:o"
+  },
+  {
+   "n": 115,
+   "en": "\"The princess ate it and was beautiful again.\"",
+   "tgt": "«:o La:o princesse:n la:o mangea:v et:o fut:v de:o nouveau:a belle:a .:o »:o"
+  },
+  {
+   "n": 116,
+   "en": "\"But I had to step back, and I stepped on the mouse queen.\"",
+   "tgt": "«:o Mais:o je:o dus:v reculer:v et:o je:o marchai:v sur:o la:o reine:n des:o souris:n .:o »:o"
+  },
+  {
+   "n": 117,
+   "en": "\"The mouse queen died and cursed me.\"",
+   "tgt": "«:o La:o reine:n des:o souris:n mourut:v et:o me:o maudit:v .:o »:o"
+  },
+  {
+   "n": 118,
+   "en": "\"I turned into a small nutcracker with a big jaw.\"",
+   "tgt": "«:o Je:o me:o transformai:v en:o un:o petit:a casse-noisette:n avec:o une:o grande:a mâchoire:n .:o »:o"
+  },
+  {
+   "n": 119,
+   "en": "\"My uncle could not break the curse.\"",
+   "tgt": "«:o Mon:o oncle:n ne:o put:v pas:o briser:v la:o malédiction:n .:o »:o"
+  },
+  {
+   "n": 120,
+   "en": "\"Her son, the young mouse king, swore revenge on me.\"",
+   "tgt": "«:o Son:o fils:n ,:o le:o jeune:a roi:n des:o souris:n ,:o jura:v vengeance:n contre:o moi:o .:o »:o"
+  },
+  {
+   "n": 121,
+   "en": "\"His mice came for me at midnight.\"",
+   "tgt": "«:o Ses:o souris:n sont:v venues:v me:o chercher:v à:o minuit:n »:o .:o"
+  },
+  {
+   "n": 122,
+   "en": "\"But you broke the curse,\" said the young man.",
+   "tgt": "«:o Mais:o vous:o avez:v brisé:v le:o sortilège:n ,:o »:o dit:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 123,
+   "chapter": "Through the Sleeve",
+   "en": "The young man held out his hand to Clara.",
+   "tgt": "Le:o jeune:a homme:n tendit:v la:o main:n à:o Clara:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"Come and see my home,\" he said.",
+   "tgt": "«:o Venez:v voir:v ma:o maison:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 125,
+   "en": "Clara wanted to see his home.",
+   "tgt": "Clara:o voulait:v voir:v sa:o maison:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The toy soldiers were small again by the tree.",
+   "tgt": "Les:o soldats:n de:o jouet:n étaient:v de:o nouveau:a petits:a près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "He took her to a coat on a hook.",
+   "tgt": "Il:o la:o conduisit:v vers:o un:o manteau:n sur:o un:o crochet:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "\"Climb into the sleeve,\" said the young man.",
+   "tgt": "«:o Grimpez:v dans:o la:o manche:n ,:o »:o dit:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "Clara climbed into the sleeve.",
+   "tgt": "Clara:o grimpa:v dans:o la:o manche:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "He climbed in too.",
+   "tgt": "Il:o grimpa:v aussi:a .:o"
+  },
+  {
+   "n": 131,
+   "en": "Clara could not see him in the dark.",
+   "tgt": "Clara:o ne:o pouvait:v pas:o le:o voir:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "She held his hand and did not look back.",
+   "tgt": "Elle:o tint:v sa:o main:n et:o ne:o regarda:v pas:o en:o arrière:a .:o"
+  },
+  {
+   "n": 133,
+   "en": "The sleeve turned into a passage.",
+   "tgt": "La:o manche:n se:o transforma:v en:o un:o passage:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "They went down and down the passage.",
+   "tgt": "Ils:o descendirent:v encore:a et:o encore:a dans:o le:o passage:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "The passage grew warm.",
+   "tgt": "Le:o passage:n devint:v chaud:a .:o"
+  },
+  {
+   "n": 136,
+   "en": "Clara saw a light.",
+   "tgt": "Clara:o vit:v une:o lumière:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "The light came from a doorway.",
+   "tgt": "La:o lumière:n venait:v d':o une:o porte:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "The doorway was made of candy.",
+   "tgt": "La:o porte:n était:v faite:v de:o bonbons:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "The young man smiled, and Clara smiled back.",
+   "tgt": "Le:o jeune:a homme:n sourit:v ,:o et:o Clara:o lui:o sourit:v en:o retour:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "Beyond the doorway was the candy kingdom.",
+   "tgt": "Au-delà:o de:o la:o porte:n se:o trouvait:v le:o royaume:n des:o bonbons:n .:o"
+  },
+  {
+   "n": 141,
+   "chapter": "The Candy Kingdom",
+   "en": "Clara and the young man went through the doorway.",
+   "tgt": "Clara:o et:o le:o jeune:a homme:n passèrent:v par:o la:o porte:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "They stood still in the candy kingdom.",
+   "tgt": "Ils:o restèrent:v immobiles:a dans:o le:o royaume:n des:o bonbons:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "Trees of chocolate grew all around them.",
+   "tgt": "Des:o arbres:n de:o chocolat:n poussaient:v tout:o autour:o d':o eux:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "A river of cream ran by the trees.",
+   "tgt": "Une:o rivière:n de:o crème:n coulait:v près:o des:o arbres:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "They went by the river.",
+   "tgt": "Ils:o allèrent:v le:o long:a de:o la:o rivière:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "Clara took a chocolate from a tree and ate it.",
+   "tgt": "Clara:o prit:v un:o chocolat:n d':o un:o arbre:n et:o le:o mangea:v .:o"
+  },
+  {
+   "n": 147,
+   "en": "This kingdom was the young man's home.",
+   "tgt": "Ce:o royaume:n était:v la:o maison:n du:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "He was glad to be back.",
+   "tgt": "Il:o était:v content:a d':o être:v de:o retour:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "He still knew every tree by the river.",
+   "tgt": "Il:o connaissait:v encore:a chaque:o arbre:n le:o long:a de:o la:o rivière:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "They saw a great palace.",
+   "tgt": "Ils:o virent:v un:o grand:a palais:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "The palace was made of cookies and cake.",
+   "tgt": "Le:o palais:n était:v fait:a de:o biscuits:n et:o de:o gâteau:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "Clara wanted to look inside.",
+   "tgt": "Clara:o voulait:v regarder:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "They went to the palace.",
+   "tgt": "Ils:o allèrent:v au:o palais:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "\"This palace is wonderful,\" said Clara.",
+   "tgt": "«:o Ce:o palais:n est:v merveilleux:a ,:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 155,
+   "en": "The young man smiled at her.",
+   "tgt": "Le:o jeune:a homme:n lui:o sourit:v .:o"
+  },
+  {
+   "n": 156,
+   "chapter": "The Palace of Sweets",
+   "en": "Clara and the young man went into the palace.",
+   "tgt": "Clara:o et:o le:o jeune:a homme:n entrèrent:v dans:o le:o palais:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "Many people stood inside.",
+   "tgt": "Beaucoup:o de:o gens:n se:o tenaient:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "Music played through the palace.",
+   "tgt": "De:o la:o musique:n jouait:v dans:o tout:o le:o palais:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The people welcomed Clara and the young man.",
+   "tgt": "Les:o gens:n accueillirent:v Clara:o et:o le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "They made a great feast for them.",
+   "tgt": "Ils:o préparèrent:v un:o grand:a festin:n pour:o eux:o .:o"
+  },
+  {
+   "n": 161,
+   "en": "The feast had fruit, cookies, and cake.",
+   "tgt": "Le:o festin:n avait:v des:o fruits:n ,:o des:o biscuits:n et:o du:o gâteau:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "Clara ate the fruit and the cookies.",
+   "tgt": "Clara:o mangea:v les:o fruits:n et:o les:o biscuits:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"Thank you all,\" said the young man.",
+   "tgt": "«:o Merci:n à:o tous:o »:o ,:o dit:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "\"Clara saved us from the mouse king,\" he said.",
+   "tgt": "«:o Clara:o nous:o a:v sauvés:v du:o roi:n des:o souris:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 165,
+   "en": "The people were glad for Clara.",
+   "tgt": "Les:o gens:n étaient:v contents:a pour:o Clara:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "Many people danced.",
+   "tgt": "Beaucoup:o de:o gens:n dansèrent:v .:o"
+  },
+  {
+   "n": 167,
+   "en": "The young man danced with Clara.",
+   "tgt": "Le:o jeune:a homme:n dansa:v avec:o Clara:o .:o"
+  },
+  {
+   "n": 168,
+   "en": "Clara smiled at the people.",
+   "tgt": "Clara:o sourit:v aux:o gens:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "The feast went on all night.",
+   "tgt": "Le:o festin:n dura:v toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "But Clara grew tired.",
+   "tgt": "Mais:o Clara:o devint:v fatiguée:a .:o"
+  },
+  {
+   "n": 171,
+   "en": "She wanted to go home now.",
+   "tgt": "Elle:o voulait:v rentrer:v chez:o elle:o maintenant:a .:o"
+  },
+  {
+   "n": 172,
+   "chapter": "The Journey Home",
+   "en": "\"It is time to go home,\" said the young man.",
+   "tgt": "«:o Il:o est:v temps:n de:o rentrer:v »:o ,:o dit:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "Clara was too tired to go far.",
+   "tgt": "Clara:o était:v trop:a fatiguée:a pour:o aller:v loin:a .:o"
+  },
+  {
+   "n": 174,
+   "en": "The young man took her back to the doorway.",
+   "tgt": "Le:o jeune:a homme:n la:o ramena:v jusqu':o à:o l':o entrée:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "They went into the passage again.",
+   "tgt": "Ils:o entrèrent:v de:o nouveau:a dans:o le:o passage:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "The candy doorway closed behind them.",
+   "tgt": "L':o entrée:n de:o bonbons:n se:o ferma:v derrière:o eux:o .:o"
+  },
+  {
+   "n": 177,
+   "en": "The passage was dark now.",
+   "tgt": "Le:o passage:n était:v sombre:a maintenant:a .:o"
+  },
+  {
+   "n": 178,
+   "en": "His red coat was warm in the dark.",
+   "tgt": "Son:o manteau:n rouge:a était:v chaud:a dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "Clara held the young man's hand.",
+   "tgt": "Clara:o tint:v la:o main:n du:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "Her eyes grew heavy.",
+   "tgt": "Ses:o yeux:n devinrent:v lourds:a .:o"
+  },
+  {
+   "n": 181,
+   "en": "She could not hold them open.",
+   "tgt": "Elle:o ne:o pouvait:v pas:o les:o garder:v ouverts:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "The passage turned into the sleeve again.",
+   "tgt": "Le:o passage:n se:o transforma:v en:o manche:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 183,
+   "en": "Clara was sleepy.",
+   "tgt": "Clara:o avait:v sommeil:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "She closed her eyes.",
+   "tgt": "Elle:o ferma:v les:o yeux:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "Clara did not remember climbing out.",
+   "tgt": "Clara:o ne:o se:o rappelait:v pas:o être:v sortie:a .:o"
+  },
+  {
+   "n": 186,
+   "en": "The young man's voice grew far away.",
+   "tgt": "La:o voix:n du:o jeune:a homme:n s':o éloigna:v .:o"
+  },
+  {
+   "n": 187,
+   "en": "It grew quiet around her.",
+   "tgt": "Le:o silence:n se:o fit:v autour:o d':o elle:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "It grew dark.",
+   "tgt": "Il:o fit:v sombre:a .:o"
+  },
+  {
+   "n": 189,
+   "chapter": "Christmas Morning",
+   "en": "Clara woke on Christmas morning.",
+   "tgt": "Clara:o se:o réveilla:v le:o matin:n de:o Noël:o .:o"
+  },
+  {
+   "n": 190,
+   "en": "She was under the tree.",
+   "tgt": "Elle:o était:v sous:o l':o arbre:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "Clara held the small nutcracker in her arms.",
+   "tgt": "Clara:o tenait:v le:o petit:a casse-noisette:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "His jaw was not broken now.",
+   "tgt": "Sa:o mâchoire:n n':o était:v plus:o cassée:a maintenant:a .:o"
+  },
+  {
+   "n": 193,
+   "en": "Clara smiled at him.",
+   "tgt": "Clara:o sourit:v à:o lui:o .:o"
+  },
+  {
+   "n": 194,
+   "en": "Her brother found her by the tree.",
+   "tgt": "Son:o frère:n la:o trouva:v près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 195,
+   "en": "\"You slept under the tree!\" said her brother.",
+   "tgt": "«:o Tu:o as:v dormi:v sous:o l':o arbre:n !:o »:o dit:v son:o frère:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "Clara's mother came to see her too.",
+   "tgt": "La:o mère:n de:o Clara:o vint:v la:o voir:v aussi:a .:o"
+  },
+  {
+   "n": 197,
+   "en": "\"I am home,\" said Clara.",
+   "tgt": "«:o Je:o suis:v chez:o moi:o ,:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 198,
+   "en": "She held up the small nutcracker.",
+   "tgt": "Elle:o leva:v le:o petit:a casse-noisette:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "\"He saved me,\" said Clara.",
+   "tgt": "«:o Il:o m':o a:v sauvée:v ,:o »:o dit:v Clara:o .:o"
+  },
+  {
+   "n": 200,
+   "en": "Her mother did not understand.",
+   "tgt": "Sa:o mère:n ne:o comprit:v pas:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "But she smiled at Clara.",
+   "tgt": "Mais:o elle:o sourit:v à:o Clara:o .:o"
+  },
+  {
+   "n": 202,
+   "en": "Clara's old godfather came to see them.",
+   "tgt": "Le:o vieux:a parrain:n de:o Clara:o vint:v les:o voir:v .:o"
+  },
+  {
+   "n": 203,
+   "en": "He looked at the small nutcracker and smiled.",
+   "tgt": "Il:o regarda:v le:o petit:a casse-noisette:n et:o sourit:v .:o"
+  },
+  {
+   "n": 204,
+   "en": "\"I gave you a wonderful gift,\" he said.",
+   "tgt": "«:o Je:o vous:o ai:v donné:v un:o cadeau:n merveilleux:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 205,
+   "en": "Clara smiled at her godfather.",
+   "tgt": "Clara:o sourit:v à:o son:o parrain:n .:o"
+  },
+  {
+   "n": 206,
+   "chapter": "The Nephew's Visit",
+   "en": "That day, the old clockmaker came back.",
+   "tgt": "Ce:o jour-là:o ,:o le:o vieux:a horloger:n revint:v .:o"
+  },
+  {
+   "n": 207,
+   "en": "His young nephew came with him.",
+   "tgt": "Son:o jeune:a neveu:n vint:v avec:o lui:o .:o"
+  },
+  {
+   "n": 208,
+   "en": "They stood at the door.",
+   "tgt": "Ils:o se:o tenaient:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "\"Come in and get warm,\" said Clara's mother.",
+   "tgt": "«:o Entrez:v et:o réchauffez:v -vous:o ,:o »:o dit:v la:o mère:n de:o Clara:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "Clara's brother liked the young nephew.",
+   "tgt": "Le:o frère:n de:o Clara:o aimait:v le:o jeune:a neveu:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "Clara looked at the nephew.",
+   "tgt": "Clara:o regarda:v le:o neveu:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "He bowed to Clara.",
+   "tgt": "Il:o s':o inclina:v devant:o Clara:o .:o"
+  },
+  {
+   "n": 213,
+   "en": "His eyes were kind.",
+   "tgt": "Ses:o yeux:n étaient:v doux:a .:o"
+  },
+  {
+   "n": 214,
+   "en": "The nephew smiled at Clara.",
+   "tgt": "Le:o neveu:n sourit:v à:o Clara:o .:o"
+  },
+  {
+   "n": 215,
+   "en": "Clara knew that smile from somewhere.",
+   "tgt": "Clara:o connaissait:v ce:o sourire:n de:o quelque:o part:o .:o"
+  },
+  {
+   "n": 216,
+   "en": "It looked like the young man's from that night.",
+   "tgt": "Il:o ressemblait:v à:o celui:o du:o jeune:a homme:n de:o cette:o nuit-là:o .:o"
+  },
+  {
+   "n": 217,
+   "en": "She held her small nutcracker close.",
+   "tgt": "Elle:o serra:v son:o petit:a casse-noisette:n contre:o elle:o .:o"
+  },
+  {
+   "n": 218,
+   "en": "He looked at the nutcracker in her arms.",
+   "tgt": "Il:o regarda:v le:o casse-noisette:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "\"A fine nutcracker,\" he said.",
+   "tgt": "«:o Un:o beau:a casse-noisette:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 220,
+   "en": "Clara smiled and said nothing.",
+   "tgt": "Clara:o sourit:v et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 221,
+   "en": "The old clockmaker watched them.",
+   "tgt": "Le:o vieux:a horloger:n les:o observa:v .:o"
+  },
+  {
+   "n": 222,
+   "en": "Somewhere a clock struck in the quiet house.",
+   "tgt": "Quelque:o part:a une:o horloge:n sonna:v dans:o la:o maison:n silencieuse:a .:o"
+  }
+ ]
+}

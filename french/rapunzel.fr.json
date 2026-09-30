@@ -1,0 +1,950 @@
+{
+ "slug": "rapunzel",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A House by the Wall",
+   "en": "A man and his wife lived in a small house.",
+   "tgt": "Un:o homme:n et:o sa:o femme:n vivaient:v dans:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Behind the house stood a high wall.",
+   "tgt": "Derrière:o la:o maison:n se:o dressait:v un:o haut:a mur:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "A witch owned a garden behind the wall.",
+   "tgt": "Une:o sorcière:n possédait:v un:o jardin:n derrière:o le:o mur:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "Green lettuce grew in rows inside the garden.",
+   "tgt": "De:o la:o laitue:n verte:a poussait:v en:o rangées:n à:o l':o intérieur:n du:o jardin:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "The wife was soon to have a baby.",
+   "tgt": "La:o femme:n allait:v bientôt:a avoir:v un:o bébé:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Every day, she wanted to eat the green lettuce.",
+   "tgt": "Chaque:o jour:n ,:o elle:o voulait:v manger:v la:o laitue:n verte:a .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"I must have that lettuce,\" she told her husband.",
+   "tgt": "«:o Je:o dois:v avoir:v cette:o laitue:n ,:o »:o dit:v -elle:o à:o son:o mari:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "\"The witch owns that garden,\" said the husband.",
+   "tgt": "«:o La:o sorcière:n possède:v ce:o jardin:n ,:o »:o dit:v le:o mari:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"Give me some, or I will be sick,\" she said.",
+   "tgt": "«:o Donne:v -m':o en:o ,:o ou:o je:o serai:v malade:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 10,
+   "en": "That night, he decided to climb over the high wall.",
+   "tgt": "Cette:o nuit:n -là:o ,:o il:o décida:v de:o grimper:v par-dessus:o le:o haut:a mur:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "That night, the man climbed into the garden.",
+   "tgt": "Cette:o nuit:n -là:o ,:o l':o homme:n grimpa:v dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The moon was out, and the garden was still.",
+   "tgt": "La:o lune:n brillait:v ,:o et:o le:o jardin:n était:v calme:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "He found the green lettuce.",
+   "tgt": "Il:o trouva:v la:o laitue:n verte:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "He picked some and climbed back over the wall.",
+   "tgt": "Il:o en:o cueillit:v quelques-unes:o et:o refranchit:v le:o mur:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He gave the lettuce to his wife.",
+   "tgt": "Il:o donna:v la:o laitue:n à:o sa:o femme:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The wife ate the green lettuce at once.",
+   "tgt": "La:o femme:n mangea:v la:o laitue:n verte:a aussitôt:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "Soon, she wanted more lettuce and looked at her husband.",
+   "tgt": "Bientôt:a ,:o elle:o voulut:v encore:a de:o la:o laitue:n et:o regarda:v son:o mari:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"I must have more,\" she told her husband.",
+   "tgt": "«:o Il:o m':o en:o faut:v davantage:a »:o ,:o dit:v -elle:o à:o son:o mari:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The husband did not want to climb the wall twice.",
+   "tgt": "Le:o mari:n ne:o voulut:v pas:o escalader:v le:o mur:n deux:o fois:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "But he agreed and gave her a smile.",
+   "tgt": "Mais:o il:o accepta:v et:o lui:o offrit:v un:o sourire:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "That night, he climbed over the wall once more.",
+   "tgt": "Cette:o nuit-là:n ,:o il:o refranchit:v le:o mur:n une:o fois:n de:o plus:a .:o"
+  },
+  {
+   "n": 22,
+   "en": "He went to the same row of lettuce.",
+   "tgt": "Il:o alla:v au:o même:a rang:n de:o laitue:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "He did not know the witch was watching.",
+   "tgt": "Il:o ne:o savait:v pas:o que:o la:o sorcière:n le:o regardait:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "The witch stepped from behind a tree.",
+   "tgt": "La:o sorcière:n sortit:v de:o derrière:o un:o arbre:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"You steal my lettuce,\" the witch said.",
+   "tgt": "«:o Tu:o voles:v ma:o laitue:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The man dropped the lettuce and stepped back.",
+   "tgt": "L':o homme:n lâcha:v la:o laitue:n et:o recula:v .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"Forgive me,\" the man said.",
+   "tgt": "«:o Pardonnez:v -moi:o ,:o »:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"My wife needs it, or she will be sick,\" he said.",
+   "tgt": "«:o Ma:o femme:n en:o a:v besoin:n ,:o ou:o elle:o sera:v malade:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "The witch looked at the man for a long time.",
+   "tgt": "La:o sorcière:n regarda:v l':o homme:n pendant:o longtemps:a .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"You may take the lettuce you want,\" said the witch.",
+   "tgt": "«:o Vous:o pouvez:v prendre:v la:o laitue:n que:o vous:o voulez:v ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The man smiled and thanked the witch.",
+   "tgt": "L':o homme:n sourit:v et:o remercia:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"But you must give me the baby,\" said the witch.",
+   "tgt": "«:o Mais:o vous:o devez:v me:o donner:v le:o bébé:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The man's smile disappeared at once.",
+   "tgt": "Le:o sourire:n de:o l':o homme:n disparut:v aussitôt:a .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"I have no choice,\" the man said.",
+   "tgt": "«:o Je:o n':o ai:v pas:o le:o choix:n ,:o »:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"I agree,\" he said, and the bargain was made.",
+   "tgt": "«:o Je:o suis:v d':o accord:n ,:o »:o dit:v -il:o ,:o et:o le:o marché:n fut:v conclu:v .:o"
+  },
+  {
+   "n": 36,
+   "en": "Months passed, and the baby was born.",
+   "tgt": "Des:o mois:n passèrent:v ,:o et:o le:o bébé:n naquit:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "The man and his wife had a baby girl.",
+   "tgt": "L':o homme:n et:o sa:o femme:n eurent:v une:o fille:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Soon the witch was at their door.",
+   "tgt": "Bientôt:a la:o sorcière:n était:v à:o leur:o porte:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"You must keep the bargain,\" said the witch.",
+   "tgt": "«:o Vous:o devez:v respecter:v le:o marché:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The man and his wife cried, but they kept their bargain.",
+   "tgt": "L':o homme:n et:o sa:o femme:n pleurèrent:v ,:o mais:o ils:o respectèrent:v leur:o marché:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "The witch took the baby girl.",
+   "tgt": "La:o sorcière:n prit:v la:o petite:a fille:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"I will call her Rapunzel,\" said the witch.",
+   "tgt": "«:o Je:o l':o appellerai:v Rapunzel:o ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "The witch carried Rapunzel into a forest.",
+   "tgt": "La:o sorcière:n emmena:v Rapunzel:o dans:o une:o forêt:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "A high tower stood in the forest.",
+   "tgt": "Une:o haute:a tour:n se:o dressa:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The witch kept Rapunzel inside the tower.",
+   "tgt": "La:o sorcière:n garda:v Rapunzel:o à:o l':o intérieur:n de:o la:o tour:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "Rapunzel never knew her parents.",
+   "tgt": "Rapunzel:o ne:o connut:v jamais:o ses:o parents:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The husband and his wife never saw their daughter.",
+   "tgt": "Le:o mari:n et:o sa:o femme:n ne:o virent:v jamais:o leur:o fille:n .:o"
+  },
+  {
+   "n": 48,
+   "chapter": "Alone in the Tower",
+   "en": "Twelve years passed in the tower.",
+   "tgt": "Douze:o ans:n passèrent:v dans:o la:o tour:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "The tower had no door and no stairs.",
+   "tgt": "La:o tour:n n':o avait:v ni:o porte:n ni:o escalier:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Rapunzel never went into the forest.",
+   "tgt": "Rapunzel:o n':o alla:v jamais:o dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "Rapunzel's hair grew long, down to the ground.",
+   "tgt": "Les:o cheveux:n de:o Rapunzel:o poussèrent:v longs:a ,:o jusqu':o au:o sol:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "Rapunzel sang songs at a window.",
+   "tgt": "Rapunzel:o chantait:v des:o chansons:n à:o une:o fenêtre:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Every day, the witch came to see Rapunzel.",
+   "tgt": "Chaque:o jour:n ,:o la:o sorcière:n venait:v voir:v Rapunzel:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "The witch came to the tower and called.",
+   "tgt": "La:o sorcière:n vint:v à:o la:o tour:n et:o appela:v .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"Rapunzel, Rapunzel, let down your hair,\" she called.",
+   "tgt": "«:o Rapunzel:o ,:o Rapunzel:o ,:o laisse:v descendre:v tes:o cheveux:n ,:o »:o appela:v -t:o -elle:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "Rapunzel wound her long hair on a hook.",
+   "tgt": "Rapunzel:o enroula:v ses:o longs:a cheveux:n sur:o un:o crochet:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "She let her hair fall from the window.",
+   "tgt": "Elle:o laissa:v ses:o cheveux:n tomber:v par:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The witch climbed up the hair to the window.",
+   "tgt": "La:o sorcière:n grimpa:v le:o long:n des:o cheveux:n jusqu':o à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "A prince came to the forest one day.",
+   "tgt": "Un:o prince:n vint:v dans:o la:o forêt:n un:o jour:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "He heard someone sing.",
+   "tgt": "Il:o entendit:v quelqu':o un:o chanter:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "The prince followed the sound to a tower.",
+   "tgt": "Le:o prince:n suivit:v le:o son:n jusqu':o à:o une:o tour:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The tower stood high in the green forest.",
+   "tgt": "La:o tour:n se:o dressait:v haut:a dans:o la:o forêt:n verte:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "He saw a small window high on the tower.",
+   "tgt": "Il:o vit:v une:o petite:a fenêtre:n haute:a sur:o la:o tour:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "No hair hung from the window.",
+   "tgt": "Aucun:o cheveu:n ne:o pendait:v de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "He looked for a door, but the tower had no door.",
+   "tgt": "Il:o chercha:v une:o porte:n ,:o mais:o la:o tour:n n':o avait:v aucune:o porte:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The prince tried to climb the tower wall.",
+   "tgt": "Le:o prince:n essaya:v de:o grimper:v le:o mur:n de:o la:o tour:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "But he could not climb the high wall.",
+   "tgt": "Mais:o il:o ne:o pouvait:v pas:o grimper:v le:o haut:a mur:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "He called, but no one answered.",
+   "tgt": "Il:o appela:v ,:o mais:o personne:o ne:o répondit:v .:o"
+  },
+  {
+   "n": 69,
+   "en": "The prince wanted to know her name.",
+   "tgt": "Le:o prince:n voulait:v connaître:v son:o nom:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "He left the forest, but he did not forget the tower.",
+   "tgt": "Il:o quitta:v la:o forêt:n ,:o mais:o il:o n':o oublia:v pas:o la:o tour:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "The prince came back to the forest.",
+   "tgt": "Le:o prince:n revint:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "He hid behind a tall tree.",
+   "tgt": "Il:o se:o cacha:v derrière:o un:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Soon, the witch came to the tower and stood below the window.",
+   "tgt": "Bientôt:a ,:o la:o sorcière:n vint:v à:o la:o tour:n et:o se:o tint:v debout:a sous:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"Rapunzel, Rapunzel, let down your hair,\" called the witch.",
+   "tgt": "«:o Rapunzel:o ,:o Rapunzel:o ,:o laisse:v descendre:v tes:o cheveux:n ,:o »:o appela:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Long hair fell from the window.",
+   "tgt": "De:o longs:a cheveux:n tombèrent:v de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "The witch climbed up the hair.",
+   "tgt": "La:o sorcière:n grimpa:v le:o long:o des:o cheveux:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "The prince was watching from behind the tree.",
+   "tgt": "Le:o prince:n observait:v depuis:o derrière:o l':o arbre:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "He learned the witch's secret call.",
+   "tgt": "Il:o apprit:v l':o appel:n secret:a de:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "He heard no other sound in the forest.",
+   "tgt": "Il:o n':o entendit:v aucun:o autre:a son:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "He saw the witch climb down, and soon she went away.",
+   "tgt": "Il:o vit:v la:o sorcière:n descendre:v ,:o et:o bientôt:a elle:o s':o en:o alla:v .:o"
+  },
+  {
+   "n": 81,
+   "en": "The prince came out from behind the tree.",
+   "tgt": "Le:o prince:n sortit:v de:o derrière:o l':o arbre:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "He wanted to see her and knew he must come back.",
+   "tgt": "Il:o voulait:v la:o voir:v et:o savait:v qu':o il:o devait:v revenir:v .:o"
+  },
+  {
+   "n": 83,
+   "en": "He knew what to say now.",
+   "tgt": "Il:o savait:v maintenant:a quoi:o dire:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "Soon, the prince came to the tower.",
+   "tgt": "Bientôt:a ,:o le:o prince:n vint:v à:o la:o tour:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "He stood below the window and called.",
+   "tgt": "Il:o se:o tint:v sous:o la:o fenêtre:n et:o appela:v .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"Rapunzel, Rapunzel, let down your hair,\" he called.",
+   "tgt": "«:o Rapunzel:o ,:o Rapunzel:o ,:o laisse:v descendre:v tes:o cheveux:n ,:o »:o dit-il:v en:o appelant:v .:o"
+  },
+  {
+   "n": 87,
+   "en": "Rapunzel heard a man's voice, not the witch's.",
+   "tgt": "Rapunzel:o entendit:v la:o voix:n d':o un:o homme:n ,:o pas:o celle:o de:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "She was afraid and did not answer.",
+   "tgt": "Elle:o avait:v peur:n et:o ne:o répondit:v pas:o .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Do not be afraid,\" the prince said.",
+   "tgt": "«:o N':o ayez:v pas:o peur:n ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "\"I heard you sing, and I came to see you,\" he said.",
+   "tgt": "«:o Je:o vous:o ai:v entendue:v chanter:v ,:o et:o je:o suis:v venu:v vous:o voir:v ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 91,
+   "en": "Rapunzel wound her hair around the hook.",
+   "tgt": "Rapunzel:o enroula:v ses:o cheveux:n autour:o du:o crochet:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The prince climbed up the hair to the window.",
+   "tgt": "Le:o prince:n grimpa:v le:o long:o des:o cheveux:n jusqu':o à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "He saw Rapunzel for the first time.",
+   "tgt": "Il:o vit:v Rapunzel:o pour:o la:o première:a fois:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "\"Who are you?\" Rapunzel asked.",
+   "tgt": "«:o Qui:o êtes-vous:v ?:o »:o demanda:v Rapunzel:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "\"I am a prince,\" he said.",
+   "tgt": "«:o Je:o suis:v un:o prince:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "Rapunzel had never seen a prince before.",
+   "tgt": "Rapunzel:o n':o avait:v jamais:o vu:v un:o prince:n auparavant:a .:o"
+  },
+  {
+   "n": 97,
+   "chapter": "A Secret Friendship",
+   "en": "Every day, the prince came to see Rapunzel.",
+   "tgt": "Chaque:o jour:n ,:o le:o prince:n venait:v voir:v Rapunzel:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "They talked at the window every day.",
+   "tgt": "Ils:o parlaient:v à:o la:o fenêtre:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "Rapunzel told the prince about her life in the tower.",
+   "tgt": "Rapunzel:o raconta:v au:o prince:n sa:o vie:n dans:o la:o tour:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The prince told Rapunzel about his kingdom.",
+   "tgt": "Le:o prince:n raconta:v à:o Rapunzel:o son:o royaume:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Rapunzel and the prince loved each other.",
+   "tgt": "Rapunzel:o et:o le:o prince:n s':o aimaient:v .:o"
+  },
+  {
+   "n": 102,
+   "en": "The prince wanted to take Rapunzel away.",
+   "tgt": "Le:o prince:n voulait:v emmener:v Rapunzel:o loin:a .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"You must leave the tower,\" the prince said.",
+   "tgt": "«:o Tu:o dois:v quitter:v la:o tour:n ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"But I could not climb down my own hair,\" Rapunzel said.",
+   "tgt": "«:o Mais:o je:o ne:o pouvais:v pas:o descendre:v le:o long:n de:o mes:o propres:a cheveux:n ,:o »:o dit:v Rapunzel:o .:o"
+  },
+  {
+   "n": 105,
+   "en": "\"Bring silk every time you come,\" she said.",
+   "tgt": "«:o Apportez:v de:o la:o soie:n à:o chaque:o fois:n que:o vous:o venez:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"I will make a ladder from the silk.\"",
+   "tgt": "«:o Je:o vais:v faire:v une:o échelle:n avec:o la:o soie:n .:o »:o"
+  },
+  {
+   "n": 107,
+   "en": "\"Then I will climb down to you.\"",
+   "tgt": "«:o Ensuite:o je:o descendrai:v jusqu':o à:o vous:o .:o »:o"
+  },
+  {
+   "n": 108,
+   "en": "The prince agreed to bring silk every day.",
+   "tgt": "Le:o prince:n accepta:v d':o apporter:v de:o la:o soie:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "Every day, Rapunzel began to make the ladder.",
+   "tgt": "Chaque:o jour:n ,:o Rapunzel:o commença:v à:o fabriquer:v l':o échelle:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "One day, the witch came to the tower.",
+   "tgt": "Un:o jour:n ,:o la:o sorcière:n vint:v à:o la:o tour:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"Rapunzel, Rapunzel, let down your hair,\" she called.",
+   "tgt": "«:o Rapunzel:o ,:o Rapunzel:o ,:o laisse:v descendre:v tes:o cheveux:n ,:o »:o cria:v -elle:o .:o"
+  },
+  {
+   "n": 112,
+   "en": "Rapunzel let down her hair again.",
+   "tgt": "Rapunzel:o laissa:v descendre:v ses:o cheveux:n encore:a une:o fois:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "Rapunzel was quiet and did not look at the witch.",
+   "tgt": "Rapunzel:o était:v silencieuse:a et:o ne:o regarda:v pas:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"You climb slower than the prince does,\" Rapunzel said.",
+   "tgt": "«:o Vous:o montez:v plus:o lentement:a que:o le:o prince:n ,:o »:o dit:v Rapunzel:o .:o"
+  },
+  {
+   "n": 115,
+   "en": "The witch stopped and looked at Rapunzel.",
+   "tgt": "La:o sorcière:n s':o arrêta:v et:o regarda:v Rapunzel:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "\"What prince?\" the witch asked.",
+   "tgt": "«:o Quel:o prince:n ?:o »:o demanda:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "Rapunzel knew she had said too much.",
+   "tgt": "Rapunzel:o savait:v qu':o elle:o avait:v dit:v trop:a .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"Tell me the truth,\" the witch said.",
+   "tgt": "«:o Dis:v -moi:o la:o vérité:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "Rapunzel could not keep the secret.",
+   "tgt": "Rapunzel:o ne:o pouvait:v pas:o garder:v le:o secret:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"A prince comes to see me every day,\" Rapunzel said.",
+   "tgt": "«:o Un:o prince:n vient:v me:o voir:v chaque:o jour:n ,:o »:o dit:v Rapunzel:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "The witch said nothing more that day.",
+   "tgt": "La:o sorcière:n ne:o dit:v rien:o de:o plus:o ce:o jour:n -là:o .:o"
+  },
+  {
+   "n": 122,
+   "en": "The witch came back and held scissors.",
+   "tgt": "La:o sorcière:n revint:v et:o tenait:v des:o ciseaux:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "\"You will not see the prince again,\" said the witch.",
+   "tgt": "«:o Tu:o ne:o verras:v plus:o le:o prince:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "The witch cut Rapunzel's long hair.",
+   "tgt": "La:o sorcière:n coupa:v les:o longs:a cheveux:n de:o Rapunzel:o .:o"
+  },
+  {
+   "n": 125,
+   "en": "Rapunzel's hair fell to the ground.",
+   "tgt": "Les:o cheveux:n de:o Rapunzel:o tombèrent:v par:o terre:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The witch took Rapunzel away from the tower.",
+   "tgt": "La:o sorcière:n emmena:v Rapunzel:o loin:a de:o la:o tour:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "She left Rapunzel in a dry wilderness.",
+   "tgt": "Elle:o laissa:v Rapunzel:o dans:o un:o désert:n aride:a .:o"
+  },
+  {
+   "n": 128,
+   "en": "Rapunzel had no food and no water.",
+   "tgt": "Rapunzel:o n':o avait:v ni:o nourriture:n ni:o eau:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "She cried in the wilderness.",
+   "tgt": "Elle:o pleura:v dans:o le:o désert:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "Rapunzel looked around.",
+   "tgt": "Rapunzel:o regarda:v autour:a d':o elle:o .:o"
+  },
+  {
+   "n": 131,
+   "en": "She did not know what to do.",
+   "tgt": "Elle:o ne:o savait:v pas:o quoi:o faire:v .:o"
+  },
+  {
+   "n": 132,
+   "en": "The witch went back to the tower.",
+   "tgt": "La:o sorcière:n retourna:v à:o la:o tour:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "She tied Rapunzel's cut hair to the hook.",
+   "tgt": "Elle:o attacha:v les:o cheveux:n coupés:a de:o Rapunzel:o au:o crochet:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "The witch waited for the prince to come.",
+   "tgt": "La:o sorcière:n attendit:v que:o le:o prince:n vienne:v .:o"
+  },
+  {
+   "n": 135,
+   "en": "Soon, the prince came to the tower.",
+   "tgt": "Bientôt:a ,:o le:o prince:n vint:v à:o la:o tour:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "\"Rapunzel, Rapunzel, let down your hair,\" he called.",
+   "tgt": "«:o Rapunzel:o ,:o Rapunzel:o ,:o laisse:v descendre:v tes:o cheveux:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 137,
+   "en": "The cut hair fell from the window.",
+   "tgt": "Les:o cheveux:n coupés:a tombèrent:v de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "He did not see Rapunzel, but he saw the witch instead.",
+   "tgt": "Il:o ne:o vit:v pas:o Rapunzel:o ,:o mais:o il:o vit:v la:o sorcière:n à:o la:o place:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "He took a step back.",
+   "tgt": "Il:o recula:v d':o un:o pas:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "No one else was in the tower.",
+   "tgt": "Personne:o d':o autre:a n':o était:v dans:o la:o tour:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "\"Where is Rapunzel?\" the prince asked.",
+   "tgt": "«:o Où:o est:v Rapunzel:o ?:o »:o demanda:v le:o prince:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "\"You will never see her again,\" said the witch.",
+   "tgt": "«:o Vous:o ne:o la:o verrez:v jamais:o plus:o ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The prince heard the witch's words and stopped.",
+   "tgt": "Le:o prince:n entendit:v les:o mots:n de:o la:o sorcière:n et:o s':o arrêta:v .:o"
+  },
+  {
+   "n": 144,
+   "en": "He could not believe Rapunzel was gone.",
+   "tgt": "Il:o ne:o pouvait:v pas:o croire:v que:o Rapunzel:o était:v partie:v .:o"
+  },
+  {
+   "n": 145,
+   "en": "The prince stepped back to the open window.",
+   "tgt": "Le:o prince:n recula:v vers:o la:o fenêtre:n ouverte:a .:o"
+  },
+  {
+   "n": 146,
+   "en": "He did not see thorns below.",
+   "tgt": "Il:o ne:o vit:v pas:o les:o épines:n en:o dessous:a .:o"
+  },
+  {
+   "n": 147,
+   "en": "The prince fell from the high window.",
+   "tgt": "Le:o prince:n tomba:v de:o la:o haute:a fenêtre:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "He fell into the thorns below the tower.",
+   "tgt": "Il:o tomba:v dans:o les:o épines:n sous:o la:o tour:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "The thorns went into his eyes.",
+   "tgt": "Les:o épines:n entrèrent:v dans:o ses:o yeux:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "The prince could not see at all.",
+   "tgt": "Le:o prince:n ne:o pouvait:v pas:o voir:v du:o tout:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "The witch was watching and said nothing.",
+   "tgt": "La:o sorcière:n regardait:v et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "No one came to find the prince that day.",
+   "tgt": "Personne:o ne:o vint:v trouver:v le:o prince:n ce:o jour-là:a .:o"
+  },
+  {
+   "n": 153,
+   "en": "He stayed there and could not stand.",
+   "tgt": "Il:o resta:v là:a et:o ne:o pouvait:v pas:o se:o lever:v .:o"
+  },
+  {
+   "n": 154,
+   "en": "Time passed in the quiet forest around him.",
+   "tgt": "Le:o temps:n passa:v dans:o la:o forêt:n silencieuse:a autour:o de:o lui:o .:o"
+  },
+  {
+   "n": 155,
+   "en": "The prince did not move from the thorns.",
+   "tgt": "Le:o prince:n ne:o bougea:v pas:o des:o épines:n .:o"
+  },
+  {
+   "n": 156,
+   "chapter": "Blind and Alone",
+   "en": "Days passed, and the prince was still blind.",
+   "tgt": "Les:o jours:n passèrent:v ,:o et:o le:o prince:n était:v encore:a aveugle:a .:o"
+  },
+  {
+   "n": 157,
+   "en": "He left the thorns and walked into the forest.",
+   "tgt": "Il:o quitta:v les:o épines:n et:o marcha:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "The prince could not see where he walked.",
+   "tgt": "Le:o prince:n ne:o pouvait:v pas:o voir:v où:o il:o marchait:v .:o"
+  },
+  {
+   "n": 159,
+   "en": "He walked with his hands before him.",
+   "tgt": "Il:o marchait:v avec:o ses:o mains:n devant:o lui:o .:o"
+  },
+  {
+   "n": 160,
+   "en": "Years passed, and the prince wandered on.",
+   "tgt": "Les:o années:n passèrent:v ,:o et:o le:o prince:n continua:v à:o errer:v .:o"
+  },
+  {
+   "n": 161,
+   "en": "He did not know the road home to his kingdom.",
+   "tgt": "Il:o ne:o connaissait:v pas:o le:o chemin:n pour:o rentrer:v dans:o son:o royaume:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "The prince lived on what he could find.",
+   "tgt": "Le:o prince:n vivait:v de:o ce:o qu':o il:o pouvait:v trouver:v .:o"
+  },
+  {
+   "n": 163,
+   "en": "He never forgot Rapunzel.",
+   "tgt": "Il:o n':o oublia:v jamais:o Rapunzel:o .:o"
+  },
+  {
+   "n": 164,
+   "en": "The prince was tired, but he did not stop.",
+   "tgt": "Le:o prince:n était:v fatigué:a ,:o mais:o il:o ne:o s':o arrêtait:v pas:o .:o"
+  },
+  {
+   "n": 165,
+   "en": "He wanted only to find Rapunzel again.",
+   "tgt": "Il:o voulait:v seulement:a retrouver:v Rapunzel:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "The prince wandered into the dry wilderness.",
+   "tgt": "Le:o prince:n erra:v dans:o le:o désert:n aride:a .:o"
+  },
+  {
+   "n": 167,
+   "en": "He heard a voice he knew.",
+   "tgt": "Il:o entendit:v une:o voix:n qu':o il:o connaissait:v .:o"
+  },
+  {
+   "n": 168,
+   "en": "It was Rapunzel's voice.",
+   "tgt": "C':o était:v la:o voix:n de:o Rapunzel:o .:o"
+  },
+  {
+   "n": 169,
+   "en": "The prince walked to the voice.",
+   "tgt": "Le:o prince:n marcha:v vers:o la:o voix:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "Rapunzel saw the prince and knew him at once.",
+   "tgt": "Rapunzel:o vit:v le:o prince:n et:o le:o reconnut:v aussitôt:a .:o"
+  },
+  {
+   "n": 171,
+   "en": "She ran to him and cried.",
+   "tgt": "Elle:o courut:v vers:o lui:o et:o pleura:v .:o"
+  },
+  {
+   "n": 172,
+   "en": "Rapunzel held the prince and did not let go.",
+   "tgt": "Rapunzel:o serra:v le:o prince:n dans:o ses:o bras:n et:o ne:o le:o lâcha:v pas:o .:o"
+  },
+  {
+   "n": 173,
+   "en": "Her tears fell on the prince's eyes.",
+   "tgt": "Ses:o larmes:n tombèrent:v sur:o les:o yeux:n du:o prince:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "His eyes began to heal.",
+   "tgt": "Ses:o yeux:n commencèrent:v à:o guérir:v .:o"
+  },
+  {
+   "n": 175,
+   "en": "The prince could see again.",
+   "tgt": "Le:o prince:n pouvait:v voir:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 176,
+   "en": "He looked at Rapunzel with his own eyes.",
+   "tgt": "Il:o regarda:v Rapunzel:o de:o ses:o propres:a yeux:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "\"You found me,\" Rapunzel said.",
+   "tgt": "«:o Tu:o m':o as:v trouvée:v ,:o »:o dit:v -elle:o Rapunzel:o .:o"
+  },
+  {
+   "n": 178,
+   "en": "\"I will never leave you again,\" the prince said.",
+   "tgt": "«:o Je:o ne:o te:o quitterai:v jamais:o plus:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 179,
+   "en": "Rapunzel and the prince left the wilderness together.",
+   "tgt": "Rapunzel:o et:o le:o prince:n quittèrent:v le:o désert:n ensemble:a .:o"
+  },
+  {
+   "n": 180,
+   "en": "The prince told Rapunzel he loved her.",
+   "tgt": "Le:o prince:n dit:v à:o Rapunzel:o qu':o il:o l':o aimait:v .:o"
+  },
+  {
+   "n": 181,
+   "en": "Rapunzel told him she loved him too.",
+   "tgt": "Rapunzel:o lui:o dit:v qu':o elle:o l':o aimait:v aussi:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "They went to the prince's kingdom.",
+   "tgt": "Ils:o allèrent:v au:o royaume:n du:o prince:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "The people of the kingdom welcomed the prince home.",
+   "tgt": "Les:o gens:n du:o royaume:n accueillirent:v le:o prince:n chez:o lui:o .:o"
+  },
+  {
+   "n": 184,
+   "en": "Soon, the prince married Rapunzel.",
+   "tgt": "Bientôt:a ,:o le:o prince:n épousa:v Rapunzel:o .:o"
+  },
+  {
+   "n": 185,
+   "en": "Rapunzel became a princess.",
+   "tgt": "Rapunzel:o devint:v une:o princesse:n .:o"
+  },
+  {
+   "n": 186,
+   "en": "Rapunzel's hair began to grow long again.",
+   "tgt": "Les:o cheveux:n de:o Rapunzel:o recommencèrent:v à:o pousser:v longs:a .:o"
+  },
+  {
+   "n": 187,
+   "en": "They never forgot the tower or the wilderness.",
+   "tgt": "Ils:o n':o oublièrent:v jamais:o la:o tour:n ni:o le:o désert:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "Rapunzel sang songs in the kingdom every day.",
+   "tgt": "Rapunzel:o chantait:v des:o chansons:n dans:o le:o royaume:n chaque:o jour:n .:o"
+  }
+ ]
+}

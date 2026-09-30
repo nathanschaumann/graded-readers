@@ -1,0 +1,1440 @@
+{
+ "slug": "alice_in_wonderland",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The White Rabbit",
+   "en": "On a hot afternoon, Alice sat with her sister on the river bank.",
+   "tgt": "Par:o un:o chaud:a après-midi:n ,:o Alice:o s':o assit:v avec:o sa:o sœur:n sur:o la:o rive:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Her sister read a book with no pictures in it.",
+   "tgt": "Sa:o sœur:n lisait:v un:o livre:n qui:o n':o avait:v pas:o d':o images:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "A book with no pictures was no good to Alice.",
+   "tgt": "Un:o livre:n sans:o images:n n':o était:v d':o aucune:o utilité:n pour:o Alice:o .:o"
+  },
+  {
+   "n": 4,
+   "en": "The sun was hot, and soon Alice was half asleep in the grass.",
+   "tgt": "Le:o soleil:n était:v chaud:a ,:o et:o bientôt:a Alice:o était:v à:o moitié:a endormie:a dans:o l':o herbe:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "A white rabbit ran past her in the grass.",
+   "tgt": "Un:o lapin:n blanc:a passa:v devant:o elle:o dans:o l':o herbe:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The rabbit took a watch out of its pocket.",
+   "tgt": "Le:o lapin:n sortit:v une:o montre:n de:o sa:o poche:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "It looked at the watch as it ran.",
+   "tgt": "Il:o regarda:v la:o montre:n en:o courant:v .:o"
+  },
+  {
+   "n": 8,
+   "en": "\"I am late!\" said the rabbit.",
+   "tgt": "«:o Je:o suis:v en:o retard:n !:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 9,
+   "en": "Alice got up.",
+   "tgt": "Alice:o se:o leva:v .:o"
+  },
+  {
+   "n": 10,
+   "en": "She had never seen a rabbit with a watch, or heard one talk.",
+   "tgt": "Elle:o n':o avait:v jamais:o vu:v un:o lapin:n avec:o une:o montre:n ,:o ni:o entendu:v un:o parler:v .:o"
+  },
+  {
+   "n": 11,
+   "en": "Alice was curious, and she ran after the rabbit across the field.",
+   "tgt": "Alice:o était:v curieuse:a ,:o et:o elle:o courut:v après:o le:o lapin:n à:o travers:o le:o champ:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The rabbit ran on and on and did not stop.",
+   "tgt": "Le:o lapin:n continua:v à:o courir:v et:o ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "It went down a big hole under the hedge.",
+   "tgt": "Il:o descendit:v dans:o un:o grand:a trou:n sous:o la:o haie:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Alice went down into the dark hole after it.",
+   "tgt": "Alice:o descendit:v dans:o le:o trou:n sombre:a après:o lui:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "She did not stop to think about the way out.",
+   "tgt": "Elle:o ne:o s':o arrêta:v pas:o pour:o penser:v à:o la:o sortie:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "A little way down in the hole, the ground under her was gone.",
+   "tgt": "Un:o peu:a plus:a bas:a dans:o le:o trou:n ,:o le:o sol:n sous:o elle:o avait:v disparu:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "Alice fell.",
+   "tgt": "Alice:o tomba:v .:o"
+  },
+  {
+   "n": 18,
+   "en": "She fell down and down in the dark hole.",
+   "tgt": "Elle:o tomba:v de:o plus:o en:o plus:o bas:a dans:o le:o trou:n sombre:a .:o"
+  },
+  {
+   "n": 19,
+   "en": "Alice fell and fell down the dark hole, but the fall did not hurt her.",
+   "tgt": "Alice:o tomba:v et:o tomba:v dans:o le:o trou:n sombre:a ,:o mais:o la:o chute:n ne:o lui:o fit:v pas:o mal:a .:o"
+  },
+  {
+   "n": 20,
+   "en": "The hole was deep, but it was not all dark.",
+   "tgt": "Le:o trou:n était:v profond:a ,:o mais:o il:o n':o était:v pas:o entièrement:a sombre:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "The sides of the hole were full of little cupboards.",
+   "tgt": "Les:o parois:n du:o trou:n étaient:v pleines:a de:o petits:a placards:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "She fell past the little doors of the cupboards.",
+   "tgt": "Elle:o tomba:v devant:o les:o petites:a portes:n des:o placards:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "As she fell past a cupboard, Alice took a jar from it, but the jar was empty.",
+   "tgt": "Comme:o elle:o tombait:v devant:o un:o placard:n ,:o Alice:o en:o prit:v un:o bocal:n ,:o mais:o le:o bocal:n était:v vide:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "Alice did not drop the empty jar.",
+   "tgt": "Alice:o ne:o laissa:v pas:o tomber:v le:o bocal:n vide:a .:o"
+  },
+  {
+   "n": 25,
+   "en": "She put the jar into the next cupboard as she fell past it.",
+   "tgt": "Elle:o posa:v le:o bocal:n dans:o le:o placard:n suivant:a en:o tombant:v devant:o lui:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "At last the fall ended, and Alice came down soft on dry leaves, and all was still.",
+   "tgt": "Enfin:o la:o chute:n se:o termina:v ,:o et:o Alice:o atterrit:v doucement:a sur:o des:o feuilles:n sèches:a ,:o et:o tout:o était:v calme:a .:o"
+  },
+  {
+   "n": 27,
+   "en": "She was not hurt at all, and she got up fast.",
+   "tgt": "Elle:o n':o était:v pas:o blessée:a du:o tout:o ,:o et:o elle:o se:o leva:v vite:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "The white rabbit was still in front of her, far down a long hall.",
+   "tgt": "Le:o lapin:n blanc:a était:v encore:a devant:o elle:o ,:o loin:a dans:o un:o long:a couloir:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"I am so late!\" said the rabbit.",
+   "tgt": "«:o Je:o suis:v si:a en:o retard:n !:o »:o dit:v le:o lapin:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Alice ran after it, but soon the white rabbit was gone.",
+   "tgt": "Alice:o courut:v après:o lui:o ,:o mais:o bientôt:a le:o lapin:n blanc:a avait:v disparu:v .:o"
+  },
+  {
+   "n": 31,
+   "en": "Alice stood alone in the hall, and lamps hung from its roof.",
+   "tgt": "Alice:o se:o tenait:v seule:a dans:o le:o couloir:n ,:o et:o des:o lampes:n pendaient:v de:o son:o plafond:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "There were doors all around the hall.",
+   "tgt": "Il:o y:o avait:v des:o portes:n tout:o autour:o du:o couloir:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "Alice went to the doors, but the doors did not open.",
+   "tgt": "Alice:o alla:v aux:o portes:n ,:o mais:o les:o portes:n ne:o s':o ouvraient:v pas:o .:o"
+  },
+  {
+   "n": 34,
+   "en": "Every door in the hall was locked.",
+   "tgt": "Chaque:o porte:n de:o la:o salle:n était:v fermée:a à:o clé:n .:o"
+  },
+  {
+   "n": 35,
+   "chapter": "The Little Gold Key",
+   "en": "In the hall stood a little glass table.",
+   "tgt": "Dans:o la:o salle:n se:o trouvait:v une:o petite:a table:n en:o verre:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "On the table was a little gold key.",
+   "tgt": "Sur:o la:o table:n se:o trouvait:v une:o petite:a clé:n en:o or:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "Alice took the key, but it was far too little for the big doors.",
+   "tgt": "Alice:o prit:v la:o clé:n ,:o mais:o elle:o était:v bien:a trop:a petite:a pour:o les:o grandes:a portes:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "At one end of the hall, Alice saw a curtain.",
+   "tgt": "À:o un:o bout:n de:o la:o salle:n ,:o Alice:o vit:v un:o rideau:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "Behind the curtain was a little door.",
+   "tgt": "Derrière:o le:o rideau:n se:o trouvait:v une:o petite:a porte:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "Alice turned the gold key in the little door, and the door opened.",
+   "tgt": "Alice:o tourna:v la:o clé:n en:o or:n dans:o la:o petite:a porte:n ,:o et:o la:o porte:n s':o ouvrit:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "She went down on her knees and looked through it.",
+   "tgt": "Elle:o se:o mit:v à:o genoux:n et:o regarda:v à:o travers:o .:o"
+  },
+  {
+   "n": 42,
+   "en": "Through the little door, Alice saw a beautiful garden.",
+   "tgt": "À:o travers:o la:o petite:a porte:n ,:o Alice:o vit:v un:o beau:a jardin:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "She saw bright flowers and little rivers of water.",
+   "tgt": "Elle:o vit:v des:o fleurs:n brillantes:a et:o de:o petits:a ruisseaux:n d':o eau:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "But the little door was too little for Alice.",
+   "tgt": "Mais:o la:o petite:a porte:n était:v trop:a petite:a pour:o Alice:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "Alice shut the little door, for she could not get through it, and it was locked again.",
+   "tgt": "Alice:o ferma:v la:o petite:a porte:n ,:o car:o elle:o ne:o pouvait:v pas:o passer:v à:o travers:o ,:o et:o elle:o était:v fermée:a à:o clé:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 46,
+   "en": "She stood up and put the key back on the glass table.",
+   "tgt": "Elle:o se:o leva:v et:o remit:v la:o clé:n sur:o la:o table:n en:o verre:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "A little bottle stood on the table now.",
+   "tgt": "Une:o petite:a bouteille:n se:o trouvait:v maintenant:a sur:o la:o table:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "The bottle was not there before.",
+   "tgt": "La:o bouteille:n n':o était:v pas:o là:a avant:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "A little paper hung from the bottle, with the words DRINK ME on it.",
+   "tgt": "Un:o petit:a papier:n pendait:v à:o la:o bouteille:n ,:o avec:o les:o mots:n BOIS:v -MOI:o dessus:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "Alice was curious, and she drank all that was in the bottle.",
+   "tgt": "Alice:o était:v curieuse:a ,:o et:o elle:o but:v tout:o ce:o qui:o était:v dans:o la:o bouteille:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "At once she began to shrink, and she shrank and shrank.",
+   "tgt": "Aussitôt:a elle:o commença:v à:o rétrécir:v ,:o et:o elle:o rétrécit:v et:o rétrécit:v encore:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "Soon Alice was the right size for the little door.",
+   "tgt": "Bientôt:a Alice:o était:v de:o la:o bonne:a taille:n pour:o la:o petite:a porte:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Alice ran back to the little door, but the door was still locked.",
+   "tgt": "Alice:o courut:v vers:o la:o petite:a porte:n ,:o mais:o la:o porte:n était:v encore:a fermée:a à:o clé:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "She had shut it herself, and the key was back on the glass table.",
+   "tgt": "Elle:o l':o avait:v fermée:v elle-même:o ,:o et:o la:o clé:n était:v de:o nouveau:a sur:o la:o table:n en:o verre:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "The little glass table stood high over her head.",
+   "tgt": "La:o petite:a table:n en:o verre:n se:o trouvait:v bien:a au-dessus:o de:o sa:o tête:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "Alice tried to get up the glass leg of the table.",
+   "tgt": "Alice:o essaya:v de:o grimper:v le:o pied:n en:o verre:n de:o la:o table:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Her hands slipped on the glass each time.",
+   "tgt": "Ses:o mains:n glissaient:v sur:o le:o verre:n à:o chaque:o fois:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "Under the table she saw a little glass box with a cake in it.",
+   "tgt": "Sous:o la:o table:n elle:o vit:v une:o petite:a boîte:n en:o verre:n avec:o un:o gâteau:n dedans:a .:o"
+  },
+  {
+   "n": 59,
+   "en": "On the cake were the words EAT ME.",
+   "tgt": "Sur:o le:o gâteau:n se:o trouvaient:v les:o mots:n MANGE:v MOI:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "Alice ate a little of the cake, but at first she did not grow or shrink.",
+   "tgt": "Alice:o mangea:v un:o peu:a du:o gâteau:n ,:o mais:o au:o début:n elle:o ne:o grandit:v pas:o et:o ne:o rétrécit:v pas:o .:o"
+  },
+  {
+   "n": 61,
+   "en": "She ate all of the cake.",
+   "tgt": "Elle:o mangea:v tout:o le:o gâteau:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "At once Alice began to grow, and she grew fast, up and up.",
+   "tgt": "Aussitôt:o Alice:o commença:v à:o grandir:v ,:o et:o elle:o grandit:v vite:a ,:o de:o plus:o en:o plus:o haut:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "Soon her head came up to the roof of the hall.",
+   "tgt": "Bientôt:a sa:o tête:n atteignit:v le:o plafond:n de:o la:o salle:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "Alice was a giant now in the hall of doors.",
+   "tgt": "Alice:o était:v maintenant:a une:o géante:n dans:o la:o salle:n des:o portes:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "She could take the little key from the glass table now.",
+   "tgt": "Elle:o pouvait:v maintenant:a prendre:v la:o petite:a clé:n sur:o la:o table:n de:o verre:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "But she could not put the little key into the little door.",
+   "tgt": "Mais:o elle:o ne:o pouvait:v pas:o mettre:v la:o petite:a clé:n dans:o la:o petite:a porte:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Her hand was far too big for the little door.",
+   "tgt": "Sa:o main:n était:v bien:a trop:a grande:a pour:o la:o petite:a porte:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "Alice got down on the floor and looked through the key hole with one eye.",
+   "tgt": "Alice:o s':o allongea:v sur:o le:o sol:n et:o regarda:v par:o le:o trou:n de:o la:o serrure:n avec:o un:o œil:n .:o"
+  },
+  {
+   "n": 69,
+   "chapter": "The Pool of Tears",
+   "en": "Alice sat down on the floor of the hall and cried and cried.",
+   "tgt": "Alice:o s':o assit:v par:o terre:n dans:o la:o salle:n et:o pleura:v et:o pleura:v .:o"
+  },
+  {
+   "n": 70,
+   "en": "Her tears were big tears, for Alice was a giant still.",
+   "tgt": "Ses:o larmes:n étaient:v de:o grosses:a larmes:n ,:o car:o Alice:o était:v encore:a une:o géante:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "Soon there was a wide pool of tears all around her on the floor.",
+   "tgt": "Bientôt:a il:o y:o eut:v une:o large:a mare:n de:o larmes:n tout:a autour:a d':o elle:o sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The white rabbit came back into the hall.",
+   "tgt": "Le:o lapin:n blanc:a revint:v dans:o la:o salle:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "It had a little fan in one hand.",
+   "tgt": "Il:o avait:v un:o petit:a éventail:n dans:o une:o main:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "The rabbit saw the giant Alice there, and it was afraid.",
+   "tgt": "Le:o lapin:n vit:v la:o géante:a Alice:o là:a ,:o et:o il:o eut:v peur:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "It dropped the little fan and ran from the hall.",
+   "tgt": "Il:o laissa:v tomber:v le:o petit:a éventail:n et:o s':o enfuit:v du:o couloir:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "Alice took the fan up and waved it before her hot face.",
+   "tgt": "Alice:o prit:v l':o éventail:n et:o l':o agita:v devant:o son:o visage:n chaud:a .:o"
+  },
+  {
+   "n": 77,
+   "en": "As she waved the fan, Alice began to shrink down and down.",
+   "tgt": "Tandis:o qu':o elle:o agitait:v l':o éventail:n ,:o Alice:o commença:v à:o rétrécir:v de:o plus:o en:o plus:a .:o"
+  },
+  {
+   "n": 78,
+   "en": "Alice dropped the fan at once, and she shrank no more.",
+   "tgt": "Alice:o laissa:v tomber:v l':o éventail:n aussitôt:a ,:o et:o elle:o ne:o rétrécit:v plus:o .:o"
+  },
+  {
+   "n": 79,
+   "en": "The key was too big for her little hands now, and it fell by the little door.",
+   "tgt": "La:o clé:n était:v trop:a grande:a pour:o ses:o petites:a mains:n maintenant:a ,:o et:o elle:o tomba:v près:o de:o la:o petite:a porte:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "Alice ran for the little door, but her feet slipped on the wet floor, and she fell into the pool.",
+   "tgt": "Alice:o courut:v vers:o la:o petite:a porte:n ,:o mais:o ses:o pieds:n glissèrent:v sur:o le:o sol:n mouillé:a ,:o et:o elle:o tomba:v dans:o le:o bassin:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "The water of the pool went over her head.",
+   "tgt": "L':o eau:n du:o bassin:n lui:o passa:v par-dessus:o la:o tête:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Alice swam and swam, but the pool had grown wide around her.",
+   "tgt": "Alice:o nagea:v et:o nagea:v ,:o mais:o le:o bassin:n s':o était:v élargi:v autour:o d':o elle:o .:o"
+  },
+  {
+   "n": 83,
+   "en": "When her feet found the ground at last, the hall was gone.",
+   "tgt": "Quand:o ses:o pieds:n trouvèrent:v enfin:a le:o sol:n ,:o le:o couloir:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "Alice walked up out of the water and into the grass.",
+   "tgt": "Alice:o sortit:v de:o l':o eau:n et:o marcha:v dans:o l':o herbe:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "She stood at the edge of a wood, small and wet from her hair to her feet.",
+   "tgt": "Elle:o se:o tenait:v au:o bord:n d':o un:o bois:n ,:o petite:a et:o mouillée:a des:o pieds:n à:o la:o tête:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "Alice walked into the wood.",
+   "tgt": "Alice:o entra:v dans:o le:o bois:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "She was so small now that the grass of the wood stood high over her head.",
+   "tgt": "Elle:o était:v si:a petite:a maintenant:a que:o l':o herbe:n du:o bois:n se:o dressait:v haut:a au-dessus:o de:o sa:o tête:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "Soon Alice came to a mushroom that was as high as her head.",
+   "tgt": "Bientôt:a Alice:o arriva:v à:o un:o champignon:n qui:o était:v aussi:a haut:a que:o sa:o tête:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "On top of the mushroom sat a big caterpillar.",
+   "tgt": "Sur:o le:o dessus:n du:o champignon:n était:v assis:a un:o grand:a chenille:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "Alice looked up at it, and the caterpillar looked down at Alice.",
+   "tgt": "Alice:o leva:v les:o yeux:n vers:o lui:o ,:o et:o la:o chenille:n baissa:v les:o yeux:n vers:o Alice:o .:o"
+  },
+  {
+   "n": 91,
+   "en": "It looked at her for a long time and said nothing at all.",
+   "tgt": "Elle:o la:o regarda:v pendant:o longtemps:a et:o ne:o dit:v rien:o du:o tout:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "\"Who are you?\" the caterpillar asked at last.",
+   "tgt": "«:o Qui:o êtes:v -vous:o ?:o »:o demanda:v la:o chenille:n à:o la:o fin:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "\"I do not know now,\" said Alice.",
+   "tgt": "«:o Je:o ne:o sais:v pas:o maintenant:a ,:o »:o dit:v Alice:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "\"Today I was big, and today I was small.\"",
+   "tgt": "«:o Aujourd'hui:o j':o étais:v grande:a ,:o et:o aujourd'hui:o j':o étais:v petite:a .:o »:o"
+  },
+  {
+   "n": 95,
+   "en": "\"What size do you want to be?\" the caterpillar asked.",
+   "tgt": "«:o Quelle:o taille:n veux:v -tu:o être:v ?:o »:o demanda:v la:o chenille:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "\"I want my own right size,\" said Alice.",
+   "tgt": "«:o Je:o veux:v ma:o propre:a taille:n ,:o »:o dit:v Alice:o .:o"
+  },
+  {
+   "n": 97,
+   "en": "As it went down into the grass at last, the caterpillar said, \"One side will make you grow.\"",
+   "tgt": "Quand:o elle:o descendit:v enfin:a dans:o l':o herbe:n ,:o la:o chenille:n dit:v «:o Un:o côté:n te:o fera:v grandir:v .:o »:o"
+  },
+  {
+   "n": 98,
+   "en": "\"The other side will make you shrink.\"",
+   "tgt": "«:o L':o autre:o côté:n te:o fera:v rapetisser:v .:o »:o"
+  },
+  {
+   "n": 99,
+   "en": "\"One side of what?\" Alice asked it.",
+   "tgt": "«:o Un:o côté:n de:o quoi:o ?:o »:o lui:o demanda:v Alice:o .:o"
+  },
+  {
+   "n": 100,
+   "en": "\"Of the mushroom,\" said the caterpillar, and it was gone in the grass.",
+   "tgt": "«:o Du:o champignon:n ,:o »:o dit:v la:o chenille:n ,:o et:o elle:o disparut:v dans:o l':o herbe:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Alice put her arms around the mushroom as far as they would go.",
+   "tgt": "Alice:o passa:v ses:o bras:n autour:o du:o champignon:n aussi:a loin:a qu':o ils:o pouvaient:v aller:v .:o"
+  },
+  {
+   "n": 102,
+   "en": "She took a little piece from each side of it, one piece in each hand.",
+   "tgt": "Elle:o prit:v un:o petit:a morceau:n de:o chaque:o côté:n ,:o un:o morceau:n dans:o chaque:o main:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "But the two sides of the mushroom looked the same.",
+   "tgt": "Mais:o les:o deux:o côtés:n du:o champignon:n semblaient:v pareils:a .:o"
+  },
+  {
+   "n": 104,
+   "chapter": "The Two Pieces",
+   "en": "Alice bit a little from the piece in her right hand.",
+   "tgt": "Alice:o mordit:v un:o peu:a dans:o le:o morceau:n dans:o sa:o main:n droite:a .:o"
+  },
+  {
+   "n": 105,
+   "en": "At once she began to grow, and she grew fast, up and up and up.",
+   "tgt": "Aussitôt:o elle:o commença:v à:o grandir:v ,:o et:o elle:o grandit:v vite:a ,:o de:o plus:o en:o plus:o haut:a .:o"
+  },
+  {
+   "n": 106,
+   "en": "Her head went up above the green tops of the trees.",
+   "tgt": "Sa:o tête:n monta:v au-dessus:o des:o sommets:n verts:a des:o arbres:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "Alice was wet from the pool, but the hot sun soon made her dry.",
+   "tgt": "Alice:o était:v mouillée:a à:o cause:n de:o la:o mare:n ,:o mais:o le:o soleil:n chaud:a la:o sécha:v vite:a .:o"
+  },
+  {
+   "n": 108,
+   "en": "She looked for the white rabbit, but she did not see it.",
+   "tgt": "Elle:o chercha:v le:o lapin:n blanc:a ,:o mais:o elle:o ne:o le:o vit:v pas:o .:o"
+  },
+  {
+   "n": 109,
+   "en": "Far away, over the trees, Alice saw the roof of a little house.",
+   "tgt": "Au:o loin:a ,:o au-dessus:o des:o arbres:n ,:o Alice:o vit:v le:o toit:n d':o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "But she did not want to be a giant in the wood.",
+   "tgt": "Mais:o elle:o ne:o voulait:v pas:o être:v une:o géante:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "Alice bit a little from the piece in the other hand.",
+   "tgt": "Alice:o mordit:v un:o peu:a du:o morceau:n dans:o l':o autre:o main:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "She shrank so fast that the grass was soon high over her head again.",
+   "tgt": "Elle:o rétrécit:v si:a vite:a que:o l':o herbe:n fut:v bientôt:a bien:a au-dessus:o de:o sa:o tête:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "After that, Alice was careful.",
+   "tgt": "Après:o cela:o ,:o Alice:o fut:v prudente:a .:o"
+  },
+  {
+   "n": 114,
+   "en": "She took little bites, first from one piece and after that from the other piece.",
+   "tgt": "Elle:o prit:v de:o petites:a bouchées:n ,:o d':o abord:a d':o un:o morceau:n et:o ensuite:a de:o l':o autre:a morceau:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "One little bite made her grow, and the next little bite made her shrink.",
+   "tgt": "Une:o petite:a bouchée:n la:o fit:v grandir:v ,:o et:o la:o bouchée:n suivante:a la:o fit:v rétrécir:v .:o"
+  },
+  {
+   "n": 116,
+   "en": "At last Alice stood at her own right size in the wood again.",
+   "tgt": "Alice:o se:o retrouva:v enfin:a à:o sa:o propre:a taille:n dans:o le:o bois:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "The grow piece went into her right pocket, the shrink piece into her left.",
+   "tgt": "Le:o morceau:n pour:o grandir:v alla:v dans:o sa:o poche:n droite:a ,:o le:o morceau:n pour:o rétrécir:v dans:o sa:o gauche:a .:o"
+  },
+  {
+   "n": 118,
+   "en": "Alice was curious about the little house far off in the wood.",
+   "tgt": "Alice:o était:v curieuse:a au:o sujet:n de:o la:o petite:a maison:n loin:a dans:o le:o bois:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "She went on through the green trees with a piece in each pocket.",
+   "tgt": "Elle:o continua:v à:o travers:o les:o arbres:n verts:a avec:o un:o morceau:n dans:o chaque:o poche:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "The road went on under the trees.",
+   "tgt": "La:o route:n continuait:v sous:o les:o arbres:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "As Alice walked, a smile appeared in the air over the road.",
+   "tgt": "Tandis:o qu':o Alice:o marchait:v ,:o un:o sourire:n apparut:v dans:o l':o air:n au-dessus:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "It was a wide smile, and there was no cat around it.",
+   "tgt": "C':o était:v un:o large:a sourire:n ,:o et:o il:o n':o y:o avait:v pas:o de:o chat:n autour:o .:o"
+  },
+  {
+   "n": 123,
+   "en": "Around the smile, a cat appeared, a little at a time.",
+   "tgt": "Autour:o du:o sourire:n ,:o un:o chat:n apparut:v ,:o peu:a à:o peu:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "First came the head of the cat, and after that the rest of it.",
+   "tgt": "D':o abord:a vint:v la:o tête:n du:o chat:n ,:o et:o après:o cela:o le:o reste:n de:o lui:o .:o"
+  },
+  {
+   "n": 125,
+   "en": "Soon a big cat sat in the tree over the road, and it smiled down at Alice.",
+   "tgt": "Bientôt:a un:o grand:a chat:n s':o installa:v dans:o l':o arbre:n au-dessus:a de:o la:o route:n ,:o et:o il:o sourit:v à:o Alice:o .:o"
+  },
+  {
+   "n": 126,
+   "en": "\"Which is the right way to go?\" Alice asked the cat.",
+   "tgt": "«:o Quel:o est:v le:o bon:a chemin:n ?:o »:o Alice:o demanda:v au:o chat:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "\"Where do you want to go?\" the cat asked in a soft voice.",
+   "tgt": "«:o Où:o voulez-vous:v aller:v ?:o »:o demanda:v le:o chat:n d':o une:o voix:n douce:a .:o"
+  },
+  {
+   "n": 128,
+   "en": "\"I do not know,\" said Alice.",
+   "tgt": "«:o Je:o ne:o sais:v pas:o ,:o »:o dit:v Alice:o .:o"
+  },
+  {
+   "n": 129,
+   "en": "\"If you do not know, any road will do,\" said the cat.",
+   "tgt": "«:o Si:o vous:o ne:o savez:v pas:o ,:o n':o importe:v quel:o chemin:n fera:v l':o affaire:n ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"That way lives a hatter,\" it said.",
+   "tgt": "«:o Par:o là:a habite:v un:o chapelier:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 131,
+   "en": "\"The other way lives a hare.\"",
+   "tgt": "«:o De:o l':o autre:a côté:n habite:v un:o lièvre:n .:o »:o"
+  },
+  {
+   "n": 132,
+   "en": "\"They are both strange,\" the cat said.",
+   "tgt": "«:o Ils:o sont:v tous:o les:o deux:o étranges:a ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Alice wanted to see the hare, so she took that road.",
+   "tgt": "Alice:o voulait:v voir:v le:o lièvre:n ,:o alors:o elle:o prit:v ce:o chemin:n -là:o .:o"
+  },
+  {
+   "n": 134,
+   "en": "When Alice looked back, the cat faded away, a little at a time.",
+   "tgt": "Quand:o Alice:o regarda:v en:o arrière:a ,:o le:o chat:n disparut:v peu:a à:o peu:a .:o"
+  },
+  {
+   "n": 135,
+   "en": "Its tail went first, and after that the rest of it.",
+   "tgt": "Sa:o queue:n disparut:v en:o premier:a ,:o et:o après:o cela:o le:o reste:n de:o lui:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "At last only the wide smile hung in the air over the road.",
+   "tgt": "À:o la:o fin:n ,:o seul:a le:o large:a sourire:n resta:v suspendu:a dans:o l':o air:n au-dessus:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "The smile hung there alone for a time, and after that it faded away too.",
+   "tgt": "Le:o sourire:n resta:v là:a seul:a pendant:o un:o moment:n ,:o et:o après:o cela:o il:o s':o effaça:v aussi:a .:o"
+  },
+  {
+   "n": 138,
+   "chapter": "The Tea Party That Never Ended",
+   "en": "Soon Alice came to the little house, and before it, under a tree, stood a long table.",
+   "tgt": "Bientôt:a Alice:o arriva:v à:o la:o petite:a maison:n ,:o et:o devant:o elle:o ,:o sous:o un:o arbre:n ,:o se:o trouvait:v une:o longue:a table:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "Cups and cups stood all down the long table.",
+   "tgt": "Des:o tasses:n et:o des:o tasses:n s':o alignaient:v tout:a le:o long:n de:o la:o grande:a table:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "The hatter and the hare sat at one end, and a dormouse sat with them, fast asleep at the table.",
+   "tgt": "Le:o chapelier:n et:o le:o lièvre:n s':o assirent:v à:o un:o bout:n ,:o et:o un:o loir:n s':o assit:v avec:o eux:o ,:o profondément:a endormi:a à:o la:o table:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The hatter and the hare rested their arms on the dormouse and talked over its head.",
+   "tgt": "Le:o chapelier:n et:o le:o lièvre:n posèrent:v leurs:o bras:n sur:o le:o loir:n et:o parlèrent:v par-dessus:o sa:o tête:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "\"No room at the table!\" called the hare when it saw Alice.",
+   "tgt": "«:o Il:o n':o y:o a:v pas:o de:o place:n à:o la:o table:n !:o »:o cria:v le:o lièvre:n quand:o il:o vit:v Alice:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "\"There is room for me,\" said Alice.",
+   "tgt": "«:o Il:o y:o a:v de:o la:o place:n pour:o moi:o ,:o »:o dit:v Alice:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "She sat down in a big chair at the end of the long table.",
+   "tgt": "Elle:o s':o assit:v dans:o un:o grand:a fauteuil:n au:o bout:n de:o la:o longue:a table:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"What do a watch and a tea table both have?\" the hatter asked her.",
+   "tgt": "«:o Qu':o est-ce:o qu':o une:o montre:n et:o une:o table:n à:o thé:n ont:v en:o commun:a ?:o »:o lui:o demanda:v le:o chapelier:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"I do not know,\" said Alice at last.",
+   "tgt": "«:o Je:o ne:o sais:v pas:o ,:o »:o dit:v Alice:o à:o la:o fin:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "\"I do not know it at all,\" said the hatter.",
+   "tgt": "«:o Je:o ne:o le:o sais:v pas:o du:o tout:o ,:o »:o dit:v le:o chapelier:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "The hatter took out a watch and looked at it for a long time.",
+   "tgt": "Le:o chapelier:n sortit:v une:o montre:n et:o la:o regarda:v pendant:o longtemps:a .:o"
+  },
+  {
+   "n": 149,
+   "en": "\"It is six, and it is always six,\" said the hatter.",
+   "tgt": "«:o Il:o est:v six:o heures:n ,:o et:o il:o est:v toujours:a six:o heures:n ,:o »:o dit:v le:o chapelier:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "\"Six is tea time, so it is always tea time at this table.\"",
+   "tgt": "«:o Six:o heures:n ,:o c':o est:v l':o heure:n du:o thé:n ,:o donc:o il:o est:v toujours:a l':o heure:n du:o thé:n à:o cette:o table:n .:o »:o"
+  },
+  {
+   "n": 151,
+   "en": "\"We drink tea all day,\" said the hare.",
+   "tgt": "«:o Nous:o buvons:v du:o thé:n toute:o la:o journée:n ,:o »:o dit:v le:o lièvre:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "When a cup was dirty, they all moved one chair down the table.",
+   "tgt": "Quand:o une:o tasse:n était:v sale:a ,:o ils:o se:o déplaçaient:v tous:o d':o une:o chaise:n vers:o le:o bas:n de:o la:o table:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "Alice got no tea at all at the tea party.",
+   "tgt": "Alice:o n':o eut:v pas:o de:o thé:n du:o tout:o à:o la:o fête:n du:o thé:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "\"This is the strangest tea party I have ever seen,\" said Alice, and she got up.",
+   "tgt": "«:o C':o est:v la:o fête:n du:o thé:n la:o plus:a étrange:a que:o j':o aie:v jamais:o vue:v ,:o »:o dit:v Alice:o ,:o et:o elle:o se:o leva:v .:o"
+  },
+  {
+   "n": 155,
+   "en": "She walked away from the table and did not look back at it.",
+   "tgt": "Elle:o s':o éloigna:v de:o la:o table:n et:o ne:o regarda:v pas:o en:o arrière:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "Behind her, the hatter and the hare only moved down one more chair.",
+   "tgt": "Derrière:o elle:o ,:o le:o chapelier:n et:o le:o lièvre:n ne:o se:o déplacèrent:v que:o d':o une:o chaise:n de:o plus:a .:o"
+  },
+  {
+   "n": 157,
+   "en": "Alice walked on from the tea party into the wood.",
+   "tgt": "Alice:o continua:v depuis:o la:o fête:n du:o thé:n jusqu':o au:o bois:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "One big tree had a little door in its side.",
+   "tgt": "Un:o grand:a arbre:n avait:v une:o petite:a porte:n dans:o son:o flanc:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "She opened the door in the tree and walked in.",
+   "tgt": "Elle:o ouvrit:v la:o porte:n dans:o l':o arbre:n et:o entra:v .:o"
+  },
+  {
+   "n": 160,
+   "en": "In the tree there was no tree at all.",
+   "tgt": "Dans:o l':o arbre:n ,:o il:o n':o y:o avait:v pas:o d':o arbre:n du:o tout:a .:o"
+  },
+  {
+   "n": 161,
+   "en": "Alice was back in the long hall!",
+   "tgt": "Alice:o était:v de:o nouveau:a dans:o le:o long:a couloir:n !:o"
+  },
+  {
+   "n": 162,
+   "en": "The lamps still hung from the roof, and the glass table stood where it had stood before.",
+   "tgt": "Les:o lampes:n pendaient:v encore:a au:o plafond:n ,:o et:o la:o table:n de:o verre:n était:v là:a où:o elle:o avait:v été:v avant:a .:o"
+  },
+  {
+   "n": 163,
+   "en": "The little gold key was still on the floor where it had fallen.",
+   "tgt": "La:o petite:a clé:n en:o or:n était:v encore:a sur:o le:o sol:n là:a où:o elle:o était:v tombée:v .:o"
+  },
+  {
+   "n": 164,
+   "en": "This time, Alice knew what to do.",
+   "tgt": "Cette:o fois:n ,:o Alice:o savait:v quoi:o faire:v .:o"
+  },
+  {
+   "n": 165,
+   "en": "She took the little gold key and went down on her knees at the little door.",
+   "tgt": "Elle:o prit:v la:o petite:a clé:n en:o or:n et:o s':o agenouilla:v devant:o la:o petite:a porte:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "Alice turned the gold key, and the little door opened once more.",
+   "tgt": "Alice:o tourna:v la:o clé:n en:o or:n ,:o et:o la:o petite:a porte:n s':o ouvrit:v encore:a une:o fois:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "Alice held the little door open with one hand.",
+   "tgt": "Alice:o maintint:v la:o petite:a porte:n ouverte:a avec:o une:o main:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "With the other hand, she took the little shrink piece from her left pocket.",
+   "tgt": "De:o l':o autre:a main:n ,:o elle:o prit:v le:o petit:a morceau:n rétrécissant:a de:o sa:o poche:n gauche:a .:o"
+  },
+  {
+   "n": 169,
+   "en": "She bit it once and shrank, with her hand still on the open door.",
+   "tgt": "Elle:o en:o mordit:v une:o fois:n et:o rétrécit:v ,:o avec:o sa:o main:n toujours:a sur:o la:o porte:n ouverte:a .:o"
+  },
+  {
+   "n": 170,
+   "en": "When the little door stood as high as her head, Alice walked through it into the garden.",
+   "tgt": "Quand:o la:o petite:a porte:n fut:v aussi:a haute:a que:o sa:o tête:n ,:o Alice:o marcha:v à:o travers:o elle:o dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "The bright flowers of the garden stood high over her head once more.",
+   "tgt": "Les:o grandes:a fleurs:n du:o jardin:n s':o élevaient:v bien:a au-dessus:o de:o sa:o tête:n une:o fois:n de:o plus:o .:o"
+  },
+  {
+   "n": 172,
+   "en": "Alice took the grow piece from her right pocket and ate a little bite.",
+   "tgt": "Alice:o prit:v le:o morceau:n de:o croissance:n de:o sa:o poche:n droite:a et:o en:o mangea:v une:o petite:a bouchée:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "She grew back to her own right size there in the garden.",
+   "tgt": "Elle:o retrouva:v sa:o propre:a taille:n normale:a là:a dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 174,
+   "chapter": "Painting the Roses Red",
+   "en": "Not far down the garden, Alice came to a tree full of white roses.",
+   "tgt": "Pas:o loin:a dans:o le:o jardin:n ,:o Alice:o arriva:v à:o un:o arbre:n plein:a de:o roses:n blanches:a .:o"
+  },
+  {
+   "n": 175,
+   "en": "Three gardeners stood at the tree, and they painted the white roses red.",
+   "tgt": "Trois:o jardiniers:n se:o tenaient:v près:o de:o l':o arbre:n ,:o et:o ils:o peignaient:v les:o roses:n blanches:a en:o rouge:a .:o"
+  },
+  {
+   "n": 176,
+   "en": "But many of the roses on the tree were still all white.",
+   "tgt": "Mais:o beaucoup:o de:o roses:n sur:o l':o arbre:n étaient:v encore:a toutes:a blanches:a .:o"
+  },
+  {
+   "n": 177,
+   "en": "\"What is all the red for?\" Alice asked the three gardeners at the tree.",
+   "tgt": "«:o Pourquoi:o tout:o ce:o rouge:n ?:o »:o demanda:v Alice:o aux:o trois:o jardiniers:n près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "\"We planted white roses by mistake, and the queen wanted red,\" said one gardener.",
+   "tgt": "«:o Nous:o avons:v planté:v des:o roses:n blanches:a par:o erreur:n ,:o et:o la:o reine:n voulait:v du:o rouge:n ,:o »:o dit:v un:o jardinier:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "\"If the queen sees white roses in her garden, she will have our heads cut off.\"",
+   "tgt": "«:o Si:o la:o reine:n voit:v des:o roses:n blanches:a dans:o son:o jardin:n ,:o elle:o nous:o fera:v couper:v la:o tête:n .:o »:o"
+  },
+  {
+   "n": 180,
+   "en": "Alice heard a horn far away across the garden.",
+   "tgt": "Alice:o entendit:v un:o cor:n loin:a là-bas:a à:o travers:o le:o jardin:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "The gardeners heard it too and went down flat on their faces.",
+   "tgt": "Les:o jardiniers:n l':o entendirent:v aussi:a et:o se:o jetèrent:v à:o plat:a sur:o leurs:o visages:n .:o"
+  },
+  {
+   "n": 182,
+   "en": "Soldiers marched into the garden of red and white roses, two by two.",
+   "tgt": "Des:o soldats:n marchèrent:v dans:o le:o jardin:n de:o roses:n rouges:a et:o blanches:a ,:o deux:o par:o deux:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "Each soldier was a card with two arms and two legs.",
+   "tgt": "Chaque:o soldat:n était:v une:o carte:n avec:o deux:o bras:n et:o deux:o jambes:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "The cards were flat and white, with red hearts on them.",
+   "tgt": "Les:o cartes:n étaient:v plates:a et:o blanches:a ,:o avec:o des:o cœurs:n rouges:a dessus:a .:o"
+  },
+  {
+   "n": 185,
+   "en": "After the card soldiers came the King and Queen of Hearts.",
+   "tgt": "Après:o les:o soldats-cartes:n vinrent:v le:o Roi:o et:o la:o Reine:o de:o Cœur:o .:o"
+  },
+  {
+   "n": 186,
+   "en": "The Queen of Hearts stopped at the tree and looked at the white and red roses.",
+   "tgt": "La:o Reine:o de:o Cœur:o s':o arrêta:v à:o l':o arbre:n et:o regarda:v les:o roses:n blanches:a et:o rouges:a .:o"
+  },
+  {
+   "n": 187,
+   "en": "\"The roses are still white!\" the queen shouted.",
+   "tgt": "«:o Les:o roses:n sont:v encore:a blanches:a !:o »:o cria:v la:o reine:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "\"Off with their heads!\" she shouted at the gardeners.",
+   "tgt": "«:o Qu':o on:o leur:o coupe:v la:o tête:n !:o »:o cria:v -t-elle:o aux:o jardiniers:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "But the queen had turned away to the next tree of roses.",
+   "tgt": "Mais:o la:o reine:n s':o était:v déjà:a détournée:v vers:o l':o arbre:n suivant:a des:o roses:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "The gardeners ran to Alice, and the three flat cards went into a big garden pot by the tree.",
+   "tgt": "Les:o jardiniers:n coururent:v vers:o Alice:o ,:o et:o les:o trois:o cartes:n plates:a allèrent:v dans:o un:o grand:a pot:n de:o jardin:n près:o de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "The soldiers looked for them but could not find them, and soon the queen went on down the garden.",
+   "tgt": "Les:o soldats:n les:o cherchèrent:v mais:o ne:o purent:v pas:o les:o trouver:v ,:o et:o bientôt:a la:o reine:n continua:v plus:o loin:a dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "\"Can you play croquet?\" the queen asked Alice.",
+   "tgt": "«:o Savez-vous:v jouer:v au:o croquet:o ?:o »:o la:o reine:n demanda:v à:o Alice:o .:o"
+  },
+  {
+   "n": 193,
+   "en": "\"I can,\" said Alice, and she walked after the queen to the croquet ground.",
+   "tgt": "«:o Je:o le:o peux:v ,:o »:o dit:v -elle:o ,:o et:o elle:o marcha:v après:o la:o reine:n jusqu':o au:o terrain:n de:o croquet:o .:o"
+  },
+  {
+   "n": 194,
+   "en": "The croquet ground had many players, and the queen and the king played too.",
+   "tgt": "Le:o terrain:n de:o croquet:o avait:v beaucoup:a de:o joueurs:n ,:o et:o la:o reine:n et:o le:o roi:n jouèrent:v aussi:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "Every ball and every hoop in the game could get up and walk.",
+   "tgt": "Chaque:o balle:n et:o chaque:o arceau:n dans:o le:o jeu:n pouvait:v se:o lever:v et:o marcher:v .:o"
+  },
+  {
+   "n": 196,
+   "en": "The balls of the game were hedgehogs, and each hedgehog was a ball.",
+   "tgt": "Les:o balles:n du:o jeu:n étaient:v des:o hérissons:n ,:o et:o chaque:o hérisson:n était:v une:o balle:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "The players hit the balls of the game with flamingos.",
+   "tgt": "Les:o joueurs:n frappaient:v les:o balles:n du:o jeu:n avec:o des:o flamants:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "Alice put the head of her flamingo down to the ground to hit her hedgehog.",
+   "tgt": "Alice:o posa:v la:o tête:n de:o son:o flamant:n vers:o le:o bas:a pour:o frapper:v son:o hérisson:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "But the flamingo turned its long neck up and looked at her.",
+   "tgt": "Mais:o le:o flamant:n tourna:v son:o long:a cou:n vers:o le:o haut:a et:o la:o regarda:v .:o"
+  },
+  {
+   "n": 200,
+   "en": "Alice laughed at it, and the flamingo would not go down any more.",
+   "tgt": "Alice:o rit:v de:o lui:o ,:o et:o le:o flamant:n ne:o voulut:v pas:o descendre:v davantage:a .:o"
+  },
+  {
+   "n": 201,
+   "en": "When its head went down once more, her hedgehog had stood up and walked away.",
+   "tgt": "Quand:o sa:o tête:n descendit:v encore:a une:o fois:n ,:o son:o hérisson:n s':o était:v levé:v et:o avait:v marché:v au:o loin:a .:o"
+  },
+  {
+   "n": 202,
+   "en": "The hoops of the game were card soldiers, down on their hands and feet.",
+   "tgt": "Les:o arceaux:n du:o jeu:n étaient:v des:o soldats:n de:o cartes:n ,:o à:o quatre:o pattes:n .:o"
+  },
+  {
+   "n": 203,
+   "en": "When a ball came to them, the card soldiers stood up and walked away too.",
+   "tgt": "Quand:o une:o balle:n arrivait:v vers:o eux:o ,:o les:o soldats:n de:o cartes:n se:o levaient:v et:o s':o en:o allaient:v aussi:a .:o"
+  },
+  {
+   "n": 204,
+   "en": "All the players played at once, and they took the hedgehogs from each other.",
+   "tgt": "Tous:o les:o joueurs:n jouèrent:v en:o même:o temps:n ,:o et:o ils:o se:o prirent:v les:o hérissons:n les:o uns:o aux:o autres:o .:o"
+  },
+  {
+   "n": 205,
+   "en": "\"Off with his head!\" the queen shouted at one player, and at the next player after him.",
+   "tgt": "«:o Qu':o on:o lui:o coupe:v la:o tête:n !:o »:o cria:v la:o reine:n à:o un:o joueur:n ,:o et:o au:o joueur:n suivant:a après:o lui:o .:o"
+  },
+  {
+   "n": 206,
+   "en": "But no head ever came off in the garden.",
+   "tgt": "Mais:o aucune:o tête:n ne:o tomba:v jamais:o dans:o le:o jardin:n .:o"
+  },
+  {
+   "n": 207,
+   "en": "The king walked behind the queen and said to each player, \"You are safe.\"",
+   "tgt": "Le:o roi:n marcha:v derrière:o la:o reine:n et:o dit:v à:o chaque:o joueur:n ,:o «:o Vous:o êtes:v en:o sécurité:n .:o »:o"
+  },
+  {
+   "n": 208,
+   "en": "The game was over when every hedgehog had walked away from the ground.",
+   "tgt": "Le:o jeu:n était:v terminé:a quand:o chaque:o hérisson:n s':o était:v éloigné:v du:o sol:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "As the players stood still, the white rabbit ran in and held a horn up high.",
+   "tgt": "Pendant:o que:o les:o joueurs:n restaient:v immobiles:a ,:o le:o lapin:n blanc:a entra:v en:o courant:v et:o leva:v un:o cor:n bien:a haut:a .:o"
+  },
+  {
+   "n": 210,
+   "en": "All the cards went out of the garden after the rabbit.",
+   "tgt": "Toutes:o les:o cartes:n sortirent:v du:o jardin:n derrière:o le:o lapin:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "Alice went out of the garden after them.",
+   "tgt": "Alice:o sortit:v du:o jardin:n derrière:o eux:o .:o"
+  },
+  {
+   "n": 212,
+   "chapter": "Who Stole the Tarts?",
+   "en": "The cards all went in two long rows to the court of the King and Queen of Hearts.",
+   "tgt": "Les:o cartes:n allèrent:v toutes:o en:o deux:o longues:a rangées:n vers:o la:o cour:n du:o Roi:o et:o de:o la:o Reine:o de:o Cœur:o .:o"
+  },
+  {
+   "n": 213,
+   "en": "The king and the queen sat on the high seats above everyone in the court.",
+   "tgt": "Le:o roi:n et:o la:o reine:n s':o assirent:v sur:o les:o hauts:a sièges:n au-dessus:o de:o tout:o le:o monde:n dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 214,
+   "en": "The king was the judge, and he had a white wig on his head.",
+   "tgt": "Le:o roi:n était:v le:o juge:n ,:o et:o il:o avait:v une:o perruque:n blanche:a sur:o la:o tête:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "Small animals sat in two rows at one side of the court that day.",
+   "tgt": "De:o petits:a animaux:n étaient:v assis:a en:o deux:o rangées:n d':o un:o côté:n de:o la:o cour:n ce:o jour-là:a .:o"
+  },
+  {
+   "n": 216,
+   "en": "They were the jury, and they wrote down all that they saw and heard.",
+   "tgt": "Ils:o étaient:v le:o jury:n ,:o et:o ils:o notèrent:v tout:o ce:o qu':o ils:o virent:v et:o entendirent:v .:o"
+  },
+  {
+   "n": 217,
+   "en": "In the court, before everyone, stood a little table full of the queen's tarts.",
+   "tgt": "Dans:o la:o cour:n ,:o devant:o tout:o le:o monde:n ,:o se:o trouvait:v une:o petite:a table:n pleine:a des:o tartes:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "The Knave of Hearts stood before the high seats, with a card soldier on each side of him.",
+   "tgt": "Le:o Valet:n de:o Cœur:o se:o tenait:v devant:o les:o sièges:n élevés:a ,:o avec:o un:o soldat:n de:o carte:n de:o chaque:o côté:n de:o lui:o .:o"
+  },
+  {
+   "n": 219,
+   "en": "With a long paper in his hand, the white rabbit called, \"Quiet in the court!\"",
+   "tgt": "Un:o long:a papier:n à:o la:o main:n ,:o le:o lapin:n blanc:a appela:v «:o Silence:n dans:o la:o cour:n !:o »:o"
+  },
+  {
+   "n": 220,
+   "en": "\"The Queen of Hearts made the tarts on a hot day,\" read the rabbit from the paper.",
+   "tgt": "«:o La:o Reine:n de:o Cœur:o a:v fait:v les:o tartes:n par:o une:o journée:n chaude:a ,:o »:o lut:v le:o lapin:n sur:o le:o papier:n .:o"
+  },
+  {
+   "n": 221,
+   "en": "\"The Knave of Hearts stole the tarts and took them all far away from the court.\"",
+   "tgt": "«:o Le:o Valet:n de:o Cœur:o a:v volé:v les:o tartes:n et:o les:o a:v emportées:v très:a loin:a de:o la:o cour:n .:o »:o"
+  },
+  {
+   "n": 222,
+   "en": "\"I did not steal them!\" said the Knave of Hearts to all the court.",
+   "tgt": "«:o Je:o ne:o les:o ai:v pas:o volées:v !:o »:o dit:v le:o Valet:n de:o Cœur:o à:o toute:o la:o cour:n .:o"
+  },
+  {
+   "n": 223,
+   "en": "\"The court will now hear the first witness,\" said the king on his high seat.",
+   "tgt": "«:o La:o cour:n va:v maintenant:a entendre:v le:o premier:a témoin:n ,:o »:o dit:v le:o roi:n sur:o son:o siège:n élevé:a .:o"
+  },
+  {
+   "n": 224,
+   "en": "The first witness of the day was the hatter, with a cup of hot tea in his hand.",
+   "tgt": "Le:o premier:a témoin:n du:o jour:n était:v le:o chapelier:n ,:o avec:o une:o tasse:n de:o thé:n chaud:a à:o la:o main:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "\"I was not done with my tea,\" said the hatter.",
+   "tgt": "«:o Je:o n':o avais:v pas:o fini:v mon:o thé:n ,:o »:o dit:v le:o chapelier:n .:o"
+  },
+  {
+   "n": 226,
+   "en": "\"It is always tea time for me,\" he said to the king.",
+   "tgt": "«:o C':o est:v toujours:a l':o heure:n du:o thé:n pour:o moi:o ,:o »:o dit:v -il:o au:o roi:n .:o"
+  },
+  {
+   "n": 227,
+   "en": "\"What do you know about the tarts?\" the king asked the hatter from his high seat.",
+   "tgt": "Que:o savez:v -vous:o des:o tartes:n ?:o demanda:v le:o roi:n au:o chapelier:n depuis:o son:o siège:n élevé:a .:o"
+  },
+  {
+   "n": 228,
+   "en": "\"Nothing at all,\" said the hatter, and he looked down at his cup of tea.",
+   "tgt": "«:o Rien:o du:o tout:a ,:o »:o dit:v le:o chapelier:n ,:o et:o il:o baissa:v les:o yeux:n sur:o sa:o tasse:n de:o thé:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "The hands of the hatter shook, and his tea ran over the edge of his cup.",
+   "tgt": "Les:o mains:n du:o chapelier:n tremblèrent:v ,:o et:o son:o thé:n déborda:v du:o bord:n de:o sa:o tasse:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "\"You can go,\" said the king, and the hatter ran out of the court and far away.",
+   "tgt": "«:o Vous:o pouvez:v partir:v ,:o »:o dit:v le:o roi:n ,:o et:o le:o chapelier:n courut:v hors:o du:o tribunal:n et:o très:a loin:a .:o"
+  },
+  {
+   "n": 231,
+   "en": "The white rabbit looked at the long paper again, and Alice was next on the paper.",
+   "tgt": "Le:o lapin:n blanc:a regarda:v encore:a le:o long:a papier:n ,:o et:o Alice:o était:v la:o suivante:n sur:o le:o papier:n .:o"
+  },
+  {
+   "n": 232,
+   "chapter": "Alice Is Called",
+   "en": "Alice stood up, and everyone in the court looked at her at once.",
+   "tgt": "Alice:o se:o leva:v ,:o et:o tout:o le:o monde:n dans:o le:o tribunal:n la:o regarda:v en:o même:a temps:n .:o"
+  },
+  {
+   "n": 233,
+   "en": "\"What do you know about the tarts?\" the king asked her before all the court.",
+   "tgt": "«:o Que:o savez:v -vous:o des:o tartes:n ?:o »:o lui:o demanda:v le:o roi:n devant:o tout:o le:o tribunal:n .:o"
+  },
+  {
+   "n": 234,
+   "en": "\"Nothing at all about them,\" said Alice to the king.",
+   "tgt": "«:o Rien:o du:o tout:a à:o leur:o sujet:n ,:o »:o dit:v Alice:o au:o roi:n .:o"
+  },
+  {
+   "n": 235,
+   "en": "\"That is important,\" said the king to the jury.",
+   "tgt": "«:o C':o est:v important:a ,:o »:o dit:v le:o roi:n au:o jury:n .:o"
+  },
+  {
+   "n": 236,
+   "en": "\"The king means it is not important,\" said the white rabbit, and he looked at the king.",
+   "tgt": "«:o Le:o roi:n veut:v dire:v que:o ce:o n':o est:v pas:o important:a ,:o »:o dit:v le:o lapin:n blanc:a ,:o et:o il:o regarda:v le:o roi:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "The small animals of the jury wrote down both of the words.",
+   "tgt": "Les:o petits:a animaux:n du:o jury:n écrivirent:v les:o deux:o mots:n .:o"
+  },
+  {
+   "n": 238,
+   "en": "The white rabbit stood up again with one more paper in his hand.",
+   "tgt": "Le:o lapin:n blanc:a se:o leva:v de:o nouveau:a avec:o un:o autre:a papier:n dans:o sa:o main:n .:o"
+  },
+  {
+   "n": 239,
+   "en": "\"It is a poem about the tarts,\" said the rabbit to the court.",
+   "tgt": "«:o Il:o s':o agit:v d':o un:o poème:n sur:o les:o tartes:n ,:o »:o dit:v le:o lapin:n à:o la:o cour:n .:o"
+  },
+  {
+   "n": 240,
+   "en": "But the Knave of Hearts was not in the poem at all.",
+   "tgt": "Mais:o le:o Valet:o de:o Cœur:o n':o était:v pas:o du:o tout:a dans:o le:o poème:n .:o"
+  },
+  {
+   "n": 241,
+   "en": "\"This poem means nothing at all,\" said Alice to all the court.",
+   "tgt": "«:o Ce:o poème:n ne:o signifie:v rien:o du:o tout:a ,:o »:o dit:v Alice:o à:o toute:o la:o cour:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "\"If it means nothing, we can all go home now,\" said the king.",
+   "tgt": "«:o S':o il:o ne:o signifie:v rien:o ,:o nous:o pouvons:v tous:o rentrer:v chez:o nous:o maintenant:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 243,
+   "en": "\"The jury will now say the verdict,\" said the king, and the small animals of the jury stood up.",
+   "tgt": "«:o Le:o jury:n va:v maintenant:a annoncer:v le:o verdict:n ,:o »:o dit:v le:o roi:n ,:o et:o les:o petits:a animaux:n du:o jury:n se:o levèrent:v .:o"
+  },
+  {
+   "n": 244,
+   "en": "\"No!\" the queen shouted, and the court went quiet all at once.",
+   "tgt": "«:o Non:o !:o »:o cria:v la:o reine:n ,:o et:o la:o cour:n devint:v silencieuse:a tout:o à:o coup:n .:o"
+  },
+  {
+   "n": 245,
+   "en": "\"Punishment first, and the verdict after,\" said the queen to all the court.",
+   "tgt": "«:o La:o punition:n d':o abord:a ,:o et:o le:o verdict:n après:a ,:o »:o dit:v la:o reine:n à:o toute:o la:o cour:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "\"That is not right,\" said Alice, and she stood still.",
+   "tgt": "«:o Ce:o n':o est:v pas:o juste:a ,:o »:o dit:v Alice:o ,:o et:o elle:o resta:v immobile:a .:o"
+  },
+  {
+   "n": 247,
+   "en": "\"The punishment cannot come before the verdict,\" Alice said to the queen and the king.",
+   "tgt": "«:o La:o punition:n ne:o peut:v pas:o venir:v avant:o le:o verdict:n ,:o »:o dit:v Alice:o à:o la:o reine:n et:o au:o roi:n .:o"
+  },
+  {
+   "n": 248,
+   "en": "\"Off with her head!\" the queen shouted at Alice, and the court went quiet again.",
+   "tgt": "«:o Qu':o on:o lui:o coupe:v la:o tête:n !:o »:o cria:v la:o reine:n à:o Alice:o ,:o et:o la:o cour:n devint:v silencieuse:a de:o nouveau:a .:o"
+  },
+  {
+   "n": 249,
+   "en": "Two rows of card soldiers marched at Alice to take hold of her.",
+   "tgt": "Deux:o rangées:n de:o soldats:n de:o cartes:n marchèrent:v vers:o Alice:o pour:o la:o saisir:v .:o"
+  },
+  {
+   "n": 250,
+   "en": "Alice put her hand into her right pocket, and the last piece of the mushroom was still there.",
+   "tgt": "Alice:o mit:v sa:o main:n dans:o sa:o poche:n droite:a ,:o et:o le:o dernier:a morceau:n du:o champignon:n était:v encore:a là:a .:o"
+  },
+  {
+   "n": 251,
+   "en": "Alice ate it all at once, and she began to grow and grow, up and up.",
+   "tgt": "Alice:o mangea:v tout:o cela:o d':o un:o seul:a coup:n ,:o et:o elle:o commença:v à:o grandir:v et:o grandir:v ,:o de:o plus:o en:o plus:o .:o"
+  },
+  {
+   "n": 252,
+   "en": "Alice grew and grew, up and up, before the high seats of the little court.",
+   "tgt": "Alice:o grandit:v et:o grandit:v ,:o de:o plus:o en:o plus:o ,:o devant:o les:o hauts:a sièges:n de:o la:o petite:a cour:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "Her head went up above the high seats and above the court.",
+   "tgt": "Sa:o tête:n monta:v au-dessus:o des:o hauts:a sièges:n et:o au-dessus:o de:o la:o cour:n .:o"
+  },
+  {
+   "n": 254,
+   "en": "The king and the queen looked small under her now, and the court looked small too.",
+   "tgt": "Le:o roi:n et:o la:o reine:n semblaient:v petits:a sous:o elle:o maintenant:a ,:o et:o la:o cour:n semblait:v petite:a aussi:a .:o"
+  },
+  {
+   "n": 255,
+   "en": "The card soldiers stopped where they stood, every one of them.",
+   "tgt": "Les:o soldats:n de:o cartes:n s':o arrêtèrent:v là:a où:o ils:o se:o tenaient:v ,:o chacun:o d':o eux:o .:o"
+  },
+  {
+   "n": 256,
+   "en": "The small animals of the jury ran from their seats and away out of the court.",
+   "tgt": "Les:o petits:a animaux:n du:o jury:n coururent:v de:o leurs:o sièges:n et:o sortirent:v de:o la:o cour:n .:o"
+  },
+  {
+   "n": 257,
+   "en": "The white rabbit dropped his long paper and ran from the court.",
+   "tgt": "Le:o lapin:n blanc:a laissa:v tomber:v son:o long:a papier:n et:o courut:v hors:o de:o la:o cour:n .:o"
+  },
+  {
+   "n": 258,
+   "en": "\"Off with her head!\" the queen shouted up one more time at the giant Alice.",
+   "tgt": "«:o Qu':o on:o lui:o coupe:v la:o tête:n !:o »:o cria:v la:o reine:n une:o fois:n de:o plus:o vers:o la:o géante:n Alice:o .:o"
+  },
+  {
+   "n": 259,
+   "en": "But not one card soldier moved a step.",
+   "tgt": "Mais:o pas:o un:o soldat:n de:o cartes:n ne:o bougea:v d':o un:o pas:n .:o"
+  },
+  {
+   "n": 260,
+   "en": "The queen looked up at the giant Alice and went one step back.",
+   "tgt": "La:o reine:n leva:v les:o yeux:n vers:o la:o géante:n Alice:o et:o recula:v d':o un:o pas:n .:o"
+  },
+  {
+   "n": 261,
+   "en": "\"I am not afraid of you now,\" said Alice from high above them.",
+   "tgt": "«:o Je:o n':o ai:v pas:o peur:n de:o vous:o maintenant:a ,:o »:o dit:v Alice:o de:o très:a haut:a au-dessus:o d':o eux:o .:o"
+  },
+  {
+   "n": 262,
+   "en": "\"You are only a deck of cards, all of you!\"",
+   "tgt": "«:o Vous:o êtes:v seulement:a un:o jeu:n de:o cartes:n ,:o vous:o tous:o !:o »:o"
+  },
+  {
+   "n": 263,
+   "en": "At that, the whole deck of cards flew up into the air at once.",
+   "tgt": "À:o cela:o ,:o tout:o le:o jeu:n de:o cartes:n s':o envola:v dans:o l':o air:n d':o un:o seul:a coup:n .:o"
+  },
+  {
+   "n": 264,
+   "en": "The king, the queen, the knave, and all the card soldiers were up in the air.",
+   "tgt": "Le:o roi:n ,:o la:o reine:n ,:o le:o valet:n ,:o et:o tous:o les:o soldats:n de:o cartes:n étaient:v en:o l':o air:n .:o"
+  },
+  {
+   "n": 265,
+   "en": "The whole court of cards came down at Alice from the air.",
+   "tgt": "Toute:o la:o cour:n de:o cartes:n descendit:v sur:o Alice:o depuis:o l':o air:n .:o"
+  },
+  {
+   "n": 266,
+   "en": "Alice cried out and hit at them as they fell all around her in the air.",
+   "tgt": "Alice:o cria:v et:o les:o frappa:v tandis:o que:o elles:o tombaient:v tout:a autour:o d':o elle:o dans:o l':o air:n .:o"
+  },
+  {
+   "n": 267,
+   "en": "But the cards came down soft and dry on her face, again and again.",
+   "tgt": "Mais:o les:o cartes:n tombèrent:v douces:a et:o sèches:a sur:o son:o visage:n ,:o encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 268,
+   "en": "Alice shut her eyes as the soft cards fell all around her.",
+   "tgt": "Alice:o ferma:v les:o yeux:n tandis:o que:o les:o cartes:n douces:a tombaient:v tout:a autour:o d':o elle:o .:o"
+  },
+  {
+   "n": 269,
+   "chapter": "The River Bank Again",
+   "en": "Alice opened her eyes.",
+   "tgt": "Alice:o ouvrit:v les:o yeux:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "Her head was in her sister's lap, on the grass of the river bank.",
+   "tgt": "Sa:o tête:n était:v sur:o les:o genoux:n de:o sa:o sœur:n ,:o sur:o l':o herbe:n de:o la:o rive:n .:o"
+  },
+  {
+   "n": 271,
+   "en": "Dry leaves fell from the tree, and they fell soft on her face.",
+   "tgt": "Des:o feuilles:n sèches:a tombèrent:v de:o l':o arbre:n ,:o et:o elles:o tombèrent:v douces:a sur:o son:o visage:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "Her sister took the dry leaves from Alice's hair.",
+   "tgt": "Sa:o sœur:n prit:v les:o feuilles:n sèches:a des:o cheveux:n d':o Alice:o .:o"
+  },
+  {
+   "n": 273,
+   "en": "\"Wake up, Alice,\" said her sister in a soft voice.",
+   "tgt": "«:o Réveille:v -toi:o ,:o Alice:o ,:o »:o dit:v -elle:o d':o une:o voix:n douce:a .:o"
+  },
+  {
+   "n": 274,
+   "en": "\"You slept the whole afternoon in the grass.\"",
+   "tgt": "«:o Tu:o as:v dormi:v tout:o l':o après-midi:n dans:o l':o herbe:n .:o »:o"
+  },
+  {
+   "n": 275,
+   "en": "The sky was blue over the river, and the evening sun was warm on the grass.",
+   "tgt": "Le:o ciel:n était:v bleu:a au-dessus:o de:o la:o rivière:n ,:o et:o le:o soleil:n du:o soir:n était:v chaud:a sur:o l':o herbe:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "A bird flew over the river and away over the field.",
+   "tgt": "Un:o oiseau:n vola:v au-dessus:o de:o la:o rivière:n et:o au-loin:o au-dessus:o du:o champ:n .:o"
+  },
+  {
+   "n": 277,
+   "en": "There was no white rabbit and no card in the grass now.",
+   "tgt": "Il:o n':o y:o avait:v pas:o de:o lapin:n blanc:a et:o pas:o de:o carte:n dans:o l':o herbe:n maintenant:a .:o"
+  },
+  {
+   "n": 278,
+   "en": "Alice looked at the blue sky and at the river for a time.",
+   "tgt": "Alice:o regarda:v le:o ciel:n bleu:a et:o la:o rivière:n un:o moment:n .:o"
+  },
+  {
+   "n": 279,
+   "en": "\"I had a strange dream!\" said Alice to her sister.",
+   "tgt": "«:o J':o ai:v fait:v un:o rêve:n étrange:a !:o »:o dit:v Alice:o à:o sa:o sœur:n .:o"
+  },
+  {
+   "n": 280,
+   "en": "She told her sister the whole story of the dream, from the white rabbit to the deck of cards.",
+   "tgt": "Elle:o raconta:v à:o sa:o sœur:n toute:o l':o histoire:n du:o rêve:n ,:o du:o lapin:n blanc:a au:o jeu:n de:o cartes:n .:o"
+  },
+  {
+   "n": 281,
+   "en": "Her sister laughed at the story of the dream and kissed her.",
+   "tgt": "Sa:o sœur:n rit:v de:o l':o histoire:n du:o rêve:n et:o l':o embrassa:v .:o"
+  },
+  {
+   "n": 282,
+   "en": "\"It is late now, and it is time for tea,\" said her sister.",
+   "tgt": "«:o Il:o est:v tard:a maintenant:a ,:o et:o c':o est:v l':o heure:n du:o thé:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 283,
+   "en": "In her dream, Alice got no tea at all, so this time she would drink her tea at home.",
+   "tgt": "Dans:o son:o rêve:n ,:o Alice:o n':o avait:v pas:o eu:v de:o thé:n du:o tout:o ,:o alors:o cette:o fois:n elle:o boirait:v son:o thé:n chez:o elle:o .:o"
+  },
+  {
+   "n": 284,
+   "en": "Alice and her sister got up from the grass and walked home over the field in the last light.",
+   "tgt": "Alice:o et:o sa:o sœur:n se:o levèrent:v de:o l':o herbe:n et:o rentrèrent:v chez:o elles:o à:o travers:o le:o champ:n dans:o la:o dernière:a lumière:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "Alice ran over the grass after her sister, home to tea.",
+   "tgt": "Alice:o courut:v sur:o l':o herbe:n après:o sa:o sœur:n ,:o pour:o rentrer:v prendre:v le:o thé:n .:o"
+  }
+ ]
+}

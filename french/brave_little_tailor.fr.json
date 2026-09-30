@@ -1,0 +1,944 @@
+{
+ "slug": "brave_little_tailor",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Seven at One Blow",
+   "en": "A little tailor sat in his small shop.",
+   "tgt": "Un:o petit:a tailleur:n était:v assis:a dans:o sa:o petite:a boutique:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He sewed at his table.",
+   "tgt": "Il:o cousait:v à:o sa:o table:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "One morning, he spread jam on fresh bread.",
+   "tgt": "Un:o matin:n ,:o il:o étala:v de:o la:o confiture:n sur:o du:o pain:n frais:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "Flies smelled the jam.",
+   "tgt": "Des:o mouches:n sentirent:v la:o confiture:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Seven flies flew to his bread.",
+   "tgt": "Sept:o mouches:n volèrent:v vers:o son:o pain:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The tailor grabbed a big cloth from the corner.",
+   "tgt": "Le:o tailleur:n attrapa:v un:o grand:a tissu:n dans:o le:o coin:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "He hit the flies hard.",
+   "tgt": "Il:o frappa:v les:o mouches:n fort:a .:o"
+  },
+  {
+   "n": 8,
+   "en": "Seven flies fell down dead.",
+   "tgt": "Sept:o mouches:n tombèrent:v mortes:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "The tailor saw seven dead flies on the table.",
+   "tgt": "Le:o tailleur:n vit:v sept:o mouches:n mortes:a sur:o la:o table:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Seven at one blow!\" said the tailor.",
+   "tgt": "«:o Sept:o d':o un:o seul:a coup:n !:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 11,
+   "en": "He smiled at what he had done.",
+   "tgt": "Il:o sourit:v de:o ce:o qu':o il:o avait:v fait:v .:o"
+  },
+  {
+   "n": 12,
+   "en": "No one else saw it.",
+   "tgt": "Personne:o d':o autre:a ne:o le:o vit:v .:o"
+  },
+  {
+   "n": 13,
+   "en": "The tailor wanted the world to know.",
+   "tgt": "Le:o tailleur:n voulait:v que:o le:o monde:n sache:v .:o"
+  },
+  {
+   "n": 14,
+   "chapter": "A New Belt",
+   "en": "The tailor sewed a belt from cloth.",
+   "tgt": "Le:o tailleur:n cousit:v une:o ceinture:n dans:o du:o tissu:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He sewed words on the belt.",
+   "tgt": "Il:o cousit:v des:o mots:n sur:o la:o ceinture:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The words said, \"Seven at one blow.\"",
+   "tgt": "Les:o mots:n disaient:v ::o «:o Sept:o d':o un:o seul:a coup:n .:o »:o"
+  },
+  {
+   "n": 17,
+   "en": "The little tailor put on his belt.",
+   "tgt": "Le:o petit:a tailleur:n mit:v sa:o ceinture:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "He walked out into the street.",
+   "tgt": "Il:o sortit:v dans:o la:o rue:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "People in the street read the words on his belt.",
+   "tgt": "Les:o gens:n dans:o la:o rue:n lurent:v les:o mots:n sur:o sa:o ceinture:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "People believed the tailor had killed seven men.",
+   "tgt": "Les:o gens:n crurent:v que:o le:o tailleur:n avait:v tué:v sept:o hommes:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "No one knew the seven were only flies.",
+   "tgt": "Personne:o ne:o savait:v que:o les:o sept:o n':o étaient:v que:o des:o mouches:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "He wanted to see the big world.",
+   "tgt": "Il:o voulait:v voir:v le:o grand:a monde:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"I will see the world,\" the tailor said.",
+   "tgt": "«:o Je:o verrai:v le:o monde:n »:o ,:o dit:v -il:o le:o tailleur:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "He took bread and cheese for the road.",
+   "tgt": "Il:o prit:v du:o pain:n et:o du:o fromage:n pour:o la:o route:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "A bird came to him.",
+   "tgt": "Un:o oiseau:n vint:v à:o lui:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "He grabbed the bird and put it in his coat.",
+   "tgt": "Il:o saisit:v l':o oiseau:n et:o le:o mit:v dans:o son:o manteau:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The tailor walked out to see the world.",
+   "tgt": "Le:o tailleur:n sortit:v pour:o voir:v le:o monde:n .:o"
+  },
+  {
+   "n": 28,
+   "chapter": "The Giant in the Forest",
+   "en": "The tailor walked into a big forest.",
+   "tgt": "Le:o tailleur:n entra:v dans:o une:o grande:a forêt:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "A giant sat by the road.",
+   "tgt": "Un:o géant:n était:v assis:a au:o bord:n de:o la:o route:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The giant looked down at the little tailor.",
+   "tgt": "Le:o géant:n regarda:v en:o bas:a le:o petit:a tailleur:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Who are you?\" the giant asked.",
+   "tgt": "«:o Qui:o êtes:v -vous:o ?:o »:o demanda:v le:o géant:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The tailor showed the giant his belt.",
+   "tgt": "Le:o tailleur:n montra:v au:o géant:n sa:o ceinture:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The giant read the words on the belt.",
+   "tgt": "Le:o géant:n lut:v les:o mots:n sur:o la:o ceinture:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The giant believed the tailor had killed seven men.",
+   "tgt": "Le:o géant:n crut:v que:o le:o tailleur:n avait:v tué:v sept:o hommes:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Show me you are strong,\" the giant said.",
+   "tgt": "«:o Montre:v -moi:o que:o tu:o es:v fort:a ,:o »:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The giant picked up a stone and squeezed it hard.",
+   "tgt": "Le:o géant:n ramassa:v une:o pierre:n et:o la:o serra:v fort:a .:o"
+  },
+  {
+   "n": 37,
+   "en": "Water dripped from the stone.",
+   "tgt": "De:o l':o eau:n gouttait:v de:o la:o pierre:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"You try,\" the giant said.",
+   "tgt": "«:o Essayez:v »:o ,:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The tailor took a cheese from his coat.",
+   "tgt": "Le:o tailleur:n prit:v un:o fromage:n de:o son:o manteau:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "He squeezed the cheese hard.",
+   "tgt": "Il:o serra:v le:o fromage:n fort:a .:o"
+  },
+  {
+   "n": 41,
+   "en": "Water ran from the cheese to the ground.",
+   "tgt": "De:o l':o eau:n coula:v du:o fromage:n jusqu':o au:o sol:n .:o"
+  },
+  {
+   "n": 42,
+   "chapter": "The Bird That Never Came Down",
+   "en": "The giant picked up a big stone.",
+   "tgt": "Le:o géant:n ramassa:v une:o grande:a pierre:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "He threw the stone into the trees.",
+   "tgt": "Il:o lança:v la:o pierre:n dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The stone flew and fell to the ground.",
+   "tgt": "La:o pierre:n vola:v et:o tomba:v au:o sol:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"Try again,\" the giant said.",
+   "tgt": "«:o Essayez:v encore:a »:o ,:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The tailor took a small bird from his coat.",
+   "tgt": "Le:o tailleur:n prit:v un:o petit:a oiseau:n de:o son:o manteau:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "He threw the bird up.",
+   "tgt": "Il:o lança:v l':o oiseau:n en:o l':o air:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "The bird flew away and did not come down.",
+   "tgt": "L':o oiseau:n s':o envola:v et:o ne:o revint:v pas:o .:o"
+  },
+  {
+   "n": 49,
+   "en": "The giant looked up at the empty trees.",
+   "tgt": "Le:o géant:n leva:v les:o yeux:n vers:o les:o arbres:n vides:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "He moved back from the little tailor.",
+   "tgt": "Il:o recula:v loin:a du:o petit:a tailleur:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The giant believed the tailor had killed seven men.",
+   "tgt": "Le:o géant:n croyait:v que:o le:o tailleur:n avait:v tué:v sept:o hommes:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "He had another plan for the tailor.",
+   "tgt": "Il:o avait:v un:o autre:a plan:n pour:o le:o tailleur:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "\"Come to my cave for the night,\" the giant said.",
+   "tgt": "«:o Viens:v dans:o ma:o grotte:n pour:o la:o nuit:n ,:o »:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"I will come,\" said the tailor.",
+   "tgt": "«:o Je:o viendrai:v ,:o »:o dit:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 55,
+   "chapter": "A Night Among Giants",
+   "en": "The giant took the tailor into the cave.",
+   "tgt": "Le:o géant:n emmena:v le:o tailleur:n dans:o la:o grotte:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "Other giants sat by a fire.",
+   "tgt": "D':o autres:a géants:n étaient:v assis:a près:o d':o un:o feu:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "The giants gave the tailor a bed.",
+   "tgt": "Les:o géants:n donnèrent:v au:o tailleur:n un:o lit:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "But the bed was too big for the little tailor.",
+   "tgt": "Mais:o le:o lit:n était:v trop:a grand:a pour:o le:o petit:a tailleur:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "He did not lie in the middle of the bed.",
+   "tgt": "Il:o ne:o se:o coucha:v pas:o au:o milieu:n du:o lit:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "He slept in a corner.",
+   "tgt": "Il:o dormit:v dans:o un:o coin:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "At night, a giant came to the bed.",
+   "tgt": "La:o nuit:n ,:o un:o géant:n vint:v au:o lit:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "He wanted to kill the tailor.",
+   "tgt": "Il:o voulait:v tuer:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The giant held a big bar.",
+   "tgt": "Le:o géant:n tenait:v une:o grande:a barre:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "He hit the middle of the bed hard.",
+   "tgt": "Il:o frappa:v fort:a le:o milieu:n du:o lit:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "But the bed was empty.",
+   "tgt": "Mais:o le:o lit:n était:v vide:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "In the morning, the tailor walked out of the cave.",
+   "tgt": "Le:o matin:n ,:o le:o tailleur:n sortit:v de:o la:o grotte:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "The other giants saw him alive.",
+   "tgt": "Les:o autres:a géants:n le:o virent:v vivant:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "The giants believed no one could kill the tailor.",
+   "tgt": "Les:o géants:n croyaient:v que:o personne:o ne:o pouvait:v tuer:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "They ran away into the forest.",
+   "tgt": "Ils:o s':o enfuirent:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 70,
+   "chapter": "The King's New Soldier",
+   "en": "The little tailor walked to a big city.",
+   "tgt": "Le:o petit:a tailleur:n marcha:v vers:o une:o grande:a ville:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "The king lived in the city.",
+   "tgt": "Le:o roi:n vivait:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "People told the king about the tailor.",
+   "tgt": "Les:o gens:n parlèrent:v au:o roi:n du:o tailleur:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "They told him about the belt.",
+   "tgt": "Ils:o lui:o parlèrent:v de:o la:o ceinture:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "The belt said, \"Seven at one blow.\"",
+   "tgt": "La:o ceinture:n disait:v «:o Sept:o d':o un:o seul:a coup:n »:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "The king believed the tailor had killed seven men.",
+   "tgt": "Le:o roi:n croyait:v que:o le:o tailleur:n avait:v tué:v sept:o hommes:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"I want this tailor in my army,\" said the king.",
+   "tgt": "«:o Je:o veux:v ce:o tailleur:n dans:o mon:o armée:n »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "The king sent for the tailor.",
+   "tgt": "Le:o roi:n envoya:v chercher:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "The tailor came to the king's castle.",
+   "tgt": "Le:o tailleur:n vint:v au:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "He showed the king his belt.",
+   "tgt": "Il:o montra:v au:o roi:n sa:o ceinture:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "\"You may join my army,\" the king said.",
+   "tgt": "«:o Vous:o pouvez:v rejoindre:v mon:o armée:n »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "Strong soldiers saw the tailor at the castle.",
+   "tgt": "De:o forts:a soldats:n virent:v le:o tailleur:n au:o château:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "They read his belt and were afraid.",
+   "tgt": "Ils:o lurent:v sa:o ceinture:n et:o eurent:v peur:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "The soldiers did not want to fight him.",
+   "tgt": "Les:o soldats:n ne:o voulaient:v pas:o se:o battre:v contre:o lui:o .:o"
+  },
+  {
+   "n": 84,
+   "chapter": "A Plan to Get Rid of Him",
+   "en": "The soldiers went to the king.",
+   "tgt": "Les:o soldats:n allèrent:v voir:v le:o roi:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "\"This tailor is too dangerous,\" they said.",
+   "tgt": "«:o Ce:o tailleur:n est:v trop:a dangereux:a »:o ,:o dirent:v -ils:o .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"He may kill one if he is angry,\" a soldier said.",
+   "tgt": "«:o Il:o peut:v tuer:v quelqu':o un:o s':o il:o est:v en:o colère:n »:o ,:o dit:v un:o soldat:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "The king still needed his army, but not an angry tailor.",
+   "tgt": "Le:o roi:n avait:v encore:a besoin:n de:o son:o armée:n ,:o mais:o pas:o d':o un:o tailleur:n en:o colère:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "The king thought and asked his men what to do.",
+   "tgt": "Le:o roi:n réfléchit:v et:o demanda:v à:o ses:o hommes:n quoi:o faire:v .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Give him a very hard task,\" one man said.",
+   "tgt": "«:o Donnez:v -lui:o une:o tâche:n très:a difficile:a »:o ,:o dit:v un:o homme:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "\"Two giants live in a dark forest,\" the man said.",
+   "tgt": "«:o Deux:o géants:n vivent:v dans:o une:o forêt:n sombre:a »:o ,:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "\"They kill people in the kingdom,\" he said.",
+   "tgt": "«:o Ils:o tuent:v des:o gens:n dans:o le:o royaume:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "\"Send the tailor to kill the two giants,\" the man said.",
+   "tgt": "«:o Envoyez:v le:o tailleur:n tuer:v les:o deux:o géants:n »:o ,:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The king wanted this plan.",
+   "tgt": "Le:o roi:n voulait:v ce:o plan:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "The king sent for the tailor again.",
+   "tgt": "Le:o roi:n fit:v appeler:v le:o tailleur:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 95,
+   "en": "\"Kill the two giants in the dark forest,\" the king said.",
+   "tgt": "«:o Tuez:v les:o deux:o géants:n dans:o la:o forêt:n sombre:a »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "\"If you do this, you may marry my daughter,\" the king said.",
+   "tgt": "«:o Si:o vous:o faites:v cela:o ,:o vous:o pouvez:v épouser:v ma:o fille:n »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"You will have half my kingdom,\" the king said.",
+   "tgt": "«:o Tu:o auras:v la:o moitié:n de:o mon:o royaume:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 98,
+   "chapter": "The Two Giants",
+   "en": "The tailor walked to the dark forest.",
+   "tgt": "Le:o tailleur:n marcha:v jusqu':o à:o la:o forêt:n sombre:a .:o"
+  },
+  {
+   "n": 99,
+   "en": "He saw two giants by a big tree.",
+   "tgt": "Il:o vit:v deux:o géants:n près:o d':o un:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The two giants were still asleep.",
+   "tgt": "Les:o deux:o géants:n dormaient:v encore:a .:o"
+  },
+  {
+   "n": 101,
+   "en": "The tailor climbed the big tree.",
+   "tgt": "Le:o tailleur:n grimpa:v dans:o le:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "He sat on a branch.",
+   "tgt": "Il:o s':o assit:v sur:o une:o branche:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The tailor had stones with him.",
+   "tgt": "Le:o tailleur:n avait:v des:o pierres:n avec:o lui:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "He wanted to trick the two giants.",
+   "tgt": "Il:o voulait:v tromper:v les:o deux:o géants:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "If the giants fought, they could kill each other.",
+   "tgt": "Si:o les:o géants:n se:o battaient:v ,:o ils:o pourraient:v se:o tuer:v l':o un:o l':o autre:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "The tailor picked up a stone.",
+   "tgt": "Le:o tailleur:n ramassa:v une:o pierre:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "He threw the stone at the first giant.",
+   "tgt": "Il:o lança:v la:o pierre:n sur:o le:o premier:a géant:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The stone hit the first giant hard.",
+   "tgt": "La:o pierre:n frappa:v le:o premier:a géant:n avec:o force:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "The first giant was angry.",
+   "tgt": "Le:o premier:a géant:n était:v en:o colère:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"You hit me!\" the first giant said.",
+   "tgt": "«:o Tu:o m':o as:v frappé:v !:o »:o dit:v le:o premier:a géant:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"I did not hit you,\" the second giant said.",
+   "tgt": "«:o Je:o ne:o t':o ai:v pas:o frappé:v ,:o »:o dit:v le:o deuxième:a géant:n .:o"
+  },
+  {
+   "n": 112,
+   "chapter": "The Giants Fight",
+   "en": "It was morning now.",
+   "tgt": "C':o était:v le:o matin:n maintenant:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "\"You hit me,\" the first giant said again.",
+   "tgt": "«:o Tu:o m':o as:v frappé:v ,:o »:o dit:v encore:a le:o premier:a géant:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "The tailor dropped another stone from the tree.",
+   "tgt": "Le:o tailleur:n laissa:v tomber:v une:o autre:a pierre:n de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "The stone hit the second giant.",
+   "tgt": "La:o pierre:n frappa:v le:o deuxième:a géant:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "The second giant was very angry now.",
+   "tgt": "Le:o deuxième:a géant:n était:v très:a en:o colère:n maintenant:a .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"You started this fight!\" the second giant said to the first.",
+   "tgt": "«:o Tu:o as:v commencé:v cette:o bagarre:n !:o »:o dit:v le:o deuxième:a géant:n au:o premier:o .:o"
+  },
+  {
+   "n": 118,
+   "en": "The two giants started to fight and hit each other hard.",
+   "tgt": "Les:o deux:o géants:n commencèrent:v à:o se:o battre:v et:o à:o se:o frapper:v fort:a .:o"
+  },
+  {
+   "n": 119,
+   "en": "They fought until they fell down dead.",
+   "tgt": "Ils:o se:o battirent:v jusqu':o à:o ce:o qu':o ils:o tombèrent:v morts:a .:o"
+  },
+  {
+   "n": 120,
+   "en": "No more giants lived in the forest.",
+   "tgt": "Plus:o aucun:o géant:n ne:o vivait:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "The tailor climbed down from the tree.",
+   "tgt": "Le:o tailleur:n descendit:v de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "He walked back to the king's castle.",
+   "tgt": "Il:o retourna:v au:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "\"How did you kill the giants?\" the king asked.",
+   "tgt": "«:o Comment:o avez:v -vous:o tué:v les:o géants:n ?:o »:o demanda:v le:o roi:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"They killed each other,\" the tailor said.",
+   "tgt": "«:o Ils:o se:o sont:v tués:v l':o un:o l':o autre:a ,:o »:o dit:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "The king was very surprised.",
+   "tgt": "Le:o roi:n fut:v très:a surpris:a .:o"
+  },
+  {
+   "n": 126,
+   "en": "The king wanted one more task done first.",
+   "tgt": "Le:o roi:n voulait:v d':o abord:a une:o tâche:n de:o plus:a accomplie:a .:o"
+  },
+  {
+   "n": 127,
+   "chapter": "The Unicorn in the Forest",
+   "en": "\"Catch a unicorn in the forest,\" the king said.",
+   "tgt": "«:o Attrapez:v un:o licorne:n dans:o la:o forêt:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "The tailor went to the forest again.",
+   "tgt": "Le:o tailleur:n alla:v de:o nouveau:a dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "He saw a unicorn.",
+   "tgt": "Il:o vit:v une:o licorne:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "It had one long horn and white fur.",
+   "tgt": "Elle:o avait:v une:o longue:a corne:n et:o une:o fourrure:n blanche:a .:o"
+  },
+  {
+   "n": 131,
+   "en": "The unicorn put its head down to charge.",
+   "tgt": "La:o licorne:n baissa:v la:o tête:n pour:o charger:v .:o"
+  },
+  {
+   "n": 132,
+   "en": "The unicorn ran at the tailor fast.",
+   "tgt": "La:o licorne:n courut:v vite:a vers:o le:o tailleur:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "The tailor jumped behind a big tree.",
+   "tgt": "Le:o tailleur:n sauta:v derrière:o un:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "Its horn went into the tree.",
+   "tgt": "Sa:o corne:n entra:v dans:o l':o arbre:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "The horn was stuck in the tree trunk.",
+   "tgt": "La:o corne:n était:v coincée:a dans:o le:o tronc:n de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "It was trapped and could not pull the horn out.",
+   "tgt": "Il:o était:v piégé:a et:o ne:o pouvait:v pas:o tirer:v la:o corne:n dehors:a .:o"
+  },
+  {
+   "n": 137,
+   "en": "The tailor came out from behind the tree.",
+   "tgt": "Le:o tailleur:n sortit:v de:o derrière:o l':o arbre:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "He tied a rope around its neck.",
+   "tgt": "Il:o attacha:v une:o corde:n autour:o de:o son:o cou:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "The tailor led it to the castle.",
+   "tgt": "Le:o tailleur:n le:o conduisit:v au:o château:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "\"This is the unicorn,\" the tailor said to the king.",
+   "tgt": "«:o Voici:v la:o licorne:n ,:o »:o dit:v le:o tailleur:n au:o roi:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The king had never seen a unicorn.",
+   "tgt": "Le:o roi:n n':o avait:v jamais:o vu:v de:o licorne:n .:o"
+  },
+  {
+   "n": 142,
+   "chapter": "The Wild Boar",
+   "en": "\"Catch a wild boar in the forest,\" the king said.",
+   "tgt": "«:o Attrapez:v un:o sanglier:n sauvage:a dans:o la:o forêt:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The little tailor went into the forest.",
+   "tgt": "Le:o petit:a tailleur:n entra:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "Soon he saw a small chapel with benches.",
+   "tgt": "Bientôt:a il:o vit:v une:o petite:a chapelle:n avec:o des:o bancs:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "It had one small window.",
+   "tgt": "Elle:o avait:v une:o petite:a fenêtre:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "The wild boar ran out of the trees with two tusks.",
+   "tgt": "Le:o sanglier:n sortit:v des:o arbres:n avec:o ses:o deux:o défenses:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "It charged at the tailor fast.",
+   "tgt": "Il:o chargea:v le:o tailleur:n rapidement:a .:o"
+  },
+  {
+   "n": 148,
+   "en": "He ran into the chapel, and the boar ran in too.",
+   "tgt": "Il:o courut:v dans:o la:o chapelle:n ,:o et:o le:o sanglier:n y:o courut:v aussi:a .:o"
+  },
+  {
+   "n": 149,
+   "en": "The tailor jumped over a bench and out of the window.",
+   "tgt": "Le:o tailleur:n sauta:v par-dessus:o un:o banc:n et:o sortit:v par:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "He ran around the chapel fast and shut the door.",
+   "tgt": "Il:o courut:v autour:o de:o la:o chapelle:n rapidement:a et:o ferma:v la:o porte:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "The wild boar was now shut inside.",
+   "tgt": "Le:o sanglier:n était:v maintenant:a enfermé:a à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "The chapel bell rang.",
+   "tgt": "La:o cloche:n de:o la:o chapelle:n sonna:v .:o"
+  },
+  {
+   "n": 153,
+   "en": "The tailor walked back to the big castle.",
+   "tgt": "Le:o tailleur:n retourna:v au:o grand:a château:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "\"The boar is in the chapel,\" the tailor told the king.",
+   "tgt": "«:o Le:o sanglier:n est:v dans:o la:o chapelle:n »:o ,:o dit:v le:o tailleur:n au:o roi:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "The king was surprised again.",
+   "tgt": "Le:o roi:n fut:v de:o nouveau:a surpris:a .:o"
+  },
+  {
+   "n": 156,
+   "chapter": "Half the Kingdom",
+   "en": "The tailor did the third task.",
+   "tgt": "Le:o tailleur:n accomplit:v la:o troisième:a tâche:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "The king had no more tasks to give.",
+   "tgt": "Le:o roi:n n':o avait:v plus:o de:o tâches:n à:o donner:v .:o"
+  },
+  {
+   "n": 158,
+   "en": "The king had given his word.",
+   "tgt": "Le:o roi:n avait:v donné:v sa:o parole:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "\"You may marry my daughter now,\" the king said.",
+   "tgt": "«:o Vous:o pouvez:v épouser:v ma:o fille:n maintenant:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "Soon the tailor married the king's daughter.",
+   "tgt": "Bientôt:a le:o tailleur:n épousa:v la:o fille:n du:o roi:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "All the people in the kingdom came to the wedding.",
+   "tgt": "Toutes:o les:o personnes:n du:o royaume:n vinrent:v au:o mariage:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "Bells rang in the kingdom.",
+   "tgt": "Des:o cloches:n sonnèrent:v dans:o le:o royaume:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "The king gave the tailor half the kingdom.",
+   "tgt": "Le:o roi:n donna:v au:o tailleur:n la:o moitié:n du:o royaume:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "The tailor now had half the kingdom.",
+   "tgt": "Le:o tailleur:n avait:v maintenant:a la:o moitié:n du:o royaume:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "The tailor was now very rich.",
+   "tgt": "Le:o tailleur:n était:v maintenant:a très:a riche:a .:o"
+  },
+  {
+   "n": 166,
+   "en": "He never sewed again.",
+   "tgt": "Il:o ne:o recousit:v jamais:o plus:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "The tailor was still strong and lived in the big castle.",
+   "tgt": "Le:o tailleur:n était:v encore:a fort:a et:o vivait:v dans:o le:o grand:a château:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "People still said he was the little tailor with the belt.",
+   "tgt": "Les:o gens:n disaient:v encore:a qu':o il:o était:v le:o petit:a tailleur:n avec:o la:o ceinture:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "No one forgot \"Seven at one blow.\"",
+   "tgt": "Personne:o n':o oublia:v «:o Sept:o d':o un:o seul:a coup:n »:o .:o"
+  },
+  {
+   "n": 170,
+   "en": "The tailor and the king's daughter danced all night.",
+   "tgt": "Le:o tailleur:n et:o la:o fille:n du:o roi:n dansèrent:v toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 171,
+   "chapter": "A Secret at Night",
+   "en": "One night, the king's daughter heard the tailor in his sleep.",
+   "tgt": "Une:o nuit:n ,:o la:o fille:n du:o roi:n entendit:v le:o tailleur:n dans:o son:o sommeil:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "\"Sew the coat, boy,\" the tailor said in his sleep.",
+   "tgt": "«:o Couds:v le:o manteau:n ,:o garçon:n ,:o »:o dit:v le:o tailleur:n dans:o son:o sommeil:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The king's daughter knew he was a tailor.",
+   "tgt": "La:o fille:n du:o roi:n savait:v qu':o il:o était:v tailleur:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "She did not want people to know.",
+   "tgt": "Elle:o ne:o voulait:v pas:o que:o les:o gens:n le:o sachent:v .:o"
+  },
+  {
+   "n": 175,
+   "en": "The king's daughter told the king.",
+   "tgt": "La:o fille:n du:o roi:n dit:v au:o roi:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "That night, the king's guards would take the tailor away.",
+   "tgt": "Cette:o nuit-là:a ,:o les:o gardes:n du:o roi:n emmèneraient:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "But one guard warned the tailor first.",
+   "tgt": "Mais:o un:o garde:n avertit:v le:o tailleur:n en:o premier:a .:o"
+  },
+  {
+   "n": 178,
+   "en": "That night, the tailor pretended to sleep.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o tailleur:n fit:v semblant:n de:o dormir:v .:o"
+  },
+  {
+   "n": 179,
+   "en": "The guards came to his bed.",
+   "tgt": "Les:o gardes:n vinrent:v à:o son:o lit:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "\"Seven at one blow!\" the tailor said.",
+   "tgt": "«:o Sept:o d':o un:o seul:a coup:n !:o »:o dit:v le:o tailleur:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "\"I killed two giants and caught a unicorn,\" he said.",
+   "tgt": "«:o Je:o tuai:v deux:o géants:n et:o attrapai:v une:o licorne:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 182,
+   "en": "\"I shut a wild boar in a chapel too,\" he said.",
+   "tgt": "«:o J':o enfermai:v aussi:a un:o sanglier:n dans:o une:o chapelle:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "The guards heard this and were afraid.",
+   "tgt": "Les:o gardes:n entendirent:v cela:o et:o eurent:v peur:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "They ran away and did not come back.",
+   "tgt": "Ils:o s':o enfuirent:v et:o ne:o revinrent:v pas:o .:o"
+  },
+  {
+   "n": 185,
+   "en": "The little tailor stayed happy.",
+   "tgt": "Le:o petit:a tailleur:n resta:v heureux:a .:o"
+  }
+ ]
+}

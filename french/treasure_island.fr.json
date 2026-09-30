@@ -1,0 +1,1441 @@
+{
+ "slug": "treasure_island",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Inn by the Sea",
+   "en": "Jim Hawkins lived at an inn.",
+   "tgt": "Jim:o Hawkins:o vivait:v dans:o une:o auberge:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Jim's mother kept the inn.",
+   "tgt": "La:o mère:n de:o Jim:o tenait:v l':o auberge:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "His father had died long ago.",
+   "tgt": "Son:o père:n était:v mort:a il:o y:o avait:v longtemps:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "The inn stood near the sea.",
+   "tgt": "L':o auberge:n se:o trouvait:v près:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Many sailors came to the inn.",
+   "tgt": "Beaucoup:o de:o marins:n venaient:v à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The sailors told Jim many tales.",
+   "tgt": "Les:o marins:n racontaient:v à:o Jim:o beaucoup:o de:o récits:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "Jim heard of ships and gold.",
+   "tgt": "Jim:o entendait:v parler:v de:o navires:n et:o d':o or:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "He spoke of far islands.",
+   "tgt": "Il:o parlait:v d':o îles:n lointaines:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "He loved these old tales.",
+   "tgt": "Il:o aimait:v ces:o vieux:a récits:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "One day a strange old sailor came to the inn.",
+   "tgt": "Un:o jour:n un:o étrange:a vieux:a marin:n vint:v à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "The old sailor had a dark face.",
+   "tgt": "Le:o vieux:a marin:n avait:v un:o visage:n sombre:a .:o"
+  },
+  {
+   "n": 12,
+   "en": "He had one hand.",
+   "tgt": "Il:o avait:v une:o main:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "The old sailor had many scars.",
+   "tgt": "Le:o vieux:a marin:n avait:v beaucoup:a de:o cicatrices:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "He came to the inn door.",
+   "tgt": "Il:o vint:v à:o la:o porte:n de:o l':o auberge:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"Do you have a room?\" the old sailor asked.",
+   "tgt": "«:o Avez-vous:v une:o chambre:n ?:o »:o demanda:v le:o vieux:a marin:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "Jim's mother gave him a room.",
+   "tgt": "La:o mère:n de:o Jim:o lui:o donna:v une:o chambre:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "He stayed at the inn some days.",
+   "tgt": "Il:o resta:v à:o l':o auberge:n quelques:o jours:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Jim watched the old sailor with care.",
+   "tgt": "Jim:o observa:v le:o vieux:a marin:n avec:o soin:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "He did not speak much.",
+   "tgt": "Il:o ne:o parlait:v pas:o beaucoup:a .:o"
+  },
+  {
+   "n": 20,
+   "en": "He did not spend much.",
+   "tgt": "Il:o ne:o dépensait:v pas:o beaucoup:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "He sat and looked to sea.",
+   "tgt": "Il:o s':o asseyait:v et:o regardait:v la:o mer:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "Jim wanted to know about the old sailor.",
+   "tgt": "Jim:o voulait:v savoir:v des:o choses:n sur:o le:o vieux:a marin:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The old sailor told Jim to call him Captain.",
+   "tgt": "Le:o vieux:a marin:n dit:v à:o Jim:o de:o l':o appeler:v Capitaine:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "The Captain gave Jim some gold coins.",
+   "tgt": "Le:o Capitaine:o donna:v à:o Jim:o quelques:o pièces:n d':o or:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"Watch for a sailor with one leg,\" said the Captain.",
+   "tgt": "«:o Surveillez:v un:o marin:n avec:o une:o jambe:n ,:o »:o dit:v le:o Capitaine:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"Tell me when you see him.\"",
+   "tgt": "«:o Dites:v -moi:o quand:o vous:o le:o verrez:v .:o »:o"
+  },
+  {
+   "n": 27,
+   "en": "Jim took the gold coins.",
+   "tgt": "Jim:o prit:v les:o pièces:n d':o or:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "Jim watched for the one-legged sailor each day.",
+   "tgt": "Jim:o surveilla:v le:o marin:n à:o une:o jambe:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "Each night the Captain drank rum.",
+   "tgt": "Chaque:o nuit:n le:o Capitaine:o but:v du:o rhum:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The Captain sang loud songs of dead men.",
+   "tgt": "Le:o Capitaine:o chanta:v des:o chansons:n bruyantes:a d':o hommes:n morts:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "He sang of ships and coins.",
+   "tgt": "Il:o chanta:v de:o navires:n et:o de:o pièces:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The songs made the guests afraid.",
+   "tgt": "Les:o chansons:n rendaient:v les:o invités:n effrayés:a .:o"
+  },
+  {
+   "n": 33,
+   "en": "Many guests went away from the inn.",
+   "tgt": "Beaucoup:o d':o invités:n partirent:v de:o l':o auberge:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "Jim's mother had less gold.",
+   "tgt": "La:o mère:n de:o Jim:o avait:v moins:a d':o or:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "But Jim's mother did not ask the Captain to go.",
+   "tgt": "Mais:o la:o mère:n de:o Jim:o ne:o demanda:v pas:o au:o Capitaine:o de:o partir:v .:o"
+  },
+  {
+   "n": 36,
+   "en": "One night the Captain told a long tale.",
+   "tgt": "Une:o nuit:n le:o Capitaine:o raconta:v un:o long:a récit:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "He told of a great fight at sea.",
+   "tgt": "Il:o parla:v d':o un:o grand:a combat:n en:o mer:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "He told of ships full of gold.",
+   "tgt": "Il:o parla:v de:o navires:n pleins:a d':o or:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The guests sat still and looked away.",
+   "tgt": "Les:o invités:n restèrent:v immobiles:a et:o regardèrent:v ailleurs:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "The Captain kept watch at the door.",
+   "tgt": "Le:o Capitaine:o montait:v la:o garde:n à:o la:o porte:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "He watched for the sailor with one leg.",
+   "tgt": "Il:o guettait:v le:o marin:n avec:o une:o jambe:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Jim watched the door each day.",
+   "tgt": "Jim:o surveillait:v la:o porte:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "One day a strange man came to the inn.",
+   "tgt": "Un:o jour:n un:o homme:n étrange:a vint:v à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The strange man had a dark face.",
+   "tgt": "L':o homme:n étrange:a avait:v un:o visage:n sombre:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"Is the Captain here?\" the strange man asked Jim.",
+   "tgt": "«:o Le:o Capitaine:n est-il:v ici:a ?:o »:o l':o homme:n étrange:a demanda:v à:o Jim:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "Jim said the Captain was away by the sea.",
+   "tgt": "Jim:o dit:v que:o le:o Capitaine:n était:v absent:a près:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"I am Black Dog,\" the strange man said.",
+   "tgt": "«:o Je:o suis:v Black:o Dog:o ,:o »:o dit:v l':o homme:n étrange:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "Black Dog waited at the table.",
+   "tgt": "Black:o Dog:o attendit:v à:o la:o table:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "Then the Captain came back from the sea.",
+   "tgt": "Puis:o le:o Capitaine:n revint:v de:o la:o mer:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "He watched Black Dog with fear.",
+   "tgt": "Il:o regarda:v Black:o Dog:o avec:o peur:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The Captain and Black Dog sat at the table.",
+   "tgt": "Le:o Capitaine:n et:o Black:o Dog:o s':o assirent:v à:o la:o table:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The Captain took out his blade.",
+   "tgt": "Le:o Capitaine:n sortit:v sa:o lame:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Black Dog pulled out his blade too.",
+   "tgt": "Black:o Dog:o tira:v son:o lame:n aussi:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "The Captain and Black Dog fought.",
+   "tgt": "Le:o Capitaine:o et:o Black:o Dog:o se:o battirent:v .:o"
+  },
+  {
+   "n": 55,
+   "en": "Black Dog ran from the inn with a cut.",
+   "tgt": "Black:o Dog:o s':o enfuit:v de:o l':o auberge:n avec:o une:o coupure:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "Then the Captain fell down and gave a cry.",
+   "tgt": "Puis:o le:o Capitaine:o tomba:v et:o poussa:v un:o cri:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Jim ran out to the doctor.",
+   "tgt": "Jim:o courut:v chez:o le:o docteur:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "Doctor Livesey came to look at the Captain.",
+   "tgt": "Le:o docteur:n Livesey:o vint:v examiner:v le:o Capitaine:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "Doctor Livesey told Jim that rum would kill the Captain.",
+   "tgt": "Le:o docteur:n Livesey:o dit:v à:o Jim:o que:o le:o rhum:n tuerait:v le:o Capitaine:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "The Captain stayed in bed for many days.",
+   "tgt": "Le:o Capitaine:o resta:v au:o lit:n pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 61,
+   "chapter": "The Black Spot",
+   "en": "Jim watched the Captain each day.",
+   "tgt": "Jim:o surveilla:v le:o Capitaine:o chaque:o jour:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Jim sat by his bed.",
+   "tgt": "Jim:o s':o assit:v près:o de:o son:o lit:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The Captain spoke to Jim of old fights at sea.",
+   "tgt": "Le:o Capitaine:o parla:v à:o Jim:o de:o vieilles:a batailles:n en:o mer:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "He spoke of dead sailors too.",
+   "tgt": "Il:o parla:v aussi:a de:o marins:n morts:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "But the Captain did not speak of the one-legged sailor.",
+   "tgt": "Mais:o le:o Capitaine:n ne:o parla:v pas:o du:o marin:n unijambiste:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "The Captain looked at the door in fear.",
+   "tgt": "Le:o Capitaine:n regarda:v la:o porte:n avec:o peur:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "One cold morning a blind man came to the inn.",
+   "tgt": "Un:o matin:n froid:a un:o homme:n aveugle:a vint:v à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The blind man asked Jim to help him.",
+   "tgt": "L':o aveugle:n demanda:v à:o Jim:o de:o l':o aider:v .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"Take me to the Captain,\" the blind man said.",
+   "tgt": "«:o Conduisez-moi:v au:o Capitaine:n ,:o »:o dit:v l':o aveugle:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "Jim took the blind man to the Captain.",
+   "tgt": "Jim:o conduisit:v l':o aveugle:n au:o Capitaine:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "The blind man put a small thing in the Captain's hand.",
+   "tgt": "L':o aveugle:n mit:v une:o petite:a chose:n dans:o la:o main:n du:o Capitaine:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "Then the blind man tapped his stick down the road.",
+   "tgt": "Puis:o l':o aveugle:n frappa:v sa:o canne:n sur:o la:o route:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The Captain looked at the small thing.",
+   "tgt": "Le:o Capitaine:n regarda:v la:o petite:a chose:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "The small thing was a black spot.",
+   "tgt": "La:o petite:a chose:n était:v un:o point:n noir:a .:o"
+  },
+  {
+   "n": 75,
+   "en": "\"The black spot!\" said the Captain in fear.",
+   "tgt": "«:o La:o tache:n noire:a !:o »:o dit:v le:o Capitaine:n avec:o peur:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "He stood up fast.",
+   "tgt": "Il:o se:o leva:v vite:a .:o"
+  },
+  {
+   "n": 77,
+   "en": "Then the Captain fell down dead.",
+   "tgt": "Puis:o le:o Capitaine:n tomba:v mort:a .:o"
+  },
+  {
+   "n": 78,
+   "en": "Jim called his mother to the Captain.",
+   "tgt": "Jim:o appela:v sa:o mère:n auprès:o du:o Capitaine:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "Jim took a key from the Captain.",
+   "tgt": "Jim:o prit:v une:o clé:n sur:o le:o Capitaine:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "The key opened the Captain's old sea chest.",
+   "tgt": "La:o clé:n ouvrit:v le:o vieux:a coffre:n marin:a du:o Capitaine:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "Jim looked in the old dark chest.",
+   "tgt": "Jim:o regarda:v dans:o le:o vieux:a coffre:n sombre:a .:o"
+  },
+  {
+   "n": 82,
+   "en": "The chest had a small packet and gold coins.",
+   "tgt": "Le:o coffre:n contenait:v un:o petit:a paquet:n et:o des:o pièces:n d':o or:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "Then Jim and his mother heard the men call out.",
+   "tgt": "Puis:o Jim:o et:o sa:o mère:n entendirent:v les:o hommes:n crier:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "The blind man came back to the inn.",
+   "tgt": "L':o aveugle:n revint:v à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Many old pirates came back with him.",
+   "tgt": "Beaucoup:o de:o vieux:a pirates:n revinrent:v avec:o lui:o .:o"
+  },
+  {
+   "n": 86,
+   "en": "The old sailors came for the Captain's gold.",
+   "tgt": "Les:o vieux:a marins:n vinrent:v pour:o l':o or:n du:o Capitaine:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "The old sailors wanted to kill Jim and his mother.",
+   "tgt": "Les:o vieux:a marins:n voulaient:v tuer:v Jim:o et:o sa:o mère:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "Jim took the packet and the coins.",
+   "tgt": "Jim:o prit:v le:o paquet:n et:o les:o pièces:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Then Jim and his mother ran away from the inn.",
+   "tgt": "Puis:o Jim:o et:o sa:o mère:n s':o enfuirent:v de:o l':o auberge:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "They did not stop until night came.",
+   "tgt": "Ils:o ne:o s':o arrêtèrent:v pas:o avant:o que:o la:o nuit:n tombe:v .:o"
+  },
+  {
+   "n": 91,
+   "en": "Jim and his mother hid in the dark.",
+   "tgt": "Jim:o et:o sa:o mère:n se:o cachèrent:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "They watched the inn from the road.",
+   "tgt": "Ils:o observèrent:v l':o auberge:n depuis:o la:o route:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The blind man and the old sailors were in the inn.",
+   "tgt": "L':o aveugle:n et:o les:o vieux:a marins:n étaient:v dans:o l':o auberge:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "The old sailors found the Captain's chest.",
+   "tgt": "Les:o vieux:a marins:n trouvèrent:v le:o coffre:n du:o Capitaine:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "But the treasure was gone.",
+   "tgt": "Mais:o le:o trésor:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "Jim had the packet with him.",
+   "tgt": "Jim:o avait:v le:o paquet:n avec:o lui:o .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"The gold is not here!\" said a sailor.",
+   "tgt": "«:o L':o or:n n':o est:v pas:o ici:a !:o »:o dit:v un:o marin:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "The blind man stood up and called out.",
+   "tgt": "L':o aveugle:n se:o leva:v et:o cria:v .:o"
+  },
+  {
+   "n": 99,
+   "en": "\"Find the gold!\" the blind man said.",
+   "tgt": "«:o Trouvez:v l':o or:n !:o »:o dit:v l':o aveugle:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The old sailors looked all through the inn.",
+   "tgt": "Les:o vieux:a marins:n cherchèrent:v partout:a dans:o l':o auberge:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Then Jim kept still and heard horses on the road.",
+   "tgt": "Alors:o Jim:o resta:v immobile:a et:o entendit:v des:o chevaux:n sur:o la:o route:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "The king's men came fast on horses.",
+   "tgt": "Les:o hommes:n du:o roi:n arrivèrent:v vite:a à:o cheval:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The old sailors ran away in the dark.",
+   "tgt": "Les:o vieux:a marins:n s':o enfuirent:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "But he could not see them go.",
+   "tgt": "Mais:o il:o ne:o pouvait:v pas:o les:o voir:v partir:v .:o"
+  },
+  {
+   "n": 105,
+   "en": "He stood alone on the road.",
+   "tgt": "Il:o se:o tenait:v seul:a sur:o la:o route:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "The horses came fast at the blind man.",
+   "tgt": "Les:o chevaux:n arrivèrent:v vite:a vers:o l':o aveugle:n .:o"
+  },
+  {
+   "n": 107,
+   "chapter": "The Treasure Map",
+   "en": "The horses went over the blind man.",
+   "tgt": "Les:o chevaux:n passèrent:v sur:o l':o aveugle:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The blind man fell down dead.",
+   "tgt": "L':o aveugle:n tomba:v mort:a .:o"
+  },
+  {
+   "n": 109,
+   "en": "Then Jim went out to the king's men.",
+   "tgt": "Puis:o Jim:o sortit:v pour:o aller:v vers:o les:o hommes:n du:o roi:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "Jim told them about the old sailors.",
+   "tgt": "Jim:o leur:o parla:v des:o vieux:a marins:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "The king's men went after the old sailors on horses.",
+   "tgt": "Les:o hommes:n du:o roi:n partirent:v à:o cheval:n après:o les:o vieux:a marins:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Jim still had the Captain's packet.",
+   "tgt": "Jim:o avait:v encore:a le:o paquet:n du:o Capitaine:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "Doctor Livesey had helped the Captain before.",
+   "tgt": "Le:o docteur:n Livesey:o avait:v aidé:v le:o Capitaine:o avant:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"I will take the packet to Doctor Livesey,\" said Jim.",
+   "tgt": "«:o Je:o vais:v apporter:v le:o paquet:n au:o docteur:n Livesey:o ,:o »:o dit:v Jim:o .:o"
+  },
+  {
+   "n": 115,
+   "en": "Doctor Livesey sat with the rich man Trelawney.",
+   "tgt": "Le:o docteur:n Livesey:o était:v assis:a avec:o le:o riche:a homme:n Trelawney:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "Jim gave the packet to Doctor Livesey.",
+   "tgt": "Jim:o donna:v le:o paquet:n au:o docteur:n Livesey:o .:o"
+  },
+  {
+   "n": 117,
+   "en": "Doctor Livesey opened the packet.",
+   "tgt": "Le:o docteur:n Livesey:o ouvrit:v le:o paquet:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "Inside the packet was an old map of a small island.",
+   "tgt": "À:o l':o intérieur:n du:o paquet:n se:o trouvait:v une:o vieille:a carte:n d':o une:o petite:a île:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "A red cross marked a spot on the map.",
+   "tgt": "Une:o croix:n rouge:a marquait:v un:o endroit:n sur:o la:o carte:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"Gold is buried here,\" said Doctor Livesey.",
+   "tgt": "«:o L':o or:n est:v enterré:a ici:a ,:o »:o dit:v le:o docteur:n Livesey:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"An old pirate buried it long ago.\"",
+   "tgt": "«:o Un:o vieux:a pirate:n l':o a:v enterré:v il:o y:o a:o longtemps:a .:o »:o"
+  },
+  {
+   "n": 122,
+   "en": "Trelawney looked at the old map.",
+   "tgt": "Trelawney:o regarda:v la:o vieille:a carte:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "\"We will find this gold!\" said Trelawney.",
+   "tgt": "«:o Nous:o trouverons:v cet:o or:n !:o »:o dit:v Trelawney:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"I will buy a ship and take us to the island.\"",
+   "tgt": "«:o Je:o vais:v acheter:v un:o navire:n et:o nous:o emmener:v à:o l':o île:n .:o »:o"
+  },
+  {
+   "n": 125,
+   "en": "Doctor Livesey was glad to go too.",
+   "tgt": "Le:o docteur:n Livesey:o était:v content:a d':o y:o aller:v aussi:a .:o"
+  },
+  {
+   "n": 126,
+   "en": "Doctor Livesey would be the ship's doctor.",
+   "tgt": "Le:o docteur:n Livesey:o serait:v le:o médecin:n du:o navire:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "\"Jim will come with us,\" called Trelawney.",
+   "tgt": "«:o Jim:o viendra:v avec:o nous:o ,:o »:o appela:v Trelawney:o .:o"
+  },
+  {
+   "n": 128,
+   "en": "Jim would keep watch on the ship.",
+   "tgt": "Jim:o ferait:v le:o guet:n sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "\"We must not tell the old sailors,\" said Doctor Livesey.",
+   "tgt": "«:o Nous:o ne:o devons:v pas:o le:o dire:v aux:o vieux:a marins:n ,:o »:o dit:v le:o docteur:n Livesey:o .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"The old sailors want this map too.\"",
+   "tgt": "«:o Les:o vieux:a marins:n veulent:v cette:o carte:n aussi:a .:o »:o"
+  },
+  {
+   "n": 131,
+   "en": "Trelawney told them to keep the map safe.",
+   "tgt": "Trelawney:o leur:o dit:v de:o garder:v la:o carte:n en:o sécurité:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "Then Trelawney went to buy a boat.",
+   "tgt": "Puis:o Trelawney:o alla:v acheter:v un:o bateau:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Trelawney bought a great ship for the sea.",
+   "tgt": "Trelawney:o acheta:v un:o grand:a navire:n pour:o la:o mer:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "He found good men to sail the ship.",
+   "tgt": "Il:o trouva:v de:o bons:a hommes:n pour:o naviguer:v sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "Trelawney also hired a cook named Silver.",
+   "tgt": "Trelawney:o engagea:v aussi:a un:o cuisinier:n nommé:a Silver:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "Then Trelawney asked Jim to come.",
+   "tgt": "Puis:o Trelawney:o demanda:v à:o Jim:o de:o venir:v .:o"
+  },
+  {
+   "n": 137,
+   "en": "Jim went to the ship by the sea.",
+   "tgt": "Jim:o alla:v au:o navire:n près:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "There Jim met Silver.",
+   "tgt": "Là:a ,:o Jim:o rencontra:v Silver:o .:o"
+  },
+  {
+   "n": 139,
+   "en": "Silver had only one leg.",
+   "tgt": "Silver:o avait:v seulement:a une:o seule:a jambe:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "Jim thought of the Captain at the inn.",
+   "tgt": "Jim:o pensa:v au:o Capitaine:n à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The Captain had feared a sailor with one leg.",
+   "tgt": "Le:o Capitaine:n avait:v craint:v un:o marin:n avec:o une:o jambe:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "Jim was afraid of Silver.",
+   "tgt": "Jim:o avait:v peur:n de:o Silver:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "But Silver was very kind to Jim.",
+   "tgt": "Mais:o Silver:o était:v très:a gentil:a avec:o Jim:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"Come and see the ship, Jim!\" said Silver.",
+   "tgt": "«:o Viens:v voir:v le:o navire:n ,:o Jim:o !:o »:o dit:v Silver:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "He smiled and told Jim about the sea.",
+   "tgt": "Il:o sourit:v et:o raconta:v à:o Jim:o des:o histoires:n sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "Soon Jim was not afraid of Silver.",
+   "tgt": "Bientôt:a Jim:o n':o eut:v plus:o peur:n de:o Silver:o .:o"
+  },
+  {
+   "n": 147,
+   "en": "Then Doctor Livesey and Trelawney came to the ship.",
+   "tgt": "Puis:o le:o Docteur:n Livesey:o et:o Trelawney:o arrivèrent:v au:o navire:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "They liked the ship and all the men.",
+   "tgt": "Ils:o aimèrent:v le:o navire:n et:o tous:o les:o hommes:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "The ship was ready to sail.",
+   "tgt": "Le:o navire:n était:v prêt:a à:o partir:v .:o"
+  },
+  {
+   "n": 150,
+   "en": "The ship sailed on the sea for many days.",
+   "tgt": "Le:o navire:n navigua:v sur:o la:o mer:n pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "Silver was the ship's cook.",
+   "tgt": "Silver:o était:v le:o cuisinier:n du:o navire:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "Silver cooked for all the men on the ship.",
+   "tgt": "Silver:o cuisina:v pour:o tous:o les:o hommes:n du:o navire:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "The men liked Silver very much.",
+   "tgt": "Les:o hommes:n aimaient:v beaucoup:a Silver:o .:o"
+  },
+  {
+   "n": 154,
+   "en": "One day Jim wanted an apple.",
+   "tgt": "Un:o jour:n Jim:o voulut:v une:o pomme:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "A big barrel of apples sat on the ship.",
+   "tgt": "Un:o grand:a tonneau:n de:o pommes:n se:o trouvait:v sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "Jim climbed into the apple barrel.",
+   "tgt": "Jim:o grimpa:v dans:o le:o tonneau:n de:o pommes:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "The barrel was almost empty.",
+   "tgt": "Le:o tonneau:n était:v presque:a vide:a .:o"
+  },
+  {
+   "n": 158,
+   "en": "No one could see Jim down in the barrel.",
+   "tgt": "Personne:o ne:o pouvait:v voir:v Jim:o au:o fond:n du:o tonneau:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "Then Silver sat down by the barrel.",
+   "tgt": "Alors:o Silver:o s':o assit:v près:o du:o tonneau:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "Silver did not know Jim was in the barrel.",
+   "tgt": "Silver:o ne:o savait:v pas:o que:o Jim:o était:v dans:o le:o tonneau:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "He talked to some of the men.",
+   "tgt": "Il:o parla:v à:o quelques-uns:o des:o hommes:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "Jim heard every word.",
+   "tgt": "Jim:o entendit:v chaque:o mot:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "Silver was a pirate!",
+   "tgt": "Silver:o était:v un:o pirate:n !:o"
+  },
+  {
+   "n": 164,
+   "en": "The other men were pirates too.",
+   "tgt": "Les:o autres:a hommes:n étaient:v aussi:a des:o pirates:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "\"We will take all the gold,\" said Silver.",
+   "tgt": "«:o Nous:o prendrons:v tout:o l':o or:n ,:o »:o dit:v Silver:o .:o"
+  },
+  {
+   "n": 166,
+   "chapter": "Jim Warns the Captain",
+   "en": "\"Then we will kill Trelawney and Doctor Livesey.\"",
+   "tgt": "«:o Ensuite:o nous:o tuerons:v Trelawney:o et:o le:o Docteur:o Livesey:o .:o »:o"
+  },
+  {
+   "n": 167,
+   "en": "Jim was very afraid in the barrel.",
+   "tgt": "Jim:o avait:v très:a peur:n dans:o le:o tonneau:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "Soon Silver left with the men.",
+   "tgt": "Bientôt:a Silver:o partit:v avec:o les:o hommes:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "Then Jim climbed out and away.",
+   "tgt": "Puis:o Jim:o sortit:v et:o s':o éloigna:v .:o"
+  },
+  {
+   "n": 170,
+   "en": "Jim ran to Doctor Livesey and Trelawney.",
+   "tgt": "Jim:o courut:v vers:o le:o docteur:n Livesey:o et:o Trelawney:o .:o"
+  },
+  {
+   "n": 171,
+   "en": "\"Silver is a pirate!\" said Jim.",
+   "tgt": "«:o Silver:o est:v un:o pirate:n !:o »:o dit:v -il:o ,:o Jim:o .:o"
+  },
+  {
+   "n": 172,
+   "en": "\"The men want the gold, and they will kill us.\"",
+   "tgt": "«:o Les:o hommes:n veulent:v l':o or:n ,:o et:o ils:o vont:v nous:o tuer:v .:o »:o"
+  },
+  {
+   "n": 173,
+   "en": "Soon the ship came near the island.",
+   "tgt": "Bientôt:a le:o navire:n s':o approcha:v de:o l':o île:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "The island was green with many dark trees.",
+   "tgt": "L':o île:n était:v verte:a avec:o de:o nombreux:a arbres:n sombres:a .:o"
+  },
+  {
+   "n": 175,
+   "en": "Silver and his men wanted to go to the island.",
+   "tgt": "Silver:o et:o ses:o hommes:n voulaient:v aller:v sur:o l':o île:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "They got into the boats by the ship.",
+   "tgt": "Ils:o montèrent:v dans:o les:o bateaux:n près:o du:o navire:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "Jim hid in a boat with the men.",
+   "tgt": "Jim:o se:o cacha:v dans:o un:o bateau:n avec:o les:o hommes:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "The boats came to the land.",
+   "tgt": "Les:o bateaux:n arrivèrent:v à:o la:o terre:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "Jim jumped onto the sand and ran to the trees.",
+   "tgt": "Jim:o sauta:v sur:o le:o sable:n et:o courut:v vers:o les:o arbres:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "The men called out to Jim.",
+   "tgt": "Les:o hommes:n appelèrent:v Jim:o .:o"
+  },
+  {
+   "n": 181,
+   "en": "But Jim did not stop.",
+   "tgt": "Mais:o Jim:o ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 182,
+   "en": "Jim ran away from Silver and the men.",
+   "tgt": "Jim:o s':o enfuit:v loin:a de:o Silver:o et:o des:o hommes:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "He was very afraid of the pirates.",
+   "tgt": "Il:o avait:v très:a peur:n des:o pirates:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "Jim hid by a big rock on the hill.",
+   "tgt": "Jim:o se:o cacha:v près:a d':o un:o grand:a rocher:n sur:o la:o colline:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "Then the men looked for Jim.",
+   "tgt": "Ensuite:a les:o hommes:n cherchèrent:v Jim:o .:o"
+  },
+  {
+   "n": 186,
+   "en": "But the men did not find him.",
+   "tgt": "Mais:o les:o hommes:n ne:o le:o trouvèrent:v pas:o .:o"
+  },
+  {
+   "n": 187,
+   "en": "Soon Silver and the men went away.",
+   "tgt": "Bientôt:a Silver:o et:o les:o hommes:n partirent:v .:o"
+  },
+  {
+   "n": 188,
+   "en": "Jim went through the trees on the island.",
+   "tgt": "Jim:o traversa:v les:o arbres:n sur:o l':o île:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "Then Jim saw a man.",
+   "tgt": "Alors:o Jim:o vit:v un:o homme:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "The man was not one of Silver's pirates.",
+   "tgt": "L':o homme:n n':o était:v pas:o un:o des:o pirates:n de:o Silver:o .:o"
+  },
+  {
+   "n": 191,
+   "en": "Jim was afraid of the man.",
+   "tgt": "Jim:o avait:v peur:n de:o l':o homme:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "\"Who are you?\" asked Jim.",
+   "tgt": "«:o Qui:o êtes-vous:v ?:o »:o demanda:v Jim:o .:o"
+  },
+  {
+   "n": 193,
+   "en": "\"I am Ben,\" said the man.",
+   "tgt": "«:o Je:o suis:v Ben:o ,:o »:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "Ben had lived on the island for three years.",
+   "tgt": "Ben:o avait:v vécu:v sur:o l':o île:n pendant:o trois:o ans:n .:o"
+  },
+  {
+   "n": 195,
+   "en": "Long ago Ben had sailed with pirates.",
+   "tgt": "Longtemps:a auparavant:a Ben:o avait:v navigué:v avec:o des:o pirates:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "The pirates had left Ben on the island alone.",
+   "tgt": "Les:o pirates:n avaient:v laissé:v Ben:o sur:o l':o île:n seul:a .:o"
+  },
+  {
+   "n": 197,
+   "en": "\"I will help you, Jim,\" said Ben.",
+   "tgt": "«:o Je:o vais:v vous:o aider:v ,:o Jim:o ,:o »:o dit:v Ben:o .:o"
+  },
+  {
+   "n": 198,
+   "en": "Ben knew all of the island.",
+   "tgt": "Ben:o connaissait:v toute:o l':o île:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "He knew about the gold.",
+   "tgt": "Il:o savait:v pour:o l':o or:n .:o"
+  },
+  {
+   "n": 200,
+   "en": "Then Jim told Ben about Silver.",
+   "tgt": "Alors:o Jim:o raconta:v à:o Ben:o l':o histoire:n de:o Silver:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"Silver and the men are pirates,\" said Jim.",
+   "tgt": "«:o Silver:o et:o les:o hommes:n sont:v des:o pirates:n ,:o »:o dit:v Jim:o .:o"
+  },
+  {
+   "n": 202,
+   "en": "\"They want all the gold.\"",
+   "tgt": "«:o Ils:o veulent:v tout:o l':o or:n .:o »:o"
+  },
+  {
+   "n": 203,
+   "en": "Ben knew the pirates were bad.",
+   "tgt": "Ben:o savait:v que:o les:o pirates:n étaient:v mauvais:a .:o"
+  },
+  {
+   "n": 204,
+   "en": "Ben and Jim were friends now.",
+   "tgt": "Ben:o et:o Jim:o étaient:v amis:n maintenant:a .:o"
+  },
+  {
+   "n": 205,
+   "en": "Ben took Jim through the trees on the island.",
+   "tgt": "Ben:o emmena:v Jim:o à:o travers:o les:o arbres:n de:o l':o île:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "Soon they came to an old fort.",
+   "tgt": "Bientôt:a ils:o arrivèrent:v à:o un:o vieux:a fort:n .:o"
+  },
+  {
+   "n": 207,
+   "en": "The fort was made of wood.",
+   "tgt": "Le:o fort:n était:v fait:v de:o bois:n .:o"
+  },
+  {
+   "n": 208,
+   "en": "Doctor Livesey and Trelawney were inside.",
+   "tgt": "Le:o docteur:n Livesey:o et:o Trelawney:o étaient:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "They had left the great ship.",
+   "tgt": "Ils:o avaient:v quitté:v le:o grand:a navire:n .:o"
+  },
+  {
+   "n": 210,
+   "en": "Jim was glad to see his friends again.",
+   "tgt": "Jim:o était:v content:a de:o revoir:v ses:o amis:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "Jim told them all about Ben.",
+   "tgt": "Jim:o leur:o raconta:v tout:a sur:o Ben:o .:o"
+  },
+  {
+   "n": 212,
+   "en": "Then Silver and his men came.",
+   "tgt": "Puis:o Silver:o et:o ses:o hommes:n arrivèrent:v .:o"
+  },
+  {
+   "n": 213,
+   "en": "The pirates had swords and guns.",
+   "tgt": "Les:o pirates:n avaient:v des:o épées:n et:o des:o fusils:n .:o"
+  },
+  {
+   "n": 214,
+   "en": "\"Take the fort!\" Silver said to his men.",
+   "tgt": "«:o Prenez:v le:o fort:n !:o »:o dit:v Silver:o à:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "The men ran at the fort.",
+   "tgt": "Les:o hommes:n coururent:v vers:o le:o fort:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "But the good men shot at them.",
+   "tgt": "Mais:o les:o bons:a hommes:n tirèrent:v sur:o eux:o .:o"
+  },
+  {
+   "n": 217,
+   "en": "Two pirates fell down dead.",
+   "tgt": "Deux:o pirates:n tombèrent:v morts:a .:o"
+  },
+  {
+   "n": 218,
+   "en": "They all ran back to the trees.",
+   "tgt": "Ils:o coururent:v tous:o vers:o les:o arbres:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "Silver could not take the fort.",
+   "tgt": "Silver:o ne:o pouvait:v pas:o prendre:v le:o fort:n .:o"
+  },
+  {
+   "n": 220,
+   "en": "Jim was safe with his friends.",
+   "tgt": "Jim:o était:v en:o sécurité:n avec:o ses:o amis:n .:o"
+  },
+  {
+   "n": 221,
+   "en": "But Silver still wanted the buried gold.",
+   "tgt": "Mais:o Silver:o voulait:v encore:a l':o or:n enterré:a .:o"
+  },
+  {
+   "n": 222,
+   "en": "The pirates would come back again.",
+   "tgt": "Les:o pirates:n reviendraient:v encore:a .:o"
+  },
+  {
+   "n": 223,
+   "chapter": "Jim Takes the Ship",
+   "en": "That night Jim left the fort in the dark.",
+   "tgt": "Cette:o nuit-là:o ,:o Jim:o quitta:v le:o fort:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 224,
+   "en": "He did not tell his friends.",
+   "tgt": "Il:o ne:o le:o dit:v pas:o à:o ses:o amis:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "Jim went down to Ben's small boat.",
+   "tgt": "Jim:o descendit:v jusqu':o au:o petit:a bateau:n de:o Ben:o .:o"
+  },
+  {
+   "n": 226,
+   "en": "He got into the boat and went out to sea.",
+   "tgt": "Il:o monta:v dans:o le:o bateau:n et:o prit:v la:o mer:n .:o"
+  },
+  {
+   "n": 227,
+   "en": "The boat came to the big ship.",
+   "tgt": "Le:o bateau:n arriva:v jusqu':o au:o grand:a navire:n .:o"
+  },
+  {
+   "n": 228,
+   "en": "Jim climbed up onto the ship.",
+   "tgt": "Jim:o grimpa:v sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "A rope held the ship on the sea.",
+   "tgt": "Une:o corde:n retenait:v le:o navire:n sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Jim cut the rope with his knife.",
+   "tgt": "Jim:o coupa:v la:o corde:n avec:o son:o couteau:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "The ship moved away from the pirates.",
+   "tgt": "Le:o navire:n s':o éloigna:v des:o pirates:n .:o"
+  },
+  {
+   "n": 232,
+   "en": "But one pirate was still on the ship.",
+   "tgt": "Mais:o un:o pirate:n était:v encore:a sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 233,
+   "en": "The pirate had a big sword.",
+   "tgt": "Le:o pirate:n avait:v une:o grande:a épée:n .:o"
+  },
+  {
+   "n": 234,
+   "en": "He ran at Jim to kill him.",
+   "tgt": "Il:o courut:v vers:o Jim:o pour:o le:o tuer:v .:o"
+  },
+  {
+   "n": 235,
+   "en": "Jim was very afraid of him.",
+   "tgt": "Jim:o avait:v très:a peur:n de:o lui:o .:o"
+  },
+  {
+   "n": 236,
+   "en": "But he had a gun.",
+   "tgt": "Mais:o il:o avait:v un:o pistolet:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "Jim shot the pirate.",
+   "tgt": "Jim:o tira:v sur:o le:o pirate:n .:o"
+  },
+  {
+   "n": 238,
+   "en": "The pirate fell down into the sea.",
+   "tgt": "Le:o pirate:n tomba:v dans:o la:o mer:n .:o"
+  },
+  {
+   "n": 239,
+   "en": "Jim had the big ship now.",
+   "tgt": "Jim:o avait:v maintenant:a le:o grand:a navire:n .:o"
+  },
+  {
+   "n": 240,
+   "en": "Jim was alone on the ship at sea.",
+   "tgt": "Jim:o était:v seul:a sur:o le:o navire:n en:o mer:n .:o"
+  },
+  {
+   "n": 241,
+   "en": "Jim left the ship and went back to land.",
+   "tgt": "Jim:o quitta:v le:o navire:n et:o retourna:v à:o terre:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "Jim came to the fort in the dark.",
+   "tgt": "Jim:o arriva:v au:o fort:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 243,
+   "en": "But the pirates were in the fort now.",
+   "tgt": "Mais:o les:o pirates:n étaient:v dans:o le:o fort:n maintenant:a .:o"
+  },
+  {
+   "n": 244,
+   "en": "Doctor Livesey and the good men were gone.",
+   "tgt": "Le:o Docteur:n Livesey:o et:o les:o bons:a hommes:n étaient:v partis:a .:o"
+  },
+  {
+   "n": 245,
+   "en": "Silver and the pirates caught Jim.",
+   "tgt": "Silver:o et:o les:o pirates:n capturèrent:v Jim:o .:o"
+  },
+  {
+   "n": 246,
+   "en": "The pirates wanted to kill Jim.",
+   "tgt": "Les:o pirates:n voulaient:v tuer:v Jim:o .:o"
+  },
+  {
+   "n": 247,
+   "en": "But Silver told them no.",
+   "tgt": "Mais:o Silver:o leur:o dit:v non:o .:o"
+  },
+  {
+   "n": 248,
+   "en": "\"Jim will stay with me,\" said Silver.",
+   "tgt": "«:o Jim:o restera:v avec:o moi:o »:o ,:o dit:v -il:o Silver:o .:o"
+  },
+  {
+   "n": 249,
+   "en": "Silver kept Jim safe from the pirates.",
+   "tgt": "Silver:o protégea:v Jim:o des:o pirates:n .:o"
+  },
+  {
+   "n": 250,
+   "en": "Jim saw the map in the fort.",
+   "tgt": "Jim:o vit:v la:o carte:n dans:o le:o fort:n .:o"
+  },
+  {
+   "n": 251,
+   "en": "Doctor Livesey had given Silver the map.",
+   "tgt": "Le:o Docteur:n Livesey:o avait:v donné:v la:o carte:n à:o Silver:o .:o"
+  },
+  {
+   "n": 252,
+   "en": "But Jim did not know why.",
+   "tgt": "Mais:o Jim:o ne:o savait:v pas:o pourquoi:o .:o"
+  },
+  {
+   "n": 253,
+   "en": "\"We will find the gold now,\" said Silver.",
+   "tgt": "«:o Nous:o allons:v trouver:v l':o or:n maintenant:a »:o ,:o dit:v Silver:o .:o"
+  },
+  {
+   "n": 254,
+   "en": "\"Help me, and I will keep you safe.\"",
+   "tgt": "«:o Aide:v -moi:o ,:o et:o je:o te:o garderai:v en:o sécurité:n .:o »:o"
+  },
+  {
+   "n": 255,
+   "en": "Jim was afraid, but he said yes.",
+   "tgt": "Jim:o avait:v peur:n ,:o mais:o il:o dit:v oui:o .:o"
+  },
+  {
+   "n": 256,
+   "en": "The pirates would look for the gold soon.",
+   "tgt": "Les:o pirates:n chercheraient:v l':o or:n bientôt:a .:o"
+  },
+  {
+   "n": 257,
+   "en": "One day the pirates went to find the gold.",
+   "tgt": "Un:o jour:n ,:o les:o pirates:n allèrent:v trouver:v l':o or:n .:o"
+  },
+  {
+   "n": 258,
+   "en": "Silver had the map.",
+   "tgt": "Silver:o avait:v la:o carte:n .:o"
+  },
+  {
+   "n": 259,
+   "en": "The pirates took Jim with them.",
+   "tgt": "Les:o pirates:n emmenèrent:v Jim:o avec:o eux:o .:o"
+  },
+  {
+   "n": 260,
+   "en": "They came to the spot on the map.",
+   "tgt": "Ils:o arrivèrent:v à:o l':o endroit:n indiqué:a sur:o la:o carte:n .:o"
+  },
+  {
+   "n": 261,
+   "en": "But there was a big hole.",
+   "tgt": "Mais:o il:o y:o avait:v un:o grand:a trou:n .:o"
+  },
+  {
+   "n": 262,
+   "en": "The gold was gone!",
+   "tgt": "L':o or:n avait:v disparu:v !:o"
+  },
+  {
+   "n": 263,
+   "en": "Someone had taken the gold.",
+   "tgt": "Quelqu':o un:o avait:v pris:v l':o or:n .:o"
+  },
+  {
+   "n": 264,
+   "en": "The pirates were angry at Silver.",
+   "tgt": "Les:o pirates:n étaient:v furieux:a contre:o Silver:o .:o"
+  },
+  {
+   "n": 265,
+   "en": "They ran at Silver and Jim.",
+   "tgt": "Ils:o coururent:v vers:o Silver:o et:o Jim:o .:o"
+  },
+  {
+   "n": 266,
+   "en": "But then Doctor Livesey and Ben came.",
+   "tgt": "Mais:o alors:o le:o Docteur:o Livesey:o et:o Ben:o arrivèrent:v .:o"
+  },
+  {
+   "n": 267,
+   "en": "They shot at the bad pirates from the trees.",
+   "tgt": "Ils:o tirèrent:v sur:o les:o mauvais:a pirates:n depuis:o les:o arbres:n .:o"
+  },
+  {
+   "n": 268,
+   "en": "Some pirates fell down dead.",
+   "tgt": "Certains:o pirates:n tombèrent:v morts:a .:o"
+  },
+  {
+   "n": 269,
+   "en": "The other pirates ran away.",
+   "tgt": "Les:o autres:o pirates:n s':o enfuirent:v .:o"
+  },
+  {
+   "n": 270,
+   "en": "Ben had taken the gold long ago.",
+   "tgt": "Ben:o avait:v pris:v l':o or:n longtemps:a auparavant:a .:o"
+  },
+  {
+   "n": 271,
+   "en": "Ben had put it in his cave.",
+   "tgt": "Ben:o l':o avait:v mis:v dans:o sa:o grotte:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "That was why the map was no good.",
+   "tgt": "C':o était:v pour:o cela:o que:o la:o carte:n n':o était:v plus:o bonne:a .:o"
+  },
+  {
+   "n": 273,
+   "en": "Jim and his friends went to Ben's cave.",
+   "tgt": "Jim:o et:o ses:o amis:n allèrent:v à:o la:o grotte:n de:o Ben:o .:o"
+  },
+  {
+   "n": 274,
+   "en": "The treasure was in the cave.",
+   "tgt": "Le:o trésor:n était:v dans:o la:o grotte:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "They took the gold to the ship.",
+   "tgt": "Ils:o portèrent:v l':o or:n au:o navire:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "Then they got ready to sail home.",
+   "tgt": "Puis:o ils:o se:o préparèrent:v à:o naviguer:v vers:o leur:o maison:n .:o"
+  },
+  {
+   "n": 277,
+   "en": "The good men kept Silver on the ship.",
+   "tgt": "Les:o bons:a hommes:n gardèrent:v Silver:o sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 278,
+   "en": "But Silver took some gold and ran away.",
+   "tgt": "Mais:o Silver:o prit:v de:o l':o or:n et:o s':o enfuit:v .:o"
+  },
+  {
+   "n": 279,
+   "en": "Jim was not sad that Silver had gone.",
+   "tgt": "Jim:o n':o était:v pas:o triste:a que:o Silver:o fût:v parti:a .:o"
+  },
+  {
+   "n": 280,
+   "en": "The ship sailed home over the sea.",
+   "tgt": "Le:o navire:n navigua:v vers:o la:o maison:n sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 281,
+   "en": "Ben had gold for his help.",
+   "tgt": "Ben:o reçut:v de:o l':o or:n pour:o son:o aide:n .:o"
+  },
+  {
+   "n": 282,
+   "en": "Soon the ship came home again.",
+   "tgt": "Bientôt:a le:o navire:n rentra:v chez:o lui:o .:o"
+  },
+  {
+   "n": 283,
+   "en": "Jim gave his mother some gold.",
+   "tgt": "Jim:o donna:v à:o sa:o mère:n de:o l':o or:n .:o"
+  },
+  {
+   "n": 284,
+   "en": "He was home again at the inn.",
+   "tgt": "Il:o était:v de:o nouveau:a chez:o lui:o à:o l':o auberge:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "But Jim never went back to the sea.",
+   "tgt": "Mais:o Jim:o ne:o retourna:v jamais:o à:o la:o mer:n .:o"
+  },
+  {
+   "n": 286,
+   "en": "He did not want any more treasure.",
+   "tgt": "Il:o ne:o voulait:v plus:o de:o trésor:n .:o"
+  }
+ ]
+}

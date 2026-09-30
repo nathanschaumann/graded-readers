@@ -1,0 +1,1176 @@
+{
+ "slug": "east_of_the_sun_and_west_of_the_moon",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Poor Family",
+   "en": "A poor family lived in a small house.",
+   "tgt": "Une:o famille:n pauvre:a vivait:v dans:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The father and mother had little money and little food.",
+   "tgt": "Le:o père:n et:o la:o mère:n avaient:v peu:a d':o argent:n et:o peu:a de:o nourriture:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "They had three daughters, and the youngest was the kindest.",
+   "tgt": "Ils:o avaient:v trois:o filles:n ,:o et:o la:o plus:a jeune:a était:v la:o plus:a gentille:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "She helped her mother with the work every day.",
+   "tgt": "Elle:o aidait:v sa:o mère:n avec:o le:o travail:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Soon, the little food they had was almost gone.",
+   "tgt": "Bientôt:a ,:o le:o peu:a de:o nourriture:n qu':o ils:o avaient:v était:v presque:a épuisé:a .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"We have so little food,\" the mother said one night.",
+   "tgt": "«:o Nous:o avons:v si:a peu:a de:o nourriture:n ,:o »:o dit:v la:o mère:n un:o soir:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"We will manage,\" the father said.",
+   "tgt": "«:o Nous:o nous:o en:o sortirons:v ,:o »:o dit:v le:o père:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "The youngest daughter said little, but she was afraid.",
+   "tgt": "La:o plus:a jeune:a fille:n dit:v peu:a ,:o mais:o elle:o avait:v peur:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "She wished to help her poor family.",
+   "tgt": "Elle:o souhaitait:v aider:v sa:o pauvre:a famille:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "That night, a storm came to the house.",
+   "tgt": "Cette:o nuit-là:n ,:o une:o tempête:n arriva:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "Wind beat against the small house.",
+   "tgt": "Le:o vent:n frappa:v contre:o la:o petite:a maison:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "Snow fell, and the wind was cold.",
+   "tgt": "La:o neige:n tomba:v ,:o et:o le:o vent:n était:v froid:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "The three daughters sat by the fire.",
+   "tgt": "Les:o trois:o filles:n étaient:v assises:a près:o du:o feu:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Someone knocked at the door.",
+   "tgt": "Quelqu':o un:o frappa:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "The knock came again.",
+   "tgt": "Le:o coup:n vint:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "The father stood and walked to the door.",
+   "tgt": "Le:o père:n se:o leva:v et:o marcha:v vers:o la:o porte:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "The father opened the door.",
+   "tgt": "Le:o père:n ouvrit:v la:o porte:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "A white bear stood in the storm.",
+   "tgt": "Un:o ours:n blanc:a se:o tenait:v dans:o la:o tempête:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The father stepped back.",
+   "tgt": "Le:o père:n recula:v .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"Do not be afraid,\" the white bear said.",
+   "tgt": "«:o N':o ayez:v pas:o peur:n ,:o »:o dit:v -il:o ,:o l':o ours:n blanc:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"I will make your family rich,\" the bear said.",
+   "tgt": "«:o Je:o rendrai:v votre:o famille:n riche:a ,:o »:o dit:v -il:o ,:o l':o ours:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"Give me your youngest daughter,\" the bear said.",
+   "tgt": "«:o Donnez:v -moi:o votre:o fille:n la:o plus:a jeune:a ,:o »:o dit:v -il:o le:o ours:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The father did not want to lose his daughter.",
+   "tgt": "Le:o père:n ne:o voulait:v pas:o perdre:v sa:o fille:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "The father called the mother and the three daughters to the door.",
+   "tgt": "Le:o père:n appela:v la:o mère:n et:o les:o trois:o filles:n à:o la:o porte:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He told them what the white bear wanted.",
+   "tgt": "Il:o leur:o dit:v ce:o que:o l':o ours:n blanc:a voulait:v .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"Where would she live?\" the mother asked the bear.",
+   "tgt": "«:o Où:o vivrait:v -elle:o ?:o »:o demanda:v la:o mère:n à:o l':o ours:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"In a castle, far from here,\" said the bear.",
+   "tgt": "«:o Dans:o un:o château:n ,:o loin:a d':o ici:o ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"She will have all she needs there,\" the bear said.",
+   "tgt": "«:o Elle:o aura:v là:a tout:o ce:o dont:o elle:o a:v besoin:n ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The three daughters looked at the white bear.",
+   "tgt": "Les:o trois:o filles:n regardèrent:v l':o ours:n blanc:a .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"What do you say?\" the bear asked the youngest daughter.",
+   "tgt": "«:o Que:o dites:v -vous:o ?:o »:o demanda:v l':o ours:n à:o la:o fille:n la:o plus:a jeune:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "The youngest daughter looked at her mother and father.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a regarda:v sa:o mère:n et:o son:o père:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "She thought of the little money and the little food.",
+   "tgt": "Elle:o pensa:v à:o le:o peu:n d':o argent:n et:o à:o le:o peu:n de:o nourriture:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "If she went with the bear, her family would be rich.",
+   "tgt": "Si:o elle:o partait:v avec:o l':o ours:n ,:o sa:o famille:n serait:v riche:a .:o"
+  },
+  {
+   "n": 34,
+   "en": "But she did not know the white bear at all.",
+   "tgt": "Mais:o elle:o ne:o connaissait:v pas:o du:o tout:a l':o ours:n blanc:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "She was afraid to leave her home.",
+   "tgt": "Elle:o avait:v peur:n de:o quitter:v sa:o maison:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "She decided to go with the bear.",
+   "tgt": "Elle:o décida:v de:o partir:v avec:o l':o ours:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"I will go with you,\" she said to the bear.",
+   "tgt": "«:o Je:o partirai:v avec:o toi:o ,:o »:o dit:v -elle:o à:o l':o ours:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Her mother cried.",
+   "tgt": "Sa:o mère:n pleura:v .:o"
+  },
+  {
+   "n": 39,
+   "en": "The father and mother said goodbye to their daughter.",
+   "tgt": "Le:o père:n et:o la:o mère:n dirent:v à:o le:o revoir:n à:o leur:o fille:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The other daughters said goodbye to her too.",
+   "tgt": "Les:o autres:a filles:n lui:o dirent:v à:o le:o revoir:n aussi:a .:o"
+  },
+  {
+   "n": 41,
+   "en": "The white bear told her to climb onto his back.",
+   "tgt": "L':o ours:n blanc:a lui:o dit:v de:o monter:v sur:o son:o dos:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "She held onto the bear, and he ran into the storm.",
+   "tgt": "Elle:o s':o accrocha:v à:o l':o ours:n ,:o et:o il:o courut:v dans:o la:o tempête:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "He ran through the night.",
+   "tgt": "Il:o courut:v toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 44,
+   "chapter": "The Mountain Castle",
+   "en": "The bear and the youngest daughter came to a mountain.",
+   "tgt": "L':o ours:n et:o la:o plus:a jeune:a fille:n arrivèrent:v à:o une:o montagne:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "A castle stood in the mountain.",
+   "tgt": "Un:o château:n se:o dressait:v dans:o la:o montagne:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The castle had rooms of gold.",
+   "tgt": "Le:o château:n avait:v des:o salles:n d':o or:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The bear gave the youngest daughter a room.",
+   "tgt": "L':o ours:n donna:v une:o chambre:n à:o la:o plus:a jeune:a fille:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "She had never seen so much gold before.",
+   "tgt": "Elle:o n':o avait:v jamais:o vu:v autant:o d':o or:n auparavant:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "But she still missed her family.",
+   "tgt": "Mais:o elle:o regrettait:v encore:a sa:o famille:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "One night, she went to bed, and the room grew dark.",
+   "tgt": "Une:o nuit:n ,:o elle:o alla:v se:o coucher:v ,:o et:o la:o chambre:n devint:v sombre:a .:o"
+  },
+  {
+   "n": 51,
+   "en": "Someone came in and lay down beside her.",
+   "tgt": "Quelqu':o un:o entra:v et:o s':o allongea:v à:o côté:n d':o elle:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "She did not see his face, and she did not know who he was.",
+   "tgt": "Elle:o ne:o vit:v pas:o son:o visage:n ,:o et:o elle:o ne:o sut:v pas:o qui:o il:o était:v .:o"
+  },
+  {
+   "n": 53,
+   "en": "Before light came, he was gone.",
+   "tgt": "Avant:o que:o la:o lumière:n arrive:v ,:o il:o était:v parti:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "Night after night, someone came to her in the dark.",
+   "tgt": "Nuit:n après:o nuit:n ,:o quelqu':o un:o venait:v la:o voir:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "She wanted to light a candle and look at him.",
+   "tgt": "Elle:o voulait:v allumer:v une:o bougie:n et:o le:o regarder:v .:o"
+  },
+  {
+   "n": 56,
+   "en": "But she was too afraid.",
+   "tgt": "Mais:o elle:o avait:v trop:a peur:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "One day, the youngest daughter came to the bear.",
+   "tgt": "Un:o jour:n ,:o la:o plus:a jeune:a fille:n vint:v voir:v l':o ours:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "\"May I visit my mother and father?\" she asked.",
+   "tgt": "«:o Puis-je:o rendre:v visite:n à:o ma:o mère:n et:o à:o mon:o père:n ?:o »:o demanda-t:v -elle:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "The white bear thought about this.",
+   "tgt": "L':o ours:n blanc:a réfléchit:v à:o cela:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"You may go and see them,\" the bear said.",
+   "tgt": "«:o Tu:o peux:v aller:v les:o voir:v ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "\"But there is one rule,\" said the bear.",
+   "tgt": "«:o Mais:o il:o y:o a:v une:o règle:n ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"Never talk with your mother alone,\" the bear said.",
+   "tgt": "«:o Ne:o parle:v jamais:o avec:o ta:o mère:n seule:a ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"Why not?\" the youngest daughter asked.",
+   "tgt": "«:o Pourquoi:o pas:o ?:o »:o demanda:v la:o plus:o jeune:a fille:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "\"If you do, trouble will come to us both,\" said the bear.",
+   "tgt": "«:o Si:o tu:o fais:v cela:o ,:o des:o ennuis:n viendront:v à:o nous:o deux:o ,:o »:o dit:v l':o ours:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "She did not know why, but she agreed to the rule.",
+   "tgt": "Elle:o ne:o savait:v pas:o pourquoi:o ,:o mais:o elle:o accepta:v la:o règle:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "\"I will not talk with my mother alone,\" she said.",
+   "tgt": "«:o Je:o ne:o parlerai:v pas:o avec:o ma:o mère:n seule:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "The white bear ran with her back to her home.",
+   "tgt": "L':o ours:n blanc:a courut:v avec:o elle:o jusqu':o à:o sa:o maison:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "Her mother held her and looked at her rich clothes.",
+   "tgt": "Sa:o mère:n la:o tint:v dans:o ses:o bras:n et:o regarda:v ses:o riches:a vêtements:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"You look rich,\" her mother said.",
+   "tgt": "«:o Tu:o as:v l':o air:n riche:a ,:o »:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The youngest daughter told her family about the castle and the gold.",
+   "tgt": "La:o plus:o jeune:a fille:n parla:v à:o sa:o famille:n du:o château:n et:o de:o l':o or:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "But she did not tell them about the man in the dark.",
+   "tgt": "Mais:o elle:o ne:o leur:o parla:v pas:o de:o l':o homme:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The mother asked to speak with her daughter alone.",
+   "tgt": "La:o mère:n demanda:v à:o parler:v seule:a avec:o sa:o fille:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The youngest daughter thought of the bear's rule.",
+   "tgt": "La:o plus:a jeune:a fille:n pensa:v à:o la:o règle:n de:o l':o ours:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"I will not talk with you alone,\" she said.",
+   "tgt": "«:o Je:o ne:o parlerai:v pas:o avec:o vous:o seule:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "\"Why not?\" her mother asked.",
+   "tgt": "«:o Pourquoi:a pas:o ?:o »:o demanda:v sa:o mère:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "Her mother was afraid for her.",
+   "tgt": "Sa:o mère:n avait:v peur:n pour:o elle:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"That man may be a troll,\" her mother said.",
+   "tgt": "«:o Cet:o homme:n est:v peut-être:a un:o troll:n ,:o »:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "But she was afraid for her mother too.",
+   "tgt": "Mais:o elle:o avait:v aussi:a peur:n pour:o sa:o mère:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "She agreed to talk with her mother alone.",
+   "tgt": "Elle:o accepta:v de:o parler:v seule:a avec:o sa:o mère:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "She told her mother about the man in the dark room.",
+   "tgt": "Elle:o parla:v à:o sa:o mère:n de:o l':o homme:n dans:o la:o chambre:n sombre:a .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"I never see his face,\" she said.",
+   "tgt": "«:o Je:o ne:o vois:v jamais:o son:o visage:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 82,
+   "en": "Her mother gave her a candle.",
+   "tgt": "Sa:o mère:n lui:o donna:v une:o bougie:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "\"Light this at night, and look at his face,\" her mother said.",
+   "tgt": "«:o Allume:v -la:o la:o nuit:n ,:o et:o regarde:v son:o visage:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 84,
+   "en": "The youngest daughter took the candle.",
+   "tgt": "La:o fille:n cadette:a prit:v la:o bougie:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Soon the white bear came to take her back to the castle far away.",
+   "tgt": "Bientôt:a l':o ours:n blanc:a vint:v la:o ramener:v au:o château:n lointain:a .:o"
+  },
+  {
+   "n": 86,
+   "en": "She hid the candle in her clothes.",
+   "tgt": "Elle:o cacha:v la:o bougie:n dans:o ses:o vêtements:n .:o"
+  },
+  {
+   "n": 87,
+   "chapter": "The Candle in the Night",
+   "en": "That night, someone came to the dark room.",
+   "tgt": "Cette:o nuit-là:a ,:o quelqu':o un:o vint:v dans:o la:o chambre:n sombre:a .:o"
+  },
+  {
+   "n": 88,
+   "en": "Soon she knew he was asleep.",
+   "tgt": "Bientôt:a elle:o sut:v qu':o il:o dormait:v .:o"
+  },
+  {
+   "n": 89,
+   "en": "She took the candle and lit the room.",
+   "tgt": "Elle:o prit:v la:o bougie:n et:o éclaira:v la:o chambre:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "In the light, she saw a young man.",
+   "tgt": "Dans:o la:o lumière:n ,:o elle:o vit:v un:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "She kissed him.",
+   "tgt": "Elle:o l':o embrassa:v .:o"
+  },
+  {
+   "n": 92,
+   "en": "Three drops of hot wax fell on his shirt.",
+   "tgt": "Trois:o gouttes:n de:o cire:n chaude:a tombèrent:v sur:o sa:o chemise:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The young man woke.",
+   "tgt": "Le:o jeune:a homme:n se:o réveilla:v .:o"
+  },
+  {
+   "n": 94,
+   "en": "He looked at the candle she held.",
+   "tgt": "Il:o regarda:v la:o bougie:n qu':o elle:o tenait:v .:o"
+  },
+  {
+   "n": 95,
+   "en": "He looked at the wax on his shirt.",
+   "tgt": "Il:o regarda:v la:o cire:n sur:o sa:o chemise:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "\"What have you done?\" he said.",
+   "tgt": "«:o Qu':o avez-vous:v fait:v ?:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"I wanted to see your face,\" she said.",
+   "tgt": "«:o Je:o voulais:v voir:v votre:o visage:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "The young man looked sad.",
+   "tgt": "Le:o jeune:a homme:n avait:v l':o air:n triste:a .:o"
+  },
+  {
+   "n": 99,
+   "en": "\"You should not have done this,\" he said.",
+   "tgt": "«:o Vous:o n':o auriez:v pas:o dû:v faire:v cela:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 100,
+   "en": "\"I am a prince,\" the young man said.",
+   "tgt": "«:o Je:o suis:v un:o prince:n ,:o »:o dit:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"A troll's curse fell on me,\" he said.",
+   "tgt": "«:o La:o malédiction:n d':o un:o troll:n tomba:v sur:o moi:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "The youngest daughter was afraid.",
+   "tgt": "La:o plus:a jeune:a fille:n avait:v peur:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"You have lived here almost one year,\" he said.",
+   "tgt": "«:o Vous:o avez:v vécu:v ici:a presque:a un:o an:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"A little more, and the curse would have ended.\"",
+   "tgt": "«:o Un:o peu:a plus:a ,:o et:o la:o malédiction:n aurait:v pris:v fin:n .:o »:o"
+  },
+  {
+   "n": 105,
+   "en": "\"But now you have seen my face.\"",
+   "tgt": "«:o Mais:o maintenant:a vous:o avez:v vu:v mon:o visage:n .:o »:o"
+  },
+  {
+   "n": 106,
+   "en": "He looked at the wax on his shirt.",
+   "tgt": "Il:o regarda:v la:o cire:n sur:o sa:o chemise:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "The prince looked sad.",
+   "tgt": "Le:o prince:n avait:v l':o air:n triste:a .:o"
+  },
+  {
+   "n": 108,
+   "en": "The youngest daughter did not know what to say.",
+   "tgt": "La:o plus:a jeune:a fille:n ne:o savait:v pas:o quoi:o dire:v .:o"
+  },
+  {
+   "n": 109,
+   "en": "\"I did not want this,\" she said.",
+   "tgt": "«:o Je:o ne:o voulais:v pas:o cela:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"Now I must go,\" the prince said.",
+   "tgt": "«:o Maintenant:a je:o dois:v partir:v ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"Go where?\" she asked.",
+   "tgt": "«:o Aller:v où:o ?:o »:o demanda:v -t:o -elle:o .:o"
+  },
+  {
+   "n": 112,
+   "en": "The prince did not speak.",
+   "tgt": "Le:o prince:n ne:o parla:v pas:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "The prince spoke.",
+   "tgt": "Le:o prince:n parla:v .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"I must go to the castle east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o dois:v aller:v au:o château:n à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 115,
+   "en": "\"There, I must marry the troll princess,\" he said.",
+   "tgt": "«:o Là-bas:a ,:o je:o dois:v épouser:v la:o princesse:n troll:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "\"I have seen her long nose,\" he said.",
+   "tgt": "«:o J':o ai:v vu:v son:o long:a nez:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 117,
+   "en": "The youngest daughter did not want him to go.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a ne:o voulait:v pas:o qu':o il:o parte:v .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"Take me with you,\" she said.",
+   "tgt": "«:o Emmène:v -moi:o avec:o toi:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 119,
+   "en": "\"No one finds that castle,\" the prince said.",
+   "tgt": "«:o Personne:o ne:o trouve:v ce:o château:n ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"I do not know the way either,\" he said.",
+   "tgt": "«:o Je:o ne:o connais:v pas:o le:o chemin:n non:o plus:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "The youngest daughter was afraid for him.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a avait:v peur:n pour:o lui:o .:o"
+  },
+  {
+   "n": 122,
+   "en": "Soon the castle shook.",
+   "tgt": "Bientôt:a le:o château:n trembla:v .:o"
+  },
+  {
+   "n": 123,
+   "en": "The prince and the castle both disappeared.",
+   "tgt": "Le:o prince:n et:o le:o château:n disparurent:v tous:o les:o deux:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "The youngest daughter stood alone in a forest.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a se:o retrouva:v seule:a dans:o une:o forêt:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "She decided to find the prince.",
+   "tgt": "Elle:o décida:v de:o trouver:v le:o prince:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The youngest daughter walked through the forest for many days.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a marcha:v à:o travers:o la:o forêt:n pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "Soon, she came to a small house.",
+   "tgt": "Bientôt:a ,:o elle:o arriva:v à:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "An old woman sat by the house.",
+   "tgt": "Une:o vieille:a femme:n était:v assise:a près:o de:o la:o maison:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "\"I look for a prince, east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o cherche:v un:o prince:n ,:o à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 130,
+   "en": "\"I do not know that castle,\" the old woman said.",
+   "tgt": "«:o Je:o ne:o connais:v pas:o ce:o château:n ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "\"But take this golden apple,\" she said.",
+   "tgt": "«:o Mais:o prends:v cette:o pomme:n d':o or:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 132,
+   "en": "\"Take my horse, and ride to my sister,\" said the old woman.",
+   "tgt": "«:o Prends:v mon:o cheval:n ,:o et:o va:v chez:o ma:o sœur:n ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "\"She may know the way.\"",
+   "tgt": "«:o Elle:o connaît:v peut-être:a le:o chemin:n .:o »:o"
+  },
+  {
+   "n": 134,
+   "en": "The youngest daughter thanked her and rode on.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a la:o remercia:v et:o continua:v sa:o route:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "She came to the next old woman and asked the same question.",
+   "tgt": "Elle:o arriva:v chez:o la:o vieille:a femme:n suivante:a et:o lui:o posa:v la:o même:a question:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "This old woman did not know the way either.",
+   "tgt": "Cette:o vieille:a femme:n ne:o connaissait:v pas:o non:o plus:o le:o chemin:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "But she gave a golden comb, lent a horse, and sent her on her way.",
+   "tgt": "Mais:o elle:o donna:v un:o peigne:n doré:a ,:o prêta:v un:o cheval:n ,:o et:o la:o mit:v en:o route:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "The youngest daughter thanked her and rode to a third old woman.",
+   "tgt": "La:o plus:a jeune:a fille:n la:o remercia:v et:o chevaucha:v vers:o une:o troisième:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "She asked the same question again.",
+   "tgt": "Elle:o posa:v la:o même:o question:n encore:a .:o"
+  },
+  {
+   "n": 140,
+   "en": "\"But take this golden wheel,\" she said.",
+   "tgt": "«:o Mais:o prends:v cette:o roue:n dorée:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "\"Now go and ask the four winds, for they may know the way.\"",
+   "tgt": "«:o Maintenant:a va:v et:o demande:v aux:o quatre:o vents:n ,:o car:o ils:o peuvent:v connaître:v le:o chemin:n .:o »:o"
+  },
+  {
+   "n": 142,
+   "chapter": "The Winds' Relay",
+   "en": "The youngest daughter came to the East Wind.",
+   "tgt": "La:o plus:a jeune:a fille:n arriva:v au:o Vent:o de:o l':o Est:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "He was cold, and he blew against her face.",
+   "tgt": "Il:o était:v froid:a ,:o et:o il:o souffla:v contre:o son:o visage:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"I look for a prince, east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o cherche:v un:o prince:n ,:o à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 145,
+   "en": "\"I have blown over many lands, but never so far,\" the East Wind said.",
+   "tgt": "«:o J':o ai:v soufflé:v sur:o beaucoup:a de:o terres:n ,:o mais:o jamais:o si:a loin:a ,:o »:o dit:v le:o Vent:o de:o l':o Est:o .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"My brother, the West Wind, is stronger, and he may know,\" he said.",
+   "tgt": "«:o Mon:o frère:n ,:o le:o Vent:o de:o l':o Ouest:o ,:o est:v plus:a fort:a ,:o et:o il:o peut:v savoir:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 147,
+   "en": "He lifted her into the sky and blew her over green hills.",
+   "tgt": "Il:o la:o souleva:v dans:o le:o ciel:n et:o la:o souffla:v par-dessus:o de:o vertes:a collines:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "He set her down before his brother.",
+   "tgt": "Il:o la:o posa:v devant:o son:o frère:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "The West Wind was larger, and his voice was loud.",
+   "tgt": "Le:o Vent:o de:o l':o Ouest:o était:v plus:o grand:a ,:o et:o sa:o voix:n était:v forte:a .:o"
+  },
+  {
+   "n": 150,
+   "en": "\"I look for a prince, east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o cherche:v un:o prince:n ,:o à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 151,
+   "en": "\"I have never blown so far,\" said the West Wind.",
+   "tgt": "«:o Je:o n':o ai:v jamais:o soufflé:v aussi:o loin:a ,:o »:o dit:v le:o Vent:o de:o l':o Ouest:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "\"But my brother, the South Wind, may know the way,\" he said.",
+   "tgt": "«:o Mais:o mon:o frère:n ,:o le:o Vent:o du:o Sud:o ,:o connaît:v peut-être:a le:o chemin:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 153,
+   "en": "He lifted her into the sky and blew her over dark mountains.",
+   "tgt": "Il:o la:o souleva:v dans:o le:o ciel:n et:o la:o souffla:v par-dessus:o de:o sombres:a montagnes:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "The youngest daughter held on and did not look down.",
+   "tgt": "La:o plus:o jeune:a fille:n tint:v bon:a et:o ne:o regarda:v pas:o en:o bas:a .:o"
+  },
+  {
+   "n": 155,
+   "en": "The South Wind stood warm and strong beside the sea, which stretched far below.",
+   "tgt": "Le:o Vent:o du:o Sud:o se:o tenait:v chaud:a et:o fort:a près:o de:o la:o mer:n ,:o qui:o s':o étendait:v loin:a en:o bas:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "\"I look for a prince, east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o cherche:v un:o prince:n ,:o à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 157,
+   "en": "\"I have crossed wide seas, but never that far,\" he said.",
+   "tgt": "«:o J':o ai:v traversé:v de:o larges:a mers:n ,:o mais:o jamais:o aussi:o loin:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 158,
+   "en": "\"Only my brother, the North Wind, may know the way,\" he said.",
+   "tgt": "«:o Seul:a mon:o frère:n ,:o le:o Vent:o du:o Nord:o ,:o connaît:v peut-être:a le:o chemin:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 159,
+   "en": "The youngest daughter came to the North Wind.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a vint:v au:o Nord:o .:o"
+  },
+  {
+   "n": 160,
+   "en": "He was the oldest and strongest of the four winds.",
+   "tgt": "Il:o était:v le:o plus:a vieux:a et:o le:o plus:a fort:a des:o quatre:o vents:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "\"I look for a prince, east of the sun and west of the moon.\"",
+   "tgt": "«:o Je:o cherche:v un:o prince:n ,:o à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o »:o"
+  },
+  {
+   "n": 162,
+   "en": "\"I went there once,\" the North Wind said.",
+   "tgt": "«:o J':o y:o allai:v une:o fois:a ,:o »:o dit:v le:o Vent:o du:o Nord:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"I blew an aspen leaf there once.\"",
+   "tgt": "«:o J':o y:o soufflai:v une:o feuille:n de:o tremble:n une:o fois:a .:o »:o"
+  },
+  {
+   "n": 164,
+   "en": "\"I was tired for days after,\" he said.",
+   "tgt": "«:o J':o étais:v fatigué:a pendant:o des:o jours:n après:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 165,
+   "en": "\"The way is far, over a wide sea,\" he said.",
+   "tgt": "«:o Le:o chemin:n est:v long:a ,:o au-delà:o d':o une:o mer:n large:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "\"I will try to blow you there,\" said the North Wind.",
+   "tgt": "«:o Je:o vais:v essayer:v de:o te:o souffler:v là-bas:a ,:o »:o dit:v le:o Vent:o du:o Nord:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "He lifted her into the sky and blew to the sea.",
+   "tgt": "Il:o la:o souleva:v dans:o le:o ciel:n et:o souffla:v vers:o la:o mer:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "He blew all day and all night over the wide sea.",
+   "tgt": "Il:o souffla:v toute:o la:o journée:n et:o toute:o la:o nuit:n sur:o la:o grande:a mer:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "\"I am almost too tired to go on,\" said the North Wind.",
+   "tgt": "«:o Je:o suis:v presque:a trop:a fatigué:a pour:o continuer:v »:o ,:o dit:v le:o Vent:n du:o Nord:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "But he blew on, over the last of the sea.",
+   "tgt": "Mais:o il:o souffla:v encore:a ,:o au-dessus:o du:o dernier:a bout:n de:o mer:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "At last, he saw land.",
+   "tgt": "Enfin:a ,:o il:o aperçut:v la:o terre:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "With his last strength, he set her down on the shore.",
+   "tgt": "Avec:o ses:o dernières:a forces:n ,:o il:o la:o déposa:v sur:o le:o rivage:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "A castle stood there.",
+   "tgt": "Un:o château:n se:o dressait:v là:a .:o"
+  },
+  {
+   "n": 174,
+   "en": "\"This is the castle east of the sun and west of the moon,\" he said.",
+   "tgt": "«:o C':o est:v le:o château:n à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 175,
+   "chapter": "Trading for the Nights",
+   "en": "She came to the castle east of the sun and west of the moon.",
+   "tgt": "Elle:o arriva:v au:o château:n à:o l':o est:n du:o soleil:n et:o à:o l':o ouest:n de:o la:o lune:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "There she saw the troll princess, with a long nose.",
+   "tgt": "Là:a ,:o elle:o vit:v la:o princesse:n troll:n ,:o avec:o un:o long:a nez:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "\"I will trade this golden apple for one night,\" the youngest daughter said.",
+   "tgt": "«:o Je:o vais:v échanger:v cette:o pomme:n dorée:a contre:o une:o nuit:n »:o ,:o dit:v la:o plus:o jeune:a fille:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "The troll princess wanted gold, so she agreed.",
+   "tgt": "La:o princesse:n troll:n voulait:v de:o l':o or:n ,:o alors:o elle:o accepta:v .:o"
+  },
+  {
+   "n": 179,
+   "en": "That night, the youngest daughter came to the prince's room.",
+   "tgt": "Cette:o nuit-là:a ,:o la:o plus:o jeune:a fille:n vint:v dans:o la:o chambre:n du:o prince:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "He lay asleep, but he did not wake.",
+   "tgt": "Il:o était:v endormi:a ,:o mais:o il:o ne:o se:o réveilla:v pas:o .:o"
+  },
+  {
+   "n": 181,
+   "en": "The trolls had given him a sleeping drink.",
+   "tgt": "Les:o trolls:n lui:o avaient:v donné:v une:o boisson:n soporifique:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "The youngest daughter cried to him.",
+   "tgt": "La:o plus:a jeune:a fille:n pleura:v vers:o lui:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "Soon she had to leave the room.",
+   "tgt": "Bientôt:a elle:o dut:v quitter:v la:o chambre:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "She traded the golden comb for one more night there.",
+   "tgt": "Elle:o échangea:v le:o peigne:n doré:a contre:o une:o nuit:n de:o plus:a là-bas:a .:o"
+  },
+  {
+   "n": 185,
+   "en": "Again, the prince lay asleep and did not wake.",
+   "tgt": "De:o nouveau:a ,:o le:o prince:n était:v endormi:a et:o ne:o se:o réveilla:v pas:o .:o"
+  },
+  {
+   "n": 186,
+   "en": "The youngest daughter cried beside him all night.",
+   "tgt": "La:o plus:a jeune:a fille:n pleura:v à:o côté:n de:o lui:o toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 187,
+   "en": "Captives lived in the castle, and they heard her every night.",
+   "tgt": "Des:o captifs:n vivaient:v dans:o le:o château:n ,:o et:o ils:o l':o entendaient:v chaque:o nuit:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "By day, the captives saw the prince, for he had no drink.",
+   "tgt": "Le:o jour:n ,:o les:o captifs:n voyaient:v le:o prince:n ,:o car:o il:o n':o avait:v pas:o de:o boisson:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "They decided to tell him what they had heard.",
+   "tgt": "Ils:o décidèrent:v de:o lui:o dire:v ce:o qu':o ils:o avaient:v entendu:v .:o"
+  },
+  {
+   "n": 190,
+   "en": "The captives told the prince what they knew.",
+   "tgt": "Les:o captifs:n dirent:v au:o prince:n ce:o qu':o ils:o savaient:v .:o"
+  },
+  {
+   "n": 191,
+   "en": "\"Someone cried by your bed every night,\" they said.",
+   "tgt": "«:o Quelqu':o un:o a:v pleuré:v près:o de:o ton:o lit:n chaque:o nuit:n ,:o »:o dirent:v -ils:o .:o"
+  },
+  {
+   "n": 192,
+   "en": "The prince did not know who cried.",
+   "tgt": "Le:o prince:n ne:o savait:v pas:o qui:o avait:v pleuré:v .:o"
+  },
+  {
+   "n": 193,
+   "en": "But he thought it might be her.",
+   "tgt": "Mais:o il:o pensa:v que:o c':o était:v peut-être:a elle:o .:o"
+  },
+  {
+   "n": 194,
+   "en": "That night, the trolls gave him the sleeping drink.",
+   "tgt": "Cette:o nuit:n -là:o ,:o les:o trolls:n lui:o donnèrent:v la:o boisson:n soporifique:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "The prince did not drink it.",
+   "tgt": "Le:o prince:n ne:o la:o but:v pas:o .:o"
+  },
+  {
+   "n": 196,
+   "en": "No one saw him pour it away.",
+   "tgt": "Personne:o ne:o le:o vit:v la:o verser:v .:o"
+  },
+  {
+   "n": 197,
+   "en": "He waited in the dark for her to come.",
+   "tgt": "Il:o attendit:v dans:o l':o obscurité:n qu':o elle:o vienne:v .:o"
+  },
+  {
+   "n": 198,
+   "en": "The youngest daughter traded the golden wheel for one more night.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a échangea:v la:o roue:n dorée:a contre:o une:o nuit:n de:o plus:a .:o"
+  },
+  {
+   "n": 199,
+   "en": "She came to his room in the dark.",
+   "tgt": "Elle:o vint:v dans:o sa:o chambre:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 200,
+   "en": "The prince was awake.",
+   "tgt": "Le:o prince:n était:v éveillé:a .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"Is it you?\" he asked.",
+   "tgt": "«:o Est-ce:o vous:o ?:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 202,
+   "en": "\"Yes, it is,\" she said.",
+   "tgt": "«:o Oui:o ,:o c':o est:v moi:o »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 203,
+   "en": "The prince was glad, and he held her, for it was her.",
+   "tgt": "Le:o prince:n était:v content:a ,:o et:o il:o la:o tint:v dans:o ses:o bras:n ,:o car:o c':o était:v elle:o .:o"
+  },
+  {
+   "n": 204,
+   "en": "The prince told her they must go away from this castle.",
+   "tgt": "Le:o prince:n lui:o dit:v qu':o ils:o devaient:v quitter:v ce:o château:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "\"The trolls will not let me go,\" he said.",
+   "tgt": "«:o Les:o trolls:n ne:o me:o laisseront:v pas:o partir:v »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 206,
+   "en": "\"I will make one test,\" said the prince.",
+   "tgt": "«:o Je:o vais:v faire:v une:o épreuve:n »:o ,:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 207,
+   "en": "He showed her his shirt, with the wax still on it.",
+   "tgt": "Il:o lui:o montra:v sa:o chemise:n ,:o avec:o la:o cire:n encore:a dessus:o .:o"
+  },
+  {
+   "n": 208,
+   "en": "\"I will marry only the one who can wash this white,\" he said.",
+   "tgt": "«:o Je:o n':o épouserai:v que:o celle:o qui:o pourra:v laver:v cela:o en:o blanc:a »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 209,
+   "en": "\"The troll princess will try first,\" he said.",
+   "tgt": "«:o La:o princesse:n des:o trolls:n essaiera:v en:o premier:a »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "\"But she will fail,\" said the prince.",
+   "tgt": "«:o Mais:o elle:o échouera:v ,:o »:o dit:v le:o prince:o .:o"
+  },
+  {
+   "n": 211,
+   "en": "\"Then you will try,\" he said.",
+   "tgt": "«:o Alors:o vous:o essaierez:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 212,
+   "en": "The youngest daughter agreed.",
+   "tgt": "La:o plus:o jeune:a fille:n accepta:v .:o"
+  },
+  {
+   "n": 213,
+   "en": "Soon, morning came to the castle.",
+   "tgt": "Bientôt:a ,:o le:o matin:n arriva:v au:o château:n .:o"
+  },
+  {
+   "n": 214,
+   "en": "The prince called the troll princess and her mother to him.",
+   "tgt": "Le:o prince:n appela:v la:o princesse:n troll:o et:o sa:o mère:n auprès:o de:o lui:o .:o"
+  },
+  {
+   "n": 215,
+   "en": "The troll princess wanted to be his bride.",
+   "tgt": "La:o princesse:n troll:o voulait:v être:v sa:o épouse:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "She believed she could wash it.",
+   "tgt": "Elle:o croyait:v qu':o elle:o pouvait:v le:o laver:v .:o"
+  },
+  {
+   "n": 217,
+   "en": "The troll princess tried to wash the shirt.",
+   "tgt": "La:o princesse:n troll:o essaya:v de:o laver:v la:o chemise:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "The more she washed it, the darker it grew.",
+   "tgt": "Plus:o elle:o la:o lavait:v ,:o plus:o elle:o devenait:v sombre:a .:o"
+  },
+  {
+   "n": 219,
+   "en": "Her mother tried next, but the shirt grew darker still.",
+   "tgt": "Sa:o mère:n essaya:v ensuite:a ,:o mais:o la:o chemise:n devint:v encore:a plus:o sombre:a .:o"
+  },
+  {
+   "n": 220,
+   "en": "Soon the youngest daughter stepped forward.",
+   "tgt": "Bientôt:a la:o fille:n la:o plus:a jeune:a s':o avança:v .:o"
+  },
+  {
+   "n": 221,
+   "en": "\"Let me try,\" she said.",
+   "tgt": "«:o Laissez:v -moi:o essayer:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 222,
+   "en": "The troll princess laughed at her.",
+   "tgt": "La:o princesse:n troll:n se:o moqua:v d':o elle:o .:o"
+  },
+  {
+   "n": 223,
+   "en": "But the prince let her try.",
+   "tgt": "Mais:o le:o prince:n la:o laissa:v essayer:v .:o"
+  },
+  {
+   "n": 224,
+   "en": "The youngest daughter washed the shirt.",
+   "tgt": "La:o fille:n la:o plus:a jeune:a lava:v la:o chemise:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "Soon it was white.",
+   "tgt": "Bientôt:a elle:o était:v blanche:a .:o"
+  },
+  {
+   "n": 226,
+   "en": "\"You will be my true bride,\" the prince said.",
+   "tgt": "«:o Tu:o seras:v ma:o vraie:a épouse:n ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 227,
+   "en": "The troll princess and her mother grew angry.",
+   "tgt": "La:o princesse:n troll:n et:o sa:o mère:n devinrent:v furieuses:a .:o"
+  },
+  {
+   "n": 228,
+   "en": "They ran away into the mountains and never came back.",
+   "tgt": "Elles:o s':o enfuirent:v dans:o les:o montagnes:n et:o ne:o revinrent:v jamais:o .:o"
+  },
+  {
+   "n": 229,
+   "en": "The prince freed all the captives in the castle.",
+   "tgt": "Le:o prince:n libéra:v tous:o les:o captifs:n du:o château:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "The prince married the youngest daughter.",
+   "tgt": "Le:o prince:n épousa:v la:o fille:n la:o plus:a jeune:a .:o"
+  },
+  {
+   "n": 231,
+   "en": "They left the castle and went far away together.",
+   "tgt": "Ils:o quittèrent:v le:o château:n et:o partirent:v loin:a ensemble:a .:o"
+  },
+  {
+   "n": 232,
+   "en": "Her family was glad to see her again.",
+   "tgt": "Sa:o famille:n fut:v heureuse:a de:o la:o revoir:v .:o"
+  },
+  {
+   "n": 233,
+   "en": "They never saw the trolls again.",
+   "tgt": "Ils:o ne:o revirent:v jamais:o les:o trolls:n .:o"
+  }
+ ]
+}

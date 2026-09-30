@@ -1,0 +1,428 @@
+{
+ "slug": "fisherman_and_his_wife",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Poor Fisherman",
+   "en": "A poor fisherman lived by the sea.",
+   "tgt": "Un:o pêcheur:n pauvre:a vivait:v au:o bord:n de:o la:o mer:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He lived there with his wife.",
+   "tgt": "Il:o vivait:v là:a avec:o sa:o femme:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Their home was a small hut.",
+   "tgt": "Leur:o maison:n était:v une:o petite:a cabane:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The hut had just one room.",
+   "tgt": "La:o cabane:n avait:v juste:a une:o seule:a pièce:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Every day, the fisherman went to fish.",
+   "tgt": "Chaque:o jour:n ,:o le:o pêcheur:n allait:v pêcher:v .:o"
+  },
+  {
+   "n": 6,
+   "en": "He sat by the water with a hook and line.",
+   "tgt": "Il:o s':o asseyait:v au:o bord:n de:o l':o eau:n avec:o un:o hameçon:n et:o une:o ligne:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "He waited there for a fish to bite.",
+   "tgt": "Il:o attendait:v là:a qu':o un:o poisson:n morde:v .:o"
+  },
+  {
+   "n": 8,
+   "en": "Some days he caught a fish or two.",
+   "tgt": "Certains:o jours:n ,:o il:o attrapait:v un:o poisson:n ou:o deux:o .:o"
+  },
+  {
+   "n": 9,
+   "en": "They ate the fish for their supper.",
+   "tgt": "Ils:o mangeaient:v le:o poisson:n pour:o leur:o souper:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "Other days he caught nothing at all.",
+   "tgt": "D':o autres:a jours:n ,:o il:o n':o attrapait:v rien:o du:o tout:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "But the fisherman and his wife lived on.",
+   "tgt": "Mais:o le:o pêcheur:n et:o sa:o femme:n continuèrent:v à:o vivre:v .:o"
+  },
+  {
+   "n": 12,
+   "chapter": "The Fish That Could Talk",
+   "en": "One day, the fisherman went to fish.",
+   "tgt": "Un:o jour:n ,:o le:o pêcheur:n alla:v pêcher:v .:o"
+  },
+  {
+   "n": 13,
+   "en": "He sat by the sea with his hook and line.",
+   "tgt": "Il:o s':o assit:v au:o bord:n de:o la:o mer:n avec:o son:o hameçon:n et:o sa:o ligne:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Something big pulled on the line.",
+   "tgt": "Quelque:o chose:n de:o grand:a tira:v sur:o la:o ligne:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "A fish came up out of the water.",
+   "tgt": "Un:o poisson:n sortit:v de:o l':o eau:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The fish began to talk.",
+   "tgt": "Le:o poisson:n commença:v à:o parler:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"Put me back in the sea,\" said the fish.",
+   "tgt": "«:o Remets:v -moi:o dans:o la:o mer:n ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"Free me,\" it said.",
+   "tgt": "«:o Libère:v -moi:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"I can give you a wish,\" said the fish.",
+   "tgt": "«:o Je:o peux:v vous:o accorder:v un:o souhait:n ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "The fisherman did not want anything.",
+   "tgt": "Le:o pêcheur:n ne:o voulait:v rien:o .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"I do not need a wish,\" he said.",
+   "tgt": "«:o Je:o n':o ai:v pas:o besoin:n d':o un:o souhait:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"Call me if you need it,\" said the fish.",
+   "tgt": "«:o Appelez:v -moi:o si:o vous:o en:o avez:v besoin:n ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The fisherman let the fish go into the sea.",
+   "tgt": "Le:o pêcheur:n laissa:v le:o poisson:n retourner:v dans:o la:o mer:n .:o"
+  },
+  {
+   "n": 24,
+   "chapter": "A Wish for a House",
+   "en": "The fisherman went home and told his wife.",
+   "tgt": "Le:o pêcheur:n rentra:v chez:o lui:o et:o dit:v la:o nouvelle:n à:o sa:o femme:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"The fish can talk and grant wishes,\" he said.",
+   "tgt": "«:o Le:o poisson:n peut:v parler:v et:o exaucer:v des:o vœux:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"But you did not ask for anything?\" said the wife.",
+   "tgt": "«:o Mais:o tu:o n':o as:v rien:o demandé:v ?:o »:o dit:v la:o femme:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"Go back and ask for a nice house,\" she said.",
+   "tgt": "«:o Retourne:v là-bas:a et:o demande:v une:o belle:a maison:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "So the fisherman walked to the sea again.",
+   "tgt": "Alors:o le:o pêcheur:n marcha:v de:o nouveau:a vers:o la:o mer:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"Fish, fish, come to me!\" he called.",
+   "tgt": "«:o Poisson:n ,:o poisson:n ,:o viens:v vers:o moi:o !:o »:o appela:v -t-il:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "The fish came up out of the calm water.",
+   "tgt": "Le:o poisson:n remonta:v hors:o de:o l':o eau:n calme:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"What do you want?\" it asked.",
+   "tgt": "«:o Que:o veux:v -tu:o ?:o »:o demanda:v -t-il:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"My wife wants a nice house,\" said the fisherman.",
+   "tgt": "«:o Ma:o femme:n veut:v une:o belle:a maison:n ,:o »:o dit:v le:o pêcheur:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"Go home, and your wish is done,\" said the fish.",
+   "tgt": "«:o Rentre:v chez:o toi:o ,:o et:o ton:o vœu:n est:v exaucé:a ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The fisherman walked home again.",
+   "tgt": "Le:o pêcheur:n rentra:v chez:o lui:o de:o nouveau:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "There, a nice house stood where the hut had been.",
+   "tgt": "Là:o ,:o une:o belle:a maison:n se:o dressait:v là:o où:o la:o cabane:n avait:v été:v .:o"
+  },
+  {
+   "n": 36,
+   "chapter": "A Wish for a Castle",
+   "en": "The house was nice, but the wife wanted more.",
+   "tgt": "La:o maison:n était:v belle:a ,:o mais:o la:o femme:n voulait:v plus:a .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"I want a great castle,\" she told the fisherman.",
+   "tgt": "«:o Je:o veux:v un:o grand:a château:n ,:o »:o dit:v -elle:o au:o pêcheur:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"A house is too small for us,\" she said.",
+   "tgt": "«:o Une:o maison:n est:v trop:a petite:a pour:o nous:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "But the fisherman walked back to the sea for her.",
+   "tgt": "Mais:o le:o pêcheur:n retourna:v à:o la:o mer:n pour:o elle:o .:o"
+  },
+  {
+   "n": 40,
+   "en": "This time the water was not calm.",
+   "tgt": "Cette:o fois:n ,:o l':o eau:n n':o était:v pas:o calme:a .:o"
+  },
+  {
+   "n": 41,
+   "en": "Small waves moved across the gray sea.",
+   "tgt": "De:o petites:a vagues:n traversaient:v la:o mer:n grise:a .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"Fish, fish, come to me!\" he called.",
+   "tgt": "«:o Poisson:n ,:o poisson:n ,:o viens:v à:o moi:o !:o »:o cria:v -il:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "The fish came up through the waves.",
+   "tgt": "Le:o poisson:n monta:v à:o travers:o les:o vagues:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"What do you want?\" it asked.",
+   "tgt": "«:o Que:o veux:v -tu:o ?:o »:o demanda:v -t':o il:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"My wife wants a great castle,\" said the fisherman.",
+   "tgt": "«:o Ma:o femme:n veut:v un:o grand:a château:n ,:o »:o dit:v le:o pêcheur:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"Go home, and your wish is done,\" said the fish.",
+   "tgt": "«:o Rentre:v chez:o toi:o ,:o et:o ton:o souhait:n est:v exaucé:a ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "He walked home and saw a great castle.",
+   "tgt": "Il:o rentra:v chez:o lui:o et:o vit:v un:o grand:a château:n .:o"
+  },
+  {
+   "n": 48,
+   "chapter": "A Wish to Be King",
+   "en": "The castle was great, but the wife wanted more.",
+   "tgt": "Le:o château:n était:v grand:a ,:o mais:o la:o femme:n voulait:v plus:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "\"I want to be king,\" she told the fisherman.",
+   "tgt": "«:o Je:o veux:v être:v reine:n ,:o »:o dit-elle:o au:o pêcheur:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"I do not want a castle,\" she said.",
+   "tgt": "«:o Je:o ne:o veux:v pas:o de:o château:n ,:o »:o dit-elle:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "The fisherman walked back to the sea.",
+   "tgt": "Le:o pêcheur:n retourna:v vers:o la:o mer:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The sky grew dark, and the wind blew.",
+   "tgt": "Le:o ciel:n devint:v sombre:a ,:o et:o le:o vent:n souffla:v .:o"
+  },
+  {
+   "n": 53,
+   "en": "He was afraid, but he called out.",
+   "tgt": "Il:o avait:v peur:n ,:o mais:o il:o cria:v .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Fish, fish, come to me!\" he called.",
+   "tgt": "«:o Poisson:n ,:o poisson:n ,:o viens:v vers:o moi:o !:o »:o cria-t-il:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "The fish came up out of the dark water.",
+   "tgt": "Le:o poisson:n remonta:v hors:o de:o l':o eau:n sombre:a .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"What do you want?\" it asked.",
+   "tgt": "«:o Que:o veux-tu:v ?:o »:o demanda-t-il:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"My wife wants to be king,\" said the fisherman.",
+   "tgt": "«:o Ma:o femme:n veut:v être:v reine:n ,:o »:o dit:v le:o pêcheur:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "\"Go home, and your wish is done,\" said the fish.",
+   "tgt": "«:o Rentre:v chez:o toi:o ,:o et:o ton:o souhait:n est:v exaucé:a ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "He walked home, and his wife wore a gold crown.",
+   "tgt": "Il:o rentra:v chez:o lui:o ,:o et:o sa:o femme:n portait:v une:o couronne:n d':o or:n .:o"
+  },
+  {
+   "n": 60,
+   "chapter": "The Biggest Wish",
+   "en": "As king, the wife still wanted more.",
+   "tgt": "En:o tant:o que:o reine:n ,:o la:o femme:n voulait:v encore:a plus:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "\"I want the sun and the moon too,\" she said.",
+   "tgt": "«:o Je:o veux:v le:o soleil:n et:o la:o lune:n aussi:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 62,
+   "en": "The fisherman went to the sea.",
+   "tgt": "Le:o pêcheur:n alla:v à:o la:o mer:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "Black clouds filled the sky, and thunder came.",
+   "tgt": "Des:o nuages:n noirs:a remplirent:v le:o ciel:n ,:o et:o le:o tonnerre:n arriva:v .:o"
+  },
+  {
+   "n": 64,
+   "en": "Lightning flashed, and huge waves rose.",
+   "tgt": "Les:o éclairs:n brillèrent:v ,:o et:o de:o énormes:a vagues:n se:o levèrent:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "He was afraid, but he called out.",
+   "tgt": "Il:o avait:v peur:n ,:o mais:o il:o cria:v .:o"
+  },
+  {
+   "n": 66,
+   "en": "\"Fish, fish, come to me!\" he called.",
+   "tgt": "«:o Poisson:n ,:o poisson:n ,:o viens:v vers:o moi:o !:o »:o cria:v -il:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "The fish came up through the huge waves.",
+   "tgt": "Le:o poisson:n monta:v à:o travers:o les:o énormes:a vagues:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "\"What do you want?\" it asked.",
+   "tgt": "«:o Que:o veux:v -tu:o ?:o »:o demanda:v -t':o il:o .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"My wife wants the sun and moon,\" said the fisherman.",
+   "tgt": "«:o Ma:o femme:n veut:v le:o soleil:n et:o la:o lune:n ,:o »:o dit:v le:o pêcheur:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"That is too much to give,\" said the fish.",
+   "tgt": "«:o C':o est:v trop:a à:o donner:v ,:o »:o dit:v le:o poisson:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"Go home now,\" it said.",
+   "tgt": "«:o Rentre:v chez:o toi:o maintenant:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 72,
+   "chapter": "Back to the Old Hut",
+   "en": "The fisherman walked home through the storm.",
+   "tgt": "Le:o pêcheur:n rentra:v chez:o lui:o à:o travers:o la:o tempête:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The wind grew quiet as he walked.",
+   "tgt": "Le:o vent:n devint:v silencieux:a tandis:o qu':o il:o marchait:v .:o"
+  },
+  {
+   "n": 74,
+   "en": "When he came home, the castle was gone.",
+   "tgt": "Quand:o il:o rentra:v chez:o lui:o ,:o le:o château:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 75,
+   "en": "The small hut stood there.",
+   "tgt": "La:o petite:a cabane:n se:o trouvait:v là:a .:o"
+  },
+  {
+   "n": 76,
+   "en": "His wife stood there too.",
+   "tgt": "Sa:o femme:n se:o trouvait:v là:a aussi:a .:o"
+  },
+  {
+   "n": 77,
+   "en": "She no longer wore the gold crown.",
+   "tgt": "Elle:o ne:o portait:v plus:o la:o couronne:n d':o or:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "\"We are back where we started,\" she said.",
+   "tgt": "«:o Nous:o sommes:v revenus:v là:a où:o nous:o avons:v commencé:v »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 79,
+   "en": "\"We asked for too much,\" said the fisherman.",
+   "tgt": "«:o Nous:o avons:v demandé:v trop:a »:o ,:o dit:v le:o pêcheur:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "The fisherman and his wife went into the hut.",
+   "tgt": "Le:o pêcheur:n et:o sa:o femme:n entrèrent:v dans:o la:o cabane:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "It was small, but it was theirs.",
+   "tgt": "C':o était:v petit:a ,:o mais:o c':o était:v le:o leur:o .:o"
+  },
+  {
+   "n": 82,
+   "en": "They lived there again, as before.",
+   "tgt": "Ils:o y:o vécurent:v de:o nouveau:a ,:o comme:o avant:a .:o"
+  },
+  {
+   "n": 83,
+   "en": "They never called the fish again.",
+   "tgt": "Ils:o n':o appelèrent:v jamais:o le:o poisson:n de:o nouveau:a .:o"
+  }
+ ]
+}

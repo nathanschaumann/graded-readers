@@ -1,0 +1,408 @@
+{
+ "slug": "little_red_riding_hood",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Basket for Grandmother",
+   "en": "Little Red Riding Hood lived in a small village.",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o vivait:v dans:o un:o petit:a village:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Her grandmother lived across the woods.",
+   "tgt": "Sa:o grand-mère:n vivait:v de:o l':o autre:a côté:n des:o bois:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Grandmother gave her a red hood to wear.",
+   "tgt": "Grand-mère:n lui:o donna:v un:o capuchon:n rouge:a à:o porter:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "She wore the red hood.",
+   "tgt": "Elle:o porta:v le:o capuchon:n rouge:a .:o"
+  },
+  {
+   "n": 5,
+   "en": "The village called her Little Red Riding Hood.",
+   "tgt": "Le:o village:n l':o appela:v le:o Petit:o Chaperon:o Rouge:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "One day, Grandmother was sick.",
+   "tgt": "Un:o jour:n ,:o Grand-mère:n était:v malade:a .:o"
+  },
+  {
+   "n": 7,
+   "en": "Her mother filled a basket with food.",
+   "tgt": "Sa:o mère:n remplit:v un:o panier:n de:o nourriture:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "She put cake and bread into the basket.",
+   "tgt": "Elle:o mit:v du:o gâteau:n et:o du:o pain:n dans:o le:o panier:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"Take this to Grandmother,\" said her mother.",
+   "tgt": "«:o Portez:v ceci:o à:o Grand-mère:n ,:o »:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Do not leave the path,\" her mother called.",
+   "tgt": "«:o Ne:o quittez:v pas:o le:o chemin:n ,:o »:o appela:v sa:o mère:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"I will be safe,\" said Little Red Riding Hood.",
+   "tgt": "«:o Je:o serai:v en:o sécurité:n ,:o »:o dit:v le:o Petit:o Chaperon:o Rouge:o .:o"
+  },
+  {
+   "n": 12,
+   "en": "Then she took the basket and went into the woods.",
+   "tgt": "Puis:o elle:o prit:v le:o panier:n et:o alla:v dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 13,
+   "chapter": "The Wolf in the Woods",
+   "en": "Little Red Riding Hood walked down the path.",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o marcha:v sur:o le:o chemin:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "A wolf came out of the woods.",
+   "tgt": "Un:o loup:n sortit:v des:o bois:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"Good day,\" said the wolf with a smile.",
+   "tgt": "«:o Bonjour:n ,:o »:o dit:v le:o loup:n avec:o un:o sourire:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"Why do you have that basket?\" he called.",
+   "tgt": "«:o Pourquoi:o avez-vous:v ce:o panier:n ?:o »:o cria:v -t-il:o .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"This food is for my sick grandmother,\" she said.",
+   "tgt": "«:o Cette:o nourriture:n est:v pour:o ma:o grand-mère:n malade:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 18,
+   "en": "Grandmother lived across the woods.",
+   "tgt": "La:o grand-mère:n habitait:v de:o l':o autre:a côté:n des:o bois:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The wolf saw the flowers.",
+   "tgt": "Le:o loup:n vit:v les:o fleurs:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"Why not pick flowers for her?\" he said.",
+   "tgt": "«:o Pourquoi:o ne:o pas:o cueillir:v des:o fleurs:n pour:o elle:o ?:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 21,
+   "en": "Little Red Riding Hood left the path to pick flowers.",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o quitta:v le:o chemin:n pour:o cueillir:v des:o fleurs:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "The wolf ran through the woods.",
+   "tgt": "Le:o loup:n courut:v à:o travers:o les:o bois:n .:o"
+  },
+  {
+   "n": 23,
+   "chapter": "The Wolf at Grandmother's House",
+   "en": "The wolf reached the small house.",
+   "tgt": "Le:o loup:n atteignit:v la:o petite:a maison:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "He knocked on the door two times.",
+   "tgt": "Il:o frappa:v à:o la:o porte:n deux:o fois:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"Who is there?\" called Grandmother from her bed.",
+   "tgt": "«:o Qui:o est:v là:a ?:o »:o appela:v Grandmother:o depuis:o son:o lit:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"It is me, Little Red Riding Hood,\" said the wolf.",
+   "tgt": "«:o C':o est:v moi:o ,:o Little:o Red:o Riding:o Hood:o ,:o »:o dit:v le:o loup:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"Come in, the door is open,\" said Grandmother.",
+   "tgt": "«:o Entrez:v ,:o la:o porte:n est:v ouverte:a ,:o »:o dit:v Grandmother:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "The wolf opened the door and went inside.",
+   "tgt": "Le:o loup:n ouvrit:v la:o porte:n et:o entra:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The wolf swallowed Grandmother in one bite.",
+   "tgt": "Le:o loup:n avala:v Grandmother:o en:o une:o seule:a bouchée:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "He wore Grandmother's cap.",
+   "tgt": "Il:o porta:v le:o bonnet:n de:o Grandmother:o .:o"
+  },
+  {
+   "n": 31,
+   "en": "He climbed into Grandmother's bed to hide.",
+   "tgt": "Il:o monta:v dans:o le:o lit:n de:o Grandmother:o pour:o se:o cacher:v .:o"
+  },
+  {
+   "n": 32,
+   "en": "He pulled the blanket up to hide.",
+   "tgt": "Il:o tira:v la:o couverture:n vers:o le:o haut:n pour:o se:o cacher:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "Then the wolf waited for Little Red Riding Hood.",
+   "tgt": "Puis:o le:o loup:n attendit:v Little:o Red:o Riding:o Hood:o .:o"
+  },
+  {
+   "n": 34,
+   "chapter": "What Big Teeth You Have",
+   "en": "Soon Little Red Riding Hood reached the quiet house.",
+   "tgt": "Bientôt:a Little:o Red:o Riding:o Hood:o atteignit:v la:o maison:n silencieuse:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "She knocked gently on the wooden door two times.",
+   "tgt": "Elle:o frappa:v doucement:a à:o la:o porte:n en:o bois:n deux:o fois:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"Come in, the door is open,\" said the wolf.",
+   "tgt": "«:o Entrez:v ,:o la:o porte:n est:v ouverte:a ,:o »:o dit:v le:o loup:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "Little Red Riding Hood walked slowly through the door.",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o marcha:v lentement:a par:o la:o porte:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "She saw her grandmother under the blanket.",
+   "tgt": "Elle:o vit:v sa:o grand-mère:n sous:o la:o couverture:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "But her grandmother's face looked strange today.",
+   "tgt": "Mais:o le:o visage:n de:o sa:o grand-mère:n semblait:v étrange:a aujourd'hui:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"Grandmother, what big eyes you have!\" she said.",
+   "tgt": "«:o Grand-mère:o ,:o quels:o grands:a yeux:n tu:o as:v !:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"All the better to see you with,\" said the wolf.",
+   "tgt": "«:o C':o est:v pour:o mieux:a te:o voir:v ,:o »:o dit:v le:o loup:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"Grandmother, what big ears you have!\" she said.",
+   "tgt": "«:o Grand-mère:o ,:o quelles:o grandes:a oreilles:n tu:o as:v !:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"All the better to hear you with,\" said the wolf.",
+   "tgt": "«:o C':o est:v pour:o mieux:a t':o entendre:v ,:o »:o dit:v le:o loup:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"Grandmother, what big teeth you have!\" she said.",
+   "tgt": "«:o Grand-mère:o ,:o quelles:o grandes:a dents:n tu:o as:v !:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"All the better to eat you with!\" said the wolf.",
+   "tgt": "«:o C':o est:v pour:o mieux:a te:o manger:v !:o »:o dit:v le:o loup:n .:o"
+  },
+  {
+   "n": 46,
+   "chapter": "Saved by the Huntsman",
+   "en": "The wolf jumped up and swallowed Little Red Riding Hood.",
+   "tgt": "Le:o loup:n sauta:v et:o avala:v le:o Petit:o Chaperon:o Rouge:o .:o"
+  },
+  {
+   "n": 47,
+   "en": "The wolf's stomach was full, and he fell asleep.",
+   "tgt": "Le:o ventre:n du:o loup:n était:v plein:a ,:o et:o il:o s':o endormit:v .:o"
+  },
+  {
+   "n": 48,
+   "en": "A huntsman walked past the small house.",
+   "tgt": "Un:o chasseur:n passa:v devant:o la:o petite:a maison:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "He heard snores from inside the house.",
+   "tgt": "Il:o entendit:v des:o ronflements:n venant:v de:o l':o intérieur:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "The huntsman thought Grandmother lived in that house.",
+   "tgt": "Le:o chasseur:n pensait:v que:o Grand-mère:o habitait:v dans:o cette:o maison:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "He knocked, but no one came to the door.",
+   "tgt": "Il:o frappa:v ,:o mais:o personne:o ne:o vint:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The huntsman opened the door and looked inside.",
+   "tgt": "Le:o chasseur:n ouvrit:v la:o porte:n et:o regarda:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "He saw the wolf asleep in Grandmother's bed.",
+   "tgt": "Il:o vit:v le:o loup:n endormi:a dans:o le:o lit:n de:o Grand-mère:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "The wolf's stomach looked big.",
+   "tgt": "Le:o ventre:n du:o loup:n semblait:v gros:a .:o"
+  },
+  {
+   "n": 55,
+   "en": "The huntsman thought Grandmother might be inside.",
+   "tgt": "Le:o chasseur:n pensa:v que:o Grand-mère:o était:v peut-être:a à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "He took out a knife and cut open the wolf.",
+   "tgt": "Il:o sortit:v un:o couteau:n et:o ouvrit:v le:o ventre:n du:o loup:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Little Red Riding Hood jumped out safe!",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o sauta:v dehors:a ,:o saine:a et:o sauve:a !:o"
+  },
+  {
+   "n": 58,
+   "chapter": "The End of the Wolf",
+   "en": "Then Grandmother climbed out of the wolf too.",
+   "tgt": "Puis:o Grand-mère:o sortit:v aussi:a du:o ventre:n du:o loup:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "She was safe.",
+   "tgt": "Elle:o était:v saine:a et:o sauve:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "Little Red Riding Hood hugged her grandmother.",
+   "tgt": "Le:o Petit:o Chaperon:o Rouge:o serra:v sa:o grand-mère:n dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "The huntsman found heavy stones.",
+   "tgt": "Le:o chasseur:n trouva:v de:o lourdes:a pierres:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Grandmother and Little Red Riding Hood filled the wolf.",
+   "tgt": "Grand-mère:o et:o Little:o Red:o Riding:o Hood:o remplirent:v le:o loup:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "They put the heavy stones inside him.",
+   "tgt": "Ils:o mirent:v les:o lourdes:a pierres:n à:o l':o intérieur:n de:o lui:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "Soon the wolf woke up.",
+   "tgt": "Bientôt:a le:o loup:n se:o réveilla:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "He wanted to run from the house.",
+   "tgt": "Il:o voulait:v courir:v hors:o de:o la:o maison:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "But the stones were too heavy to carry.",
+   "tgt": "Mais:o les:o pierres:n étaient:v trop:a lourdes:a à:o porter:v .:o"
+  },
+  {
+   "n": 67,
+   "en": "The wolf fell down and died in the woods.",
+   "tgt": "Le:o loup:n tomba:v et:o mourut:v dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "Little Red Riding Hood was safe.",
+   "tgt": "Little:o Red:o Riding:o Hood:o était:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The huntsman smiled.",
+   "tgt": "Le:o chasseur:n sourit:v .:o"
+  },
+  {
+   "n": 70,
+   "chapter": "Safe at Home",
+   "en": "They all went inside Grandmother's small house.",
+   "tgt": "Ils:o entrèrent:v tous:o dans:o la:o petite:a maison:n de:o Grand-mère:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "Little Red Riding Hood gave her the basket.",
+   "tgt": "Little:o Red:o Riding:o Hood:o lui:o donna:v le:o panier:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "Grandmother ate the cake and the bread.",
+   "tgt": "Grand-mère:o mangea:v le:o gâteau:n et:o le:o pain:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "\"Thank you,\" said Grandmother to the huntsman.",
+   "tgt": "«:o Merci:n ,:o »:o dit:v Grand-mère:o au:o chasseur:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"It was my pleasure,\" said the huntsman.",
+   "tgt": "«:o C':o était:v mon:o plaisir:n ,:o »:o dit:v le:o chasseur:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The huntsman left.",
+   "tgt": "Le:o chasseur:n partit:v .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"I will never leave the path,\" she said.",
+   "tgt": "«:o Je:o ne:o quitterai:v jamais:o le:o chemin:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"That is a good lesson,\" said Grandmother.",
+   "tgt": "«:o C':o est:v une:o bonne:a leçon:n ,:o »:o dit:v Grand-mère:o .:o"
+  },
+  {
+   "n": 78,
+   "en": "Little Red Riding Hood smiled and kissed her grandmother.",
+   "tgt": "Little:o Red:o Riding:o Hood:o sourit:v et:o embrassa:v sa:o grand-mère:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "From that day on, she never left the path.",
+   "tgt": "À:o partir:o de:o ce:o jour:n ,:o elle:o ne:o quitta:v jamais:o le:o chemin:n .:o"
+  }
+ ]
+}

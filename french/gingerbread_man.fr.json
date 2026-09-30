@@ -1,0 +1,352 @@
+{
+ "slug": "gingerbread_man",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Old Woman's New Cookie",
+   "en": "An old woman lived in a small house.",
+   "tgt": "Une:o vieille:a femme:n vivait:v dans:o une:o petite:a maison:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "She lived with an old man.",
+   "tgt": "Elle:o vivait:v avec:o un:o vieil:a homme:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "She wanted to bake something.",
+   "tgt": "Elle:o voulait:v faire:v cuire:v quelque:o chose:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "She mixed flour, sugar, and ginger in a bowl.",
+   "tgt": "Elle:o mélangea:v de:o la:o farine:n ,:o du:o sucre:n ,:o et:o du:o gingembre:n dans:o un:o bol:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "She shaped the dough into a little man.",
+   "tgt": "Elle:o façonna:v la:o pâte:n en:o forme:n de:o petit:a homme:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "She gave him eyes and a smile.",
+   "tgt": "Elle:o lui:o donna:v des:o yeux:n et:o un:o sourire:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "She named him the Gingerbread Man.",
+   "tgt": "Elle:o le:o nomma:v le:o Bonhomme:n en:o Pain:n d':o Épices:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "She put him into the oven.",
+   "tgt": "Elle:o le:o mit:v dans:o le:o four:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "A smell filled the small kitchen.",
+   "tgt": "Une:o odeur:n remplit:v la:o petite:a cuisine:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "She opened the oven door.",
+   "tgt": "Elle:o ouvrit:v la:o porte:n du:o four:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "The Gingerbread Man jumped up and ran out the door!",
+   "tgt": "Le:o Bonhomme:n en:o Pain:n d':o Épices:n sauta:v en:o l':o air:n et:o sortit:v par:o la:o porte:n !:o"
+  },
+  {
+   "n": 12,
+   "chapter": "Run, Run, As Fast As You Can",
+   "en": "The old woman chased him out of the kitchen.",
+   "tgt": "La:o vieille:a femme:n le:o chassa:v hors:o de:o la:o cuisine:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "The old man chased him out of the house.",
+   "tgt": "Le:o vieil:a homme:n le:o chassa:v hors:o de:o la:o maison:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"Come here!\" called the old woman.",
+   "tgt": "«:o Viens:v ici:a !:o »:o appela:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "But the Gingerbread Man only ran faster.",
+   "tgt": "Mais:o le:o Gingerbread:o Man:o courut:v seulement:a plus:a vite:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"Run, run, as fast as you can!\" he called.",
+   "tgt": "«:o Cours:v ,:o cours:v ,:o aussi:a vite:a que:o tu:o peux:v !:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"You can't catch me, I'm the Gingerbread Man!\"",
+   "tgt": "«:o Vous:o ne:o pouvez:v pas:o m':o attraper:v ,:o je:o suis:v le:o Gingerbread:o Man:o !:o »:o"
+  },
+  {
+   "n": 18,
+   "en": "The old woman was not fast enough.",
+   "tgt": "La:o vieille:a femme:n n':o était:v pas:o assez:a rapide:a .:o"
+  },
+  {
+   "n": 19,
+   "en": "She was soon out of breath.",
+   "tgt": "Elle:o fut:v bientôt:a à:o bout:n de:o souffle:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "The old man was not fast enough.",
+   "tgt": "Le:o vieil:a homme:n n':o était:v pas:o assez:a rapide:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "His hat fell into the mud.",
+   "tgt": "Son:o chapeau:n tomba:v dans:o la:o boue:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "They both stopped by the road, tired.",
+   "tgt": "Ils:o s':o arrêtèrent:v tous:o les:o deux:o au:o bord:n de:o la:o route:n ,:o fatigués:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "The Gingerbread Man laughed and ran alone.",
+   "tgt": "Le:o Gingerbread:o Man:o rit:v et:o courut:v seul:a .:o"
+  },
+  {
+   "n": 24,
+   "chapter": "The Cow in the Field",
+   "en": "The Gingerbread Man ran down a long road.",
+   "tgt": "Le:o Gingerbread:o Man:o courut:v le:o long:n d':o une:o longue:a route:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He soon came to a green field.",
+   "tgt": "Il:o arriva:v bientôt:a à:o un:o champ:n vert:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "A cow stood in the field and ate grass.",
+   "tgt": "Une:o vache:n se:o tenait:v dans:o le:o champ:n et:o mangeait:v de:o l':o herbe:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "She saw the Gingerbread Man run past.",
+   "tgt": "Elle:o vit:v le:o Gingerbread:o Man:o passer:v en:o courant:v .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"Stop! I want to eat you!\" said the cow.",
+   "tgt": "«:o Arrête:v !:o Je:o veux:v te:o manger:v !:o »:o dit:v la:o vache:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "But the Gingerbread Man did not stop.",
+   "tgt": "Mais:o le:o Gingerbread:o Man:o ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"I ran from an old woman and an old man.\"",
+   "tgt": "«:o J':o ai:v couru:v loin:a d':o une:o vieille:a femme:n et:o d':o un:o vieil:a homme:n .:o »:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Run, run, as fast as you can!\" he called.",
+   "tgt": "«:o Cours:v ,:o cours:v ,:o aussi:a vite:a que:o tu:o peux:v !:o »:o cria:v -il:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"You can't catch me, I'm the Gingerbread Man!\"",
+   "tgt": "«:o Vous:o ne:o pouvez:v pas:o m':o attraper:v ,:o je:o suis:v le:o Gingerbread:o Man:o !:o »:o"
+  },
+  {
+   "n": 33,
+   "en": "The cow ran after him but could not catch him.",
+   "tgt": "La:o vache:n courut:v après:o lui:o mais:o ne:o put:v pas:o l':o attraper:v .:o"
+  },
+  {
+   "n": 34,
+   "chapter": "The Horse by the Barn",
+   "en": "The Gingerbread Man ran past a barn.",
+   "tgt": "Le:o Gingerbread:o Man:o passa:v en:o courant:v devant:o une:o grange:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "A brown horse stood by the barn door.",
+   "tgt": "Un:o cheval:n brun:a se:o tenait:v près:o de:o la:o porte:n de:o la:o grange:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The horse saw the Gingerbread Man run by.",
+   "tgt": "Le:o cheval:n vit:v le:o Gingerbread:o Man:o passer:v en:o courant:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"Stop and play with me!\" called the horse.",
+   "tgt": "«:o Arrête-toi:v et:o joue:v avec:o moi:o !:o »:o cria:v le:o cheval:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "But the Gingerbread Man did not stop.",
+   "tgt": "Mais:o le:o Gingerbread:o Man:o ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"I ran from an old woman and an old man.\"",
+   "tgt": "«:o J':o ai:v couru:v loin:a d':o une:o vieille:a femme:n et:o d':o un:o vieil:a homme:n .:o »:o"
+  },
+  {
+   "n": 40,
+   "en": "\"I ran from a cow too,\" he called.",
+   "tgt": "«:o J':o ai:v couru:v loin:a d':o une:o vache:n aussi:a ,:o »:o cria-t-il:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Run, run, as fast as you can!\"",
+   "tgt": "«:o Cours:v ,:o Cours:v ,:o aussi:a vite:a que:o tu:o peux:v !:o »:o"
+  },
+  {
+   "n": 42,
+   "en": "\"You can't catch me, I'm the Gingerbread Man!\"",
+   "tgt": "«:o Vous:o ne:o pouvez:v pas:o m':o attraper:v ,:o je:o suis:v le:o Gingerbread:o Man:o !:o »:o"
+  },
+  {
+   "n": 43,
+   "en": "The horse ran fast but could not catch him.",
+   "tgt": "Le:o cheval:n courut:v vite:a mais:o ne:o put:v pas:o l':o attraper:v .:o"
+  },
+  {
+   "n": 44,
+   "en": "Dust rose up from the dry road.",
+   "tgt": "La:o poussière:n monta:v de:o la:o route:n sèche:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "The Gingerbread Man came to a wide river.",
+   "tgt": "Le:o Gingerbread:o Man:o arriva:v à:o une:o rivière:n large:a .:o"
+  },
+  {
+   "n": 46,
+   "chapter": "The Fox by the River",
+   "en": "The wide river was too deep to cross.",
+   "tgt": "La:o rivière:n large:a était:v trop:a profonde:a pour:o être:v traversée:v .:o"
+  },
+  {
+   "n": 47,
+   "en": "The Gingerbread Man could not swim across it.",
+   "tgt": "Le:o Gingerbread:o Man:o ne:o pouvait:v pas:o traverser:v à:o la:o nage:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "Water would make him soft and ruin him.",
+   "tgt": "L':o eau:n le:o rendrait:v mou:a et:o le:o ruinerait:v .:o"
+  },
+  {
+   "n": 49,
+   "en": "A fox came out of the woods.",
+   "tgt": "Un:o renard:n sortit:v des:o bois:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"Why do you stop by the river?\" said the fox.",
+   "tgt": "«:o Pourquoi:o vous:o arrêtez-vous:v au:o bord:n de:o la:o rivière:n ?:o »:o dit:v le:o renard:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"The water will make me soft,\" said the Gingerbread Man.",
+   "tgt": "«:o L':o eau:n va:v me:o ramollir:v ,:o »:o dit:v le:o Gingerbread:o Man:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"I can carry you across the river,\" said the fox.",
+   "tgt": "«:o Je:o peux:v vous:o porter:v de:o l':o autre:o côté:n de:o la:o rivière:n ,:o »:o dit:v le:o renard:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "The Gingerbread Man did not want to get caught.",
+   "tgt": "Le:o Gingerbread:o Man:o ne:o voulait:v pas:o se:o faire:v attraper:v .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"You will not eat me?\" said the Gingerbread Man.",
+   "tgt": "«:o Vous:o ne:o me:o mangerez:v pas:o ?:o »:o dit:v le:o Gingerbread:o Man:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"I only want to help you cross,\" said the fox.",
+   "tgt": "«:o Je:o veux:v seulement:a vous:o aider:v à:o traverser:v ,:o »:o dit:v le:o renard:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The Gingerbread Man climbed onto the fox's back.",
+   "tgt": "Le:o Gingerbread:o Man:o grimpa:v sur:o le:o dos:n du:o renard:n .:o"
+  },
+  {
+   "n": 57,
+   "chapter": "The Fox's Trick",
+   "en": "The fox came into the cold river.",
+   "tgt": "Le:o renard:n entra:v dans:o la:o rivière:n froide:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "The water rose past his legs.",
+   "tgt": "L':o eau:n monta:v au-dessus:o de:o ses:o pattes:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "\"The water is getting too deep,\" he said.",
+   "tgt": "«:o L':o eau:n devient:v trop:a profonde:a ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"Climb up onto my head to stay dry,\" he said.",
+   "tgt": "«:o Monte:v sur:o ma:o tête:n pour:o rester:v au:o sec:a ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "The Gingerbread Man climbed onto the fox's head.",
+   "tgt": "Le:o Gingerbread:o Man:o monta:v sur:o la:o tête:n du:o renard:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The fox wanted to swim across the river.",
+   "tgt": "Le:o renard:n voulait:v traverser:v la:o rivière:n à:o la:o nage:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"Climb onto my nose,\" he said.",
+   "tgt": "«:o Monte:v sur:o mon:o nez:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 64,
+   "en": "The Gingerbread Man climbed onto the fox's nose.",
+   "tgt": "Le:o Gingerbread:o Man:o monta:v sur:o le:o nez:n du:o renard:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "The fox opened his mouth wide.",
+   "tgt": "Le:o renard:n ouvrit:v grand:a sa:o bouche:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "He ate the Gingerbread Man in one bite.",
+   "tgt": "Il:o mangea:v le:o Gingerbread:o Man:o en:o une:o seule:a bouchée:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "The fox was full and not hungry anymore.",
+   "tgt": "Le:o renard:n était:v repu:a et:o n':o avait:v plus:o faim:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The chase by the river was over.",
+   "tgt": "La:o poursuite:n au:o bord:n de:o la:o rivière:n était:v terminée:a .:o"
+  }
+ ]
+}

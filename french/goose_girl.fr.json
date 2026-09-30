@@ -1,0 +1,890 @@
+{
+ "slug": "goose_girl",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Princess and Falada",
+   "en": "A queen lived in a kingdom with her daughter.",
+   "tgt": "Une:o reine:n vivait:v dans:o un:o royaume:n avec:o sa:o fille:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The princess had golden hair.",
+   "tgt": "La:o princesse:n avait:v les:o cheveux:n dorés:a .:o"
+  },
+  {
+   "n": 3,
+   "en": "The princess was kind and wise.",
+   "tgt": "La:o princesse:n était:v gentille:a et:o sage:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "The queen had a horse named Falada.",
+   "tgt": "La:o reine:n avait:v un:o cheval:n nommé:a Falada:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "Falada spoke like a person.",
+   "tgt": "Falada:o parlait:v comme:o une:o personne:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Only the queen and the princess knew this.",
+   "tgt": "Seulement:a la:o reine:n et:o la:o princesse:n savaient:v cela:o .:o"
+  },
+  {
+   "n": 7,
+   "en": "The queen taught her a wind charm.",
+   "tgt": "La:o reine:n lui:o apprit:v un:o charme:n du:o vent:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Far away, a prince lived in another kingdom.",
+   "tgt": "Loin:a ,:o un:o prince:n vivait:v dans:o un:o autre:a royaume:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "The princess would marry him.",
+   "tgt": "La:o princesse:n l':o épouserait:v .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Ride to his castle,\" the queen said.",
+   "tgt": "«:o Chevauchez:v jusqu':o à:o son:o château:n ,:o »:o dit:v la:o reine:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "The queen told a maid to ride with her.",
+   "tgt": "La:o reine:n dit:v à:o une:o servante:n de:o chevaucher:v avec:o elle:o .:o"
+  },
+  {
+   "n": 12,
+   "en": "She rode away from the queen.",
+   "tgt": "Elle:o s':o éloigna:v de:o la:o reine:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "The princess rode Falada down the road toward the castle.",
+   "tgt": "La:o princesse:n chevaucha:v Falada:o sur:o la:o route:n vers:o le:o château:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The maid rode another horse near her.",
+   "tgt": "La:o servante:n chevaucha:v un:o autre:o cheval:n près:o d':o elle:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "They would ride for days.",
+   "tgt": "Ils:o chevaucheraient:v pendant:o des:o jours:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The maid was proud.",
+   "tgt": "La:o servante:n était:v fière:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "The princess missed the queen.",
+   "tgt": "La:o princesse:n regrettait:v la:o reine:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "But she wanted to see the prince.",
+   "tgt": "Mais:o elle:o voulait:v voir:v le:o prince:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "Falada spoke to the princess.",
+   "tgt": "Falada:o parla:v à:o la:o princesse:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"I will help you,\" Falada said.",
+   "tgt": "«:o Je:o t':o aiderai:v ,:o »:o dit:v Falada:o .:o"
+  },
+  {
+   "n": 21,
+   "en": "The princess smiled.",
+   "tgt": "La:o princesse:n sourit:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "The maid overheard and knew Falada's secret.",
+   "tgt": "La:o servante:n entendit:v cela:o et:o connut:v le:o secret:n de:o Falada:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "One day, on the road, the princess was thirsty.",
+   "tgt": "Un:o jour:n ,:o sur:o la:o route:n ,:o la:o princesse:n avait:v soif:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "She saw a stream near the road.",
+   "tgt": "Elle:o vit:v un:o ruisseau:n près:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"Please bring me water,\" she said to the maid.",
+   "tgt": "«:o S':o il:o vous:o plaît:v ,:o apportez:v -moi:o de:o l':o eau:n ,:o »:o dit:v -elle:o à:o la:o servante:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"I will not serve you anymore,\" said the maid.",
+   "tgt": "«:o Je:o ne:o vous:o servirai:v plus:o ,:o »:o dit:v la:o servante:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The princess was surprised.",
+   "tgt": "La:o princesse:n fut:v surprise:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "She walked to the stream herself.",
+   "tgt": "Elle:o marcha:v elle-même:o jusqu':o au:o ruisseau:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "She bent down and drank the water.",
+   "tgt": "Elle:o se:o pencha:v et:o but:v l':o eau:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The maid watched her and smiled to herself.",
+   "tgt": "La:o servante:n la:o regarda:v et:o sourit:v en:o elle-même:o .:o"
+  },
+  {
+   "n": 31,
+   "en": "The princess said nothing.",
+   "tgt": "La:o princesse:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "They rode on toward the prince's castle.",
+   "tgt": "Elles:o chevauchèrent:v vers:o le:o château:n du:o prince:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The next day, on the road, the princess was thirsty again.",
+   "tgt": "Le:o lendemain:n ,:o sur:o la:o route:n ,:o la:o princesse:n avait:v de:o nouveau:a soif:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"Please bring me water,\" she said again.",
+   "tgt": "«:o S':o il:o vous:o plaît:v ,:o apportez:v -moi:o de:o l':o eau:n ,:o »:o dit:v -elle:o de:o nouveau:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Get the water yourself,\" said the maid.",
+   "tgt": "«:o Allez:v chercher:v l':o eau:n vous-même:o ,:o »:o dit:v la:o servante:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The princess said nothing and bent down to drink.",
+   "tgt": "La:o princesse:n ne:o dit:v rien:o et:o se:o pencha:v pour:o boire:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "The maid saw this and was not afraid.",
+   "tgt": "La:o servante:n vit:v cela:o et:o n':o eut:v pas:o peur:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"Get down from Falada,\" said the maid.",
+   "tgt": "«:o Descendez:v de:o Falada:o ,:o »:o dit:v la:o servante:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"I will take your clothes,\" she said.",
+   "tgt": "«:o Je:o prendrai:v vos:o vêtements:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 40,
+   "en": "The princess was afraid and obeyed her.",
+   "tgt": "La:o princesse:n eut:v peur:n et:o lui:o obéit:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Swear to me you will tell no person,\" said the maid.",
+   "tgt": "«:o Jurez:v -moi:o que:o vous:o ne:o le:o direz:v à:o personne:o ,:o »:o dit:v la:o servante:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"If you tell, you will die,\" she said.",
+   "tgt": "«:o Si:o vous:o le:o dites:v ,:o vous:o mourrez:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "The princess swore the oath.",
+   "tgt": "La:o princesse:n jura:v le:o serment:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "They changed clothes and horses near the stream.",
+   "tgt": "Elles:o changèrent:v de:o vêtements:n et:o de:o chevaux:n près:o du:o ruisseau:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The maid rode Falada in the princess's clothes.",
+   "tgt": "La:o servante:n monta:v Falada:o avec:o les:o vêtements:n de:o la:o princesse:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The princess rode the maid's old horse instead.",
+   "tgt": "La:o princesse:n monta:v le:o vieux:a cheval:n de:o la:o servante:n à:o la:o place:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The bride rode Falada to the old king's castle.",
+   "tgt": "La:o mariée:n chevaucha:v Falada:o jusqu':o au:o château:n du:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "He came to see her.",
+   "tgt": "Il:o vint:v la:o voir:v .:o"
+  },
+  {
+   "n": 49,
+   "en": "The prince took her hand and smiled.",
+   "tgt": "Le:o prince:n prit:v sa:o main:n et:o sourit:v .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"You are beautiful,\" he said.",
+   "tgt": "«:o Vous:o êtes:v belle:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "The king was glad for his son.",
+   "tgt": "Le:o roi:n était:v content:a pour:o son:o fils:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "He planned a wedding feast.",
+   "tgt": "Il:o organisa:v un:o festin:n de:o noces:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Servants helped with the feast.",
+   "tgt": "Des:o serviteurs:n aidèrent:v pour:o le:o festin:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "The bride smiled at everyone.",
+   "tgt": "La:o mariée:n sourit:v à:o tout:o le:o monde:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "She was glad about her plan.",
+   "tgt": "Elle:o était:v contente:a de:o son:o plan:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "No one at the old castle knew her secret.",
+   "tgt": "Personne:o au:o vieux:a château:n ne:o connaissait:v son:o secret:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Falada watched the bride and said nothing.",
+   "tgt": "Falada:o observa:v la:o mariée:n et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 58,
+   "chapter": "The Girl and the Geese",
+   "en": "The girl stood near the castle gate.",
+   "tgt": "La:o fille:n se:o tint:v près:o de:o la:o porte:n du:o château:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "No one looked at her.",
+   "tgt": "Personne:o ne:o la:o regarda:v .:o"
+  },
+  {
+   "n": 60,
+   "en": "Everyone at the castle looked at the bride instead.",
+   "tgt": "Tout:o le:o monde:n au:o château:n regarda:v la:o mariée:n à:o la:o place:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "The old king saw the girl.",
+   "tgt": "Le:o vieux:a roi:n vit:v la:o fille:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"Who is this girl?\" he asked the bride.",
+   "tgt": "«:o Qui:o est:v cette:o fille:n ?:o »:o demanda:v -t-il:o à:o la:o mariée:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"She can tend the geese,\" said the bride.",
+   "tgt": "«:o Elle:o peut:v garder:v les:o oies:n ,:o »:o dit:v la:o mariée:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "He agreed.",
+   "tgt": "Il:o accepta:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "A goose boy watched the king's geese in a field.",
+   "tgt": "Un:o garçon:n aux:o oies:n surveilla:v les:o oies:n du:o roi:n dans:o un:o champ:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "\"You will help him,\" the king told the girl.",
+   "tgt": "«:o Tu:o l':o aideras:v ,:o »:o dit:v le:o roi:n à:o la:o fille:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "The girl said nothing and obeyed.",
+   "tgt": "La:o fille:n ne:o dit:v rien:o et:o obéit:v .:o"
+  },
+  {
+   "n": 68,
+   "en": "Falada had seen the clothes and horses change.",
+   "tgt": "Falada:o avait:v vu:v les:o vêtements:n et:o les:o chevaux:n changer:v .:o"
+  },
+  {
+   "n": 69,
+   "en": "The bride knew that Falada spoke.",
+   "tgt": "La:o mariée:n savait:v que:o Falada:o parlait:v .:o"
+  },
+  {
+   "n": 70,
+   "en": "The bride was afraid that Falada would tell the truth.",
+   "tgt": "La:o mariée:n avait:v peur:n que:o Falada:o dise:v la:o vérité:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "She told the old king that Falada should die.",
+   "tgt": "Elle:o dit:v au:o vieux:a roi:n que:o Falada:o devait:v mourir:v .:o"
+  },
+  {
+   "n": 72,
+   "en": "The old king agreed and knew nothing about the secret.",
+   "tgt": "Le:o vieux:a roi:n accepta:v et:o ne:o sut:v rien:o du:o secret:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Servants took Falada away, and his head was cut.",
+   "tgt": "Les:o serviteurs:n emmenèrent:v Falada:o ,:o et:o sa:o tête:n fut:v coupée:a .:o"
+  },
+  {
+   "n": 74,
+   "en": "The goose girl said nothing, but she had a plan.",
+   "tgt": "La:o fille:n aux:o oies:n ne:o dit:v rien:o ,:o mais:o elle:o avait:v un:o plan:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "\"Please nail Falada's head over the town gate,\" she said.",
+   "tgt": "«:o Clouez:v la:o tête:n de:o Falada:o au-dessus:o de:o la:o porte:n de:o la:o ville:n ,:o s':o il:o vous:o plaît:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"I pass here with the geese every morning,\" she told him.",
+   "tgt": "«:o Je:o passe:v ici:a avec:o les:o oies:n chaque:o matin:n ,:o »:o lui:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "The servant agreed to help her.",
+   "tgt": "Le:o serviteur:n accepta:v de:o l':o aider:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "He nailed the head over the gate that morning.",
+   "tgt": "Il:o cloua:v la:o tête:n au-dessus:o de:o la:o porte:n ce:o matin-là:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "No one but the goose girl knew the truth about Falada.",
+   "tgt": "Personne:o d':o autre:a que:o la:o fille:n aux:o oies:n ne:o connaissait:v la:o vérité:n sur:o Falada:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "Every morning, the goose girl came to the gate with the geese.",
+   "tgt": "Chaque:o matin:n ,:o la:o fille:n aux:o oies:n venait:v à:o la:o porte:n avec:o les:o oies:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "She missed Falada and was glad no one knew.",
+   "tgt": "Elle:o regrettait:v Falada:o et:o était:v contente:a que:o personne:o ne:o sache:v .:o"
+  },
+  {
+   "n": 82,
+   "en": "Falada's head hung over the gate and spoke to her.",
+   "tgt": "La:o tête:n de:o Falada:o pendait:v au-dessus:a de:o la:o porte:n et:o lui:o parlait:v .:o"
+  },
+  {
+   "n": 83,
+   "en": "\"If the queen knew this, her heart would break,\" it said.",
+   "tgt": "«:o Si:o la:o reine:n savait:v cela:o ,:o son:o cœur:n se:o briserait:v ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "She drove the geese to a field outside the town.",
+   "tgt": "Elle:o conduisit:v les:o oies:n dans:o un:o champ:n à:o l':o extérieur:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The goose boy waited for her.",
+   "tgt": "Le:o garçon:n aux:o oies:n l':o attendait:v .:o"
+  },
+  {
+   "n": 86,
+   "en": "The goose girl had golden hair.",
+   "tgt": "La:o gardienne:n d':o oies:n avait:v les:o cheveux:n dorés:a .:o"
+  },
+  {
+   "n": 87,
+   "en": "The goose boy wanted to pull it.",
+   "tgt": "Le:o garçon:n aux:o oies:n voulait:v les:o tirer:v .:o"
+  },
+  {
+   "n": 88,
+   "en": "The goose girl remembered her wind charm.",
+   "tgt": "La:o gardienne:n d':o oies:n se:o souvint:v de:o son:o charme:n du:o vent:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Blow, wind, blow his hat away,\" she said.",
+   "tgt": "«:o Souffle:v ,:o vent:n ,:o souffle:v son:o chapeau:n au:o loin:a ,:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 90,
+   "en": "The wind blew and took his hat.",
+   "tgt": "Le:o vent:n souffla:v et:o emporta:v son:o chapeau:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "The goose boy ran for his hat.",
+   "tgt": "Le:o garçon:n aux:o oies:n courut:v chercher:v son:o chapeau:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The goose girl combed her hair in peace.",
+   "tgt": "La:o fille:n aux:o oies:n se:o peigna:v les:o cheveux:n en:o paix:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "Every day, the wind blew the goose boy's hat away.",
+   "tgt": "Chaque:o jour:n ,:o le:o vent:n emporta:v le:o chapeau:n du:o garçon:n aux:o oies:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "The goose boy did not like this anymore.",
+   "tgt": "Le:o garçon:n aux:o oies:n n':o aimait:v plus:o cela:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "He went to the old king.",
+   "tgt": "Il:o alla:v voir:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "\"I do not want to help her anymore,\" he said.",
+   "tgt": "«:o Je:o ne:o veux:v plus:o l':o aider:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"Why not?\" the old king asked.",
+   "tgt": "«:o Pourquoi:o pas:o ?:o »:o demanda:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "\"Odd things happen every morning,\" said the goose boy.",
+   "tgt": "«:o Des:o choses:n étranges:a arrivent:v chaque:o matin:n ,:o »:o dit:v le:o garçon:n aux:o oies:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "\"A horse's head speaks at the gate,\" he said.",
+   "tgt": "«:o Une:o tête:n de:o cheval:n parle:v à:o la:o porte:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 100,
+   "en": "\"The wind blows my hat away,\" he told him.",
+   "tgt": "«:o Le:o vent:n emporte:v mon:o chapeau:n ,:o »:o lui:o dit:v -il:o .:o"
+  },
+  {
+   "n": 101,
+   "en": "The old king was curious about this.",
+   "tgt": "Le:o vieux:a roi:n était:v curieux:a de:o cela:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"I will come and see,\" he said.",
+   "tgt": "«:o Je:o viendrai:v voir:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 103,
+   "en": "The goose boy smiled and said nothing.",
+   "tgt": "Le:o garçon:n aux:o oies:n sourit:v et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "The old king planned to see it all.",
+   "tgt": "Le:o vieux:a roi:n planifiait:v de:o tout:o voir:v .:o"
+  },
+  {
+   "n": 105,
+   "chapter": "The Old King Watches",
+   "en": "The next morning, the old king rose early.",
+   "tgt": "Le:o lendemain:n matin:n ,:o le:o vieux:a roi:n se:o leva:v tôt:a .:o"
+  },
+  {
+   "n": 106,
+   "en": "He followed the goose girl to the gate.",
+   "tgt": "Il:o suivit:v la:o fille:n aux:o oies:n jusqu':o à:o la:o porte:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "He hid near the gate and watched her.",
+   "tgt": "Il:o se:o cacha:v près:o de:o la:o porte:n et:o l':o observa:v .:o"
+  },
+  {
+   "n": 108,
+   "en": "\"If the queen knew this, her heart would break,\" it said.",
+   "tgt": "«:o Si:o la:o reine:n savait:v cela:o ,:o son:o cœur:n se:o briserait:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 109,
+   "en": "The old king heard this and was surprised.",
+   "tgt": "Le:o vieux:a roi:n entendit:v cela:o et:o fut:v surpris:a .:o"
+  },
+  {
+   "n": 110,
+   "en": "He wondered who this goose girl really was.",
+   "tgt": "Il:o se:o demanda:v qui:o était:v vraiment:a cette:o fille:n aux:o oies:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "He followed the goose girl to the field.",
+   "tgt": "Il:o suivit:v la:o fille:n aux:o oies:n jusqu':o au:o champ:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "He hid again and watched the geese and the goose boy.",
+   "tgt": "Il:o se:o cacha:v encore:a et:o observa:v les:o oies:n et:o le:o garçon:n aux:o oies:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "The goose boy tried to pull the goose girl's hair.",
+   "tgt": "Le:o garçon:n aux:o oies:n essaya:v de:o tirer:v les:o cheveux:n de:o la:o fille:n aux:o oies:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "The goose girl called on the wind again.",
+   "tgt": "La:o fille:n aux:o oies:n fit:v appel:n au:o vent:n encore:a .:o"
+  },
+  {
+   "n": 115,
+   "en": "The wind blew and took the boy's hat.",
+   "tgt": "Le:o vent:n souffla:v et:o emporta:v le:o chapeau:n du:o garçon:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "He decided to learn the truth.",
+   "tgt": "Il:o décida:v d':o apprendre:v la:o vérité:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "That day, the old king went to the goose girl.",
+   "tgt": "Ce:o jour-là:a ,:o le:o vieux:a roi:n alla:v vers:o la:o fille:n aux:o oies:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"Tell me who you really are,\" he said.",
+   "tgt": "«:o Dis:v -moi:o qui:o tu:o es:v vraiment:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 119,
+   "en": "The goose girl was afraid to speak.",
+   "tgt": "La:o fille:n aux:o oies:n avait:v peur:n de:o parler:v .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"I cannot tell any person,\" she said.",
+   "tgt": "«:o Je:o ne:o peux:v le:o dire:v à:o personne:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"I swore an oath on the road,\" she told him.",
+   "tgt": "«:o J':o ai:v prêté:v serment:n sur:o la:o route:n ,:o »:o lui:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 122,
+   "en": "The old king thought about her words.",
+   "tgt": "Le:o vieux:a roi:n réfléchit:v à:o ses:o mots:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "He knew she would not tell any living person.",
+   "tgt": "Il:o savait:v qu':o elle:o ne:o dirait:v rien:o à:o aucune:o personne:n vivante:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "But a stove is not a person.",
+   "tgt": "Mais:o un:o poêle:n n':o est:v pas:o une:o personne:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "\"Tell your story to the iron stove,\" the old king said.",
+   "tgt": "«:o Raconte:v ton:o histoire:n au:o poêle:n de:o fer:n ,:o »:o dit:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "\"I will listen at the pipe outside,\" he said.",
+   "tgt": "«:o J':o écouterai:v au:o tuyau:n dehors:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 127,
+   "en": "The goose girl understood the old king's plan.",
+   "tgt": "La:o fille:n aux:o oies:n comprit:v le:o plan:n du:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "She agreed to tell the stove her story.",
+   "tgt": "Elle:o accepta:v de:o raconter:v son:o histoire:n au:o poêle:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "That evening, the goose girl came to the stove room.",
+   "tgt": "Ce:o soir:n -là:o ,:o la:o fille:n aux:o oies:n vint:v dans:o la:o salle:n du:o poêle:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "She thought no one was in the room with the stove.",
+   "tgt": "Elle:o pensait:v que:o personne:o n':o était:v dans:o la:o salle:n avec:o le:o poêle:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The old king was outside, near the pipe, and listened.",
+   "tgt": "Le:o vieux:a roi:n était:v dehors:a ,:o près:o du:o tuyau:n ,:o et:o écoutait:v .:o"
+  },
+  {
+   "n": 132,
+   "en": "The goose girl told the iron stove all her story.",
+   "tgt": "La:o fille:n aux:o oies:n raconta:v au:o poêle:n de:o fer:n toute:o son:o histoire:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "\"I am really a princess,\" she said to the stove.",
+   "tgt": "«:o Je:o suis:v vraiment:a une:o princesse:n ,:o »:o dit:v -elle:o au:o poêle:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "\"A queen was my mother, and Falada was my horse.\"",
+   "tgt": "«:o Une:o reine:n était:v ma:o mère:n ,:o et:o Falada:o était:v mon:o cheval:n .:o »:o"
+  },
+  {
+   "n": 135,
+   "en": "\"My maid told me to swear an oath on the road.\"",
+   "tgt": "«:o Ma:o servante:n m':o a:v dit:v de:o jurer:v un:o serment:n sur:o la:o route:n .:o »:o"
+  },
+  {
+   "n": 136,
+   "en": "\"The maid and I changed clothes and horses on the road.\"",
+   "tgt": "«:o La:o servante:n et:o moi:o avons:v échangé:v nos:o vêtements:n et:o nos:o chevaux:n sur:o la:o route:n .:o »:o"
+  },
+  {
+   "n": 137,
+   "en": "\"She is the bride, and I am the goose girl.\"",
+   "tgt": "«:o Elle:o est:v la:o mariée:n ,:o et:o moi:o je:o suis:v la:o fille:n aux:o oies:n .:o »:o"
+  },
+  {
+   "n": 138,
+   "en": "\"The bride had Falada's head cut.\"",
+   "tgt": "«:o La:o mariée:n a:v fait:v couper:v la:o tête:n de:o Falada:o .:o »:o"
+  },
+  {
+   "n": 139,
+   "en": "\"I asked for his head over the gate.\"",
+   "tgt": "«:o J':o ai:v demandé:v sa:o tête:n au-dessus:o de:o la:o porte:n .:o »:o"
+  },
+  {
+   "n": 140,
+   "en": "\"His head speaks to me at the gate every morning,\" she said.",
+   "tgt": "«:o Sa:o tête:n me:o parle:v à:o la:o porte:n chaque:o matin:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "The old king listened to every word.",
+   "tgt": "Le:o vieux:a roi:n écouta:v chaque:o mot:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "The next morning, the old king came to the goose girl.",
+   "tgt": "Le:o lendemain:n matin:n ,:o le:o vieux:a roi:n vint:v voir:v la:o fille:n aux:o oies:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "\"I heard your story last night,\" he said.",
+   "tgt": "«:o J':o ai:v entendu:v votre:o histoire:n hier:a soir:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"I know you are the true princess,\" he said.",
+   "tgt": "«:o Je:o sais:v que:o vous:o êtes:v la:o vraie:a princesse:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "The goose girl was surprised that he knew.",
+   "tgt": "La:o fille:n aux:o oies:n fut:v surprise:a qu':o il:o le:o sache:v .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"You do not have to hide anymore,\" said the old king.",
+   "tgt": "«:o Vous:o n':o avez:v plus:o besoin:n de:o vous:o cacher:v ,:o »:o dit:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "The old king had royal clothes brought for her.",
+   "tgt": "Le:o vieux:a roi:n fit:v apporter:v des:o vêtements:n royaux:a pour:o elle:o .:o"
+  },
+  {
+   "n": 148,
+   "en": "She wore clothes like a true princess.",
+   "tgt": "Elle:o portait:v des:o vêtements:n comme:o une:o vraie:a princesse:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "Her golden hair shone in the morning sun.",
+   "tgt": "Ses:o cheveux:n dorés:a brillaient:v dans:o le:o soleil:n du:o matin:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "The goose girl looked like a true princess again.",
+   "tgt": "La:o fille:n aux:o oies:n ressemblait:v de:o nouveau:a à:o une:o vraie:a princesse:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "\"Come with me to the court,\" he said.",
+   "tgt": "«:o Venez:v avec:o moi:o à:o la:o cour:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "The old king led her to the prince.",
+   "tgt": "Le:o vieux:a roi:n la:o conduisit:v jusqu'au:o prince:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "The prince looked at her golden hair with wonder.",
+   "tgt": "Le:o prince:n regarda:v ses:o cheveux:n dorés:a avec:o émerveillement:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "\"She is the true princess,\" said the old king.",
+   "tgt": "«:o C':o est:v la:o vraie:a princesse:n ,:o »:o dit:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 155,
+   "chapter": "The False Bride's Sentence",
+   "en": "That night, there was a feast at the castle.",
+   "tgt": "Cette:o nuit-là:o ,:o il:o y:o avait:v un:o festin:n au:o château:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "The true princess sat near the prince.",
+   "tgt": "La:o vraie:a princesse:n s':o assit:v près:o du:o prince:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "The bride did not know the true princess sat there.",
+   "tgt": "La:o mariée:n ne:o savait:v pas:o que:o la:o vraie:a princesse:n était:v assise:a là:a .:o"
+  },
+  {
+   "n": 158,
+   "en": "The old king wanted to ask the bride a question.",
+   "tgt": "Le:o vieux:a roi:n voulait:v poser:v une:o question:n à:o la:o mariée:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "\"A maid tricked a good princess,\" the old king said.",
+   "tgt": "«:o Une:o servante:n a:v trompé:v une:o bonne:a princesse:n ,:o »:o dit:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "\"The maid made the princess swear a false oath,\" he said.",
+   "tgt": "«:o La:o servante:n a:v forcé:v la:o princesse:n à:o jurer:v un:o faux:a serment:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 161,
+   "en": "\"What should happen to a maid like this?\" he asked.",
+   "tgt": "«:o Que:o devrait:v -il:o arriver:v à:o une:o servante:n comme:o celle-ci:o ?:o »:o demanda:v -t-il:o .:o"
+  },
+  {
+   "n": 162,
+   "en": "The bride did not know he meant her.",
+   "tgt": "La:o mariée:n ne:o savait:v pas:o qu':o il:o parlait:v d':o elle:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"She should be sent away forever,\" said the bride.",
+   "tgt": "«:o Elle:o devrait:v être:v renvoyée:a pour:o toujours:a ,:o »:o dit:v la:o mariée:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "\"You have chosen your own fate,\" said the old king.",
+   "tgt": "«:o Vous:o avez:v choisi:v votre:o propre:a destin:n ,:o »:o dit:v le:o vieux:a roi:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "\"You are the maid, and here is the true princess,\" he said.",
+   "tgt": "«:o Vous:o êtes:v la:o servante:n ,:o et:o voici:v la:o vraie:a princesse:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "The bride was shocked to see the princess.",
+   "tgt": "La:o mariée:n fut:v choquée:a de:o voir:v la:o princesse:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "The old king sent the bride away forever.",
+   "tgt": "Le:o vieux:a roi:n renvoya:v la:o mariée:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "The false bride never returned to the castle.",
+   "tgt": "La:o fausse:a mariée:n ne:o revint:v jamais:o au:o château:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "Soon the true princess married the prince.",
+   "tgt": "Bientôt:a la:o vraie:a princesse:n épousa:v le:o prince:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "The wedding was at the old king's castle.",
+   "tgt": "Le:o mariage:n eut:v lieu:n au:o vieux:a château:n du:o roi:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "The queen came from her own kingdom to see it.",
+   "tgt": "La:o reine:n vint:v de:o son:o propre:a royaume:n pour:o le:o voir:v .:o"
+  },
+  {
+   "n": 172,
+   "en": "The goose boy came to the wedding too.",
+   "tgt": "Le:o garçon:n aux:o oies:n vint:v aussi:a au:o mariage:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The true princess wore golden clothes.",
+   "tgt": "La:o vraie:a princesse:n portait:v des:o vêtements:n dorés:a .:o"
+  },
+  {
+   "n": 174,
+   "en": "The prince took her hand and smiled.",
+   "tgt": "Le:o prince:n prit:v sa:o main:n et:o sourit:v .:o"
+  },
+  {
+   "n": 175,
+   "en": "Falada was gone, but the princess remembered him.",
+   "tgt": "Falada:o était:v parti:a ,:o mais:o la:o princesse:n se:o souvenait:v de:o lui:o .:o"
+  },
+  {
+   "n": 176,
+   "en": "The people loved their new princess.",
+   "tgt": "Le:o peuple:n aimait:v sa:o nouvelle:a princesse:n .:o"
+  }
+ ]
+}

@@ -35,4 +35,4 @@ Guiraud lexical diversity is the number of different word stems divided by the s
 - **A few scores are over their ceiling.** Two whole stories are just above theirs (The Pied Piper of Hamelin, 6.11 against 6.1, and The Steadfast Tin Soldier, 6.15 against 6.1), and 9 chapters sit above their per-chapter ceiling. Stories were later shortened by deleting filler sentences, and those chapters were left as they were.
 - **These are adaptations.** They compress, simplify and sometimes reorder the source. They are not translations, and they end where the plot ends.
 - **Four stories keep an older script format,** where spoken lines start with the speaker's name.
-- **The French is machine-assisted.** The ten Very Hard stories have a French version written sentence by sentence with AI help. No professional translator has checked it.
+- **The French is machine-assisted.** 51 of the 52 stories (all except Cinderella) have a French version written sentence by sentence with AI help. No professional translator has checked it.

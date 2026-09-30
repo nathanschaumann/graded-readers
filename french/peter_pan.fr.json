@@ -1,0 +1,1650 @@
+{
+ "slug": "peter_pan",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Nursery",
+   "en": "Wendy, John, and Michael lived in a tall house in a big city.",
+   "tgt": "Wendy:o ,:o John:o ,:o et:o Michael:o vivaient:v dans:o une:o grande:a maison:n dans:o une:o grande:a ville:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Their room was called the nursery.",
+   "tgt": "Leur:o chambre:n s':o appelait:v la:o nursery:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Every night, the mother came to the nursery and told the children a story.",
+   "tgt": "Chaque:o nuit:n ,:o la:o mère:n venait:v à:o la:o nursery:n et:o racontait:v une:o histoire:n aux:o enfants:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The best stories were about Peter Pan.",
+   "tgt": "Les:o meilleures:a histoires:n parlaient:v de:o Peter:o Pan:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"Peter Pan is a boy who never grows up,\" the mother said.",
+   "tgt": "«:o Peter:o Pan:o est:v un:o garçon:n qui:o ne:o grandit:v jamais:o ,:o »:o dit:v la:o mère:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"His home is an island called Neverland, far away over the sea.\"",
+   "tgt": "«:o Sa:o maison:n est:v une:o île:n appelée:a Neverland:o ,:o très:a loin:a au-dessus:o de:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 7,
+   "en": "Often, at story time, a boy came and sat outside the nursery window.",
+   "tgt": "Souvent:a ,:o à:o l':o heure:n des:o histoires:n ,:o un:o garçon:n venait:v et:o s':o asseyait:v dehors:a devant:o la:o fenêtre:n de:o la:o nursery:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "He listened at the window, for he had no mother to tell him stories.",
+   "tgt": "Il:o écoutait:v à:o la:o fenêtre:n ,:o car:o il:o n':o avait:v pas:o de:o mère:n pour:o lui:o raconter:v des:o histoires:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "One night, the mother saw the boy at the window.",
+   "tgt": "Une:o nuit:n ,:o la:o mère:n vit:v le:o garçon:n à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "She ran to him, and the boy flew out into the night.",
+   "tgt": "Elle:o courut:v vers:o lui:o ,:o et:o le:o garçon:n s':o envola:v dans:o la:o nuit:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "The mother closed the window fast.",
+   "tgt": "La:o mère:n ferma:v vite:a la:o fenêtre:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The boy was fast, but his shadow was not.",
+   "tgt": "Le:o garçon:n était:v rapide:a ,:o mais:o son:o ombre:n ne:o l':o était:v pas:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "The window caught the shadow, and the shadow came off him.",
+   "tgt": "La:o fenêtre:n attrapa:v l':o ombre:n ,:o et:o l':o ombre:n se:o détacha:v de:o lui:o .:o"
+  },
+  {
+   "n": 14,
+   "en": "The mother took the shadow up from the floor.",
+   "tgt": "La:o mère:n ramassa:v l':o ombre:n sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "She knew the boy would come back for it.",
+   "tgt": "Elle:o savait:v que:o le:o garçon:n reviendrait:v la:o chercher:v .:o"
+  },
+  {
+   "n": 16,
+   "en": "She rolled up the shadow and put it away in a drawer.",
+   "tgt": "Elle:o roula:v l':o ombre:n et:o la:o rangea:v dans:o un:o tiroir:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "One night, not long after, the nursery window was open.",
+   "tgt": "Une:o nuit:n ,:o pas:o longtemps:a après:o ,:o la:o fenêtre:n de:o la:o nursery:n était:v ouverte:a .:o"
+  },
+  {
+   "n": 18,
+   "en": "A little light flew in through the window.",
+   "tgt": "Une:o petite:a lumière:n entra:v en:o volant:v par:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The light was a fairy, and her name was Tinker Bell.",
+   "tgt": "La:o lumière:n était:v une:o fée:n ,:o et:o son:o nom:n était:v Tinker:o Bell:o .:o"
+  },
+  {
+   "n": 20,
+   "en": "She flew around the dark room, and her light went with her.",
+   "tgt": "Elle:o vola:v autour:o de:o la:o pièce:n sombre:a ,:o et:o sa:o lumière:n l':o accompagna:v .:o"
+  },
+  {
+   "n": 21,
+   "en": "Peter Pan flew in after her.",
+   "tgt": "Peter:o Pan:o entra:v en:o volant:v après:o elle:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "He had come back for his shadow.",
+   "tgt": "Il:o était:v revenu:v chercher:v son:o ombre:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"Find my shadow, Tinker Bell,\" said Peter.",
+   "tgt": "«:o Trouve:v mon:o ombre:n ,:o Tinker:o Bell:o ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "The fairy flew to the drawer, and her light fell on it.",
+   "tgt": "La:o fée:n vola:v vers:o le:o tiroir:n ,:o et:o sa:o lumière:n tomba:v sur:o lui:o .:o"
+  },
+  {
+   "n": 25,
+   "en": "Peter opened the drawer, pulled his shadow out, and was glad to have it back.",
+   "tgt": "Peter:o ouvrit:v le:o tiroir:n ,:o tira:v son:o ombre:n dehors:a ,:o et:o fut:v content:a de:o l':o avoir:v retrouvée:v .:o"
+  },
+  {
+   "n": 26,
+   "en": "He put the shadow at his feet, but it fell off.",
+   "tgt": "Il:o posa:v l':o ombre:n à:o ses:o pieds:n ,:o mais:o elle:o tomba:v .:o"
+  },
+  {
+   "n": 27,
+   "en": "He put soap on the shadow, but it fell to the floor again.",
+   "tgt": "Il:o mit:v du:o savon:n sur:o l':o ombre:n ,:o mais:o elle:o tomba:v de:o nouveau:a par:o terre:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "Tinker Bell pulled at the shadow, but the shadow would not stick to Peter.",
+   "tgt": "Tinker:o Bell:o tira:v sur:o l':o ombre:n ,:o mais:o l':o ombre:n ne:o voulait:v pas:o coller:v à:o Peter:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "Peter sat down on the floor and cried.",
+   "tgt": "Peter:o s':o assit:v par:o terre:n et:o pleura:v .:o"
+  },
+  {
+   "n": 30,
+   "en": "Wendy woke in her bed and saw the boy on the floor, with tears on his face.",
+   "tgt": "Wendy:o se:o réveilla:v dans:o son:o lit:n et:o vit:v le:o garçon:n par:o terre:n ,:o avec:o des:o larmes:n sur:o son:o visage:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Boy, why are you sad?\" Wendy asked.",
+   "tgt": "«:o Garçon:n ,:o pourquoi:o es:v -tu:o triste:a ?:o »:o demanda:v Wendy:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"My shadow will not stick to me,\" said the boy.",
+   "tgt": "«:o Mon:o ombre:n ne:o veut:v pas:o coller:v à:o moi:o ,:o »:o dit:v le:o garçon:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"I am Peter Pan,\" he said.",
+   "tgt": "«:o Je:o suis:v Peter:o Pan:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"I am Wendy,\" she said.",
+   "tgt": "«:o Je:o suis:v Wendy:o ,:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"I can sew your shadow on for you.\"",
+   "tgt": "«:o Je:o peux:v coudre:v ton:o ombre:n pour:o toi:o .:o »:o"
+  },
+  {
+   "n": 36,
+   "chapter": "The Shadow Sewed On",
+   "en": "Wendy found a needle and thread, and Peter took the shadow up from the floor for her.",
+   "tgt": "Wendy:o trouva:v une:o aiguille:n et:o du:o fil:n ,:o et:o Peter:o prit:v l':o ombre:n du:o sol:n pour:o elle:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "She sat down on her bed, and Peter sat still at her feet.",
+   "tgt": "Elle:o s':o assit:v sur:o son:o lit:n ,:o et:o Peter:o resta:v immobile:a à:o ses:o pieds:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Wendy sewed the shadow to Peter's feet with the needle and thread.",
+   "tgt": "Wendy:o cousit:v l':o ombre:n aux:o pieds:n de:o Peter:o avec:o l':o aiguille:n et:o le:o fil:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The needle went in and out, in and out of the shadow.",
+   "tgt": "L':o aiguille:n allait:v et:o venait:v ,:o entrant:v et:o sortant:v de:o l':o ombre:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "It hurt a little, but Peter did not pull his feet away.",
+   "tgt": "Cela:o faisait:v un:o peu:a mal:a ,:o mais:o Peter:o ne:o retira:v pas:o ses:o pieds:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "When the shadow was on him, Peter jumped up from the floor.",
+   "tgt": "Quand:o l':o ombre:n fut:v sur:o lui:o ,:o Peter:o sauta:v du:o sol:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "When Peter flew up, the shadow went up, and when he came down, it came down.",
+   "tgt": "Quand:o Peter:o monta:v en:o volant:v ,:o l':o ombre:n monta:v aussi:a ,:o et:o quand:o il:o descendit:v ,:o elle:o descendit:v aussi:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"See, Wendy, my shadow comes with me!\" said Peter.",
+   "tgt": "«:o Regarde:v ,:o Wendy:o ,:o mon:o ombre:n vient:v avec:o moi:o !:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 44,
+   "en": "John and Michael woke in their beds and saw the boy over them.",
+   "tgt": "John:o et:o Michael:o se:o réveillèrent:v dans:o leurs:o lits:n et:o virent:v le:o garçon:n au-dessus:a d':o eux:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"Who are you?\" John asked.",
+   "tgt": "«:o Qui:o êtes:v -vous:o ?:o »:o demanda:v John:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"I am Peter Pan, and I come from Neverland,\" said Peter.",
+   "tgt": "«:o Je:o suis:v Peter:o Pan:o ,:o et:o je:o viens:v de:o Neverland:o ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"The lost boys are on the island with me, and I tell them the stories I hear at your window.\"",
+   "tgt": "«:o Les:o garçons:n perdus:a sont:v sur:o l':o île:n avec:o moi:o ,:o et:o je:o leur:o raconte:v les:o histoires:n que:o j':o entends:v à:o votre:o fenêtre:n .:o »:o"
+  },
+  {
+   "n": 48,
+   "en": "\"They fell from their beds when they were little, and no mother came for them.\"",
+   "tgt": "«:o Ils:o sont:v tombés:v de:o leurs:o lits:n quand:o ils:o étaient:v petits:a ,:o et:o aucune:o mère:n n':o est:v venue:v pour:o eux:o .:o »:o"
+  },
+  {
+   "n": 49,
+   "en": "\"Come with me, Wendy, and you can be our mother.\"",
+   "tgt": "«:o Viens:v avec:o moi:o ,:o Wendy:o ,:o et:o tu:o peux:v être:v notre:o mère:n .:o »:o"
+  },
+  {
+   "n": 50,
+   "en": "\"You can tell us stories at night and sew for us.\"",
+   "tgt": "«:o Tu:o peux:v nous:o raconter:v des:o histoires:n la:o nuit:n et:o coudre:v pour:o nous:o .:o »:o"
+  },
+  {
+   "n": 51,
+   "en": "\"I cannot leave John and Michael,\" said Wendy.",
+   "tgt": "«:o Je:o ne:o peux:v pas:o quitter:v John:o et:o Michael:o ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"They can come too,\" said Peter, and John and Michael got out of their beds fast to go with him.",
+   "tgt": "«:o Ils:o peuvent:v venir:v aussi:a ,:o »:o dit:v Peter:o ,:o et:o John:o et:o Michael:o sortirent:v vite:a de:o leurs:o lits:n pour:o aller:v avec:o lui:o .:o"
+  },
+  {
+   "n": 53,
+   "en": "\"How can we go to Neverland?\" John asked.",
+   "tgt": "«:o Comment:o pouvons:v -nous:o aller:v à:o Neverland:o ?:o »:o demanda:v John:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"We cannot fly like you,\" said Wendy.",
+   "tgt": "«:o Nous:o ne:o pouvons:v pas:o voler:v comme:o vous:o ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"You can fly too,\" said Peter to the children.",
+   "tgt": "«:o Vous:o pouvez:v voler:v aussi:a ,:o »:o dit:v Peter:o aux:o enfants:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"I blow fairy dust on you, and you think of happy things.\"",
+   "tgt": "«:o Je:o souffle:v de:o la:o poussière:n de:o fée:n sur:o vous:o ,:o et:o vous:o pensez:v à:o des:o choses:n heureuses:a .:o »:o"
+  },
+  {
+   "n": 57,
+   "en": "\"The dust and the happy things take you up into the air, and you fly.\"",
+   "tgt": "«:o La:o poussière:n et:o les:o choses:n heureuses:a vous:o emportent:v dans:o l':o air:n ,:o et:o vous:o volez:v .:o »:o"
+  },
+  {
+   "n": 58,
+   "en": "Peter took Tinker Bell in his hand and blew her bright dust over the children and their beds.",
+   "tgt": "Peter:o prit:v Tinker:o Bell:o dans:o sa:o main:n et:o souffla:v sa:o poussière:n brillante:a sur:o les:o enfants:n et:o leurs:o lits:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "Tinker Bell was angry when her dust fell on Wendy.",
+   "tgt": "Tinker:o Bell:o était:v en:o colère:n quand:o sa:o poussière:n tomba:v sur:o Wendy:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"Think of happy things now,\" said Peter, and the children closed their eyes to think.",
+   "tgt": "«:o Pensez:v à:o des:o choses:n heureuses:a maintenant:a ,:o »:o dit:v Peter:o ,:o et:o les:o enfants:n fermèrent:v leurs:o yeux:n pour:o penser:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "Michael thought of his mother's stories, and his feet came up off the floor.",
+   "tgt": "Michael:o pensa:v aux:o histoires:n de:o sa:o mère:n ,:o et:o ses:o pieds:n se:o levèrent:v du:o sol:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"I can fly!\" Michael called.",
+   "tgt": "«:o Je:o peux:v voler:v !:o »:o appela:v Michael:o .:o"
+  },
+  {
+   "n": 63,
+   "en": "He flew over the beds and did not know how to come down to the floor.",
+   "tgt": "Il:o vola:v au-dessus:o des:o lits:n et:o ne:o sut:v pas:o comment:o descendre:v jusqu':o au:o sol:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "John thought of pirates and pirate ships, and went up into the air after him.",
+   "tgt": "John:o pensa:v aux:o pirates:n et:o aux:o navires:n pirates:a ,:o et:o monta:v dans:o l':o air:n après:o lui:o .:o"
+  },
+  {
+   "n": 65,
+   "en": "Wendy thought of stories at night for the lost boys, and up she went too.",
+   "tgt": "Wendy:o pensa:v aux:o histoires:n du:o soir:n pour:o les:o garçons:n perdus:a ,:o et:o elle:o monta:v aussi:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "The children flew around the nursery with Peter, and their shadows flew with them on the floor.",
+   "tgt": "Les:o enfants:n volèrent:v autour:o de:o la:o nursery:n avec:o Peter:o ,:o et:o leurs:o ombres:n volèrent:v avec:o eux:o sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "At the window, Peter took a button from his coat and put it in Wendy's hand.",
+   "tgt": "À:o la:o fenêtre:n ,:o Peter:o prit:v un:o bouton:n de:o son:o manteau:n et:o le:o mit:v dans:o la:o main:n de:o Wendy:o .:o"
+  },
+  {
+   "n": 68,
+   "en": "Wendy put the button on a string and put the string around her neck.",
+   "tgt": "Wendy:o mit:v le:o bouton:n sur:o une:o ficelle:n et:o mit:v la:o ficelle:n autour:o de:o son:o cou:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"We go to Neverland now,\" said Peter.",
+   "tgt": "«:o Nous:o allons:v à:o Neverland:o maintenant:a ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"How do we find Neverland?\" John asked.",
+   "tgt": "«:o Comment:o trouvons:v -nous:o Neverland:o ?:o »:o demanda:v John:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"The second star to the right, and straight on till morning,\" said Peter.",
+   "tgt": "«:o La:o deuxième:o étoile:n à:o droite:n ,:o et:o tout:a droit:a jusqu':o au:o matin:n ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "Peter flew out through the window into the night, and Tinker Bell flew with him.",
+   "tgt": "Peter:o s':o envola:v par:o la:o fenêtre:n dans:o la:o nuit:n ,:o et:o Tinker:o Bell:o s':o envola:v avec:o lui:o .:o"
+  },
+  {
+   "n": 73,
+   "en": "Wendy, John, and Michael flew out after him, over the city and up into the stars.",
+   "tgt": "Wendy:o ,:o John:o ,:o et:o Michael:o s':o envolèrent:v après:o lui:o ,:o au-dessus:o de:o la:o ville:n et:o jusque:o dans:o les:o étoiles:n .:o"
+  },
+  {
+   "n": 74,
+   "chapter": "The Flight to Neverland",
+   "en": "All night, Peter, Wendy, John, and Michael flew on over the dark sea, under the stars and the moon.",
+   "tgt": "Toute:o la:o nuit:n ,:o Peter:o ,:o Wendy:o ,:o John:o ,:o et:o Michael:o volèrent:v au-dessus:o de:o la:o mer:n sombre:a ,:o sous:o les:o étoiles:n et:o la:o lune:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Michael was the littlest, and soon, over the dark sea, his eyes closed.",
+   "tgt": "Michael:o était:v le:o plus:a petit:a ,:o et:o bientôt:a ,:o au-dessus:o de:o la:o mer:n sombre:a ,:o ses:o yeux:n se:o fermèrent:v .:o"
+  },
+  {
+   "n": 76,
+   "en": "He thought of nothing at all, and down he fell through the air toward the sea.",
+   "tgt": "Il:o ne:o pensa:v à:o rien:o du:o tout:o ,:o et:o il:o tomba:v vers:o le:o bas:a à:o travers:o l':o air:n en:o direction:n de:o la:o mer:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "Wendy cried out, but Peter was fast and caught Michael by the arm.",
+   "tgt": "Wendy:o cria:v ,:o mais:o Peter:o était:v rapide:a et:o attrapa:v Michael:o par:o le:o bras:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "\"Think of happy things again, Michael,\" said Peter.",
+   "tgt": "«:o Pense:v à:o des:o choses:n heureuses:a encore:a ,:o Michael:o ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 79,
+   "en": "Michael thought of the island, and up he went over the sea again.",
+   "tgt": "Michael:o pensa:v à:o l':o île:n ,:o et:o il:o monta:v au-dessus:o de:o la:o mer:n encore:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "Soon John's eyes closed too.",
+   "tgt": "Bientôt:a les:o yeux:n de:o John:o se:o fermèrent:v aussi:a .:o"
+  },
+  {
+   "n": 81,
+   "en": "Wendy saw and pulled him up by the arm.",
+   "tgt": "Wendy:o le:o vit:v et:o le:o tira:v vers:o le:o haut:n par:o le:o bras:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Tinker Bell flew down to Wendy and pulled her hair.",
+   "tgt": "Tinker:o Bell:o vola:v vers:o le:o bas:n jusqu':o à:o Wendy:o et:o lui:o tira:v les:o cheveux:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "\"Tinker Bell is jealous of you,\" said Peter to Wendy.",
+   "tgt": "«:o Tinker:o Bell:o est:v jalouse:a de:o vous:o ,:o »:o dit:v Peter:o à:o Wendy:o .:o"
+  },
+  {
+   "n": 84,
+   "en": "When morning came, the sun came up far over the sea.",
+   "tgt": "Quand:o le:o matin:n arriva:v ,:o le:o soleil:n se:o leva:v loin:a au-dessus:a de:o la:o mer:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Far below them, down on the sea, they saw an island.",
+   "tgt": "Loin:a en:o dessous:a d':o eux:o ,:o sur:o la:o mer:n ,:o ils:o virent:v une:o île:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"There is Neverland,\" said Peter.",
+   "tgt": "«:o Voilà:v Neverland:o ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "They came down out of the morning air and flew low over the island.",
+   "tgt": "Ils:o descendirent:v de:o l':o air:n du:o matin:n et:o volèrent:v bas:a au-dessus:a de:o l':o île:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "They saw the woods of the island, and a lagoon with mermaids in the water.",
+   "tgt": "Ils:o virent:v les:o bois:n de:o l':o île:n ,:o et:o un:o lagon:n avec:o des:o sirènes:n dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "On the sea near the island, low in the water, they saw a ship.",
+   "tgt": "Sur:o la:o mer:n près:o de:o l':o île:n ,:o bas:a dans:o l':o eau:n ,:o ils:o virent:v un:o navire:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "\"A pirate ship!\" John called out.",
+   "tgt": "«:o Un:o navire:n de:o pirates:n !:o »:o cria:v John:o .:o"
+  },
+  {
+   "n": 91,
+   "en": "\"The captain of that ship is called Hook,\" said Peter.",
+   "tgt": "«:o Le:o capitaine:n de:o ce:o navire:n s':o appelle:v Hook:o ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "Tinker Bell flew down toward the woods first, fast, and Peter did not see her go.",
+   "tgt": "Tinker:o Bell:o vola:v vers:o le:o bas:a des:o bois:n en:o premier:a ,:o vite:a ,:o et:o Peter:o ne:o la:o vit:v pas:o partir:v .:o"
+  },
+  {
+   "n": 93,
+   "en": "In the air over the island, Tinker Bell came back to Wendy.",
+   "tgt": "Dans:o l':o air:n au-dessus:o de:o l':o île:n ,:o Tinker:o Bell:o revint:v vers:o Wendy:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "\"Follow me down, and you will see the home of the lost boys first,\" said the fairy.",
+   "tgt": "«:o Suis:v -moi:o vers:o le:o bas:a ,:o et:o tu:o verras:v la:o maison:n des:o garçons:n perdus:a en:o premier:a ,:o »:o dit:v la:o fée:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Wendy followed her down toward the woods.",
+   "tgt": "Wendy:o la:o suivit:v vers:o le:o bas:a en:o direction:n des:o bois:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "Tinker Bell flew fast, and soon Wendy was far back, alone in the air.",
+   "tgt": "Tinker:o Bell:o vola:v vite:a ,:o et:o bientôt:a Wendy:o était:v loin:a derrière:a ,:o seule:a dans:o l':o air:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"A great white bird comes, and Peter says you must shoot it down!\" Tinker Bell called to the lost boys.",
+   "tgt": "«:o Un:o grand:a oiseau:n blanc:a vient:v ,:o et:o Peter:o dit:v que:o tu:o dois:v le:o tirer:v vers:o le:o bas:a !:o »:o appela:v Tinker:o Bell:o les:o garçons:n perdus:a .:o"
+  },
+  {
+   "n": 98,
+   "en": "The boys believed her, for she was Peter's fairy.",
+   "tgt": "Les:o garçons:n la:o crurent:v ,:o car:o elle:o était:v la:o fée:n de:o Peter:o .:o"
+  },
+  {
+   "n": 99,
+   "en": "One boy had a bow and a sharp arrow, and he looked up over the trees.",
+   "tgt": "Un:o garçon:n avait:v un:o arc:n et:o une:o flèche:n aiguisée:a ,:o et:o il:o regarda:v vers:o le:o haut:a au-dessus:o des:o arbres:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "A white thing flew over the trees toward them.",
+   "tgt": "Une:o chose:n blanche:a vola:v au-dessus:o des:o arbres:n vers:o eux:o .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"The Wendy bird!\" called the boys, and the boy shot his arrow up at it.",
+   "tgt": "«:o L':o oiseau:n Wendy:o !:o »:o appelèrent:v les:o garçons:n ,:o et:o le:o garçon:n tira:v sa:o flèche:n vers:o le:o haut:a sur:o lui:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "The arrow hit, and Wendy fell down through the branches to the grass.",
+   "tgt": "La:o flèche:n toucha:v ,:o et:o Wendy:o tomba:v vers:o le:o bas:a à:o travers:o les:o branches:n jusqu'à:o l':o herbe:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The boys ran to her and saw a girl, not a bird.",
+   "tgt": "Les:o garçons:n coururent:v vers:o elle:o et:o virent:v une:o fille:n ,:o pas:o un:o oiseau:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"She is dead,\" said one of the boys.",
+   "tgt": "«:o Elle:o est:v morte:a ,:o »:o dit:v un:o des:o garçons:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "Peter flew down through the trees with John and Michael.",
+   "tgt": "Peter:o descendit:v en:o volant:v à:o travers:o les:o arbres:n avec:o John:o et:o Michael:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"I brought you a mother, and you have shot her!\" said Peter.",
+   "tgt": "«:o Je:o vous:o ai:v amené:v une:o mère:n ,:o et:o vous:o l':o avez:v tuée:v !:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"Tinker Bell told us to shoot the bird,\" said the boy with the bow.",
+   "tgt": "«:o Tinker:o Bell:o nous:o a:v dit:v de:o tirer:v sur:o l':o oiseau:n ,:o »:o dit:v le:o garçon:n avec:o l':o arc:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "\"I did not say that,\" said Peter, and he turned to the fairy.",
+   "tgt": "«:o Je:o n':o ai:v pas:o dit:v cela:o ,:o »:o dit:v Peter:o ,:o et:o il:o se:o tourna:v vers:o la:o fée:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "\"Go away from me, Tinker Bell, and do not come back for many days.\"",
+   "tgt": "«:o Va-t'en:v de:o moi:o ,:o Tinker:o Bell:o ,:o et:o ne:o reviens:v pas:o pendant:o de:o nombreux:a jours:n .:o »:o"
+  },
+  {
+   "n": 110,
+   "en": "But Wendy was not dead.",
+   "tgt": "Mais:o Wendy:o n':o était:v pas:o morte:a .:o"
+  },
+  {
+   "n": 111,
+   "en": "The arrow had hit the button on the string at her neck.",
+   "tgt": "La:o flèche:n avait:v frappé:v le:o bouton:n sur:o le:o cordon:n à:o son:o cou:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Wendy opened her eyes and saw the boys around her.",
+   "tgt": "Wendy:o ouvrit:v les:o yeux:n et:o vit:v les:o garçons:n autour:o d':o elle:o .:o"
+  },
+  {
+   "n": 113,
+   "chapter": "The Home Under the Ground",
+   "en": "The lost boys went home under the ground, and Wendy, John, and Michael went with them.",
+   "tgt": "Les:o garçons:n perdus:a rentrèrent:v chez:o eux:o sous:o la:o terre:n ,:o et:o Wendy:o ,:o John:o et:o Michael:o partirent:v avec:o eux:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "Every boy went down through his hollow tree, for the trees were the doors of the home.",
+   "tgt": "Chaque:o garçon:n descendit:v par:o son:o arbre:n creux:a ,:o car:o les:o arbres:n étaient:v les:o portes:n de:o la:o maison:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "One tree was wide, for one of the lost boys was big.",
+   "tgt": "Un:o arbre:n était:v large:a ,:o car:o l':o un:o des:o garçons:n perdus:a était:v grand:a .:o"
+  },
+  {
+   "n": 116,
+   "en": "Under the ground there was one warm room, with a bed for every one of the boys.",
+   "tgt": "Sous:o la:o terre:n il:o y:o avait:v une:o pièce:n chaude:a ,:o avec:o un:o lit:n pour:o chacun:o des:o garçons:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "Wendy was the mother of the home from that night on.",
+   "tgt": "Wendy:o fut:v la:o mère:n du:o foyer:n à:o partir:o de:o cette:o nuit-là:o .:o"
+  },
+  {
+   "n": 118,
+   "en": "She told the boys stories every night, as her mother had told her.",
+   "tgt": "Elle:o raconta:v aux:o garçons:n des:o histoires:n chaque:o nuit:n ,:o comme:o sa:o mère:n lui:o en:o avait:v raconté:v .:o"
+  },
+  {
+   "n": 119,
+   "en": "She sewed their clothes with her needle and thread.",
+   "tgt": "Elle:o cousit:v leurs:o vêtements:n avec:o son:o aiguille:n et:o son:o fil:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "Every night, she gave the boys their medicine from a little cup.",
+   "tgt": "Chaque:o nuit:n ,:o elle:o donna:v aux:o garçons:n leur:o médicament:n dans:o une:o petite:a tasse:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "The boys did not like the medicine, but they drank it, for Wendy was the mother.",
+   "tgt": "Les:o garçons:n n':o aimaient:v pas:o le:o médicament:n ,:o mais:o ils:o le:o burent:v ,:o car:o Wendy:o était:v la:o mère:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "Peter was the father of the home, and the boys did as he said.",
+   "tgt": "Peter:o était:v le:o père:n du:o foyer:n ,:o et:o les:o garçons:n faisaient:v comme:o il:o le:o disait:v .:o"
+  },
+  {
+   "n": 123,
+   "en": "All day, the children hunted and played in the woods with the lost boys.",
+   "tgt": "Toute:o la:o journée:n ,:o les:o enfants:n chassèrent:v et:o jouèrent:v dans:o les:o bois:n avec:o les:o garçons:n perdus:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "John and Michael forgot their old home a little more every day.",
+   "tgt": "John:o et:o Michael:o oublièrent:v un:o peu:a plus:a leur:o vieux:a foyer:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "But Wendy did not forget, and she told them of their mother and father.",
+   "tgt": "Mais:o Wendy:o n':o oublia:v pas:o ,:o et:o elle:o leur:o parla:v de:o leur:o mère:n et:o de:o leur:o père:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "After many days, Tinker Bell came back to the home under the ground and said she was sorry.",
+   "tgt": "Après:o de:o nombreux:a jours:n ,:o Tinker:o Bell:o revint:v au:o foyer:n sous:o la:o terre:n et:o dit:v qu':o elle:o était:v désolée:a .:o"
+  },
+  {
+   "n": 127,
+   "en": "Peter was angry for days, but he let her come home.",
+   "tgt": "Peter:o fut:v en:o colère:n pendant:o des:o jours:n ,:o mais:o il:o la:o laissa:v rentrer:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "One night, after the medicine and the stories, Wendy asked Peter about fairies.",
+   "tgt": "Un:o soir:n ,:o après:o la:o médecine:n et:o les:o histoires:n ,:o Wendy:o demanda:v à:o Peter:o ce:o qu':o il:o pensait:v des:o fées:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "\"A fairy light is strong when children believe in fairies,\" said Peter.",
+   "tgt": "«:o La:o lumière:n d':o une:o fée:n est:v forte:a quand:o les:o enfants:n croient:v aux:o fées:n ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"When children say they do not believe in fairies, a fairy light must go out.\"",
+   "tgt": "«:o Quand:o les:o enfants:n disent:v qu':o ils:o ne:o croient:v pas:o aux:o fées:n ,:o la:o lumière:n d':o une:o fée:n doit:v s':o éteindre:v .:o »:o"
+  },
+  {
+   "n": 131,
+   "en": "The pirate ship of Captain Hook was on the sea near the island.",
+   "tgt": "Le:o navire:n pirate:n du:o capitaine:n Hook:o était:v sur:o la:o mer:n près:o de:o l':o île:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "Hook, the captain of the pirates, had a long coat with gold buttons and long hair.",
+   "tgt": "Hook:o ,:o le:o capitaine:n des:o pirates:n ,:o portait:v un:o long:a manteau:n avec:o des:o boutons:n dorés:a et:o de:o longs:a cheveux:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "His right hand was gone.",
+   "tgt": "Sa:o main:n droite:a avait:v disparu:v .:o"
+  },
+  {
+   "n": 134,
+   "en": "An iron hook was on his right arm now.",
+   "tgt": "Un:o crochet:n de:o fer:n était:v maintenant:a sur:o son:o bras:n droit:a .:o"
+  },
+  {
+   "n": 135,
+   "en": "That was why the pirates called him Hook.",
+   "tgt": "C':o est:v pour:o cela:o que:o les:o pirates:n l':o appelaient:v Hook:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "In a great fight one day, Peter Pan had cut off Hook's right hand.",
+   "tgt": "Un:o jour:n ,:o lors:o d':o un:o grand:a combat:n ,:o Peter:o Pan:o avait:v coupé:v la:o main:n droite:a de:o Hook:o .:o"
+  },
+  {
+   "n": 137,
+   "en": "The hand fell into the sea, and a crocodile ate it.",
+   "tgt": "La:o main:n tomba:v dans:o la:o mer:n ,:o et:o un:o crocodile:n la:o mangea:v .:o"
+  },
+  {
+   "n": 138,
+   "en": "From that day on, the crocodile followed Hook over the sea, for it wanted the rest of him.",
+   "tgt": "À:o partir:v de:o ce:o jour:n ,:o le:o crocodile:n suivit:v Hook:o sur:o la:o mer:n ,:o car:o il:o voulait:v le:o reste:n de:o lui:o .:o"
+  },
+  {
+   "n": 139,
+   "en": "One day, the crocodile ate a clock too.",
+   "tgt": "Un:o jour:n ,:o le:o crocodile:n mangea:v aussi:a une:o horloge:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "The clock was still inside it, and it still made its sound: tick, tick.",
+   "tgt": "L':o horloge:n était:v encore:a à:o l':o intérieur:n ,:o et:o elle:o faisait:v encore:a son:o son:n ::o tic-tac:n ,:o tic-tac:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "When the crocodile came near the ship, the tick came first.",
+   "tgt": "Quand:o le:o crocodile:n s':o approchait:v du:o navire:n ,:o le:o tic-tac:n arrivait:v en:o premier:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "When Hook heard the tick, he knew the crocodile was near, and he turned and ran.",
+   "tgt": "Quand:o Hook:o entendait:v le:o tic:n ,:o il:o savait:v que:o le:o crocodile:n était:v proche:a ,:o et:o il:o se:o retournait:v et:o courait:v .:o"
+  },
+  {
+   "n": 143,
+   "en": "One night, on the ship, Hook talked to his pirates about Peter Pan and the fight.",
+   "tgt": "Une:o nuit:n ,:o sur:o le:o navire:n ,:o Hook:o parla:v à:o ses:o pirates:n de:o Peter:o Pan:o et:o du:o combat:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"It was Peter Pan who cut off my hand,\" Hook said to them that night.",
+   "tgt": "«:o C':o était:v Peter:o Pan:o qui:o m':o avait:v coupé:v la:o main:n ,:o »:o leur:o dit:v Hook:o ce:o soir-là:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"One day I will find his home, and I will kill him with my iron hook.\"",
+   "tgt": "«:o Un:o jour:n je:o trouverai:v sa:o maison:n ,:o et:o je:o le:o tuerai:v avec:o mon:o crochet:n de:o fer:n .:o »:o"
+  },
+  {
+   "n": 146,
+   "en": "From the dark water came a sound: tick, tick.",
+   "tgt": "De:o l':o eau:n sombre:a vint:v un:o son:n ::o tic-tac:n ,:o tic-tac:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "The great crocodile swam near the ship, and its two green eyes were up over the dark water.",
+   "tgt": "Le:o grand:a crocodile:n nagea:v près:o du:o navire:n ,:o et:o ses:o deux:o yeux:n verts:a étaient:v au-dessus:o de:o l':o eau:n sombre:a .:o"
+  },
+  {
+   "n": 148,
+   "en": "Hook turned white at the sound and ran inside the ship.",
+   "tgt": "Hook:o devint:v blanc:a au:o son:n et:o courut:v à:o l':o intérieur:n du:o navire:n .:o"
+  },
+  {
+   "n": 149,
+   "chapter": "The Voice at the Lagoon",
+   "en": "One day, the children went down to the lagoon to see the mermaids in the water.",
+   "tgt": "Un:o jour:n ,:o les:o enfants:n descendirent:v à:o le:o lagon:n pour:o voir:v les:o sirènes:n dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "A great rock stood up out of the water in the lagoon.",
+   "tgt": "Un:o grand:a rocher:n s':o élevait:v hors:o de:o l':o eau:n dans:o le:o lagon:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "When the sun went low, the mermaids swam down to their caves under the water.",
+   "tgt": "Quand:o le:o soleil:n descendit:v bas:a ,:o les:o sirènes:n nagèrent:v jusqu':o à:o leurs:o grottes:n sous:o l':o eau:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "The children sat on the great rock in the last light.",
+   "tgt": "Les:o enfants:n s':o assirent:v sur:o le:o grand:a rocher:n dans:o la:o dernière:a lumière:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "A boat came over the water from the pirate ship.",
+   "tgt": "Un:o bateau:n vint:v sur:o l':o eau:n depuis:o le:o navire:n pirate:a .:o"
+  },
+  {
+   "n": 154,
+   "en": "Peter saw it first, and the children went down from the rock into the water to hide.",
+   "tgt": "Peter:o le:o vit:v en:o premier:a ,:o et:o les:o enfants:n descendirent:v du:o rocher:n dans:o l':o eau:n pour:o se:o cacher:v .:o"
+  },
+  {
+   "n": 155,
+   "en": "In the boat were two pirates, and with them was a girl.",
+   "tgt": "Dans:o le:o bateau:n se:o trouvaient:v deux:o pirates:n ,:o et:o avec:o eux:o se:o trouvait:v une:o fille:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "The girl was Tiger Lily, the princess of the island people.",
+   "tgt": "La:o fille:n était:v Tiger:o Lily:o ,:o la:o princesse:n du:o peuple:n de:o l':o île:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "Her hands were tied with rope.",
+   "tgt": "Ses:o mains:n étaient:v liées:a avec:o de:o la:o corde:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "She had gone too near the pirate ship in the night, and the pirates had caught her.",
+   "tgt": "Elle:o s':o était:v approchée:v trop:a près:a du:o navire:n pirate:a dans:o la:o nuit:n ,:o et:o les:o pirates:n l':o avaient:v capturée:v .:o"
+  },
+  {
+   "n": 159,
+   "en": "The two pirates put Tiger Lily out on the wet rock.",
+   "tgt": "Les:o deux:o pirates:n posèrent:v Tiger:o Lily:o sur:o le:o rocher:n mouillé:a .:o"
+  },
+  {
+   "n": 160,
+   "en": "\"The water will rise over the rock in the night,\" said one pirate.",
+   "tgt": "«:o L':o eau:n montera:v sur:o le:o rocher:n dans:o la:o nuit:n ,:o »:o dit:v un:o pirate:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "\"And the princess cannot swim with her hands tied,\" said the other pirate.",
+   "tgt": "«:o Et:o la:o princesse:n ne:o peut:v pas:o nager:v avec:o les:o mains:n liées:a ,:o »:o dit:v l':o autre:o pirate:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "Behind the rock, Peter made his voice deep, like the voice of Hook.",
+   "tgt": "Derrière:o le:o rocher:n ,:o Peter:o rendit:v sa:o voix:n grave:a ,:o comme:o la:o voix:n de:o Hook:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"Set the princess free!\" came the deep voice over the water.",
+   "tgt": "«:o Libérez:v la:o princesse:n !:o »:o vint:v la:o voix:n grave:a sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "The two pirates believed it was the voice of their captain, Hook.",
+   "tgt": "Les:o deux:o pirates:n crurent:v que:o c':o était:v la:o voix:n de:o leur:o capitaine:n ,:o Hook:o .:o"
+  },
+  {
+   "n": 165,
+   "en": "They were afraid, and they took the ropes off Tiger Lily.",
+   "tgt": "Ils:o avaient:v peur:n ,:o et:o ils:o retirèrent:v les:o cordes:n de:o Tiger:o Lily:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "Tiger Lily went down into the water without a sound, and she saw Peter behind the rock.",
+   "tgt": "Tiger:o Lily:o descendit:v dans:o l':o eau:n sans:o un:o bruit:n ,:o et:o elle:o vit:v Peter:o derrière:o le:o rocher:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "She swam away home to her people, and Peter laughed low at his trick.",
+   "tgt": "Elle:o nagea:v jusqu':o à:o chez:o les:o siens:n ,:o et:o Peter:o rit:v doucement:a de:o sa:o ruse:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "But that night, Hook came out to the lagoon.",
+   "tgt": "Mais:o cette:o nuit-là:a ,:o Hook:o sortit:v vers:o le:o lagon:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "He swam out to the rock, and the two pirates took him up into the boat.",
+   "tgt": "Il:o nagea:v jusqu':o au:o rocher:n ,:o et:o les:o deux:o pirates:n le:o hissèrent:v dans:o la:o barque:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "\"We set the princess free, as you told us,\" said a pirate.",
+   "tgt": "«:o Nous:o avons:v libéré:v la:o princesse:n ,:o comme:o vous:o nous:o l':o avez:v dit:v ,:o »:o dit:v un:o pirate:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "\"I did not tell you that,\" said Hook.",
+   "tgt": "«:o Je:o ne:o vous:o ai:v pas:o dit:v cela:o ,:o »:o dit:v Hook:o .:o"
+  },
+  {
+   "n": 172,
+   "en": "\"A voice came over the water, and it was your voice,\" said the other pirate.",
+   "tgt": "«:o Une:o voix:n vint:v sur:o l':o eau:n ,:o et:o c':o était:v votre:o voix:n ,:o »:o dit:v l':o autre:a pirate:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "\"Who is there?\" Hook called out over the dark water of the lagoon.",
+   "tgt": "«:o Qui:o est:v là:a ?:o »:o Hook:o appela:v sur:o l':o eau:n sombre:a du:o lagon:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "\"I am Peter Pan!\" came the voice of a boy over the water.",
+   "tgt": "«:o Je:o suis:v Peter:o Pan:o !:o »:o vint:v la:o voix:n d':o un:o garçon:n sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "\"Take him!\" Hook called to his pirates.",
+   "tgt": "«:o Prenez-le:o !:o »:o Hook:o appela:v ses:o pirates:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "Peter flew up over the rock with his dagger out.",
+   "tgt": "Peter:o s':o envola:v au-dessus:o du:o rocher:n avec:o son:o poignard:n sorti:a .:o"
+  },
+  {
+   "n": 177,
+   "en": "Hook jumped from the boat to the rock, and his iron hook went at Peter through the air.",
+   "tgt": "Hook:o sauta:v du:o bateau:n sur:o le:o rocher:n ,:o et:o son:o crochet:n de:o fer:n alla:v vers:o Peter:o dans:o l':o air:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "Peter and Hook fought on the rock, over the dark water.",
+   "tgt": "Peter:o et:o Hook:o se:o battirent:v sur:o le:o rocher:n ,:o au-dessus:o de:o l':o eau:n sombre:a .:o"
+  },
+  {
+   "n": 179,
+   "en": "Again and again the iron hook came down at Peter, and again and again Peter was not there.",
+   "tgt": "Encore:a et:o encore:a le:o crochet:n de:o fer:n descendit:v vers:o Peter:o ,:o et:o encore:a et:o encore:a Peter:o n':o était:v pas:o là:a .:o"
+  },
+  {
+   "n": 180,
+   "en": "From the dark water came the tick, tick of the clock, and Hook stood still.",
+   "tgt": "De:o l':o eau:n sombre:a vint:v le:o tic-tac:n ,:o tic-tac:n de:o l':o horloge:n ,:o et:o Hook:o resta:v immobile:a .:o"
+  },
+  {
+   "n": 181,
+   "en": "The crocodile came up out of the water with its jaws open.",
+   "tgt": "Le:o crocodile:n sortit:v de:o l':o eau:n avec:o ses:o mâchoires:n ouvertes:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "Hook jumped into the water and swam for his ship, and the crocodile swam after him.",
+   "tgt": "Hook:o sauta:v dans:o l':o eau:n et:o nagea:v vers:o son:o navire:n ,:o et:o le:o crocodile:n nagea:v après:o lui:o .:o"
+  },
+  {
+   "n": 183,
+   "en": "The water had risen over the rock, and Peter took Wendy's hand, and they flew home over the water.",
+   "tgt": "L':o eau:n avait:v monté:v au-dessus:o de:o la:o roche:n ,:o et:o Peter:o prit:v la:o main:n de:o Wendy:o ,:o et:o ils:o volèrent:v chez-eux:a au-dessus:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "Tiger Lily told her people that Peter had set her free at the rock.",
+   "tgt": "Tiger:o Lily:o dit:v à:o son:o peuple:n que:o Peter:o l':o avait:v libérée:v à:o la:o roche:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "After that night, the island people were friends of Peter and the lost boys.",
+   "tgt": "Après:o cette:o nuit:n ,:o les:o gens:n de:o l':o île:n étaient:v amis:n de:o Peter:o et:o des:o garçons:n perdus:a .:o"
+  },
+  {
+   "n": 186,
+   "chapter": "The Open Window",
+   "en": "Far away, over the sea, the tall house stood in the big city.",
+   "tgt": "Loin:a ,:o au-dessus:o de:o la:o mer:n ,:o la:o grande:a maison:n se:o trouvait:v dans:o la:o grande:a ville:n .:o"
+  },
+  {
+   "n": 187,
+   "en": "In the nursery of the tall house, three beds stood empty, night after night.",
+   "tgt": "Dans:o la:o nursery:n de:o la:o grande:a maison:n ,:o trois:o lits:n se:o trouvaient:v vides:a ,:o nuit:n après:o nuit:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "Every night, the mother opened the nursery window and kept watch.",
+   "tgt": "Chaque:o nuit:n ,:o la:o mère:n ouvrait:v la:o fenêtre:n de:o la:o nursery:n et:o montait:v la:o garde:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "\"The window must be open when the children come home,\" she said to the father.",
+   "tgt": "«:o La:o fenêtre:n doit:v être:v ouverte:a quand:o les:o enfants:n rentrent:v à:o la:o maison:n ,:o »:o dit:v -elle:o au:o père:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "The father sat with her by the open window in the cold.",
+   "tgt": "Le:o père:n s':o assit:v avec:o elle:o près:o de:o la:o fenêtre:n ouverte:a dans:o le:o froid:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "Days went by, and then months went by, and still the window stood open, and still the mother waited.",
+   "tgt": "Les:o jours:n passèrent:v ,:o et:o puis:o les:o mois:n passèrent:v ,:o et:o la:o fenêtre:n restait:v toujours:a ouverte:a ,:o et:o la:o mère:n attendait:v toujours:a .:o"
+  },
+  {
+   "n": 192,
+   "en": "But one day, Wendy asked John about the home over the sea.",
+   "tgt": "Mais:o un:o jour:n ,:o Wendy:o demanda:v à:o John:o des:o nouvelles:n de:o la:o maison:n au-delà:a de:o la:o mer:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "\"John, do you remember our mother and our father?\" she asked.",
+   "tgt": "«:o John:o ,:o tu:o te:o souviens:v de:o notre:o mère:n et:o de:o notre:o père:n ?:o »:o demanda-t-elle:v .:o"
+  },
+  {
+   "n": 194,
+   "en": "John thought and thought.",
+   "tgt": "John:o réfléchit:v et:o réfléchit:v .:o"
+  },
+  {
+   "n": 195,
+   "en": "\"I remember a little of the home,\" said John.",
+   "tgt": "«:o Je:o me:o souviens:v un:o peu:a de:o la:o maison:n ,:o »:o dit:v John:o .:o"
+  },
+  {
+   "n": 196,
+   "en": "\"I remember the stories, but I do not remember her face.\"",
+   "tgt": "«:o Je:o me:o souviens:v des:o histoires:n ,:o mais:o je:o ne:o me:o souviens:v pas:o de:o son:o visage:n .:o »:o"
+  },
+  {
+   "n": 197,
+   "en": "Wendy turned to Michael.",
+   "tgt": "Wendy:o se:o tourna:v vers:o Michael:o .:o"
+  },
+  {
+   "n": 198,
+   "en": "\"Michael, do you remember our mother?\"",
+   "tgt": "«:o Michael:o ,:o tu:o te:o souviens:v de:o notre:o mère:n ?:o »:o"
+  },
+  {
+   "n": 199,
+   "en": "\"You are my mother, Wendy,\" said Michael.",
+   "tgt": "«:o Tu:o es:v ma:o mère:n ,:o Wendy:o ,:o »:o dit:v Michael:o .:o"
+  },
+  {
+   "n": 200,
+   "en": "Wendy looked at him and had nothing to say.",
+   "tgt": "Wendy:o le:o regarda:v et:o n':o avait:v rien:o à:o dire:v .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"Soon we must go home to our mother and father,\" said Wendy.",
+   "tgt": "«:o Bientôt:a nous:o devons:v rentrer:v chez:o notre:o mère:n et:o notre:o père:n ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 202,
+   "en": "John and Michael said yes, and then they ran out to play again.",
+   "tgt": "John:o et:o Michael:o dirent:v oui:a ,:o et:o puis:o ils:o coururent:v dehors:a pour:o jouer:v encore:a .:o"
+  },
+  {
+   "n": 203,
+   "en": "That night, Wendy gave the boys the medicine from the cup, and then she told them a story.",
+   "tgt": "Ce:o soir-là:a ,:o Wendy:o donna:v aux:o garçons:n le:o médicament:n de:o la:o tasse:n ,:o et:o puis:o elle:o leur:o raconta:v une:o histoire:n .:o"
+  },
+  {
+   "n": 204,
+   "en": "\"There was a mother who had three children,\" said Wendy to the boys.",
+   "tgt": "«:o Il:o y:o avait:v une:o mère:n qui:o avait:v trois:o enfants:n ,:o »:o dit:v Wendy:o aux:o garçons:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "\"One night, the children flew away from her, out the window and far away over the sea.\"",
+   "tgt": "«:o Une:o nuit:n ,:o les:o enfants:n s':o envolèrent:v loin:a d':o elle:o ,:o par:o la:o fenêtre:n et:o bien:a loin:a au-dessus:o de:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 206,
+   "en": "\"The mother waited for them, and the window was open every night, for she knew they would come home.\"",
+   "tgt": "«:o La:o mère:n les:o attendit:v ,:o et:o la:o fenêtre:n était:v ouverte:a chaque:o nuit:n ,:o car:o elle:o savait:v qu':o ils:o rentreraient:v à:o la:o maison:n .:o »:o"
+  },
+  {
+   "n": 207,
+   "en": "\"Did the three children go home to her?\" said Michael.",
+   "tgt": "«:o Les:o trois:o enfants:n rentrèrent-ils:v chez:o elle:o ?:o »:o dit:v Michael:o .:o"
+  },
+  {
+   "n": 208,
+   "en": "\"They flew home to her at last, and the mother was at the open window.\"",
+   "tgt": "«:o Ils:o rentrèrent:v chez:o elle:o à:o la:o fin:n ,:o et:o la:o mère:n était:v à:o la:o fenêtre:n ouverte:a .:o »:o"
+  },
+  {
+   "n": 209,
+   "en": "\"That mother is our mother, and we are the three children in the story,\" said Wendy.",
+   "tgt": "«:o Cette:o mère:n est:v notre:o mère:n ,:o et:o nous:o sommes:v les:o trois:o enfants:n de:o l':o histoire:n ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "\"We must go home to our mother tonight.\"",
+   "tgt": "«:o Nous:o devons:v rentrer:v chez:o notre:o mère:n ce:o soir:n .:o »:o"
+  },
+  {
+   "n": 211,
+   "en": "\"I want to see our mother,\" said Michael, and John came up out of his bed.",
+   "tgt": "«:o Je:o veux:v voir:v notre:o mère:n ,:o »:o dit:v Michael:o ,:o et:o John:o se:o leva:v de:o son:o lit:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "The lost boys did not want Wendy to go.",
+   "tgt": "Les:o garçons:n perdus:a ne:o voulaient:v pas:o que:o Wendy:o parte:v .:o"
+  },
+  {
+   "n": 213,
+   "en": "\"Come with us, and our mother and father will take you in,\" she said.",
+   "tgt": "«:o Venez:v avec:o nous:o ,:o et:o notre:o mère:n et:o notre:o père:n vous:o accueilleront:v ,:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 214,
+   "en": "The lost boys said they would come to the home over the sea.",
+   "tgt": "Les:o garçons:n perdus:a dirent:v qu':o ils:o viendraient:v dans:o la:o maison:n au-dessus:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "But Peter said, \"I will not go with you.\"",
+   "tgt": "Mais:o Peter:o dit:v ,:o «:o Je:o ne:o partirai:v pas:o avec:o vous:o .:o »:o"
+  },
+  {
+   "n": 216,
+   "en": "\"In that home, they will make me go to school and grow up, and I will never grow up.\"",
+   "tgt": "«:o Dans:o cette:o maison:n ,:o ils:o me:o feront:v aller:v à:o l':o école:n et:o grandir:v ,:o et:o je:o ne:o grandirai:v jamais:o .:o »:o"
+  },
+  {
+   "n": 217,
+   "en": "Wendy filled Peter's cup with his medicine and put it on the shelf by the wide tree.",
+   "tgt": "Wendy:o remplit:v la:o tasse:n de:o Peter:o avec:o son:o médicament:n et:o la:o posa:v sur:o l':o étagère:n près:o du:o grand:a arbre:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "\"Promise me you will drink your medicine every night after we go home,\" said Wendy.",
+   "tgt": "«:o Promets:v -moi:o que:o tu:o boiras:v ton:o médicament:n chaque:o soir:n après:o que:o nous:o rentrerons:v à:o la:o maison:n ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 219,
+   "en": "\"I promise,\" said Peter, and he went to his bed.",
+   "tgt": "«:o Je:o promets:v ,:o »:o dit:v Peter:o ,:o et:o il:o alla:v à:o son:o lit:n .:o"
+  },
+  {
+   "n": 220,
+   "en": "After the fight at the lagoon, Hook had walked the dark woods every night to find Peter's home.",
+   "tgt": "Après:o le:o combat:n au:o lagon:n ,:o Hook:o avait:v parcouru:v les:o bois:n sombres:a chaque:o nuit:n pour:o trouver:v la:o maison:n de:o Peter:o .:o"
+  },
+  {
+   "n": 221,
+   "en": "At last, he had seen one of the lost boys go down a hollow tree.",
+   "tgt": "Enfin:o ,:o il:o avait:v vu:v un:o des:o garçons:n perdus:a descendre:v dans:o un:o arbre:n creux:a .:o"
+  },
+  {
+   "n": 222,
+   "en": "Now Hook and his pirates waited in the woods over the home of Peter and the boys.",
+   "tgt": "Maintenant:a ,:o Hook:o et:o ses:o pirates:n attendaient:v dans:o les:o bois:n au-dessus:o de:o la:o maison:n de:o Peter:o et:o des:o garçons:n .:o"
+  },
+  {
+   "n": 223,
+   "chapter": "Caught by the Pirates",
+   "en": "That night, the children went up out of the home under the ground, and Peter did not go with them.",
+   "tgt": "Cette:o nuit-là:a ,:o les:o enfants:n sortirent:v de:o la:o maison:n souterraine:a ,:o et:o Peter:o ne:o sortit:v pas:o avec:o eux:o .:o"
+  },
+  {
+   "n": 224,
+   "en": "Wendy went up, and John and Michael and the lost boys came after her, one by one.",
+   "tgt": "Wendy:o monta:v ,:o et:o John:o et:o Michael:o et:o les:o garçons:n perdus:a vinrent:v après:o elle:o ,:o un:o par:o un:o .:o"
+  },
+  {
+   "n": 225,
+   "en": "But the pirates of Hook waited at the trees in the dark.",
+   "tgt": "Mais:o les:o pirates:n de:o Hook:o attendaient:v aux:o arbres:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 226,
+   "en": "As they came up, the pirates took them and put hands over their mouths.",
+   "tgt": "Quand:o ils:o sortirent:v ,:o les:o pirates:n les:o prirent:v et:o mirent:v des:o mains:n sur:o leurs:o bouches:n .:o"
+  },
+  {
+   "n": 227,
+   "en": "No cry and no sound went down to Peter under the ground.",
+   "tgt": "Aucun:o cri:n et:o aucun:o son:n ne:o descendit:v jusqu'à:o Peter:o sous:o la:o terre:n .:o"
+  },
+  {
+   "n": 228,
+   "en": "The pirates tied the children and the lost boys with ropes, hand and foot.",
+   "tgt": "Les:o pirates:n attachèrent:v les:o enfants:n et:o les:o garçons:n perdus:a avec:o des:o cordes:n ,:o pieds:n et:o mains:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "They carried them through the dark woods, down to the black ship at anchor on the sea.",
+   "tgt": "Ils:o les:o portèrent:v à:o travers:o les:o bois:n sombres:a ,:o jusqu'au:o navire:n noir:a à:o l':o ancre:n sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Hook did not go down to the ship with his pirates.",
+   "tgt": "Hook:o ne:o descendit:v pas:o au:o navire:n avec:o ses:o pirates:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "The trees were too little for Hook, but the wide tree took him down.",
+   "tgt": "Les:o arbres:n étaient:v trop:a petits:a pour:o Hook:o ,:o mais:o le:o grand:a arbre:n le:o fit:v descendre:v .:o"
+  },
+  {
+   "n": 232,
+   "en": "At the foot of the tree, the way in was low.",
+   "tgt": "Au:o pied:n de:o l':o arbre:n ,:o l':o entrée:n était:v basse:a .:o"
+  },
+  {
+   "n": 233,
+   "en": "Hook could not get through the low way, but he could see the bed where Peter slept.",
+   "tgt": "Hook:o ne:o pouvait:v pas:o passer:v par:o l':o entrée:n basse:a ,:o mais:o il:o pouvait:v voir:v le:o lit:n où:o Peter:o dormait:v .:o"
+  },
+  {
+   "n": 234,
+   "en": "On the shelf by the foot of the tree was the cup of medicine.",
+   "tgt": "Sur:o l':o étagère:n au:o pied:n de:o l':o arbre:n se:o trouvait:v la:o tasse:n de:o médicament:n .:o"
+  },
+  {
+   "n": 235,
+   "en": "Hook carried a little bottle of poison with him that night.",
+   "tgt": "Hook:o porta:v une:o petite:a bouteille:n de:o poison:n avec:o lui:o cette:o nuit-là:n .:o"
+  },
+  {
+   "n": 236,
+   "en": "His arm went in through the low way, and the poison went into the cup, drop by drop.",
+   "tgt": "Son:o bras:n passa:v par:o l':o entrée:n basse:a ,:o et:o le:o poison:n tomba:v dans:o la:o tasse:n ,:o goutte:n à:o goutte:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "Hook went up the wide tree and away into the dark woods.",
+   "tgt": "Hook:o remonta:v par:o le:o grand:a arbre:n et:o disparut:v dans:o les:o bois:n sombres:a .:o"
+  },
+  {
+   "n": 238,
+   "en": "As he walked, he talked to himself.",
+   "tgt": "Pendant:o qu':o il:o marchait:v ,:o il:o se:o parlait:v à:o lui-même:o .:o"
+  },
+  {
+   "n": 239,
+   "en": "\"The children are on my ship, and there is poison in Pan's cup,\" said Hook.",
+   "tgt": "«:o Les:o enfants:n sont:v sur:o mon:o navire:n ,:o et:o il:o y:o a:v du:o poison:n dans:o la:o coupe:n de:o Pan:o »:o ,:o dit:v Hook:o .:o"
+  },
+  {
+   "n": 240,
+   "en": "Tinker Bell was out in the woods that night, and she heard all that Hook said.",
+   "tgt": "Tinker:o Bell:o était:v dehors:a dans:o les:o bois:n ce:o soir-là:o ,:o et:o elle:o entendit:v tout:o ce:o que:o Hook:o dit:v .:o"
+  },
+  {
+   "n": 241,
+   "en": "She flew down the wide tree to Peter.",
+   "tgt": "Elle:o descendit:v en:o volant:v le:o grand:a arbre:n jusqu':o à:o Peter:o .:o"
+  },
+  {
+   "n": 242,
+   "en": "Tinker Bell flew down into the quiet home and to Peter's bed.",
+   "tgt": "Tinker:o Bell:o descendit:v en:o volant:v dans:o la:o maison:n silencieuse:a et:o jusqu':o au:o lit:n de:o Peter:o .:o"
+  },
+  {
+   "n": 243,
+   "en": "\"Wake up, Peter!\" she called, and Peter woke.",
+   "tgt": "«:o Réveille-toi:v ,:o Peter:o !:o »:o cria-t-elle:v ,:o et:o Peter:o se:o réveilla:v .:o"
+  },
+  {
+   "n": 244,
+   "en": "\"The pirates came in the night and took Wendy and the boys to the ship!\"",
+   "tgt": "«:o Les:o pirates:n sont:v venus:v dans:o la:o nuit:n et:o ont:v emmené:v Wendy:o et:o les:o garçons:n au:o navire:n !:o »:o"
+  },
+  {
+   "n": 245,
+   "en": "Peter got up fast from his bed and put his dagger in his belt.",
+   "tgt": "Peter:o se:o leva:v vite:a de:o son:o lit:n et:o mit:v son:o poignard:n dans:o sa:o ceinture:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "\"I will save them, but I must drink my medicine, for I promised Wendy.\"",
+   "tgt": "«:o Je:o vais:v les:o sauver:v ,:o mais:o je:o dois:v boire:v ma:o médecine:n ,:o car:o j':o ai:v promis:v à:o Wendy:o .:o »:o"
+  },
+  {
+   "n": 247,
+   "en": "Peter took the cup down from the shelf.",
+   "tgt": "Peter:o prit:v la:o coupe:n en:o bas:a de:o l':o étagère:n .:o"
+  },
+  {
+   "n": 248,
+   "en": "\"Do not drink it, for Hook came down, and there is poison in your cup!\"",
+   "tgt": "«:o Ne:o le:o bois:v pas:o ,:o car:o Hook:o est:v descendu:v ,:o et:o il:o y:o a:v du:o poison:n dans:o ta:o coupe:n !:o »:o"
+  },
+  {
+   "n": 249,
+   "en": "\"Hook cannot get down our trees,\" said Peter, and he did not believe her.",
+   "tgt": "«:o Hook:o ne:o peut:v pas:o descendre:v par:o nos:o arbres:n »:o ,:o dit:v Peter:o ,:o et:o il:o ne:o la:o crut:v pas:o .:o"
+  },
+  {
+   "n": 250,
+   "en": "Peter put the cup to his mouth, but Tinker Bell flew in fast and drank the medicine down.",
+   "tgt": "Peter:o posa:v la:o tasse:n à:o sa:o bouche:n ,:o mais:o Tinker:o Bell:o entra:v vite:a et:o but:v le:o médicament:n .:o"
+  },
+  {
+   "n": 251,
+   "en": "\"That was my medicine!\" said Peter.",
+   "tgt": "«:o C':o était:v mon:o médicament:n !:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 252,
+   "en": "But her light grew weak, and she fell down into Peter's hand.",
+   "tgt": "Mais:o sa:o lumière:n devint:v faible:a ,:o et:o elle:o tomba:v dans:o la:o main:n de:o Peter:o .:o"
+  },
+  {
+   "n": 253,
+   "en": "\"There was poison in it, Peter,\" she said, and her voice was slow.",
+   "tgt": "«:o Il:o y:o avait:v du:o poison:n dedans:a ,:o Peter:o ,:o »:o dit-elle:v ,:o et:o sa:o voix:n était:v lente:a .:o"
+  },
+  {
+   "n": 254,
+   "en": "\"You drank the poison to save me, and your light must not go out!\" said Peter.",
+   "tgt": "«:o Tu:o as:v bu:v le:o poison:n pour:o me:o sauver:v ,:o et:o ta:o lumière:n ne:o doit:v pas:o s':o éteindre:v !:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 255,
+   "en": "He took her in his hands and flew up, high over the homes of the island people.",
+   "tgt": "Il:o la:o prit:v dans:o ses:o mains:n et:o s':o envola:v ,:o haut:a au-dessus:o des:o maisons:n des:o gens:n de:o l':o île:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "\"I am Peter Pan, and I believe in fairies!\" he called down in the night.",
+   "tgt": "«:o Je:o suis:v Peter:o Pan:o ,:o et:o je:o crois:v aux:o fées:n !:o »:o cria-t-il:v vers:o le:o bas:a dans:o la:o nuit:n .:o"
+  },
+  {
+   "n": 257,
+   "en": "The children of the island people woke and knew that name, for he set their princess free.",
+   "tgt": "Les:o enfants:n des:o gens:n de:o l':o île:n se:o réveillèrent:v et:o connurent:v ce:o nom:n ,:o car:o il:o avait:v libéré:v leur:o princesse:n .:o"
+  },
+  {
+   "n": 258,
+   "en": "\"We believe in fairies too!\" the children called back up to him from their homes.",
+   "tgt": "«:o Nous:o croyons:v aussi:a aux:o fées:n !:o »:o crièrent:v les:o enfants:n vers:o lui:o depuis:o leurs:o maisons:n .:o"
+  },
+  {
+   "n": 259,
+   "en": "In Peter's hands, Tinker Bell's light grew strong again.",
+   "tgt": "Dans:o les:o mains:n de:o Peter:o ,:o la:o lumière:n de:o Tinker:o Bell:o devint:v forte:a de:o nouveau:a .:o"
+  },
+  {
+   "n": 260,
+   "en": "She flew up, well again, and she and Peter flew fast to the ship.",
+   "tgt": "Elle:o s':o envola:v ,:o guérie:a de:o nouveau:a ,:o et:o elle:o et:o Peter:o volèrent:v vite:a vers:o le:o navire:n .:o"
+  },
+  {
+   "n": 261,
+   "chapter": "Tick, Tick",
+   "en": "On the deck of the pirate ship, the children were tied to the mast.",
+   "tgt": "Sur:o le:o pont:n du:o navire:n pirate:a ,:o les:o enfants:n étaient:v attachés:v au:o mât:n .:o"
+  },
+  {
+   "n": 262,
+   "en": "Hook walked up and down the deck.",
+   "tgt": "Hook:o arpenta:v le:o pont:n .:o"
+  },
+  {
+   "n": 263,
+   "en": "\"Join my crew and be pirates with me, or you will walk the plank tonight,\" said Hook.",
+   "tgt": "«:o Rejoignez:v mon:o équipage:n et:o soyez:v des:o pirates:n avec:o moi:o ,:o ou:o vous:o marcherez:v sur:o la:o planche:n ce:o soir:n ,:o »:o dit:v Hook:o .:o"
+  },
+  {
+   "n": 264,
+   "en": "\"We will not be pirates,\" said John.",
+   "tgt": "«:o Nous:o ne:o serons:v pas:o pirates:n ,:o »:o dit:v John:o .:o"
+  },
+  {
+   "n": 265,
+   "en": "\"The plank for all of you, then!\" said Hook.",
+   "tgt": "«:o La:o planche:n pour:o vous:o tous:o ,:o alors:o !:o »:o dit:v Hook:o .:o"
+  },
+  {
+   "n": 266,
+   "en": "The boys looked down at the black water, and at Wendy.",
+   "tgt": "Les:o garçons:n regardèrent:v en-bas:a vers:o l':o eau:n noire:a ,:o et:o vers:o Wendy:o .:o"
+  },
+  {
+   "n": 267,
+   "en": "\"Do not be afraid of them,\" said Wendy to her boys.",
+   "tgt": "«:o N':o ayez:v pas:o peur:n d':o eux:o ,:o »:o dit:v Wendy:o à:o ses:o garçons:n .:o"
+  },
+  {
+   "n": 268,
+   "en": "From over the water came a sound: tick, tick.",
+   "tgt": "De:o par-dessus:o l':o eau:n vint:v un:o son:n ::o tic-tac:n ,:o tic-tac:n .:o"
+  },
+  {
+   "n": 269,
+   "en": "The pirates stood still on the deck.",
+   "tgt": "Les:o pirates:n restèrent:v immobiles:a sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "\"The crocodile!\" cried a pirate.",
+   "tgt": "«:o Le:o crocodile:n !:o »:o cria:v un:o pirate:n .:o"
+  },
+  {
+   "n": 271,
+   "en": "Hook ran from the deck and hid inside the ship.",
+   "tgt": "Hook:o quitta:v le:o pont:n en:o courant:v et:o se:o cacha:v à:o l':o intérieur:n du:o navire:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "But it was not the crocodile.",
+   "tgt": "Mais:o ce:o n':o était:v pas:o le:o crocodile:n .:o"
+  },
+  {
+   "n": 273,
+   "en": "It was Peter, low over the water, and the sound of the clock came from his mouth.",
+   "tgt": "C':o était:v Peter:o ,:o bas:a sur:o l':o eau:n ,:o et:o le:o son:n de:o l':o horloge:n venait:v de:o sa:o bouche:n .:o"
+  },
+  {
+   "n": 274,
+   "en": "No pirate saw the boy climb up over the side of the ship.",
+   "tgt": "Aucun:o pirate:n ne:o vit:v le:o garçon:n grimper:v par-dessus:o le:o bord:n du:o navire:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "Peter cut the ropes from the mast with his dagger, and the children were free.",
+   "tgt": "Peter:o coupa:v les:o cordes:n du:o mât:n avec:o son:o poignard:n ,:o et:o les:o enfants:n étaient:v libres:a .:o"
+  },
+  {
+   "n": 276,
+   "en": "The boys took swords from a chest by the mast, without a sound.",
+   "tgt": "Les:o garçons:n prirent:v des:o épées:n dans:o un:o coffre:n près:o du:o mât:n ,:o sans:o un:o bruit:n .:o"
+  },
+  {
+   "n": 277,
+   "en": "When the tick stopped, Hook came out and saw Peter by the mast, with the children free.",
+   "tgt": "Quand:o le:o tic-tac:n s':o arrêta:v ,:o Hook:o sortit:v et:o vit:v Peter:o près:o du:o mât:n ,:o avec:o les:o enfants:n libres:a .:o"
+  },
+  {
+   "n": 278,
+   "en": "\"Pan!\" cried Hook.",
+   "tgt": "«:o Pan:o !:o »:o cria:v Hook:o .:o"
+  },
+  {
+   "n": 279,
+   "en": "Hook ran at Peter with his sword and his iron hook.",
+   "tgt": "Hook:o courut:v vers:o Peter:o avec:o son:o épée:n et:o son:o crochet:n de:o fer:n .:o"
+  },
+  {
+   "n": 280,
+   "en": "Peter jumped away, and then they fought.",
+   "tgt": "Peter:o sauta:v de:o côté:n ,:o et:o ensuite:o ils:o se:o battirent:v .:o"
+  },
+  {
+   "n": 281,
+   "en": "The sword was long, but the dagger was fast.",
+   "tgt": "L':o épée:n était:v longue:a ,:o mais:o le:o poignard:n était:v rapide:a .:o"
+  },
+  {
+   "n": 282,
+   "en": "The lost boys ran at the pirates with swords, and John and Michael fought side by side.",
+   "tgt": "Les:o garçons:n perdus:a coururent:v vers:o les:o pirates:n avec:o des:o épées:n ,:o et:o John:o et:o Michael:o se:o battirent:v côte:n à:o côte:n .:o"
+  },
+  {
+   "n": 283,
+   "en": "The pirates were afraid, for they had heard the tick, tick that night.",
+   "tgt": "Les:o pirates:n avaient:v peur:n ,:o car:o ils:o avaient:v entendu:v le:o tic-tac:n ,:o tic-tac:n cette:o nuit-là:a .:o"
+  },
+  {
+   "n": 284,
+   "en": "With a great cry, the pirates jumped into the sea and swam away for the island.",
+   "tgt": "Avec:o un:o grand:a cri:n ,:o les:o pirates:n sautèrent:v dans:o la:o mer:n et:o nagèrent:v au:o loin:a vers:o l':o île:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "Hook stood alone with Peter, and Wendy held the boys back from the fight.",
+   "tgt": "Hook:o se:o retrouva:v seul:a avec:o Peter:o ,:o et:o Wendy:o retint:v les:o garçons:n loin:a du:o combat:n .:o"
+  },
+  {
+   "n": 286,
+   "en": "Step by step, Hook went back to the side of the ship.",
+   "tgt": "Pas:o à:o pas:o ,:o Hook:o recula:v vers:o le:o bord:n du:o navire:n .:o"
+  },
+  {
+   "n": 287,
+   "en": "From the dark water below came the tick, tick of the clock.",
+   "tgt": "Des:o profondeurs:n sombres:a en:o dessous:a montait:v le:o tic-tac:n ,:o tic-tac:n de:o l':o horloge:n .:o"
+  },
+  {
+   "n": 288,
+   "en": "Hook saw green eyes down in the black water at the side of the ship.",
+   "tgt": "Hook:o vit:v des:o yeux:n verts:a en:o bas:a dans:o l':o eau:n noire:a au:o bord:n du:o navire:n .:o"
+  },
+  {
+   "n": 289,
+   "en": "The crocodile had come at last for the rest of him.",
+   "tgt": "Le:o crocodile:n était:v venu:v enfin:a pour:o le:o reste:n de:o lui:o .:o"
+  },
+  {
+   "n": 290,
+   "en": "Peter came at him fast with the dagger, and Hook fell from the side of the ship.",
+   "tgt": "Peter:o fonça:v sur:o lui:o rapidement:a avec:o le:o poignard:n ,:o et:o Hook:o tomba:v du:o bord:n du:o navire:n .:o"
+  },
+  {
+   "n": 291,
+   "en": "The crocodile closed its jaws on Hook, and Captain Hook was gone.",
+   "tgt": "Le:o crocodile:n referma:v ses:o mâchoires:n sur:o Hook:o ,:o et:o le:o Capitaine:n Hook:o avait:v disparu:v .:o"
+  },
+  {
+   "n": 292,
+   "en": "The boys took down Hook's black flag with the skull on it.",
+   "tgt": "Les:o garçons:n descendirent:v le:o drapeau:n noir:a de:o Hook:o avec:o le:o crâne:n dessus:a .:o"
+  },
+  {
+   "n": 293,
+   "en": "John stood at the wheel, for he had thought of pirate ships long before.",
+   "tgt": "John:o se:o tint:v à:o la:o barre:n ,:o car:o il:o avait:v pensé:v aux:o navires:n pirates:n bien:a avant:a .:o"
+  },
+  {
+   "n": 294,
+   "en": "That night, the children slept in the pirates' beds, and Peter slept in Hook's bed.",
+   "tgt": "Cette:o nuit-là:o ,:o les:o enfants:n dormirent:v dans:o les:o lits:n des:o pirates:n ,:o et:o Peter:o dormit:v dans:o le:o lit:n de:o Hook:o .:o"
+  },
+  {
+   "n": 295,
+   "en": "In the morning, they would fly home at last, over the sea.",
+   "tgt": "Le:o matin:n ,:o ils:o rentreraient:v enfin:a chez:o eux:o ,:o en:o volant:v au-dessus:a de:o la:o mer:n .:o"
+  },
+  {
+   "n": 296,
+   "chapter": "The Window",
+   "en": "In the morning, the children and Peter flew up together, and they flew home over the sea.",
+   "tgt": "Le:o matin:n ,:o les:o enfants:n et:o Peter:o s':o envolèrent:v ensemble:a ,:o et:o ils:o rentrèrent:v chez:o eux:o en:o volant:v au-dessus:a de:o la:o mer:n .:o"
+  },
+  {
+   "n": 297,
+   "en": "Peter and Tinker Bell came first, over the streets, to the tall house and the window.",
+   "tgt": "Peter:o et:o Tinker:o Bell:o arrivèrent:v en:o premier:a ,:o au-dessus:a des:o rues:n ,:o jusqu':o à:o la:o grande:a maison:n et:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 298,
+   "en": "He wanted to close the window, for then Wendy would believe her mother had forgotten her.",
+   "tgt": "Il:o voulait:v fermer:v la:o fenêtre:n ,:o car:o alors:a Wendy:o croirait:v que:o sa:o mère:n l':o avait:v oubliée:v .:o"
+  },
+  {
+   "n": 299,
+   "en": "And then she would go back over the sea to Neverland, home with him.",
+   "tgt": "Et:o alors:a elle:o retournerait:v au-dessus:a de:o la:o mer:n vers:o Neverland:o ,:o chez:o lui:o .:o"
+  },
+  {
+   "n": 300,
+   "en": "But at the window, Peter looked in and saw the mother.",
+   "tgt": "Mais:o à:o la:o fenêtre:n ,:o Peter:o regarda:v à:o l':o intérieur:n et:o vit:v la:o mère:n .:o"
+  },
+  {
+   "n": 301,
+   "en": "She slept in a chair by the open window, and there were tears on her face.",
+   "tgt": "Elle:o dormait:v dans:o un:o fauteuil:n près:a de:o la:o fenêtre:n ouverte:a ,:o et:o il:o y:o avait:v des:o larmes:n sur:o son:o visage:n .:o"
+  },
+  {
+   "n": 302,
+   "en": "Peter looked at the tears, and he could not close the window on the mother.",
+   "tgt": "Peter:o regarda:v les:o larmes:n ,:o et:o il:o ne:o pouvait:v pas:o fermer:v la:o fenêtre:n sur:o la:o mère:n .:o"
+  },
+  {
+   "n": 303,
+   "en": "He left the window open and flew up over the roof of the tall house.",
+   "tgt": "Il:o laissa:v la:o fenêtre:n ouverte:a et:o s':o envola:v au-dessus:a du:o toit:n de:o la:o grande:a maison:n .:o"
+  },
+  {
+   "n": 304,
+   "en": "Wendy, John, and Michael flew in through the open window.",
+   "tgt": "Wendy:o ,:o John:o ,:o et:o Michael:o entrèrent:v par:o la:o fenêtre:n ouverte:a .:o"
+  },
+  {
+   "n": 305,
+   "en": "They went to their own beds without a sound.",
+   "tgt": "Ils:o allèrent:v dans:o leurs:o propres:a lits:n sans:o faire:v de:o bruit:n .:o"
+  },
+  {
+   "n": 306,
+   "en": "Their mother slept on in her chair, and the moon was on the sill.",
+   "tgt": "Leur:o mère:n continua:v de:o dormir:v dans:o son:o fauteuil:n ,:o et:o la:o lune:n était:v sur:o le:o rebord:n .:o"
+  },
+  {
+   "n": 307,
+   "en": "The mother woke and saw the children, and she believed it was a dream she had dreamed many times.",
+   "tgt": "La:o mère:n se:o réveilla:v et:o vit:v les:o enfants:n ,:o et:o elle:o crut:v que:o c':o était:v un:o rêve:n qu':o elle:o avait:v rêvé:v bien:a des:o fois:n .:o"
+  },
+  {
+   "n": 308,
+   "en": "\"Mother, Mother, we are home!\" called Wendy.",
+   "tgt": "«:o Maman:n ,:o Maman:n ,:o nous:o sommes:v à:o la:o maison:n !:o »:o appela:v Wendy:o .:o"
+  },
+  {
+   "n": 309,
+   "en": "Wendy went to her mother and held her hand, and the hand was warm.",
+   "tgt": "Wendy:o alla:v vers:o sa:o mère:n et:o prit:v sa:o main:n ,:o et:o la:o main:n était:v chaude:a .:o"
+  },
+  {
+   "n": 310,
+   "en": "It was not a dream, and the mother ran to the beds and hugged all the children together.",
+   "tgt": "Ce:o n':o était:v pas:o un:o rêve:n ,:o et:o la:o mère:n courut:v vers:o les:o lits:n et:o serra:v tous:o les:o enfants:n ensemble:a .:o"
+  },
+  {
+   "n": 311,
+   "en": "The father came in, and the family was together again.",
+   "tgt": "Le:o père:n entra:v ,:o et:o la:o famille:n était:v de:o nouveau:a réunie:a .:o"
+  },
+  {
+   "n": 312,
+   "en": "The children had grown a little, but the mother knew every face.",
+   "tgt": "Les:o enfants:n avaient:v grandi:v un:o peu:a ,:o mais:o la:o mère:n connaissait:v chaque:o visage:n .:o"
+  },
+  {
+   "n": 313,
+   "en": "The lost boys stood at the window and looked in at the family.",
+   "tgt": "Les:o garçons:n perdus:a se:o tenaient:v à:o la:o fenêtre:n et:o regardaient:v la:o famille:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 314,
+   "en": "\"They have no mother and no father,\" said Wendy.",
+   "tgt": "«:o Ils:o n':o ont:v ni:o mère:n ni:o père:n ,:o »:o dit:v Wendy:o .:o"
+  },
+  {
+   "n": 315,
+   "en": "\"We will be their mother and father,\" said the mother.",
+   "tgt": "«:o Nous:o serons:v leur:o mère:n et:o leur:o père:n ,:o »:o dit:v la:o mère:n .:o"
+  },
+  {
+   "n": 316,
+   "en": "The mother and father said yes to every one of the lost boys.",
+   "tgt": "La:o mère:n et:o le:o père:n dirent:v oui:o à:o chacun:o des:o garçons:n perdus:a .:o"
+  },
+  {
+   "n": 317,
+   "en": "The boys came in through the window, glad of a home at last.",
+   "tgt": "Les:o garçons:n entrèrent:v par:o la:o fenêtre:n ,:o contents:a d':o avoir:v enfin:a un:o foyer:n .:o"
+  },
+  {
+   "n": 318,
+   "en": "The mother asked Peter to come in too.",
+   "tgt": "La:o mère:n demanda:v à:o Peter:o d':o entrer:v aussi:a .:o"
+  },
+  {
+   "n": 319,
+   "en": "\"They will make me go to school and grow up,\" said Peter.",
+   "tgt": "«:o Ils:o me:o feront:v aller:v à:o l':o école:n et:o grandir:v ,:o »:o dit:v Peter:o .:o"
+  },
+  {
+   "n": 320,
+   "en": "\"No one will ever make me grow up.\"",
+   "tgt": "«:o Personne:o ne:o me:o fera:v jamais:o grandir:v .:o »:o"
+  },
+  {
+   "n": 321,
+   "en": "Peter said goodbye to Wendy at the window.",
+   "tgt": "Peter:o dit:v au:o revoir:n à:o Wendy:o à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 322,
+   "en": "He flew back to Neverland with Tinker Bell, and he stayed young.",
+   "tgt": "Il:o retourna:v en:o volant:a à:o Neverland:o avec:o Tinker:o Bell:o ,:o et:o il:o resta:v jeune:a .:o"
+  },
+  {
+   "n": 323,
+   "en": "Sometimes, at story time, a boy came and sat outside the nursery window to listen.",
+   "tgt": "Parfois:o ,:o à:o l':o heure:n des:o histoires:n ,:o un:o garçon:n venait:v et:o s':o asseyait:v dehors:a à:o la:o fenêtre:n de:o la:o nursery:n pour:o écouter:v .:o"
+  },
+  {
+   "n": 324,
+   "en": "The mother saw him there and knew him now, and she did not close the window.",
+   "tgt": "La:o mère:n le:o vit:v là:a et:o le:o connut:v alors:a ,:o et:o elle:o ne:o ferma:v pas:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 325,
+   "en": "Wendy told the stories again, and the boy at the window listened.",
+   "tgt": "Wendy:o raconta:v les:o histoires:n de:o nouveau:a ,:o et:o le:o garçon:n à:o la:o fenêtre:n écouta:v .:o"
+  },
+  {
+   "n": 326,
+   "en": "The lost boys listened too, for the stories were their stories now.",
+   "tgt": "Les:o garçons:n perdus:a écoutèrent:v aussi:a ,:o car:o les:o histoires:n étaient:v leurs:o histoires:n maintenant:a .:o"
+  },
+  {
+   "n": 327,
+   "en": "The best stories were still about Peter Pan.",
+   "tgt": "Les:o meilleures:a histoires:n parlaient:v encore:a de:o Peter:o Pan:o .:o"
+  }
+ ]
+}

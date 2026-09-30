@@ -1,0 +1,844 @@
+{
+ "slug": "puss_in_boots",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Miller's Three Sons",
+   "en": "A miller lived with his three sons.",
+   "tgt": "Un:o meunier:n vivait:v avec:o ses:o trois:o fils:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He owned a mill, a donkey, and a cat.",
+   "tgt": "Il:o possédait:v un:o moulin:n ,:o un:o âne:n ,:o et:o un:o chat:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "One day, the old miller died.",
+   "tgt": "Un:o jour:n ,:o le:o vieux:a meunier:n mourut:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "His mill, his donkey, and his cat went to his sons.",
+   "tgt": "Son:o moulin:n ,:o son:o âne:n ,:o et:o son:o chat:n allèrent:v à:o ses:o fils:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "The oldest son got the mill.",
+   "tgt": "Le:o fils:n aîné:a reçut:v le:o moulin:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The second son got the donkey.",
+   "tgt": "Le:o deuxième:a fils:n reçut:v l':o âne:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The youngest son got only the cat.",
+   "tgt": "Le:o fils:n cadet:a reçut:v seulement:a le:o chat:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "The youngest son was not happy with his gift.",
+   "tgt": "Le:o fils:n cadet:a n':o était:v pas:o content:a de:o son:o cadeau:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"My brothers can grind grain and ride to town,\" he said.",
+   "tgt": "«:o Mes:o frères:n peuvent:v moudre:v le:o grain:n et:o aller:v à:o cheval:n en:o ville:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"I can only eat this cat,\" he said to the cat.",
+   "tgt": "«:o Je:o ne:o peux:v que:o manger:v ce:o chat:n ,:o »:o dit-il:v au:o chat:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"After that, I will have nothing at all,\" he said.",
+   "tgt": "«:o Après:o cela:o ,:o je:o n':o aurai:v rien:o du:o tout:o ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 12,
+   "en": "The cat sat near him and listened to every word.",
+   "tgt": "Le:o chat:n s':o assit:v près:o de:o lui:o et:o écouta:v chaque:o mot:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "The cat looked up at the youngest son.",
+   "tgt": "Le:o chat:n leva:v les:o yeux:n vers:o le:o fils:n le:o plus:o jeune:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"Do not eat me,\" the cat said.",
+   "tgt": "«:o Ne:o me:o mange:v pas:o ,:o »:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "The son was surprised the cat could talk.",
+   "tgt": "Le:o fils:n fut:v surpris:a que:o le:o chat:n puisse:v parler:v .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"I can help you,\" said the cat.",
+   "tgt": "«:o Je:o peux:v vous:o aider:v ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"Bring me a bag and a pair of boots.\"",
+   "tgt": "«:o Apportez:v -moi:o un:o sac:n et:o une:o paire:n de:o bottes:n .:o »:o"
+  },
+  {
+   "n": 18,
+   "en": "His brothers had laughed at his gift.",
+   "tgt": "Ses:o frères:n avaient:v ri:v de:o son:o cadeau:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The son had nothing to lose.",
+   "tgt": "Le:o fils:n n':o avait:v rien:o à:o perdre:v .:o"
+  },
+  {
+   "n": 20,
+   "en": "He brought the bag and boots to the cat.",
+   "tgt": "Il:o apporta:v le:o sac:n et:o les:o bottes:n au:o chat:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "The cat put the boots on his feet.",
+   "tgt": "Le:o chat:n mit:v les:o bottes:n à:o ses:o pieds:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "The cat put the bag over his shoulder.",
+   "tgt": "Le:o chat:n mit:v le:o sac:n sur:o son:o épaule:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"I will make you rich,\" the cat said.",
+   "tgt": "«:o Je:o vous:o ferai:v riche:a ,:o »:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "The son did not believe the cat.",
+   "tgt": "Le:o fils:n ne:o crut:v pas:o le:o chat:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "But he had no better plan.",
+   "tgt": "Mais:o il:o n':o avait:v pas:o de:o meilleur:a plan:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "A field lay near the mill.",
+   "tgt": "Un:o champ:n se:o trouvait:v près:o du:o moulin:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The cat went there with his open bag.",
+   "tgt": "Le:o chat:n y:o alla:v avec:o son:o sac:n ouvert:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "He put some grain inside the bag.",
+   "tgt": "Il:o mit:v du:o grain:n à:o l':o intérieur:n du:o sac:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "A young rabbit went into the bag to eat.",
+   "tgt": "Un:o jeune:a lapin:n entra:v dans:o le:o sac:n pour:o manger:v .:o"
+  },
+  {
+   "n": 30,
+   "en": "The cat closed the bag.",
+   "tgt": "Le:o chat:n ferma:v le:o sac:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "Soon he brought the bag to the king's palace.",
+   "tgt": "Bientôt:a il:o apporta:v le:o sac:n au:o palais:n du:o roi:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The cat gave the rabbit to the king.",
+   "tgt": "Le:o chat:n donna:v le:o lapin:n au:o roi:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"A gift from the Marquis of Carabas,\" said the cat.",
+   "tgt": "«:o Un:o cadeau:n du:o Marquis:o de:o Carabas:o ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The king was happy with the gift.",
+   "tgt": "Le:o roi:n était:v content:a du:o cadeau:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Thank the Marquis for me,\" the king said.",
+   "tgt": "«:o Remerciez:v le:o Marquis:o pour:o moi:o »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "Soon the cat went home.",
+   "tgt": "Bientôt:a le:o chat:n rentra:v chez:o lui:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "The son knew nothing of this gift.",
+   "tgt": "Le:o fils:n ne:o savait:v rien:o de:o ce:o cadeau:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Weeks went by, and the cat caught more gifts.",
+   "tgt": "Des:o semaines:n passèrent:v ,:o et:o le:o chat:n attrapa:v d':o autres:a cadeaux:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "He caught partridges in the fields near the mill.",
+   "tgt": "Il:o attrapa:v des:o perdrix:n dans:o les:o champs:n près:o du:o moulin:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "He brought every gift to the king's palace.",
+   "tgt": "Il:o apporta:v chaque:o cadeau:n au:o palais:n du:o roi:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "The king always thanked the cat.",
+   "tgt": "Le:o roi:n remerciait:v toujours:a le:o chat:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "The king wanted to meet the Marquis.",
+   "tgt": "Le:o roi:n voulait:v rencontrer:v le:o Marquis:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "But the cat still had a secret plan.",
+   "tgt": "Mais:o le:o chat:n avait:v encore:a un:o plan:n secret:a .:o"
+  },
+  {
+   "n": 44,
+   "en": "This went on for many weeks.",
+   "tgt": "Cela:o continua:v pendant:o plusieurs:o semaines:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The son had nothing but the cat.",
+   "tgt": "Le:o fils:n n':o avait:v que:o le:o chat:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The cat's plan would make him rich.",
+   "tgt": "Le:o plan:n du:o chat:n le:o rendrait:v riche:a .:o"
+  },
+  {
+   "n": 47,
+   "en": "The cat said nothing more.",
+   "tgt": "Le:o chat:n ne:o dit:v rien:o de:o plus:a .:o"
+  },
+  {
+   "n": 48,
+   "chapter": "A Plan for the River",
+   "en": "One day, the cat heard news.",
+   "tgt": "Un:o jour:n ,:o le:o chat:n entendit:v des:o nouvelles:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "The king would ride by the river soon.",
+   "tgt": "Le:o roi:n passerait:v bientôt:a à:o cheval:n près:o de:o la:o rivière:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "The king's young daughter was a princess.",
+   "tgt": "La:o jeune:a fille:n du:o roi:n était:v une:o princesse:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "The princess would ride with the king.",
+   "tgt": "La:o princesse:n chevaucherait:v avec:o le:o roi:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The cat had a plan for the son.",
+   "tgt": "Le:o chat:n avait:v un:o plan:n pour:o le:o fils:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "The cat wanted the son to look rich.",
+   "tgt": "Le:o chat:n voulait:v que:o le:o fils:n paraisse:v riche:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Go swim in the river tomorrow,\" the cat said.",
+   "tgt": "«:o Va:v nager:v dans:o la:o rivière:n demain:a »:o ,:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "Grass was near the river there.",
+   "tgt": "De:o l':o herbe:n poussait:v près:a de:o la:o rivière:n là:a .:o"
+  },
+  {
+   "n": 56,
+   "en": "The son said nothing.",
+   "tgt": "Le:o fils:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "He believed the cat now.",
+   "tgt": "Il:o croyait:v le:o chat:n maintenant:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "He had seen many of the cat's gifts.",
+   "tgt": "Il:o avait:v vu:v beaucoup:a de:o cadeaux:n du:o chat:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "Soon the Marquis of Carabas would meet the king.",
+   "tgt": "Bientôt:a le:o Marquis:o de:o Carabas:o allait:v rencontrer:v le:o roi:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "The son went to the river the next day.",
+   "tgt": "Le:o fils:n alla:v à:o la:o rivière:n le:o lendemain:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "The son left his clothes on the grass.",
+   "tgt": "Le:o fils:n laissa:v ses:o vêtements:n sur:o l':o herbe:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "He swam in the river.",
+   "tgt": "Il:o nagea:v dans:o la:o rivière:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The cat got the clothes and hid them in some grass.",
+   "tgt": "Le:o chat:n prit:v les:o vêtements:n et:o les:o cacha:v dans:o de:o l':o herbe:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "Soon the king's coach was near the river.",
+   "tgt": "Bientôt:a le:o carrosse:n du:o roi:n était:v près:a de:o la:o rivière:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "The young princess was with the king.",
+   "tgt": "La:o jeune:a princesse:n était:v avec:o le:o roi:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The cat ran to the coach.",
+   "tgt": "Le:o chat:n courut:v vers:o le:o carrosse:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "\"My master's clothes are stolen!\" the cat cried.",
+   "tgt": "«:o Les:o vêtements:n de:o mon:o maître:n sont:v volés:a !:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The king still remembered the cat's many gifts.",
+   "tgt": "Le:o roi:n se:o souvenait:v encore:a des:o nombreux:a cadeaux:n du:o chat:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"This cat belongs to the Marquis of Carabas,\" the king said.",
+   "tgt": "«:o Ce:o chat:n appartient:v au:o Marquis:o de:o Carabas:o ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The king wanted to help the Marquis.",
+   "tgt": "Le:o roi:n voulait:v aider:v le:o Marquis:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"Bring fine clothes for the Marquis,\" the king told his men.",
+   "tgt": "«:o Apportez:v de:o beaux:a vêtements:n pour:o le:o Marquis:o ,:o »:o dit:v le:o roi:n à:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The king's men brought the fine clothes to the river.",
+   "tgt": "Les:o hommes:n du:o roi:n apportèrent:v les:o beaux:a vêtements:n à:o la:o rivière:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The son put on the fine clothes.",
+   "tgt": "Le:o fils:n mit:v les:o beaux:a vêtements:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "He looked like a rich marquis.",
+   "tgt": "Il:o ressemblait:v à:o un:o riche:a marquis:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The princess looked at the young man.",
+   "tgt": "La:o princesse:n regarda:v le:o jeune:a homme:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "She had fine clothes of her own.",
+   "tgt": "Elle:o avait:v ses:o propres:a beaux:a vêtements:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "She liked him.",
+   "tgt": "Elle:o l':o aimait:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "\"Come ride with us,\" the king said.",
+   "tgt": "«:o Venez:v voyager:v avec:o nous:o ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "The young man got into the coach.",
+   "tgt": "Le:o jeune:a homme:n monta:v dans:o le:o carrosse:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "He thanked the king.",
+   "tgt": "Il:o remercia:v le:o roi:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "He sat next to the princess.",
+   "tgt": "Il:o s':o assit:v à:o côté:n de:o la:o princesse:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "The king was happy with the young Marquis.",
+   "tgt": "Le:o roi:n était:v content:a du:o jeune:a Marquis:o .:o"
+  },
+  {
+   "n": 83,
+   "en": "The cat watched from the road.",
+   "tgt": "Le:o chat:n observait:v depuis:o la:o route:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "The coach rode on.",
+   "tgt": "Le:o carrosse:n continua:v sa:o route:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The cat had more to do.",
+   "tgt": "Le:o chat:n avait:v encore:o plus:o à:o faire:v .:o"
+  },
+  {
+   "n": 86,
+   "en": "He ran ahead of the coach.",
+   "tgt": "Il:o courut:v en:o avant:a du:o carrosse:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "He wanted to reach the fields.",
+   "tgt": "Il:o voulait:v atteindre:v les:o champs:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "Soon the cat came to a field.",
+   "tgt": "Bientôt:a le:o chat:n arriva:v à:o un:o champ:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Harvesters were cutting grain in the field.",
+   "tgt": "Des:o moissonneurs:n coupaient:v du:o grain:n dans:o le:o champ:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "The fields belonged to a rich ogre.",
+   "tgt": "Les:o champs:n appartenaient:v à:o un:o riche:a ogre:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "No harvester had ever seen the ogre.",
+   "tgt": "Aucun:o moissonneur:n n':o avait:v jamais:o vu:v l':o ogre:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The cat ran to the harvesters.",
+   "tgt": "Le:o chat:n courut:v vers:o les:o moissonneurs:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "\"The king will soon ride by,\" the cat said.",
+   "tgt": "«:o Le:o roi:n passera:v bientôt:a par:o ici:a ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "\"You will say this field belongs to the Marquis of Carabas.\"",
+   "tgt": "«:o Vous:o direz:v que:o ce:o champ:n appartient:v au:o Marquis:o de:o Carabas:o .:o »:o"
+  },
+  {
+   "n": 95,
+   "en": "\"If not, I will cut you into pieces,\" said the cat.",
+   "tgt": "«:o Sinon:o ,:o je:o vous:o couperai:v en:o morceaux:n ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The harvesters were afraid of the cat.",
+   "tgt": "Les:o moissonneurs:n avaient:v peur:n du:o chat:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "They believed every word.",
+   "tgt": "Ils:o crurent:v chaque:o mot:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "They said they would always do it.",
+   "tgt": "Ils:o dirent:v qu':o ils:o le:o feraient:v toujours:a .:o"
+  },
+  {
+   "n": 99,
+   "en": "The cat ran on ahead of the coach.",
+   "tgt": "Le:o chat:n courut:v en:o avant:a du:o carrosse:n .:o"
+  },
+  {
+   "n": 100,
+   "chapter": "The King and the Harvesters",
+   "en": "The coach came to the field.",
+   "tgt": "Le:o carrosse:n arriva:v au:o champ:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"Whose field is this?\" the king asked.",
+   "tgt": "«:o À:o qui:o appartient:v ce:o champ:n ?:o »:o demanda:v le:o roi:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"This field belongs to the Marquis of Carabas,\" the harvesters said.",
+   "tgt": "«:o Ce:o champ:n appartient:v au:o Marquis:o de:o Carabas:o ,:o »:o dirent:v les:o moissonneurs:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The king was surprised.",
+   "tgt": "Le:o roi:n fut:v surpris:a .:o"
+  },
+  {
+   "n": 104,
+   "en": "He would remember this rich Marquis.",
+   "tgt": "Il:o se:o souviendrait:v de:o ce:o riche:a Marquis:o .:o"
+  },
+  {
+   "n": 105,
+   "en": "\"The Marquis has so much land,\" the king said to the princess.",
+   "tgt": "«:o Le:o Marquis:o possède:v tant:a de:o terres:n ,:o »:o dit:v le:o roi:n à:o la:o princesse:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "The princess wanted to meet the Marquis.",
+   "tgt": "La:o princesse:n voulait:v rencontrer:v le:o Marquis:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "The coach rode on.",
+   "tgt": "Le:o carrosse:n continua:v sa:o route:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "Soon they left the fields.",
+   "tgt": "Bientôt:a ils:o quittèrent:v les:o champs:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "The cat was already far ahead.",
+   "tgt": "Le:o chat:n était:v déjà:a loin:a devant:a .:o"
+  },
+  {
+   "n": 110,
+   "en": "He had one more place to reach.",
+   "tgt": "Il:o avait:v encore:a un:o endroit:n à:o atteindre:v .:o"
+  },
+  {
+   "n": 111,
+   "en": "Soon the cat reached a great castle.",
+   "tgt": "Bientôt:a le:o chat:n atteignit:v un:o grand:a château:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "The castle was near the fields.",
+   "tgt": "Le:o château:n était:v près:a de:o les:o champs:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "The ogre was the richest in the land.",
+   "tgt": "L':o ogre:n était:v le:o plus:a riche:a du:o pays:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "The ogre owned three castles like this one.",
+   "tgt": "L':o ogre:n possédait:v trois:o châteaux:n comme:o celui-ci:o .:o"
+  },
+  {
+   "n": 115,
+   "en": "A servant brought the cat inside.",
+   "tgt": "Un:o serviteur:n amena:v le:o chat:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "The cat was not afraid to ask.",
+   "tgt": "Le:o chat:n n':o avait:v pas:o peur:n de:o demander:v .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"I want to see the great ogre,\" said the cat.",
+   "tgt": "«:o Je:o veux:v voir:v le:o grand:a ogre:n ,:o »:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "The servant brought the cat to the ogre.",
+   "tgt": "Le:o serviteur:n amena:v le:o chat:n à:o l':o ogre:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "The ogre was strong and proud.",
+   "tgt": "L':o ogre:n était:v fort:a et:o fier:a .:o"
+  },
+  {
+   "n": 120,
+   "en": "The ogre always liked to talk.",
+   "tgt": "L':o ogre:n aimait:v toujours:a parler:v .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"I heard you can change into any animal,\" the cat said.",
+   "tgt": "«:o J':o ai:v entendu:v que:o vous:o pouvez:v vous:o transformer:v en:o n':o importe:v quel:o animal:n ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "\"Is this true?\" the cat asked.",
+   "tgt": "«:o Est-ce:o vrai:a ?:o »:o demanda:v le:o chat:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "\"This is true,\" said the ogre.",
+   "tgt": "«:o C':o est:v vrai:a ,:o »:o dit:v l':o ogre:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "The cat had seen many rich castles.",
+   "tgt": "Le:o chat:n avait:v vu:v beaucoup:a de:o châteaux:n riches:a .:o"
+  },
+  {
+   "n": 125,
+   "en": "The ogre became a big lion.",
+   "tgt": "L':o ogre:n devint:v un:o grand:a lion:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The lion roared.",
+   "tgt": "Le:o lion:n rugit:v .:o"
+  },
+  {
+   "n": 127,
+   "en": "The cat was afraid of the lion.",
+   "tgt": "Le:o chat:n avait:v peur:n du:o lion:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "The cat did not want to become dinner.",
+   "tgt": "Le:o chat:n ne:o voulait:v pas:o devenir:v le:o dîner:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The cat ran up to the roof.",
+   "tgt": "Le:o chat:n courut:v jusqu':o au:o toit:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "His boots made it hard to climb.",
+   "tgt": "Ses:o bottes:n rendaient:v la:o montée:n difficile:a .:o"
+  },
+  {
+   "n": 131,
+   "en": "But the cat still held on.",
+   "tgt": "Mais:o le:o chat:n tenait:v encore:a bon:a .:o"
+  },
+  {
+   "n": 132,
+   "en": "The lion looked up at the cat.",
+   "tgt": "Le:o lion:n regarda:v le:o chat:n en:o haut:a .:o"
+  },
+  {
+   "n": 133,
+   "en": "Soon the lion became the ogre.",
+   "tgt": "Bientôt:a le:o lion:n devint:v l':o ogre:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "The ogre laughed at the afraid cat.",
+   "tgt": "L':o ogre:n rit:v du:o chat:n apeuré:a .:o"
+  },
+  {
+   "n": 135,
+   "en": "Soon the cat came down from the roof.",
+   "tgt": "Bientôt:a le:o chat:n descendit:v du:o toit:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "\"That was a great trick,\" said the cat.",
+   "tgt": "«:o C':o était:v un:o grand:a tour:n »:o ,:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "\"But I do not believe you can become small,\" the cat said.",
+   "tgt": "«:o Mais:o je:o ne:o crois:v pas:o que:o vous:o puissiez:v devenir:v petit:a ,:o »:o dit:v -il:o le:o chat:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "\"Small like a mouse,\" the cat said.",
+   "tgt": "«:o Petit:a comme:o une:o souris:n ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "The proud ogre wanted to prove this.",
+   "tgt": "L':o ogre:n fier:a voulut:v prouver:v cela:o .:o"
+  },
+  {
+   "n": 140,
+   "en": "The ogre became a small mouse.",
+   "tgt": "L':o ogre:n devint:v une:o petite:a souris:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The mouse ran across the floor.",
+   "tgt": "La:o souris:n courut:v à:o travers:o le:o sol:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "The cat jumped on the mouse.",
+   "tgt": "Le:o chat:n sauta:v sur:o la:o souris:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The cat ate the mouse.",
+   "tgt": "Le:o chat:n mangea:v la:o souris:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "The ogre was dead.",
+   "tgt": "L':o ogre:n était:v mort:a .:o"
+  },
+  {
+   "n": 145,
+   "en": "Now the castle belonged to no one.",
+   "tgt": "Maintenant:a le:o château:n n':o appartenait:v à:o personne:o .:o"
+  },
+  {
+   "n": 146,
+   "en": "Soon the king's coach reached the castle.",
+   "tgt": "Bientôt:a le:o carrosse:n du:o roi:n atteignit:v le:o château:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "The young man was still with them.",
+   "tgt": "Le:o jeune:a homme:n était:v encore:a avec:o eux:o .:o"
+  },
+  {
+   "n": 148,
+   "en": "The cat stood at the castle gate.",
+   "tgt": "Le:o chat:n se:o tenait:v à:o la:o porte:n du:o château:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "\"Welcome to my master's castle,\" said the cat.",
+   "tgt": "«:o Bienvenue:n dans:o le:o château:n de:o mon:o maître:n ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "\"This is the castle of the Marquis of Carabas,\" the cat said.",
+   "tgt": "«:o C':o est:v le:o château:n du:o Marquis:o de:o Carabas:o ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "The king was surprised by the great castle.",
+   "tgt": "Le:o roi:n fut:v surpris:a par:o le:o grand:a château:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "They all went inside.",
+   "tgt": "Ils:o entrèrent:v tous:o à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "The servants had made a great feast.",
+   "tgt": "Les:o serviteurs:n avaient:v préparé:v un:o grand:a festin:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "This feast was for the ogre's friends.",
+   "tgt": "Ce:o festin:n était:v pour:o les:o amis:n de:o l':o ogre:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "The princess and the king ate the feast.",
+   "tgt": "La:o princesse:n et:o le:o roi:n mangèrent:v le:o festin:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "The king liked the rich castle so much.",
+   "tgt": "Le:o roi:n aimait:v beaucoup:a le:o riche:a château:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "The king wanted the Marquis for his daughter.",
+   "tgt": "Le:o roi:n voulait:v le:o Marquis:o pour:o sa:o fille:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "The king gave his daughter to the Marquis.",
+   "tgt": "Le:o roi:n donna:v sa:o fille:n au:o Marquis:o .:o"
+  },
+  {
+   "n": 159,
+   "en": "Soon the Marquis married the princess.",
+   "tgt": "Bientôt:a le:o Marquis:o épousa:v la:o princesse:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "The wedding was at the castle.",
+   "tgt": "Le:o mariage:n eut:v lieu:n au:o château:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "The son was now a real marquis.",
+   "tgt": "Le:o fils:n était:v maintenant:a un:o vrai:a marquis:o .:o"
+  },
+  {
+   "n": 162,
+   "en": "The son once had only the cat.",
+   "tgt": "Le:o fils:n n':o avait:v eu:v autrefois:a que:o le:o chat:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "The Marquis always remembered the clever cat.",
+   "tgt": "Le:o Marquis:o se:o souvenait:v toujours:a du:o chat:n intelligent:a .:o"
+  },
+  {
+   "n": 164,
+   "en": "The cat lived with them in the castle.",
+   "tgt": "Le:o chat:n vivait:v avec:o eux:o dans:o le:o château:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "He became a great lord too.",
+   "tgt": "Il:o devint:v aussi:a un:o grand:a seigneur:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "The cat did not need to catch a mouse now.",
+   "tgt": "Le:o chat:n n':o avait:v plus:o besoin:n d':o attraper:v une:o souris:n maintenant:a .:o"
+  },
+  {
+   "n": 167,
+   "en": "But the cat still liked to catch one.",
+   "tgt": "Mais:o le:o chat:n aimait:v encore:a en:o attraper:v une:o .:o"
+  }
+ ]
+}

@@ -1,0 +1,879 @@
+{
+ "slug": "twelve_dancing_princesses",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Locked Room",
+   "en": "A king had 12 daughters.",
+   "tgt": "Un:o roi:n avait:v 12:o filles:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "All 12 were princesses.",
+   "tgt": "Les:o 12:o étaient:v des:o princesses:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The princesses shared one room.",
+   "tgt": "Les:o princesses:n partageaient:v une:o chambre:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "Every night, the king locked their door himself.",
+   "tgt": "Chaque:o nuit:n ,:o le:o roi:n fermait:v leur:o porte:n à:o clé:n lui-même:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "He kept the only key.",
+   "tgt": "Il:o gardait:v la:o seule:a clé:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Every morning, the princesses' shoes were danced to pieces.",
+   "tgt": "Chaque:o matin:n ,:o les:o chaussures:n des:o princesses:n étaient:v usées:a à:o force:n de:o danser:v .:o"
+  },
+  {
+   "n": 7,
+   "en": "No one saw the princesses leave the locked room.",
+   "tgt": "Personne:o ne:o vit:v les:o princesses:n quitter:v la:o chambre:n fermée:a à:o clé:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "New shoes were brought, but they were danced to pieces too.",
+   "tgt": "De:o nouvelles:a chaussures:n furent:v apportées:v ,:o mais:o elles:o furent:v aussi:a usées:a à:o force:n de:o danser:v .:o"
+  },
+  {
+   "n": 9,
+   "en": "This happened again and again, for many months.",
+   "tgt": "Cela:o arriva:v encore:a et:o encore:a ,:o pendant:o de:o nombreux:a mois:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The king asked his daughters where they went.",
+   "tgt": "Le:o roi:n demanda:v à:o ses:o filles:n où:o elles:o allaient:v .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"We were asleep all night,\" said the eldest princess.",
+   "tgt": "«:o Nous:o avons:v dormi:v toute:o la:o nuit:n ,:o »:o dit:v -elle:o ,:o la:o princesse:n aînée:a .:o"
+  },
+  {
+   "n": 12,
+   "en": "The other princesses said nothing at all.",
+   "tgt": "Les:o autres:a princesses:n ne:o dirent:v rien:o du:o tout:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "The king never solved this mystery.",
+   "tgt": "Le:o roi:n ne:o résolut:v jamais:o ce:o mystère:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The king wanted to solve this mystery.",
+   "tgt": "Le:o roi:n voulait:v résoudre:v ce:o mystère:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He made an offer to any man in the kingdom.",
+   "tgt": "Il:o fit:v une:o offre:n à:o tout:o homme:n du:o royaume:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "Any man could try to solve the mystery.",
+   "tgt": "Tout:o homme:n pouvait:v essayer:v de:o résoudre:v le:o mystère:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "He would watch the princesses for 3 nights.",
+   "tgt": "Il:o surveillerait:v les:o princesses:n pendant:o 3:o nuits:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "If he learned the mystery, he could marry one of the 12 princesses.",
+   "tgt": "S':o il:o découvrait:v le:o mystère:n ,:o il:o pourrait:v épouser:v l':o une:o des:o 12:o princesses:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The winning man would also rule the kingdom one day.",
+   "tgt": "L':o homme:n gagnant:a régnerait:v aussi:a sur:o le:o royaume:n un:o jour:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "But if he failed, he would be sent away from the kingdom forever.",
+   "tgt": "Mais:o s':o il:o échouait:v ,:o il:o serait:v renvoyé:v du:o royaume:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "Even so, many princes wanted to try.",
+   "tgt": "Même:a ainsi:a ,:o beaucoup:a de:o princes:n voulaient:v essayer:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "No prince had solved the mystery before.",
+   "tgt": "Aucun:o prince:n n':o avait:v résolu:v le:o mystère:n avant:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "Prince after prince came to the castle to try.",
+   "tgt": "Prince:o après:o prince:o vint:v au:o château:n pour:o essayer:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "Each prince had a room by the princesses' door.",
+   "tgt": "Chaque:o prince:n avait:v une:o chambre:n près:o de:o la:o porte:n des:o princesses:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He could watch the princesses' door all night.",
+   "tgt": "Il:o pouvait:v surveiller:v la:o porte:n des:o princesses:n toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "Each morning, the king asked the prince what he had seen.",
+   "tgt": "Chaque:o matin:n ,:o le:o roi:n demanda:v au:o prince:n ce:o qu':o il:o avait:v vu:v .:o"
+  },
+  {
+   "n": 27,
+   "en": "The first prince came to watch the princesses.",
+   "tgt": "Le:o premier:a prince:n vint:v surveiller:v les:o princesses:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "The eldest princess brought him wine in the evening.",
+   "tgt": "La:o princesse:n aînée:a lui:o apporta:v du:o vin:n le:o soir:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The wine had a sleeping drink in it.",
+   "tgt": "Le:o vin:n contenait:v une:o boisson:n soporifique:a .:o"
+  },
+  {
+   "n": 30,
+   "en": "He drank all the wine and was asleep.",
+   "tgt": "Il:o but:v tout:o le:o vin:n et:o s':o endormit:v .:o"
+  },
+  {
+   "n": 31,
+   "en": "He was asleep all night and saw nothing.",
+   "tgt": "Il:o dormit:v toute:o la:o nuit:n et:o ne:o vit:v rien:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "Every morning, the princesses' shoes were danced to pieces again.",
+   "tgt": "Chaque:o matin:n ,:o les:o souliers:n des:o princesses:n étaient:v de:o nouveau:a usés:a à:o force:n de:o danser:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"What did you see?\" the king asked.",
+   "tgt": "«:o Qu':o avez-vous:v vu:v ?:o »:o demanda:v le:o roi:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"Nothing,\" said the prince.",
+   "tgt": "«:o Rien:o ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "The same happened on the second night.",
+   "tgt": "La:o même:a chose:n arriva:v la:o deuxième:a nuit:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The same happened on the third night.",
+   "tgt": "La:o même:a chose:n arriva:v la:o troisième:a nuit:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "The prince never saw the princesses leave or return.",
+   "tgt": "Le:o prince:n ne:o vit:v jamais:o les:o princesses:n partir:v ou:o revenir:v .:o"
+  },
+  {
+   "n": 38,
+   "en": "He had failed to solve the mystery.",
+   "tgt": "Il:o avait:v échoué:v à:o résoudre:v le:o mystère:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The king sent him away from the kingdom forever.",
+   "tgt": "Le:o roi:n le:o renvoya:v du:o royaume:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "More princes came to try.",
+   "tgt": "D':o autres:o princes:n vinrent:v pour:o essayer:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "Each prince watched the princesses for 3 nights.",
+   "tgt": "Chaque:o prince:n surveilla:v les:o princesses:n pendant:o 3:o nuits:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "In the evening, he drank the wine.",
+   "tgt": "Le:o soir:n ,:o il:o but:v le:o vin:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "Each prince was asleep all night and saw nothing at all.",
+   "tgt": "Chaque:o prince:n dormit:v toute:o la:o nuit:n et:o ne:o vit:v rien:o du:o tout:o .:o"
+  },
+  {
+   "n": 44,
+   "en": "One prince tried to stay awake.",
+   "tgt": "Un:o prince:n essaya:v de:o rester:v éveillé:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "But he too drank the wine and was soon asleep.",
+   "tgt": "Mais:o lui:o aussi:o but:v le:o vin:n et:o s':o endormit:v bientôt:a .:o"
+  },
+  {
+   "n": 46,
+   "en": "Prince after prince failed.",
+   "tgt": "Prince:o après:o prince:o échoua:v .:o"
+  },
+  {
+   "n": 47,
+   "en": "The king sent each one away from the kingdom forever.",
+   "tgt": "Le:o roi:n renvoya:v chacun:o loin:a du:o royaume:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "Years passed, and still no prince solved the mystery.",
+   "tgt": "Les:o années:n passèrent:v ,:o et:o toujours:a aucun:o prince:n ne:o résolut:v le:o mystère:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "Word of the mystery spread to other lands.",
+   "tgt": "La:o nouvelle:n du:o mystère:n se:o répandit:v dans:o d':o autres:a terres:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Fewer and fewer princes came to try.",
+   "tgt": "De:o moins:a en:o moins:a de:o princes:n vinrent:v essayer:v .:o"
+  },
+  {
+   "n": 51,
+   "en": "At last, no more princes came at all.",
+   "tgt": "Finalement:a ,:o plus:o aucun:o prince:n ne:o vint:v du:o tout:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "The king began to lose all hope.",
+   "tgt": "Le:o roi:n commença:v à:o perdre:v tout:o espoir:n .:o"
+  },
+  {
+   "n": 53,
+   "chapter": "The Wounded Soldier",
+   "en": "An old soldier walked home.",
+   "tgt": "Un:o vieux:a soldat:n rentrait:v chez:o lui:o à:o pied:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "He had been wounded.",
+   "tgt": "Il:o avait:v été:v blessé:a .:o"
+  },
+  {
+   "n": 55,
+   "en": "The soldier had little money.",
+   "tgt": "Le:o soldat:n avait:v peu:a d':o argent:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The soldier learned of the king's offer.",
+   "tgt": "Le:o soldat:n apprit:v l':o offre:n du:o roi:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Any man could try to solve the mystery of the princesses.",
+   "tgt": "N'importe:o quel:o homme:n pouvait:v essayer:v de:o résoudre:v le:o mystère:n des:o princesses:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "If he learned it, he could marry a princess.",
+   "tgt": "S':o il:o l':o apprenait:v ,:o il:o pouvait:v épouser:v une:o princesse:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "If he failed, he would be sent away from the kingdom forever.",
+   "tgt": "S':o il:o échouait:v ,:o il:o serait:v chassé:v du:o royaume:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "He had little hope, too.",
+   "tgt": "Il:o avait:v peu:a d':o espoir:n ,:o lui:o aussi:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "But he still wanted to try.",
+   "tgt": "Mais:o il:o voulait:v quand:o même:o essayer:v .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"I will try,\" said the soldier.",
+   "tgt": "«:o Je:o vais:v essayer:v »:o ,:o dit:v le:o soldat:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The soldier walked to the king's castle.",
+   "tgt": "Le:o soldat:n marcha:v jusqu':o au:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "He knew the princesses' shoes were danced to pieces.",
+   "tgt": "Il:o savait:v que:o les:o chaussures:n des:o princesses:n étaient:v usées:a à:o force:n de:o danser:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "He walked through a forest.",
+   "tgt": "Il:o traversa:v une:o forêt:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The soldier saw an old woman.",
+   "tgt": "Le:o soldat:n vit:v une:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "\"Where do you go?\" the old woman asked.",
+   "tgt": "«:o Où:o allez:v -vous:o ?:o »:o demanda:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "\"I go to try to solve the mystery,\" said the soldier.",
+   "tgt": "«:o Je:o vais:v essayer:v de:o résoudre:v le:o mystère:n ,:o »:o dit:v le:o soldat:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"Many have failed,\" said the old woman.",
+   "tgt": "«:o Beaucoup:o ont:v échoué:v ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"Do not drink the wine they bring you at night.\"",
+   "tgt": "«:o Ne:o buvez:v pas:o le:o vin:n qu':o ils:o vous:o apportent:v la:o nuit:n .:o »:o"
+  },
+  {
+   "n": 71,
+   "en": "\"Pretend to sleep.\"",
+   "tgt": "«:o Faites:v semblant:n de:o dormir:v .:o »:o"
+  },
+  {
+   "n": 72,
+   "en": "She had a cloak.",
+   "tgt": "Elle:o avait:v un:o manteau:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "\"This cloak will make you invisible,\" she said.",
+   "tgt": "«:o Ce:o manteau:n vous:o rendra:v invisible:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"But others can still hear you,\" she said.",
+   "tgt": "«:o Mais:o les:o autres:n peuvent:v encore:a vous:o entendre:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "The soldier thanked her.",
+   "tgt": "Le:o soldat:n la:o remercia:v .:o"
+  },
+  {
+   "n": 76,
+   "en": "He walked on to the king's castle.",
+   "tgt": "Il:o continua:v sa:o route:n vers:o le:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "He told the king he still wanted to try.",
+   "tgt": "Il:o dit:v au:o roi:n qu':o il:o voulait:v encore:a essayer:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "The king said he could try, too.",
+   "tgt": "Le:o roi:n dit:v qu':o il:o pouvait:v aussi:a essayer:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "The soldier was in the king's castle.",
+   "tgt": "Le:o soldat:n était:v dans:o le:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "In the evening, the eldest princess brought him wine.",
+   "tgt": "Le:o soir:n ,:o la:o princesse:n aînée:a lui:o apporta:v du:o vin:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "He knew not to drink the wine.",
+   "tgt": "Il:o savait:v qu':o il:o ne:o fallait:v pas:o boire:v le:o vin:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "He poured the wine away, unseen.",
+   "tgt": "Il:o versa:v le:o vin:n ,:o sans:o être:v vu:a .:o"
+  },
+  {
+   "n": 83,
+   "en": "He pretended to sleep.",
+   "tgt": "Il:o fit:v semblant:n de:o dormir:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "He snored.",
+   "tgt": "Il:o ronfla:v .:o"
+  },
+  {
+   "n": 85,
+   "en": "The eldest princess listened at his door.",
+   "tgt": "La:o princesse:n aînée:a écouta:v à:o sa:o porte:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"He sleeps,\" she said.",
+   "tgt": "«:o Il:o dort:v »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "The 12 princesses put on dresses.",
+   "tgt": "Les:o 12:o princesses:n mirent:v des:o robes:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "The eldest princess opened a trapdoor.",
+   "tgt": "La:o princesse:n aînée:a ouvrit:v une:o trappe:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "One by one, the princesses went down the stairs.",
+   "tgt": "Une:o par:o une:o ,:o les:o princesses:n descendirent:v les:o escaliers:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "The soldier put on the cloak, opened the door, and followed them.",
+   "tgt": "Le:o soldat:n mit:v le:o manteau:n ,:o ouvrit:v la:o porte:n ,:o et:o les:o suivit:v .:o"
+  },
+  {
+   "n": 91,
+   "en": "On the stairs, he stepped on the youngest princess's dress.",
+   "tgt": "Dans:o l':o escalier:n ,:o il:o marcha:v sur:o la:o robe:n de:o la:o plus:a jeune:a princesse:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "\"Someone stepped on my dress!\" she said.",
+   "tgt": "«:o Quelqu':o un:o a:v marché:v sur:o ma:o robe:n !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 93,
+   "en": "\"It was nothing,\" said the eldest.",
+   "tgt": "«:o Ce:o n':o était:v rien:o ,:o »:o dit:v l':o aînée:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "They walked on down the stairs.",
+   "tgt": "Elles:o continuèrent:v à:o descendre:v l':o escalier:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "The stairs went down to a path.",
+   "tgt": "L':o escalier:n descendait:v vers:o un:o chemin:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The path had silver trees.",
+   "tgt": "Le:o chemin:n avait:v des:o arbres:n argentés:a .:o"
+  },
+  {
+   "n": 97,
+   "en": "The soldier followed the princesses down the path.",
+   "tgt": "Le:o soldat:n suivit:v les:o princesses:n le:o long:n du:o chemin:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "He broke a branch from a tree.",
+   "tgt": "Il:o cassa:v une:o branche:n d':o un:o arbre:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "It cracked.",
+   "tgt": "Elle:o craqua:v .:o"
+  },
+  {
+   "n": 100,
+   "en": "The youngest princess was startled.",
+   "tgt": "La:o plus:a jeune:a princesse:n sursauta:v .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"Did you hear that?\" she asked.",
+   "tgt": "«:o Avez:v -vous:o entendu:v cela:o ?:o »:o demanda:v -t:o -elle:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"That was only an owl,\" said the eldest.",
+   "tgt": "«:o C':o était:v seulement:a une:o chouette:n »:o ,:o dit:v l':o aînée:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The youngest princess said nothing more.",
+   "tgt": "La:o plus:a jeune:a princesse:n ne:o dit:v plus:o rien:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "They walked on down the path.",
+   "tgt": "Ils:o continuèrent:v à:o marcher:v sur:o le:o chemin:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "No one in the castle knew where the princesses went at night.",
+   "tgt": "Personne:o dans:o le:o château:n ne:o savait:v où:o les:o princesses:n allaient:v la:o nuit:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "But the soldier knew the mystery.",
+   "tgt": "Mais:o le:o soldat:n connaissait:v le:o mystère:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "He still had 2 more nights to watch.",
+   "tgt": "Il:o avait:v encore:a 2:o nuits:n à:o surveiller:v .:o"
+  },
+  {
+   "n": 108,
+   "chapter": "The Lake and the Dance",
+   "en": "The princesses walked by trees of gold and trees of diamond.",
+   "tgt": "Les:o princesses:n passèrent:v devant:o des:o arbres:n d':o or:n et:o des:o arbres:n de:o diamant:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "At last, they came to a lake.",
+   "tgt": "Enfin:a ,:o ils:o arrivèrent:v à:o un:o lac:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "12 boats were at the lake.",
+   "tgt": "12:o bateaux:n étaient:v au:o lac:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "Each boat had a prince in it.",
+   "tgt": "Chaque:o bateau:n avait:v un:o prince:n à:o bord:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "The soldier was in the youngest princess's boat.",
+   "tgt": "Le:o soldat:n était:v dans:o le:o bateau:n de:o la:o plus:a jeune:a princesse:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "\"This boat feels heavy,\" said her prince.",
+   "tgt": "«:o Ce:o bateau:n semble:v lourd:a »:o ,:o dit:v son:o prince:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"It was only the warm night,\" said the youngest princess.",
+   "tgt": "«:o C':o était:v seulement:a la:o nuit:n chaude:a ,»:o dit:v la:o plus:o jeune:a princesse:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "The boats came to a castle.",
+   "tgt": "Les:o bateaux:n arrivèrent:v à:o un:o château:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "At the castle, the princesses danced with the princes.",
+   "tgt": "Au:o château:n ,:o les:o princesses:n dansèrent:v avec:o les:o princes:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "Their shoes were danced to pieces again.",
+   "tgt": "Leurs:o chaussures:n furent:v de:o nouveau:a dansées:a en:o morceaux:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "Before morning, they returned to their room.",
+   "tgt": "Avant:o le:o matin:n ,:o elles:o retournèrent:v dans:o leur:o chambre:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "The soldier returned to his room, too.",
+   "tgt": "Le:o soldat:n retourna:v dans:o sa:o chambre:n aussi:a .:o"
+  },
+  {
+   "n": 120,
+   "en": "The first night was over.",
+   "tgt": "La:o première:a nuit:n était:v terminée:a .:o"
+  },
+  {
+   "n": 121,
+   "en": "On the second night, the soldier followed the same steps.",
+   "tgt": "La:o deuxième:a nuit:n ,:o le:o soldat:n suivit:v les:o mêmes:a étapes:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "The path had gold trees this time.",
+   "tgt": "Le:o chemin:n avait:v des:o arbres:n d':o or:n cette:o fois:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "He broke a branch of gold, and it cracked.",
+   "tgt": "Il:o cassa:v une:o branche:n d':o or:n ,:o et:o elle:o craqua:v .:o"
+  },
+  {
+   "n": 124,
+   "en": "The youngest princess was startled again, and grew more afraid.",
+   "tgt": "La:o plus:o jeune:a princesse:n fut:v de:o nouveau:a surprise:a ,:o et:o devint:v plus:o effrayée:a .:o"
+  },
+  {
+   "n": 125,
+   "en": "\"Sister, I heard it again,\" she said.",
+   "tgt": "«:o Sœur:n ,:o je:o l':o ai:v encore:a entendu:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 126,
+   "en": "\"That was only the wind,\" said the eldest.",
+   "tgt": "«:o C':o était:v seulement:a le:o vent:n ,:o »:o dit:v l':o aînée:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "They danced at the castle until their shoes were danced to pieces.",
+   "tgt": "Ils:o dansèrent:v au:o château:n jusqu':o à:o ce:o que:o leurs:o chaussures:n soient:v réduites:a en:o morceaux:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "He hid the branch under his cloak.",
+   "tgt": "Il:o cacha:v la:o branche:n sous:o son:o manteau:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "This time, the path had diamond trees.",
+   "tgt": "Cette:o fois:n ,:o le:o chemin:n avait:v des:o arbres:n de:o diamant:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "He broke a branch of diamond, and it cracked in his hand.",
+   "tgt": "Il:o cassa:v une:o branche:n de:o diamant:n ,:o et:o elle:o craqua:v dans:o sa:o main:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The youngest princess was startled a third time, and felt even more afraid.",
+   "tgt": "La:o plus:a jeune:a princesse:n fut:v surprise:a une:o troisième:a fois:n ,:o et:o se:o sentit:v encore:a plus:a effrayée:a .:o"
+  },
+  {
+   "n": 132,
+   "en": "\"I know I heard something,\" she said.",
+   "tgt": "«:o Je:o sais:v que:o j':o ai:v entendu:v quelque:o chose:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 133,
+   "en": "\"That was only a stone,\" said the eldest.",
+   "tgt": "«:o C':o était:v seulement:a une:o pierre:n ,:o »:o dit:v l':o aînée:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "At the castle, the soldier took a cup of gold.",
+   "tgt": "Au:o château:n ,:o le:o soldat:n prit:v une:o coupe:n d':o or:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "He hid the cup and the branches under his cloak.",
+   "tgt": "Il:o cacha:v la:o coupe:n et:o les:o branches:n sous:o son:o manteau:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "In the morning, the king asked the soldier what he had seen.",
+   "tgt": "Le:o matin:n ,:o le:o roi:n demanda:v au:o soldat:n ce:o qu':o il:o avait:v vu:v .:o"
+  },
+  {
+   "n": 137,
+   "en": "\"I did not drink the wine,\" said the soldier.",
+   "tgt": "«:o Je:o n':o ai:v pas:o bu:v le:o vin:n ,:o »:o dit:v le:o soldat:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "\"I followed the princesses through a trapdoor.\"",
+   "tgt": "«:o J':o ai:v suivi:v les:o princesses:n par:o une:o trappe:n .:o »:o"
+  },
+  {
+   "n": 139,
+   "en": "\"We walked down a path with trees of silver, gold, and diamond.\"",
+   "tgt": "«:o Nous:o avons:v marché:v le:o long:n d':o un:o chemin:n avec:o des:o arbres:n d':o argent:n ,:o d':o or:n et:o de:o diamant:n .:o »:o"
+  },
+  {
+   "n": 140,
+   "en": "\"Then we came to a lake with 12 boats.\"",
+   "tgt": "«:o Puis:o nous:o sommes:v arrivés:v à:o un:o lac:n avec:o 12:o bateaux:n .:o »:o"
+  },
+  {
+   "n": 141,
+   "en": "\"The boats went to a castle, where the princesses danced.\"",
+   "tgt": "«:o Les:o bateaux:n allèrent:v à:o un:o château:n ,:o où:o les:o princesses:n dansèrent:v .:o »:o"
+  },
+  {
+   "n": 142,
+   "en": "\"They danced until their shoes were danced to pieces,\" said the soldier.",
+   "tgt": "«:o Elles:o dansèrent:v jusqu':o à:o ce:o que:o leurs:o chaussures:n soient:v usées:a ,:o »:o dit:v le:o soldat:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The soldier showed the king 3 branches.",
+   "tgt": "Le:o soldat:n montra:v au:o roi:n 3:o branches:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"One is silver, one is gold, and one is diamond,\" he said.",
+   "tgt": "«:o L':o une:o est:v en:o argent:n ,:o une:o en:o or:n ,:o et:o une:o en:o diamant:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "He also showed the king a cup of gold.",
+   "tgt": "Il:o montra:v aussi:a au:o roi:n une:o coupe:n d':o or:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "The king had never seen such proof.",
+   "tgt": "Le:o roi:n n':o avait:v jamais:o vu:v une:o telle:a preuve:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "\"Bring my daughters to me,\" said the king.",
+   "tgt": "«:o Amenez:v mes:o filles:n à:o moi:o ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "The 12 princesses came before the king.",
+   "tgt": "Les:o 12:o princesses:n vinrent:v devant:o le:o roi:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "The king looked at his 12 princesses.",
+   "tgt": "Le:o roi:n regarda:v ses:o 12:o princesses:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "He showed them the branches and the cup.",
+   "tgt": "Il:o leur:o montra:v les:o branches:n et:o la:o coupe:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "\"What is this?\" he asked.",
+   "tgt": "«:o Qu':o est-ce:v que:o ceci:o ?:o »:o demanda:v -t-il:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "The princesses said nothing.",
+   "tgt": "Les:o princesses:n ne:o dirent:v rien:o .:o"
+  },
+  {
+   "n": 153,
+   "en": "At last, the eldest princess said, \"A spell binds us.\"",
+   "tgt": "Enfin:o ,:o la:o princesse:n aînée:a dit:v ,:o «:o Un:o sort:n nous:o lie:v .:o »:o"
+  },
+  {
+   "n": 154,
+   "en": "\"Every night, we must go to a castle,\" she said.",
+   "tgt": "«:o Chaque:o nuit:n ,:o nous:o devons:v aller:v à:o un:o château:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 155,
+   "en": "\"We used the trapdoor,\" she said.",
+   "tgt": "«:o Nous:o avons:v utilisé:v la:o trappe:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 156,
+   "en": "\"We dance with 12 princes until morning,\" she said.",
+   "tgt": "«:o Nous:o dansons:v avec:o 12:o princes:n jusqu':o au:o matin:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 157,
+   "en": "\"We could not tell,\" she said.",
+   "tgt": "«:o Nous:o ne:o pouvions:v pas:o le:o dire:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 158,
+   "en": "The youngest princess said nothing.",
+   "tgt": "La:o plus:a jeune:a princesse:n ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 159,
+   "en": "The other princesses agreed.",
+   "tgt": "Les:o autres:a princesses:n étaient:v d':o accord:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "The king remembered the locked door every night.",
+   "tgt": "Le:o roi:n se:o souvenait:v de:o la:o porte:n verrouillée:a chaque:o nuit:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "Now the king knew why.",
+   "tgt": "Maintenant:a le:o roi:n savait:v pourquoi:o .:o"
+  },
+  {
+   "n": 162,
+   "en": "The king looked at the soldier.",
+   "tgt": "Le:o roi:n regarda:v le:o soldat:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"Choose one of my daughters,\" said the king.",
+   "tgt": "«:o Choisissez:v une:o de:o mes:o filles:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "The soldier looked at the 12 princesses.",
+   "tgt": "Le:o soldat:n regarda:v les:o 12:o princesses:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "\"I choose the eldest,\" said the soldier.",
+   "tgt": "«:o Je:o choisis:v l':o aînée:n ,:o »:o dit:v le:o soldat:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "\"I am no longer young,\" he said.",
+   "tgt": "«:o Je:o ne:o suis:v plus:o jeune:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "The eldest princess smiled at him.",
+   "tgt": "L':o aînée:n des:o princesses:n lui:o sourit:v .:o"
+  },
+  {
+   "n": 168,
+   "en": "That night, the spell broke.",
+   "tgt": "Cette:o nuit-là:n ,:o le:o sort:n se:o brisa:v .:o"
+  },
+  {
+   "n": 169,
+   "en": "That castle closed forever.",
+   "tgt": "Ce:o château:n se:o ferma:v pour:o toujours:a .:o"
+  },
+  {
+   "n": 170,
+   "en": "The 12 princes were free.",
+   "tgt": "Les:o 12:o princes:n étaient:v libres:a .:o"
+  },
+  {
+   "n": 171,
+   "en": "The soldier and the eldest princess were married.",
+   "tgt": "Le:o soldat:n et:o la:o princesse:n aînée:a étaient:v mariés:a .:o"
+  },
+  {
+   "n": 172,
+   "en": "All the people came to see the wedding.",
+   "tgt": "Tout:o le:o peuple:n vint:v voir:v le:o mariage:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The soldier had a home in the castle now.",
+   "tgt": "Le:o soldat:n avait:v maintenant:a un:o foyer:n dans:o le:o château:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "No more shoes were danced to pieces.",
+   "tgt": "Plus:o aucune:o chaussure:n ne:o fut:v usée:a en:o dansant:v .:o"
+  }
+ ]
+}

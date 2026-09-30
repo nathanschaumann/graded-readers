@@ -1,0 +1,1087 @@
+{
+ "slug": "ugly_duckling",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Nest by the Water",
+   "en": "A duck built a nest by the water.",
+   "tgt": "Un:o canard:n construisit:v un:o nid:n près:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "She laid many eggs in the nest.",
+   "tgt": "Elle:o pondit:v beaucoup:a d':o œufs:n dans:o le:o nid:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Every day, she sat on her eggs.",
+   "tgt": "Chaque:o jour:n ,:o elle:o s':o assit:v sur:o ses:o œufs:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "One egg was bigger than the other eggs.",
+   "tgt": "Un:o œuf:n était:v plus:a grand:a que:o les:o autres:o œufs:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"Whose big egg is this?\" an old duck asked.",
+   "tgt": "«:o À:o qui:o est:v ce:o gros:a œuf:n ?:o »:o demanda:v une:o vieille:a cane:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The mother duck did not know whose egg it was.",
+   "tgt": "La:o mère:n cane:n ne:o savait:v pas:o à:o qui:o appartenait:v cet:o œuf:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "She said nothing more.",
+   "tgt": "Elle:o ne:o dit:v rien:o de:o plus:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "Soon the smaller eggs began to crack open.",
+   "tgt": "Bientôt:a les:o petits:a œufs:n commencèrent:v à:o se:o fissurer:v .:o"
+  },
+  {
+   "n": 9,
+   "en": "Small yellow ducklings came out.",
+   "tgt": "De:o petits:a canetons:n jaunes:a sortirent:v .:o"
+  },
+  {
+   "n": 10,
+   "en": "The small ducklings sat by the nest.",
+   "tgt": "Les:o petits:a canetons:n s':o assirent:v près:o du:o nid:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "The mother duck came to the nest every day.",
+   "tgt": "La:o mère:n cane:n vint:v au:o nid:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "But the big egg did not crack yet.",
+   "tgt": "Mais:o le:o gros:a œuf:n ne:o se:o fissura:v pas:o encore:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "The mother duck sat on the big egg again.",
+   "tgt": "La:o mère:n cane:n s':o assit:v de:o nouveau:a sur:o le:o grand:a œuf:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "She waited for the big one to open.",
+   "tgt": "Elle:o attendit:v que:o le:o grand:a s':o ouvre:v .:o"
+  },
+  {
+   "n": 15,
+   "chapter": "The Last Egg Hatches",
+   "en": "At last, the big egg began to crack.",
+   "tgt": "Enfin:a ,:o le:o grand:a œuf:n commença:v à:o se:o fissurer:v .:o"
+  },
+  {
+   "n": 16,
+   "en": "A gray duckling came out of the egg.",
+   "tgt": "Un:o caneton:n gris:a sortit:v de:o l':o œuf:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "The other ducklings were small and yellow.",
+   "tgt": "Les:o autres:o canetons:n étaient:v petits:a et:o jaunes:a .:o"
+  },
+  {
+   "n": 18,
+   "en": "This duckling was big and gray.",
+   "tgt": "Ce:o caneton:n était:v grand:a et:o gris:a .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"This duckling is not pretty,\" an old duck said.",
+   "tgt": "«:o Ce:o caneton:n n':o est:v pas:o joli:a ,:o »:o dit:v une:o vieille:a cane:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"But he is still my child,\" the mother duck said.",
+   "tgt": "«:o Mais:o il:o est:v quand-même:a mon:o enfant:n ,:o »:o dit:v la:o mère:n cane:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "The next day, the mother duck took her ducklings to the water.",
+   "tgt": "Le:o lendemain:n ,:o la:o mère:n cane:n emmena:v ses:o canetons:n à:o l':o eau:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "One by one, the ducklings went into the water.",
+   "tgt": "Un:o par:o un:o ,:o les:o canetons:n entrèrent:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The gray duckling went into the water too.",
+   "tgt": "Le:o caneton:n gris:a entra:v dans:o l':o eau:n lui:o aussi:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "He swam better than the other ducklings.",
+   "tgt": "Il:o nageait:v mieux:a que:o les:o autres:a canetons:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "Even the old duck watched him swim.",
+   "tgt": "Même:o le:o vieux:a canard:n le:o regarda:v nager:v .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"This duckling swims very well,\" the mother duck said.",
+   "tgt": "«:o Ce:o caneton:n nage:v très:a bien:a ,:o »:o dit:v la:o mère:n canard:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "She was proud of the gray duckling.",
+   "tgt": "Elle:o était:v fière:a du:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "Soon she would take her ducklings to the farmyard.",
+   "tgt": "Bientôt:a elle:o emmènerait:v ses:o canetons:n à:o la:o basse-cour:n .:o"
+  },
+  {
+   "n": 29,
+   "chapter": "Into the Farmyard",
+   "en": "The mother duck took her ducklings to the farmyard.",
+   "tgt": "La:o mère:n canard:n emmena:v ses:o canetons:n à:o la:o basse-cour:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Many other ducks lived in the farmyard.",
+   "tgt": "Beaucoup:o d':o autres:a canards:n vivaient:v dans:o la:o basse-cour:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The other ducks saw the gray duckling.",
+   "tgt": "Les:o autres:a canards:n virent:v le:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"Look at that ugly duckling!\" one duck said.",
+   "tgt": "«:o Regardez:v ce:o vilain:a caneton:n !:o »:o dit:v un:o canard:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"He is too big for a duckling,\" said another duck.",
+   "tgt": "«:o Il:o est:v trop:a grand:a pour:o un:o caneton:n ,:o »:o dit:v un:o autre:a canard:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The ducks did not want him near them.",
+   "tgt": "Les:o canards:n ne:o voulaient:v pas:o qu':o il:o s':o approche:v d':o eux:o .:o"
+  },
+  {
+   "n": 35,
+   "en": "One duck bit his neck.",
+   "tgt": "Un:o canard:n lui:o mordit:v le:o cou:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"Go away, ugly duckling!\" the duck said.",
+   "tgt": "«:o Va-t:o -en:o ,:o vilain:a caneton:n !:o »:o dit:v le:o canard:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "The other ducklings went to play in the farmyard.",
+   "tgt": "Les:o autres:a canetons:n allèrent:v jouer:v dans:o la:o basse-cour:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "But no duck would play with the gray duckling.",
+   "tgt": "Mais:o aucun:o canard:n ne:o voulut:v jouer:v avec:o le:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 39,
+   "en": "He walked alone.",
+   "tgt": "Il:o marcha:v seul:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "He put his head down and said nothing.",
+   "tgt": "Il:o baissa:v la:o tête:n et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 41,
+   "chapter": "The Hens and the Girl",
+   "en": "Hens lived in the farmyard too.",
+   "tgt": "Des:o poules:n vivaient:v dans:o la:o basse-cour:n aussi:a .:o"
+  },
+  {
+   "n": 42,
+   "en": "The hens looked at the gray duckling.",
+   "tgt": "Les:o poules:n regardèrent:v le:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"That duckling is strange,\" one hen said.",
+   "tgt": "«:o Ce:o caneton:n est:v étrange:a ,:o »:o dit:v une:o poule:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"He is too big and too gray,\" said another hen.",
+   "tgt": "«:o Il:o est:v trop:a grand:a et:o trop:a gris:a ,:o »:o dit:v une:o autre:a poule:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The hens went away from him.",
+   "tgt": "Les:o poules:n s':o éloignèrent:v de:o lui:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "A girl fed the ducks and hens every day.",
+   "tgt": "Une:o fille:n nourrissait:v les:o canards:n et:o les:o poules:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The girl saw the gray duckling.",
+   "tgt": "La:o fille:n vit:v le:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "She kicked him away from the food.",
+   "tgt": "Elle:o le:o chassa:v loin:a de:o la:o nourriture:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "\"Go away, you ugly duckling,\" she said.",
+   "tgt": "«:o Va:v -t':o en:o ,:o vilain:a caneton:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 50,
+   "en": "The gray duckling went hungry that day.",
+   "tgt": "Le:o caneton:n gris:a souffrit:v de:o la:o faim:n ce:o jour:n -là:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "His mother grew tired of him too.",
+   "tgt": "Sa:o mère:n se:o lassa:v de:o lui:o aussi:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"I wish you were far from here,\" she said.",
+   "tgt": "«:o Je:o voudrais:v que:o tu:o sois:v loin:a d':o ici:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 53,
+   "en": "The duckling heard what she said.",
+   "tgt": "Le:o caneton:n entendit:v ce:o qu':o elle:o dit:v .:o"
+  },
+  {
+   "n": 54,
+   "en": "He walked away with his head down.",
+   "tgt": "Il:o s':o en:o alla:v la:o tête:n baissée:a .:o"
+  },
+  {
+   "n": 55,
+   "chapter": "Running Away",
+   "en": "The duckling left the farmyard.",
+   "tgt": "Le:o caneton:n quitta:v la:o basse-cour:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "No duck or hen wanted him near them.",
+   "tgt": "Aucun:o canard:n ni:o poule:n ne:o voulait:v l':o avoir:v près:o d':o eux:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "He walked far from the farmyard.",
+   "tgt": "Il:o marcha:v loin:a de:o la:o basse-cour:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "He walked all night long.",
+   "tgt": "Il:o marcha:v toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "In the morning, he came to a big marsh.",
+   "tgt": "Le:o matin:n ,:o il:o arriva:v à:o un:o grand:a marais:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "Wild birds lived in the marsh.",
+   "tgt": "Des:o oiseaux:n sauvages:a vivaient:v dans:o le:o marais:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "Tall reeds grew by the marsh.",
+   "tgt": "De:o grands:a roseaux:n poussaient:v près:o du:o marais:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The marsh was new to him.",
+   "tgt": "Le:o marais:n lui:o était:v inconnu:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "He looked at the wide water.",
+   "tgt": "Il:o regarda:v l':o eau:n large:a .:o"
+  },
+  {
+   "n": 64,
+   "en": "He was tired from his long walk.",
+   "tgt": "Il:o était:v fatigué:a de:o sa:o longue:a marche:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "He sat down near the water to rest.",
+   "tgt": "Il:o s':o assit:v près:o de:o l':o eau:n pour:o se:o reposer:v .:o"
+  },
+  {
+   "n": 66,
+   "chapter": "The Wild Marsh",
+   "en": "Wild geese lived in the marsh too.",
+   "tgt": "Des:o oies:n sauvages:a vivaient:v aussi:a dans:o le:o marais:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "The duckling stayed near the reeds.",
+   "tgt": "Le:o caneton:n resta:v près:o des:o roseaux:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "He said nothing to the wild geese.",
+   "tgt": "Il:o ne:o dit:v rien:o aux:o oies:n sauvages:a .:o"
+  },
+  {
+   "n": 69,
+   "en": "The wild geese said nothing to him either.",
+   "tgt": "Les:o oies:n sauvages:a ne:o lui:o dirent:v rien:o non:o plus:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "One night, loud sounds came from the marsh.",
+   "tgt": "Une:o nuit:n ,:o de:o forts:a bruits:n vinrent:v du:o marais:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "Hunters came to the marsh with guns.",
+   "tgt": "Des:o chasseurs:n vinrent:v au:o marais:n avec:o des:o fusils:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The hunters shot at the wild birds.",
+   "tgt": "Les:o chasseurs:n tirèrent:v sur:o les:o oiseaux:n sauvages:a .:o"
+  },
+  {
+   "n": 73,
+   "en": "Big dogs ran through the reeds and water.",
+   "tgt": "De:o grands:a chiens:n couraient:v à:o travers:o les:o roseaux:n et:o l':o eau:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "The duckling sat in the tall reeds.",
+   "tgt": "Le:o caneton:n était:v assis:a dans:o les:o grands:a roseaux:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "A big dog came close to him.",
+   "tgt": "Un:o grand:a chien:n s':o approcha:v de:o lui:o .:o"
+  },
+  {
+   "n": 76,
+   "en": "The dog looked at him but did not bite him.",
+   "tgt": "Le:o chien:n le:o regarda:v mais:o ne:o le:o mordit:v pas:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "The duckling was so ugly that no dog would bite him.",
+   "tgt": "Le:o caneton:n était:v si:a laid:a qu':o aucun:o chien:n ne:o voulait:v le:o mordre:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "At last, the hunters and dogs went away.",
+   "tgt": "Enfin:o ,:o les:o chasseurs:n et:o les:o chiens:n partirent:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "The duckling was alone in the marsh again.",
+   "tgt": "Le:o caneton:n était:v de:o nouveau:a seul:a dans:o le:o marais:n .:o"
+  },
+  {
+   "n": 80,
+   "chapter": "The Old Woman's Hut",
+   "en": "The days grew cold.",
+   "tgt": "Les:o jours:n devinrent:v froids:a .:o"
+  },
+  {
+   "n": 81,
+   "en": "The duckling was cold and alone.",
+   "tgt": "Le:o caneton:n avait:v froid:n et:o était:v seul:a .:o"
+  },
+  {
+   "n": 82,
+   "en": "One day, he left the marsh.",
+   "tgt": "Un:o jour:n ,:o il:o quitta:v le:o marais:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "He walked all day.",
+   "tgt": "Il:o marcha:v toute:o la:o journée:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "At night, he came to a small hut.",
+   "tgt": "La:o nuit:n ,:o il:o arriva:v à:o une:o petite:a cabane:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "An old woman lived in the hut.",
+   "tgt": "Une:o vieille:a femme:n vivait:v dans:o la:o hutte:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "The old woman found the duckling, tired and cold.",
+   "tgt": "La:o vieille:a femme:n trouva:v le:o caneton:n ,:o fatigué:a et:o froid:a .:o"
+  },
+  {
+   "n": 87,
+   "en": "The old woman could not see well.",
+   "tgt": "La:o vieille:a femme:n ne:o voyait:v pas:o bien:a .:o"
+  },
+  {
+   "n": 88,
+   "en": "\"You may stay here,\" the old woman said.",
+   "tgt": "«:o Vous:o pouvez:v rester:v ici:a ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "She thought the duckling could lay eggs.",
+   "tgt": "Elle:o pensait:v que:o le:o caneton:n pouvait:v pondre:v des:o œufs:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "A hen and a cat lived in the hut.",
+   "tgt": "Une:o poule:n et:o un:o chat:n vivaient:v dans:o la:o hutte:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "The duckling would stay with them.",
+   "tgt": "Le:o caneton:n resterait:v avec:o eux:o .:o"
+  },
+  {
+   "n": 92,
+   "chapter": "The Hen and the Cat",
+   "en": "The hen and the cat lived well in the hut.",
+   "tgt": "La:o poule:n et:o le:o chat:n vivaient:v bien:a dans:o la:o hutte:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The cat could arch his back and purr.",
+   "tgt": "Le:o chat:n pouvait:v arquer:v le:o dos:n et:o ronronner:v .:o"
+  },
+  {
+   "n": 94,
+   "en": "The hen could lay eggs every day.",
+   "tgt": "La:o poule:n pouvait:v pondre:v des:o œufs:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "\"Can you lay eggs?\" the hen asked the duckling.",
+   "tgt": "«:o Pouvez-vous:v pondre:v des:o œufs:n ?:o »:o demanda:v la:o poule:n au:o caneton:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "\"No, I cannot,\" said the duckling.",
+   "tgt": "«:o Non:o ,:o je:o ne:o peux:v pas:o ,:o »:o dit:v le:o caneton:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"Can you purr like the cat?\" the hen asked.",
+   "tgt": "«:o Peux-tu:v ronronner:v comme:o le:o chat:n ?:o »:o demanda:v la:o poule:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "\"No, I cannot do that either,\" said the duckling.",
+   "tgt": "«:o Non:o ,:o je:o ne:o peux:v pas:o faire:v cela:o non:o plus:o ,:o »:o dit:v le:o caneton:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "\"You have no right to talk,\" said the cat.",
+   "tgt": "«:o Tu:o n':o as:v pas:o le:o droit:n de:o parler:v ,:o »:o dit:v le:o chat:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The duckling said nothing more.",
+   "tgt": "Le:o caneton:n ne:o dit:v plus:o rien:o .:o"
+  },
+  {
+   "n": 101,
+   "en": "He thought of the wild marsh again.",
+   "tgt": "Il:o pensa:v de:o nouveau:a au:o marais:n sauvage:a .:o"
+  },
+  {
+   "n": 102,
+   "en": "He wanted to swim in the water.",
+   "tgt": "Il:o voulait:v nager:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"Swimming is a foolish wish,\" the hen said.",
+   "tgt": "«:o Nager:v est:v un:o désir:n stupide:a ,:o »:o dit:v la:o poule:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "The cat did not want him to swim either.",
+   "tgt": "Le:o chat:n ne:o voulait:v pas:o non:o plus:o qu':o il:o nage:v .:o"
+  },
+  {
+   "n": 105,
+   "en": "But the duckling still wanted to swim.",
+   "tgt": "Mais:o le:o caneton:n voulait:v encore:a nager:v .:o"
+  },
+  {
+   "n": 106,
+   "en": "He knew he would leave the hut.",
+   "tgt": "Il:o savait:v qu':o il:o quitterait:v la:o cabane:n .:o"
+  },
+  {
+   "n": 107,
+   "chapter": "Alone on the Water",
+   "en": "The duckling left the hut.",
+   "tgt": "Le:o caneton:n quitta:v la:o cabane:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "He did not go back to the marsh.",
+   "tgt": "Il:o ne:o retourna:v pas:o au:o marais:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "He found a big lake.",
+   "tgt": "Il:o trouva:v un:o grand:a lac:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "The lake had wide water.",
+   "tgt": "Le:o lac:n avait:v une:o eau:n large:a .:o"
+  },
+  {
+   "n": 111,
+   "en": "The duckling swam into the water.",
+   "tgt": "Le:o caneton:n nagea:v dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "He dove under the water too.",
+   "tgt": "Il:o plongea:v aussi:a sous:o l':o eau:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "No one there called him ugly.",
+   "tgt": "Personne:o là-bas:a ne:o l':o appela:v laid:a .:o"
+  },
+  {
+   "n": 114,
+   "en": "The duckling swam every day.",
+   "tgt": "Le:o caneton:n nageait:v chaque:o jour:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "He dove and swam alone.",
+   "tgt": "Il:o plongea:v et:o nagea:v seul:a .:o"
+  },
+  {
+   "n": 116,
+   "en": "Other birds saw him but did not come near.",
+   "tgt": "D':o autres:o oiseaux:n le:o virent:v mais:o ne:o s':o approchèrent:v pas:o .:o"
+  },
+  {
+   "n": 117,
+   "en": "The duckling stayed on the lake all day.",
+   "tgt": "Le:o caneton:n resta:v sur:o le:o lac:n toute:o la:o journée:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "He loved the open water.",
+   "tgt": "Il:o aimait:v l':o eau:n ouverte:a .:o"
+  },
+  {
+   "n": 119,
+   "en": "The leaves began to fall.",
+   "tgt": "Les:o feuilles:n commencèrent:v à:o tomber:v .:o"
+  },
+  {
+   "n": 120,
+   "en": "The autumn days grew colder.",
+   "tgt": "Les:o jours:n d':o automne:n devinrent:v plus:a froids:a .:o"
+  },
+  {
+   "n": 121,
+   "chapter": "The Swans Fly South",
+   "en": "One autumn day, the duckling swam on the lake.",
+   "tgt": "Un:o jour:n d':o automne:n ,:o le:o caneton:n nagea:v sur:o le:o lac:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "He saw big white birds in the sky.",
+   "tgt": "Il:o vit:v de:o grands:a oiseaux:n blancs:a dans:o le:o ciel:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "The birds had long necks and white feathers.",
+   "tgt": "Les:o oiseaux:n avaient:v de:o longs:a cous:n et:o des:o plumes:n blanches:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "They were swans, and they flew south.",
+   "tgt": "C':o étaient:v des:o cygnes:n ,:o et:o ils:o volèrent:v vers:o le:o sud:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "The swans called to one another as they flew.",
+   "tgt": "Les:o cygnes:n s':o appelaient:v l':o un:o l':o autre:o pendant:o qu':o ils:o volaient:v .:o"
+  },
+  {
+   "n": 126,
+   "en": "The swans flew near the lake.",
+   "tgt": "Les:o cygnes:n volèrent:v près:a du:o lac:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "The duckling had not seen birds so beautiful.",
+   "tgt": "Le:o caneton:n n':o avait:v pas:o vu:v d':o oiseaux:n si:a beaux:a .:o"
+  },
+  {
+   "n": 128,
+   "en": "He watched the swans fly away.",
+   "tgt": "Il:o regarda:v les:o cygnes:n s':o éloigner:v .:o"
+  },
+  {
+   "n": 129,
+   "en": "The duckling wanted to follow the swans.",
+   "tgt": "Le:o caneton:n voulait:v suivre:v les:o cygnes:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "He did not know why.",
+   "tgt": "Il:o ne:o savait:v pas:o pourquoi:o .:o"
+  },
+  {
+   "n": 131,
+   "en": "The duckling swam alone again.",
+   "tgt": "Le:o caneton:n nagea:v de:o nouveau:a seul:a .:o"
+  },
+  {
+   "n": 132,
+   "en": "He thought of the beautiful white swans.",
+   "tgt": "Il:o pensa:v aux:o beaux:a cygnes:n blancs:a .:o"
+  },
+  {
+   "n": 133,
+   "en": "Soon the days grew even colder.",
+   "tgt": "Les:o jours:n devinrent:v bientôt:a encore:a plus:a froids:a .:o"
+  },
+  {
+   "n": 134,
+   "en": "The water was cold and gray.",
+   "tgt": "L':o eau:n était:v froide:a et:o grise:a .:o"
+  },
+  {
+   "n": 135,
+   "chapter": "Frozen Fast",
+   "en": "Winter came.",
+   "tgt": "L':o hiver:n arriva:v .:o"
+  },
+  {
+   "n": 136,
+   "en": "Ice grew on the lake.",
+   "tgt": "De:o la:o glace:n se:o forma:v sur:o le:o lac:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "Every day, the ice grew thick.",
+   "tgt": "Chaque:o jour:n ,:o la:o glace:n devenait:v épaisse:a .:o"
+  },
+  {
+   "n": 138,
+   "en": "Other birds flew away for the winter.",
+   "tgt": "D':o autres:o oiseaux:n s':o envolèrent:v pour:o l':o hiver:n .:o"
+  },
+  {
+   "n": 139,
+   "en": "The duckling was alone on the lake.",
+   "tgt": "Le:o caneton:n était:v seul:a sur:o le:o lac:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "He thought of the beautiful swans again.",
+   "tgt": "Il:o pensa:v de:o nouveau:a aux:o beaux:a cygnes:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "Still, he swam to keep the water open.",
+   "tgt": "Pourtant:o ,:o il:o nagea:v pour:o garder:v l':o eau:n ouverte:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "But the water grew smaller every day.",
+   "tgt": "Mais:o l':o eau:n devenait:v plus:a petite:a chaque:o jour:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The duckling grew tired.",
+   "tgt": "Le:o caneton:n devint:v fatigué:a .:o"
+  },
+  {
+   "n": 144,
+   "en": "One cold night, he grew too tired to swim.",
+   "tgt": "Une:o nuit:n froide:a ,:o il:o devint:v trop:a fatigué:a pour:o nager:v .:o"
+  },
+  {
+   "n": 145,
+   "en": "Soon he was frozen fast in the ice.",
+   "tgt": "Bientôt:a il:o fut:v gelé:a et:o figé:a dans:o la:o glace:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "He could not move.",
+   "tgt": "Il:o ne:o pouvait:v pas:o bouger:v .:o"
+  },
+  {
+   "n": 147,
+   "chapter": "The Farmer's Rescue",
+   "en": "A farmer walked by the frozen lake.",
+   "tgt": "Un:o fermier:n passa:v près:a du:o lac:n gelé:a .:o"
+  },
+  {
+   "n": 148,
+   "en": "He saw the duckling frozen in the ice.",
+   "tgt": "Il:o vit:v le:o caneton:n gelé:a dans:o la:o glace:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "The farmer walked out on the ice.",
+   "tgt": "Le:o fermier:n marcha:v sur:o la:o glace:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "He broke the ice with his shoe.",
+   "tgt": "Il:o brisa:v la:o glace:n avec:o son:o soulier:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "The farmer took the duckling.",
+   "tgt": "Le:o fermier:n prit:v le:o caneton:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "The duckling could not move.",
+   "tgt": "Le:o caneton:n ne:o pouvait:v pas:o bouger:v .:o"
+  },
+  {
+   "n": 153,
+   "en": "His feathers were wet and cold.",
+   "tgt": "Ses:o plumes:n étaient:v mouillées:a et:o froides:a .:o"
+  },
+  {
+   "n": 154,
+   "en": "The farmer was kind to birds.",
+   "tgt": "Le:o fermier:n était:v bon:a envers:o les:o oiseaux:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "He carried the duckling to his wife.",
+   "tgt": "Il:o porta:v le:o caneton:n à:o sa:o femme:n .:o"
+  },
+  {
+   "n": 156,
+   "en": "\"This bird is frozen,\" said the farmer.",
+   "tgt": "«:o Cet:o oiseau:n est:v gelé:a ,:o »:o dit:v -il:o le:o fermier:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "His wife took the duckling.",
+   "tgt": "Sa:o femme:n prit:v le:o caneton:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "She put the duckling near the fire.",
+   "tgt": "Elle:o mit:v le:o caneton:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The duckling did not want to be there.",
+   "tgt": "Le:o caneton:n ne:o voulait:v pas:o être:v là:a .:o"
+  },
+  {
+   "n": 160,
+   "en": "He thought of the wild marsh.",
+   "tgt": "Il:o pensa:v au:o marais:n sauvage:a .:o"
+  },
+  {
+   "n": 161,
+   "en": "Soon the duckling began to move again.",
+   "tgt": "Bientôt:a le:o caneton:n recommença:v à:o bouger:v .:o"
+  },
+  {
+   "n": 162,
+   "chapter": "Trouble in the Farmhouse",
+   "en": "The farmer had children.",
+   "tgt": "Le:o fermier:n avait:v des:o enfants:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "The children ran to see the duckling.",
+   "tgt": "Les:o enfants:n coururent:v voir:v le:o caneton:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "\"Look at that bird!\" one child said.",
+   "tgt": "«:o Regardez:v cet:o oiseau:n !:o »:o dit:v un:o enfant:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "The children wanted to play with him.",
+   "tgt": "Les:o enfants:n voulaient:v jouer:v avec:o lui:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "The duckling did not know the children.",
+   "tgt": "Le:o caneton:n ne:o connaissait:v pas:o les:o enfants:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "He flew up on the table.",
+   "tgt": "Il:o vola:v sur:o la:o table:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "The milk fell to the floor.",
+   "tgt": "Le:o lait:n tomba:v sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "The children called out.",
+   "tgt": "Les:o enfants:n appelèrent:v .:o"
+  },
+  {
+   "n": 170,
+   "en": "The farmer's wife ran in.",
+   "tgt": "La:o femme:n du:o fermier:n entra:v en:o courant:v .:o"
+  },
+  {
+   "n": 171,
+   "en": "The duckling flew into the flour.",
+   "tgt": "Le:o caneton:n vola:v dans:o la:o farine:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "White flour was on his gray feathers.",
+   "tgt": "De:o la:o farine:n blanche:a était:v sur:o ses:o plumes:n grises:a .:o"
+  },
+  {
+   "n": 173,
+   "en": "But the duckling ran from her.",
+   "tgt": "Mais:o le:o caneton:n s':o enfuit:v loin:a d':o elle:o .:o"
+  },
+  {
+   "n": 174,
+   "en": "He ran through the door.",
+   "tgt": "Il:o courut:v par:o la:o porte:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "He ran out into the cold.",
+   "tgt": "Il:o courut:v dehors:a dans:o le:o froid:n .:o"
+  },
+  {
+   "n": 176,
+   "chapter": "A Long Winter Alone",
+   "en": "The duckling ran far away.",
+   "tgt": "Le:o caneton:n courut:v très:a loin:a .:o"
+  },
+  {
+   "n": 177,
+   "en": "He found the reeds by the frozen lake.",
+   "tgt": "Il:o trouva:v les:o roseaux:n près:o du:o lac:n gelé:a .:o"
+  },
+  {
+   "n": 178,
+   "en": "He hid among the tall reeds.",
+   "tgt": "Il:o se:o cacha:v parmi:o les:o grands:a roseaux:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "The winter was long.",
+   "tgt": "L':o hiver:n fut:v long:a .:o"
+  },
+  {
+   "n": 180,
+   "en": "The duckling was cold every day.",
+   "tgt": "Le:o caneton:n avait:v froid:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "He did not find much food.",
+   "tgt": "Il:o ne:o trouva:v pas:o grand-chose:n à:o manger:v .:o"
+  },
+  {
+   "n": 182,
+   "en": "No one came to see him.",
+   "tgt": "Personne:o ne:o vint:v le:o voir:v .:o"
+  },
+  {
+   "n": 183,
+   "en": "He stayed alone among the reeds.",
+   "tgt": "Il:o resta:v seul:a parmi:o les:o roseaux:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "At last, the ice began to melt.",
+   "tgt": "Enfin:a ,:o la:o glace:n commença:v à:o fondre:v .:o"
+  },
+  {
+   "n": 185,
+   "en": "The sun grew warm again.",
+   "tgt": "Le:o soleil:n redevint:v chaud:a .:o"
+  },
+  {
+   "n": 186,
+   "en": "The warm sun was on his feathers.",
+   "tgt": "Le:o soleil:n chaud:a était:v sur:o ses:o plumes:n .:o"
+  },
+  {
+   "n": 187,
+   "chapter": "Spring and the Swans",
+   "en": "The days grew warm again.",
+   "tgt": "Les:o jours:n redevinrent:v chauds:a .:o"
+  },
+  {
+   "n": 188,
+   "en": "The duckling had grown much bigger.",
+   "tgt": "Le:o caneton:n avait:v beaucoup:a grandi:v .:o"
+  },
+  {
+   "n": 189,
+   "en": "He could fly well.",
+   "tgt": "Il:o pouvait:v bien:a voler:v .:o"
+  },
+  {
+   "n": 190,
+   "en": "One day, he flew to the lake.",
+   "tgt": "Un:o jour:n ,:o il:o vola:v jusqu'au:o lac:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "He saw swans on the water.",
+   "tgt": "Il:o vit:v des:o cygnes:n sur:o l':o eau:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "The swans were big and white.",
+   "tgt": "Les:o cygnes:n étaient:v grands:a et:o blancs:a .:o"
+  },
+  {
+   "n": 193,
+   "en": "The duckling wanted to swim with them.",
+   "tgt": "Le:o caneton:n voulait:v nager:v avec:o eux:o .:o"
+  },
+  {
+   "n": 194,
+   "en": "But he thought he was still gray and big.",
+   "tgt": "Mais:o il:o pensait:v qu':o il:o était:v encore:a gris:a et:o grand:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "He thought of the farmyard and the marsh.",
+   "tgt": "Il:o pensa:v à:o la:o basse-cour:n et:o au:o marais:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "He thought of the hen and the cat too.",
+   "tgt": "Il:o pensa:v aussi:a à:o la:o poule:n et:o au:o chat:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "\"The swans may kill an ugly bird like me,\" he thought.",
+   "tgt": "«:o Les:o cygnes:n vont:v peut-être:a tuer:v un:o oiseau:n laid:a comme:o moi:o ,:o »:o pensa-t-il:v .:o"
+  },
+  {
+   "n": 198,
+   "en": "\"But I would rather die than be alone again,\" he thought.",
+   "tgt": "«:o Mais:o je:o préférerais:v mourir:v plutôt:a que:o d':o être:v seul:a encore:a ,:o »:o pensa-t-il:v .:o"
+  },
+  {
+   "n": 199,
+   "en": "He swam to the swans.",
+   "tgt": "Il:o nagea:v vers:o les:o cygnes:n .:o"
+  },
+  {
+   "n": 200,
+   "chapter": "The Most Beautiful of All",
+   "en": "The duckling swam close to the swans.",
+   "tgt": "Le:o caneton:n nagea:v près:a des:o cygnes:n .:o"
+  },
+  {
+   "n": 201,
+   "en": "He bowed his head and waited for them to attack.",
+   "tgt": "Il:o baissa:v la:o tête:n et:o attendit:v qu':o ils:o l':o attaquent:v .:o"
+  },
+  {
+   "n": 202,
+   "en": "But the swans did not attack him.",
+   "tgt": "Mais:o les:o cygnes:n ne:o l':o attaquèrent:v pas:o .:o"
+  },
+  {
+   "n": 203,
+   "en": "The swans swam near him.",
+   "tgt": "Les:o cygnes:n nagèrent:v près:a de:o lui:o .:o"
+  },
+  {
+   "n": 204,
+   "en": "He looked down into the water.",
+   "tgt": "Il:o regarda:v en:o bas:a dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "He saw his reflection in the water.",
+   "tgt": "Il:o vit:v son:o reflet:n dans:o l':o eau:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "The reflection was not a gray duckling.",
+   "tgt": "Le:o reflet:n n':o était:v pas:o un:o caneton:n gris:a .:o"
+  },
+  {
+   "n": 207,
+   "en": "It was a big, white swan.",
+   "tgt": "C':o était:v un:o grand:a cygne:n blanc:a .:o"
+  },
+  {
+   "n": 208,
+   "en": "The duckling had become a swan too.",
+   "tgt": "Le:o caneton:n était:v devenu:v un:o cygne:n aussi:a .:o"
+  },
+  {
+   "n": 209,
+   "en": "Children played by the water.",
+   "tgt": "Des:o enfants:n jouaient:v près:a de:o l':o eau:n .:o"
+  },
+  {
+   "n": 210,
+   "en": "\"Look at that new swan!\" said one child.",
+   "tgt": "«:o Regardez:v ce:o nouveau:a cygne:n !:o »:o dit:v -il:o un:o enfant:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "\"He is the most beautiful of all!\" said another child.",
+   "tgt": "«:o Il:o est:v le:o plus:a beau:a de:o tous:o !:o »:o dit:v un:o autre:o enfant:n .:o"
+  },
+  {
+   "n": 212,
+   "en": "The swan spread his wings.",
+   "tgt": "Le:o cygne:n déploya:v ses:o ailes:n .:o"
+  },
+  {
+   "n": 213,
+   "en": "He swam among the swans, one of them at last.",
+   "tgt": "Il:o nagea:v parmi:o les:o cygnes:n ,:o l':o un:o d':o eux:o enfin:a .:o"
+  }
+ ]
+}

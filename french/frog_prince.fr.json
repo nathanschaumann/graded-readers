@@ -1,0 +1,372 @@
+{
+ "slug": "frog_prince",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Gold Ball",
+   "en": "A princess lived in a big castle with the king.",
+   "tgt": "Une:o princesse:n vivait:v dans:o un:o grand:a château:n avec:o le:o roi:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The king was her father.",
+   "tgt": "Le:o roi:n était:v son:o père:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The young princess had a little ball of gold.",
+   "tgt": "La:o jeune:a princesse:n avait:v une:o petite:a balle:n d':o or:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "She loved to play with her ball.",
+   "tgt": "Elle:o aimait:v jouer:v avec:o sa:o balle:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "One day, the princess played by an old well.",
+   "tgt": "Un:o jour:n ,:o la:o princesse:n joua:v près:o d':o un:o vieux:a puits:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The well was deep and full of water.",
+   "tgt": "Le:o puits:n était:v profond:a et:o plein:a d':o eau:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The princess threw her gold ball up high.",
+   "tgt": "La:o princesse:n lança:v sa:o balle:n d':o or:n très:a haut:a .:o"
+  },
+  {
+   "n": 8,
+   "en": "But the ball fell into the deep well.",
+   "tgt": "Mais:o la:o balle:n tomba:v dans:o le:o puits:n profond:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "The ball went down and did not come back.",
+   "tgt": "La:o balle:n descendit:v et:o ne:o revint:v pas:o .:o"
+  },
+  {
+   "n": 10,
+   "en": "The princess looked into the well.",
+   "tgt": "La:o princesse:n regarda:v dans:o le:o puits:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "She could not reach her gold ball.",
+   "tgt": "Elle:o ne:o pouvait:v pas:o atteindre:v sa:o balle:n d':o or:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The princess sat by the well and cried.",
+   "tgt": "La:o princesse:n s':o assit:v près:o du:o puits:n et:o pleura:v .:o"
+  },
+  {
+   "n": 13,
+   "chapter": "The Frog's Promise",
+   "en": "Then a green frog came up out of the well.",
+   "tgt": "Alors:o une:o grenouille:n verte:a sortit:v du:o puits:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"Why do you cry, little princess?\" the frog asked.",
+   "tgt": "«:o Pourquoi:o pleures:v -tu:o ,:o petite:a princesse:n ?:o »:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"My gold ball fell into the well,\" she said.",
+   "tgt": "«:o Ma:o balle:n d':o or:n est:v tombée:a dans:o le:o puits:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"I can get your gold ball,\" said the frog.",
+   "tgt": "«:o Je:o peux:v récupérer:v ta:o balle:n d':o or:n ,:o »:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"But you must be my friend,\" the frog said.",
+   "tgt": "«:o Mais:o tu:o dois:v être:v mon:o amie:n ,:o »:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"Let me eat and live with you,\" he said.",
+   "tgt": "«:o Laisse:v -moi:o manger:v et:o vivre:v avec:o toi:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"Yes, yes! I promise!\" the princess said.",
+   "tgt": "«:o Oui:o ,:o oui:o !:o Je:o promets:v !:o »:o dit:v la:o princesse:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "So the frog went down into the deep well.",
+   "tgt": "Alors:o la:o grenouille:n descendit:v dans:o le:o puits:n profond:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "The frog came back up with the gold ball.",
+   "tgt": "La:o grenouille:n remonta:v avec:o la:o balle:n d':o or:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "The princess took her ball and ran to the castle.",
+   "tgt": "La:o princesse:n prit:v sa:o balle:n et:o courut:v vers:o le:o château:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "She forgot all about the little green frog.",
+   "tgt": "Elle:o oublia:v complètement:a la:o petite:a grenouille:n verte:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "The frog called out, but the princess was gone.",
+   "tgt": "La:o grenouille:n appela:v ,:o mais:o la:o princesse:n était:v partie:a .:o"
+  },
+  {
+   "n": 25,
+   "chapter": "A Knock at the Door",
+   "en": "The next day, the princess sat at dinner.",
+   "tgt": "Le:o lendemain:n ,:o la:o princesse:n s':o assit:v à:o table:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The king sat at the table too.",
+   "tgt": "Le:o roi:n s':o assit:v aussi:a à:o la:o table:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "Then they heard a tap at the door.",
+   "tgt": "Puis:o ils:o entendirent:v un:o coup:n à:o la:o porte:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "The princess went to open the big door.",
+   "tgt": "La:o princesse:n alla:v ouvrir:v la:o grande:a porte:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The little green frog sat on the step.",
+   "tgt": "La:o petite:a grenouille:n verte:a s':o assit:v sur:o la:o marche:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"You made a promise to me,\" the frog said.",
+   "tgt": "«:o Tu:o m':o as:v fait:v une:o promesse:n ,:o »:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Let me come in and eat with you.\"",
+   "tgt": "«:o Laisse:v -moi:o entrer:v et:o manger:v avec:o toi:o »:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "The princess shut the door and went back.",
+   "tgt": "La:o princesse:n ferma:v la:o porte:n et:o repartit:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"What is wrong?\" the king asked the princess.",
+   "tgt": "«:o Qu':o est-ce:o qui:o va:v mal:a ?:o »:o demanda:v le:o roi:n à:o la:o princesse:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "So the princess told the king about the frog.",
+   "tgt": "Alors:o la:o princesse:n parla:v au:o roi:n de:o la:o grenouille:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"I made a promise by the well,\" she said.",
+   "tgt": "«:o J':o ai:v fait:v une:o promesse:n près:o du:o puits:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 36,
+   "en": "The king looked at the princess and the door.",
+   "tgt": "Le:o roi:n regarda:v la:o princesse:n et:o la:o porte:n .:o"
+  },
+  {
+   "n": 37,
+   "chapter": "The King's Word",
+   "en": "\"A princess must keep her promise,\" the king said.",
+   "tgt": "«:o Une:o princesse:n doit:v tenir:v sa:o promesse:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"Open the door and let the frog come in.\"",
+   "tgt": "«:o Ouvre:v la:o porte:n et:o laisse:v le:o grenouille:n entrer:v .:o »:o"
+  },
+  {
+   "n": 39,
+   "en": "So the princess let the little frog in.",
+   "tgt": "Alors:o la:o princesse:n laissa:v entrer:v la:o petite:a grenouille:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The frog hopped up on the table.",
+   "tgt": "La:o grenouille:n sauta:v sur:o la:o table:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "It ate from the gold plate.",
+   "tgt": "Elle:o mangea:v dans:o l':o assiette:n d':o or:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "The princess did not like it at all.",
+   "tgt": "La:o princesse:n n':o aimait:v pas:o cela:o du:o tout:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "But she did what the king asked.",
+   "tgt": "Mais:o elle:o fit:v ce:o que:o le:o roi:n demandait:v .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"I am very tired,\" the frog said.",
+   "tgt": "«:o Je:o suis:v très:a fatigué:a ,:o »:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"Take me up to your room to sleep.\"",
+   "tgt": "«:o Emmène:v -moi:o dans:o ta:o chambre:n pour:o dormir:v .:o »:o"
+  },
+  {
+   "n": 46,
+   "en": "The princess looked at the king.",
+   "tgt": "La:o princesse:n regarda:v le:o roi:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"You must take the frog up,\" the king said.",
+   "tgt": "«:o Tu:o dois:v emmener:v la:o grenouille:n en:o haut:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "So the princess took the frog up the stairs.",
+   "tgt": "Alors:o la:o princesse:n emmena:v la:o grenouille:n en:o haut:a des:o escaliers:n .:o"
+  },
+  {
+   "n": 49,
+   "chapter": "A Kiss for the Frog",
+   "en": "In her room, the princess put the frog down.",
+   "tgt": "Dans:o sa:o chambre:n ,:o la:o princesse:n posa:v la:o grenouille:n par:o terre:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "The little frog looked up at the princess.",
+   "tgt": "La:o petite:a grenouille:n leva:v les:o yeux:n vers:o la:o princesse:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"Please do not be afraid of me,\" it said.",
+   "tgt": "«:o S':o il:o vous:o plaît:v ,:o n':o ayez:v pas:o peur:n de:o moi:o »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"I only want a friend,\" the frog said.",
+   "tgt": "«:o Je:o veux:v seulement:a un:o ami:n »:o ,:o dit:v la:o grenouille:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "The frog was very kind to the princess.",
+   "tgt": "La:o grenouille:n était:v très:a gentille:a avec:o la:o princesse:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "Soon the princess was not afraid.",
+   "tgt": "Bientôt:a la:o princesse:n n':o eut:v plus:o peur:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "She felt sorry for the little frog.",
+   "tgt": "Elle:o ressentit:v de:o la:o pitié:n pour:o la:o petite:a grenouille:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "So the princess gave the frog a kiss.",
+   "tgt": "Alors:o la:o princesse:n donna:v un:o baiser:n à:o la:o grenouille:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Then the frog began to change.",
+   "tgt": "Alors:o la:o grenouille:n commença:v à:o changer:v .:o"
+  },
+  {
+   "n": 58,
+   "en": "The little frog became a young prince.",
+   "tgt": "La:o petite:a grenouille:n devint:v un:o jeune:a prince:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "\"A witch put a spell on me,\" the prince said.",
+   "tgt": "«:o Une:o sorcière:n a:v jeté:v un:o sort:n sur:o moi:o »:o ,:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"Only a kind princess could break the spell.\"",
+   "tgt": "«:o Seule:a une:o princesse:n gentille:a pouvait:v briser:v le:o sort:n .:o »:o"
+  },
+  {
+   "n": 61,
+   "chapter": "The Prince and the Princess",
+   "en": "\"You are very kind,\" the prince said.",
+   "tgt": "«:o Vous:o êtes:v très:a aimable:a ,:o »:o dit:v -il:o le:o prince:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The prince took the kind princess by the hand.",
+   "tgt": "Le:o prince:n prit:v la:o gentille:a princesse:n par:o la:o main:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "Then they went down to the king.",
+   "tgt": "Puis:o ils:o descendirent:v vers:o le:o roi:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The king saw the prince and was very happy.",
+   "tgt": "Le:o roi:n vit:v le:o prince:n et:o fut:v très:a heureux:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "The prince told the king all about the witch.",
+   "tgt": "Le:o prince:n raconta:v au:o roi:n tout:o ce:o qu':o il:o savait:v de:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The princess loved the young prince.",
+   "tgt": "La:o princesse:n aimait:v le:o jeune:a prince:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Soon they wanted to be together always.",
+   "tgt": "Bientôt:a ils:o voulurent:v être:v toujours:a ensemble:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "The king made a big wedding in the castle.",
+   "tgt": "Le:o roi:n organisa:v un:o grand:a mariage:n dans:o le:o château:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The princess married the young prince that day.",
+   "tgt": "La:o princesse:n épousa:v le:o jeune:a prince:n ce:o jour-là:a .:o"
+  },
+  {
+   "n": 70,
+   "en": "All the people came to see the two.",
+   "tgt": "Tout:o le:o peuple:n vint:v voir:v les:o deux:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "The prince and princess lived in the castle.",
+   "tgt": "Le:o prince:n et:o la:o princesse:n vécurent:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "And they were happy together for many years.",
+   "tgt": "Et:o ils:o furent:v heureux:a ensemble:a pendant:o de:o nombreuses:a années:n .:o"
+  }
+ ]
+}

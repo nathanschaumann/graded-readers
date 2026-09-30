@@ -124,7 +124,7 @@ try {
   await ev("[...document.querySelectorAll('#levels .pill')].find(b => b.textContent.startsWith('All')).click()");
   await ev("document.getElementById('frbtn').click()");
   const frc = await ev("document.querySelectorAll('.card').length");
-  check(frc === 10, "French filter shows 10 stories (" + frc + ")");
+  check(frc === 51, "French filter shows 51 stories (" + frc + ")");
   await ev("document.getElementById('frbtn').click()");
   await ev("(() => { const q = document.getElementById('q'); q.value = 'alice'; q.dispatchEvent(new Event('input')); })()");
   const sr = await ev("[...document.querySelectorAll('.card h2')].map(h => h.textContent)");

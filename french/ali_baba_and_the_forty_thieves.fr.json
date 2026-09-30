@@ -1,0 +1,1050 @@
+{
+ "slug": "ali_baba_and_the_forty_thieves",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Two Brothers",
+   "en": "Ali Baba lived in a house with his wife.",
+   "tgt": "Ali:o Baba:o vivait:v dans:o une:o maison:n avec:o sa:o femme:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He was a poor woodcutter.",
+   "tgt": "Il:o était:v un:o pauvre:a bûcheron:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Every day, Ali Baba took his donkeys into the forest.",
+   "tgt": "Chaque:o jour:n ,:o Ali:o Baba:o emmenait:v ses:o ânes:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "He sold wood in the town.",
+   "tgt": "Il:o vendait:v du:o bois:n dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Ali Baba's brother was Cassim.",
+   "tgt": "Le:o frère:n d':o Ali:o Baba:o était:v Cassim:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "Cassim was a rich merchant with many servants.",
+   "tgt": "Cassim:o était:v un:o riche:a marchand:n avec:o de:o nombreux:a serviteurs:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "Cassim gave Ali Baba no money.",
+   "tgt": "Cassim:o ne:o donnait:v aucun:o argent:n à:o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "Ali Baba never asked his brother for money.",
+   "tgt": "Ali:o Baba:o ne:o demandait:v jamais:o d':o argent:n à:o son:o frère:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "He and his wife worked every day.",
+   "tgt": "Lui:o et:o sa:o femme:n travaillaient:v chaque:o jour:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "One morning, Ali Baba took his donkeys into the forest.",
+   "tgt": "Un:o matin:n ,:o Ali:o Baba:o emmena:v ses:o ânes:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "He walked into the trees to find wood.",
+   "tgt": "Il:o marcha:v entre:o les:o arbres:n pour:o trouver:v du:o bois:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "He heard many horses coming near.",
+   "tgt": "Il:o entendit:v de:o nombreux:a chevaux:n s':o approcher:v .:o"
+  },
+  {
+   "n": 13,
+   "en": "Ali Baba stopped his work and listened.",
+   "tgt": "Ali:o Baba:o arrêta:v son:o travail:n et:o écouta:v .:o"
+  },
+  {
+   "n": 14,
+   "en": "Ali Baba hid behind a tree.",
+   "tgt": "Ali:o Baba:o se:o cacha:v derrière:o un:o arbre:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "His donkeys waited near the trees.",
+   "tgt": "Ses:o ânes:n attendirent:v près:o des:o arbres:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "He saw many men ride out of the trees on horses.",
+   "tgt": "Il:o vit:v beaucoup:o d':o hommes:n sortir:v des:o arbres:n à:o cheval:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "Ali Baba counted the men and found there were 40 robbers.",
+   "tgt": "Ali:o Baba:o compta:v les:o hommes:n et:o trouva:v qu':o il:o y:o avait:v 40:o voleurs:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "The robbers stopped their horses before a great rock.",
+   "tgt": "Les:o voleurs:n arrêtèrent:v leurs:o chevaux:n devant:o un:o grand:a rocher:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The robber captain got down and walked to the rock.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n descendit:v et:o marcha:v vers:o le:o rocher:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"Open Sesame!\" said the robber captain.",
+   "tgt": "«:o Sésame:o ,:o ouvre-toi:v !:o »:o dit:v le:o capitaine:n des:o voleurs:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "The great rock opened to show a dark cave inside.",
+   "tgt": "Le:o grand:a rocher:n s':o ouvrit:v pour:o révéler:v une:o caverne:n sombre:a à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "Poor Ali Baba watched from behind his tree and was afraid.",
+   "tgt": "Le:o pauvre:a Ali:o Baba:o observait:v depuis:o derrière:o son:o arbre:n et:o avait:v peur:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The 40 robbers went into the dark cave.",
+   "tgt": "Les:o 40:o voleurs:n entrèrent:v dans:o la:o caverne:n sombre:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "They stayed inside for some time.",
+   "tgt": "Ils:o restèrent:v à:o l':o intérieur:n pendant:o quelque:o temps:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The robbers came out again.",
+   "tgt": "Les:o voleurs:n sortirent:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "The rock closed behind them.",
+   "tgt": "Le:o rocher:n se:o ferma:v derrière:o eux:o .:o"
+  },
+  {
+   "n": 27,
+   "en": "The robber captain got back on his horse.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n remonta:v sur:o son:o cheval:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "The 40 robbers rode away into the forest.",
+   "tgt": "Les:o 40:o voleurs:n s':o éloignèrent:v à:o cheval:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "Ali Baba came out from behind his tree.",
+   "tgt": "Ali:o Baba:o sortit:v de:o derrière:o son:o arbre:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Ali Baba took his donkeys back to the great rock.",
+   "tgt": "Ali:o Baba:o ramena:v ses:o ânes:n au:o grand:a rocher:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Open Sesame!\" said Ali Baba.",
+   "tgt": "«:o Ouvre:v -toi:o ,:o Sésame:o !:o »:o dit:v -il:o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "The rock opened, and Ali Baba went inside.",
+   "tgt": "Le:o rocher:n s':o ouvrit:v ,:o et:o Ali:o Baba:o entra:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "He saw a cave full of gold.",
+   "tgt": "Il:o vit:v une:o caverne:n pleine:a d':o or:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "Ali Baba had never seen so much gold.",
+   "tgt": "Ali:o Baba:o n':o avait:v jamais:o vu:v autant:o d':o or:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "No robbers were in the cave.",
+   "tgt": "Il:o n':o y:o avait:v aucun:o voleur:n dans:o la:o caverne:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "Ali Baba put some gold into sacks.",
+   "tgt": "Ali:o Baba:o mit:v de:o l':o or:n dans:o des:o sacs:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "He put the sacks on his donkeys.",
+   "tgt": "Il:o mit:v les:o sacs:n sur:o ses:o ânes:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "He walked out, and the rock closed behind him.",
+   "tgt": "Il:o sortit:v ,:o et:o le:o rocher:n se:o ferma:v derrière:o lui:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "Ali Baba took his donkeys and the gold to his house.",
+   "tgt": "Ali:o Baba:o emmena:v ses:o ânes:n et:o l':o or:n chez:o lui:o .:o"
+  },
+  {
+   "n": 40,
+   "en": "Ali Baba's wife saw the gold.",
+   "tgt": "La:o femme:n d':o Ali:o Baba:o vit:v l':o or:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Where did you find this gold?\" she asked.",
+   "tgt": "«:o Où:o avez-vous:v trouvé:v cet:o or:n ?:o »:o demanda-t-elle:v .:o"
+  },
+  {
+   "n": 42,
+   "en": "Ali Baba told her of the robbers and the cave.",
+   "tgt": "Ali:o Baba:o lui:o parla:v des:o voleurs:n et:o de:o la:o caverne:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "Ali Baba's wife wanted to count the gold.",
+   "tgt": "La:o femme:n d':o Ali:o Baba:o voulait:v compter:v l':o or:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "There was too much gold to count one by one.",
+   "tgt": "Il:o y:o avait:v trop:o d':o or:n pour:o le:o compter:v un:o par:o un:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"I will borrow a cup from Cassim's wife,\" she said.",
+   "tgt": "«:o Je:o vais:v emprunter:v une:o tasse:n à:o la:o femme:n de:o Cassim:o »:o ,:o dit-elle:v .:o"
+  },
+  {
+   "n": 46,
+   "en": "She went to Cassim's house to ask for a cup.",
+   "tgt": "Elle:o alla:v chez:o Cassim:o pour:o demander:v une:o tasse:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "Cassim's wife gave her a cup.",
+   "tgt": "La:o femme:n de:o Cassim:o lui:o donna:v une:o tasse:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "But she wondered why a poor woodcutter's wife needed this cup.",
+   "tgt": "Mais:o elle:o se:o demandait:v pourquoi:o la:o femme:n d':o un:o pauvre:a bûcheron:n avait:v besoin:n de:o cette:o tasse:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "Cassim's wife put some fat in the bottom of the cup.",
+   "tgt": "La:o femme:n de:o Cassim:o mit:v un:o peu:a de:o graisse:n au:o fond:n de:o la:o tasse:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Ali Baba's wife counted the gold with the cup.",
+   "tgt": "La:o femme:n d':o Ali:o Baba:o compta:v l':o or:n avec:o la:o tasse:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "She gave the cup back to Cassim's wife.",
+   "tgt": "Elle:o rendit:v la:o tasse:n à:o la:o femme:n de:o Cassim:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "Cassim's wife looked at the bottom of the cup.",
+   "tgt": "La:o femme:n de:o Cassim:o regarda:v le:o fond:n de:o la:o tasse:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "A gold coin was stuck to the fat.",
+   "tgt": "Une:o pièce:n d':o or:n était:v collée:a à:o la:o graisse:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "Cassim's wife showed Cassim the gold coin.",
+   "tgt": "La:o femme:n de:o Cassim:o montra:v la:o pièce:n d':o or:n à:o Cassim:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"Your poor brother has gold?\" said Cassim.",
+   "tgt": "«:o Ton:o pauvre:a frère:n a:v de:o l':o or:n ?:o »:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "Cassim was angry that Ali Baba had not told him.",
+   "tgt": "Cassim:o était:v en:o colère:n qu':o Ali:o Baba:o ne:o lui:o ait:v pas:o dit:v .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"I will find out where this gold came from,\" said Cassim.",
+   "tgt": "«:o Je:o vais:v découvrir:v d':o où:o vient:v cet:o or:n »:o ,:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 58,
+   "chapter": "The Secret Told",
+   "en": "Cassim went to Ali Baba's house.",
+   "tgt": "Cassim:o alla:v à:o la:o maison:n d':o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "Cassim was rich, but he wanted more.",
+   "tgt": "Cassim:o était:v riche:a ,:o mais:o il:o voulait:v plus:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"Where did you find this gold?\" Cassim asked.",
+   "tgt": "«:o Où:o as:v -tu:o trouvé:v cet:o or:n ?:o »:o demanda:v Cassim:o .:o"
+  },
+  {
+   "n": 61,
+   "en": "Ali Baba did not want to tell his brother the secret.",
+   "tgt": "Ali:o Baba:o ne:o voulait:v pas:o dire:v le:o secret:n à:o son:o frère:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "But Cassim was angry, and he stayed.",
+   "tgt": "Mais:o Cassim:o était:v en:o colère:n ,:o et:o il:o resta:v .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"Tell me now!\" said Cassim.",
+   "tgt": "«:o Dis:v -moi:o maintenant:a !:o »:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "He told Cassim about the robbers and the cave.",
+   "tgt": "Il:o raconta:v à:o Cassim:o l':o histoire:n des:o voleurs:n et:o de:o la:o caverne:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "\"Open Sesame!\" Ali Baba told him.",
+   "tgt": "«:o Sésame:o ,:o ouvre:v -toi:o !:o »:o lui:o dit:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 66,
+   "en": "These words would open the rock, he said.",
+   "tgt": "Ces:o mots:n ouvriraient:v le:o rocher:n ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "Ali Baba told Cassim not to forget the words.",
+   "tgt": "Ali:o Baba:o dit:v à:o Cassim:o de:o ne:o pas:o oublier:v les:o mots:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "Cassim listened to the words.",
+   "tgt": "Cassim:o écouta:v les:o mots:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"I will get much more gold than you did,\" said Cassim.",
+   "tgt": "«:o Je:o vais:v obtenir:v beaucoup:a plus:a d':o or:n que:o toi:o ,:o »:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "The next morning, Cassim took 10 donkeys to the forest.",
+   "tgt": "Le:o lendemain:n matin:n ,:o Cassim:o emmena:v 10:o ânes:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "Cassim came to the rock with his donkeys.",
+   "tgt": "Cassim:o arriva:v au:o rocher:n avec:o ses:o ânes:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "\"Open Sesame!\" said Cassim.",
+   "tgt": "«:o Sésame:o ,:o ouvre-toi:v !:o »:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 73,
+   "en": "The rock opened, Cassim went inside, and it closed behind him.",
+   "tgt": "Le:o rocher:n s':o ouvrit:v ,:o Cassim:o entra:v à:o l':o intérieur:n ,:o et:o il:o se:o referma:v derrière:o lui:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "He saw the cave full of gold.",
+   "tgt": "Il:o vit:v la:o caverne:n pleine:a d':o or:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Cassim took much more gold than Ali Baba did.",
+   "tgt": "Cassim:o prit:v beaucoup:a plus:a d':o or:n qu':o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 76,
+   "en": "He filled sack after sack and put them on his donkeys.",
+   "tgt": "Il:o remplit:v sac:n après:o sac:n et:o les:o mit:v sur:o ses:o ânes:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "Cassim walked to the rock to leave.",
+   "tgt": "Cassim:o marcha:v vers:o le:o rocher:n pour:o partir:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "But he had forgotten the words.",
+   "tgt": "Mais:o il:o avait:v oublié:v les:o mots:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "\"Open Wheat!\" said Cassim.",
+   "tgt": "«:o Ouvre:v -toi:o Wheat:o !:o »:o dit:v -il:o Cassim:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "The rock did not open.",
+   "tgt": "Le:o rocher:n ne:o s':o ouvrit:v pas:o .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"Open Barley!\" said Cassim.",
+   "tgt": "«:o Ouvre:v -toi:o Barley:o !:o »:o dit:v Cassim:o .:o"
+  },
+  {
+   "n": 82,
+   "en": "Cassim was alone and afraid, and he called for help.",
+   "tgt": "Cassim:o était:v seul:a et:o effrayé:a ,:o et:o il:o appela:v à:o l':o aide:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "But no one came.",
+   "tgt": "Mais:o personne:o ne:o vint:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "Then the robbers came back to the cave.",
+   "tgt": "Puis:o les:o voleurs:n revinrent:v à:o la:o caverne:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "The rock opened, and the robbers found Cassim inside.",
+   "tgt": "Le:o rocher:n s':o ouvrit:v ,:o et:o les:o voleurs:n trouvèrent:v Cassim:o à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "The robbers killed Cassim to keep their secret.",
+   "tgt": "Les:o voleurs:n tuèrent:v Cassim:o pour:o garder:v leur:o secret:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "Cassim did not come home that night.",
+   "tgt": "Cassim:o ne:o rentra:v pas:o chez:o lui:o ce:o soir:n -là:o .:o"
+  },
+  {
+   "n": 88,
+   "en": "Cassim's wife was afraid and went to Ali Baba.",
+   "tgt": "La:o femme:n de:o Cassim:o avait:v peur:n et:o alla:v voir:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Cassim went to the forest and did not come back,\" she said.",
+   "tgt": "«:o Cassim:o est:v allé:v dans:o la:o forêt:n et:o n':o est:v pas:o revenu:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "Ali Baba was afraid for his brother.",
+   "tgt": "Ali:o Baba:o avait:v peur:n pour:o son:o frère:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "He took a donkey and went to find Cassim.",
+   "tgt": "Il:o prit:v un:o âne:n et:o alla:v chercher:v Cassim:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "Ali Baba came to the rock.",
+   "tgt": "Ali:o Baba:o arriva:v au:o rocher:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The rock opened, and Ali Baba went inside.",
+   "tgt": "Le:o rocher:n s':o ouvrit:v ,:o et:o Ali:o Baba:o entra:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "He found Cassim's body in the cave.",
+   "tgt": "Il:o trouva:v le:o corps:n de:o Cassim:o dans:o la:o caverne:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Ali Baba knew the robbers had killed Cassim.",
+   "tgt": "Ali:o Baba:o savait:v que:o les:o voleurs:n avaient:v tué:v Cassim:o .:o"
+  },
+  {
+   "n": 96,
+   "en": "He put his brother's body on the donkey.",
+   "tgt": "Il:o mit:v le:o corps:n de:o son:o frère:n sur:o l':o âne:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "Ali Baba also took some gold for Cassim's wife.",
+   "tgt": "Ali:o Baba:o prit:v aussi:a de:o l':o or:n pour:o la:o femme:n de:o Cassim:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "Ali Baba waited until night to go home.",
+   "tgt": "Ali:o Baba:o attendit:v jusqu':o à:o la:o nuit:n pour:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 99,
+   "en": "He brought the donkey home in the dark.",
+   "tgt": "Il:o ramena:v l':o âne:n chez:o lui:o dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Cassim's wife cried when she saw her husband.",
+   "tgt": "La:o femme:n de:o Cassim:o pleura:v quand:o elle:o vit:v son:o mari:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "No one in the town saw Ali Baba come home.",
+   "tgt": "Personne:o dans:o la:o ville:n ne:o vit:v Ali:o Baba:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "Cassim's wife did not know what to do.",
+   "tgt": "La:o femme:n de:o Cassim:o ne:o savait:v pas:o quoi:o faire:v .:o"
+  },
+  {
+   "n": 103,
+   "en": "She was afraid that neighbors would ask why Cassim had died.",
+   "tgt": "Elle:o avait:v peur:n que:o les:o voisins:n demandent:v pourquoi:o Cassim:o était:v mort:a .:o"
+  },
+  {
+   "n": 104,
+   "en": "Cassim had a clever servant named Morgiana.",
+   "tgt": "Cassim:o avait:v une:o servante:n intelligente:a nommée:a Morgiana:o .:o"
+  },
+  {
+   "n": 105,
+   "en": "She went to the neighbors and looked sad.",
+   "tgt": "Elle:o alla:v chez:o les:o voisins:n et:o parut:v triste:a .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"Cassim was ill, and now he has died,\" said Morgiana.",
+   "tgt": "«:o Cassim:o était:v malade:a ,:o et:o maintenant:a il:o est:v mort:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "The neighbors were sad for the family.",
+   "tgt": "Les:o voisins:n étaient:v tristes:a pour:o la:o famille:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "Cassim was buried, and no one asked why.",
+   "tgt": "Cassim:o fut:v enterré:a ,:o et:o personne:o ne:o demanda:v pourquoi:o .:o"
+  },
+  {
+   "n": 109,
+   "en": "Ali Baba wanted to help his brother's family.",
+   "tgt": "Ali:o Baba:o voulait:v aider:v la:o famille:n de:o son:o frère:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "He took Cassim's wife and Morgiana into his house.",
+   "tgt": "Il:o prit:v la:o femme:n de:o Cassim:o et:o Morgiana:o dans:o sa:o maison:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "Ali Baba gave Cassim's wife a home and money.",
+   "tgt": "Ali:o Baba:o donna:v à:o la:o femme:n de:o Cassim:o un:o foyer:n et:o de:o l':o argent:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Morgiana was now a servant in Ali Baba's house.",
+   "tgt": "Morgiana:o était:v maintenant:a une:o servante:n dans:o la:o maison:n de:o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "Ali Baba was glad, for Morgiana was clever.",
+   "tgt": "Ali:o Baba:o était:v content:a ,:o car:o Morgiana:o était:v intelligente:a .:o"
+  },
+  {
+   "n": 114,
+   "en": "The secret of the robbers and the cave stayed safe.",
+   "tgt": "Le:o secret:n des:o voleurs:n et:o de:o la:o caverne:n resta:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 115,
+   "chapter": "The Mark on the Door",
+   "en": "The robbers came back to the cave many times.",
+   "tgt": "Les:o voleurs:n revinrent:v à:o la:o caverne:n plusieurs:o fois:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "One day, they saw that Cassim's body was gone.",
+   "tgt": "Un:o jour:n ,:o ils:o virent:v que:o le:o corps:n de:o Cassim:o avait:v disparu:v .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"Someone knows our secret,\" said the robber captain.",
+   "tgt": "«:o Quelqu':o un:o connaît:v notre:o secret:n ,:o »:o dit:v -il:o ,:o le:o capitaine:n des:o voleurs:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "The robber captain was angry that someone knew their secret.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n était:v en:o colère:n parce:o que:o quelqu':o un:o connaissait:v leur:o secret:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "He sent one robber into the town.",
+   "tgt": "Il:o envoya:v un:o voleur:n dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"Find out who took the body,\" said the robber captain.",
+   "tgt": "«:o Découvrez:v qui:o a:v pris:v le:o corps:n ,:o »:o dit:v le:o capitaine:n des:o voleurs:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "This robber walked into the town.",
+   "tgt": "Ce:o voleur:n marcha:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "He heard that a rich merchant named Cassim had died.",
+   "tgt": "Il:o apprit:v qu':o un:o riche:a marchand:n nommé:v Cassim:o était:v mort:a .:o"
+  },
+  {
+   "n": 123,
+   "en": "He heard that Cassim had a brother named Ali Baba.",
+   "tgt": "Il:o apprit:v que:o Cassim:o avait:v un:o frère:n nommé:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "The robber found Ali Baba's house in the town.",
+   "tgt": "Le:o voleur:n trouva:v la:o maison:n d':o Ali:o Baba:o dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "He had chalk with him.",
+   "tgt": "Il:o avait:v de:o la:o craie:n avec:o lui:o .:o"
+  },
+  {
+   "n": 126,
+   "en": "The robber marked Ali Baba's door with the chalk.",
+   "tgt": "Le:o voleur:n marqua:v la:o porte:n d':o Ali:o Baba:o avec:o la:o craie:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "\"Now I know which house it is,\" he said.",
+   "tgt": "«:o Maintenant:a je:o sais:v quelle:o maison:n c':o est:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 128,
+   "en": "The robber went back to the forest.",
+   "tgt": "Le:o voleur:n retourna:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The next morning, Morgiana went out into the town.",
+   "tgt": "Le:o lendemain:n matin:n ,:o Morgiana:o sortit:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "She saw that someone had marked the door with chalk.",
+   "tgt": "Elle:o vit:v que:o quelqu':o un:o avait:v marqué:v la:o porte:n avec:o de:o la:o craie:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "Morgiana wondered why the door was marked.",
+   "tgt": "Morgiana:o se:o demanda:v pourquoi:o la:o porte:n était:v marquée:a .:o"
+  },
+  {
+   "n": 132,
+   "en": "No one in the house had marked the door.",
+   "tgt": "Personne:o dans:o la:o maison:n n':o avait:v marqué:v la:o porte:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Morgiana took chalk.",
+   "tgt": "Morgiana:o prit:v de:o la:o craie:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "She marked every other door on the street too.",
+   "tgt": "Elle:o marqua:v aussi:a chaque:o deuxième:a porte:n de:o la:o rue:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "All the doors on the street looked the same.",
+   "tgt": "Toutes:o les:o portes:n de:o la:o rue:n avaient:v l':o air:n identiques:a .:o"
+  },
+  {
+   "n": 136,
+   "en": "That night, the robber led the others back to the street.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o voleur:n ramena:v les:o autres:n dans:o la:o rue:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "He looked for the door he had marked.",
+   "tgt": "Il:o chercha:v la:o porte:n qu':o il:o avait:v marquée:v .:o"
+  },
+  {
+   "n": 138,
+   "en": "But every door looked the same.",
+   "tgt": "Mais:o chaque:o porte:n avait:v l':o air:n identique:a .:o"
+  },
+  {
+   "n": 139,
+   "en": "\"I cannot tell which house it is,\" said the robber.",
+   "tgt": "«:o Je:o ne:o peux:v pas:o dire:v quelle:o maison:n c':o est:v ,:o »:o dit:v -le:o voleur:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "The robber captain was angry at him.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n était:v en:o colère:n contre:o lui:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "The robbers could not find the house, so they went back to the forest.",
+   "tgt": "Les:o voleurs:n ne:o purent:v pas:o trouver:v la:o maison:n ,:o alors:o ils:o retournèrent:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "The robber captain went to see Ali Baba's house himself.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n alla:v voir:v lui-même:o la:o maison:n d':o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "The robber captain disguised himself as an oil merchant to get inside.",
+   "tgt": "Le:o capitaine:n des:o voleurs:n se:o déguisa:v en:o marchand:n d':o huile:n pour:o entrer:v .:o"
+  },
+  {
+   "n": 144,
+   "en": "He hid 39 robbers in 39 jars.",
+   "tgt": "Il:o cacha:v 39:o voleurs:n dans:o 39:o jarres:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "He filled one more jar with real oil.",
+   "tgt": "Il:o remplit:v une:o jarre:n de:o plus:a avec:o de:o la:o vraie:a huile:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "The disguised captain had 40 jars on his donkeys.",
+   "tgt": "Le:o capitaine:n déguisé:a avait:v 40:o jarres:n sur:o ses:o ânes:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "He rode to Ali Baba's house with the jars.",
+   "tgt": "Il:o chevaucha:v jusqu':o à:o la:o maison:n de:o Ali:o Baba:o avec:o les:o jarres:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "\"I am an oil merchant,\" the disguised captain said to Ali Baba.",
+   "tgt": "«:o Je:o suis:v un:o marchand:n d':o huile:n ,:o »:o dit:v le:o capitaine:n déguisé:a à:o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 149,
+   "en": "\"May I stay the night with my jars?\" he asked.",
+   "tgt": "«:o Puis-je:v passer:v la:o nuit:n avec:o mes:o jarres:n ?:o »:o demanda-t:v -il:o .:o"
+  },
+  {
+   "n": 150,
+   "en": "Ali Baba was kind to all guests.",
+   "tgt": "Ali:o Baba:o était:v aimable:a envers:o tous:o les:o invités:n .:o"
+  },
+  {
+   "n": 151,
+   "en": "\"You may put your jars in my courtyard,\" said Ali Baba.",
+   "tgt": "«:o Vous:o pouvez:v mettre:v vos:o jarres:n dans:o ma:o cour:n ,:o »:o dit:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "\"Stay and eat with us tonight,\" said Ali Baba.",
+   "tgt": "«:o Restez:v et:o mangez:v avec:o nous:o ce:o soir:n ,:o »:o dit:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 153,
+   "en": "Ali Baba's son also welcomed the guest.",
+   "tgt": "Le:o fils:n d':o Ali:o Baba:o accueillit:v aussi:a l':o invité:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "He put his jars in the courtyard.",
+   "tgt": "Il:o mit:v ses:o jarres:n dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "He thanked Ali Baba and came in to eat.",
+   "tgt": "Il:o remercia:v Ali:o Baba:o et:o entra:v pour:o manger:v .:o"
+  },
+  {
+   "n": 156,
+   "en": "Morgiana cooked for the guest that night.",
+   "tgt": "Morgiana:o cuisina:v pour:o l':o invité:n ce:o soir-là:a .:o"
+  },
+  {
+   "n": 157,
+   "chapter": "Is It Time?",
+   "en": "That night, Morgiana needed oil for the lamps.",
+   "tgt": "Ce:o soir-là:a ,:o Morgiana:o avait:v besoin:n d':o huile:n pour:o les:o lampes:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "She went to the jars in the courtyard.",
+   "tgt": "Elle:o alla:v vers:o les:o jarres:n dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "Morgiana opened the first jar to get oil.",
+   "tgt": "Morgiana:o ouvrit:v la:o première:a jarre:n pour:o obtenir:v de:o l':o huile:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "A robber inside the jar whispered, \"Is it time?\"",
+   "tgt": "Un:o voleur:n caché:a dans:o la:o jarre:n chuchota:v ,:o «:o Est:v -ce:o le:o bon:a moment:n ?:o »:o"
+  },
+  {
+   "n": 161,
+   "en": "Morgiana was afraid, but she stayed calm.",
+   "tgt": "Morgiana:o avait:v peur:n ,:o mais:o elle:o resta:v calme:a .:o"
+  },
+  {
+   "n": 162,
+   "en": "\"Not yet,\" she whispered back.",
+   "tgt": "«:o Pas:o encore:a ,:o »:o chuchota:v -elle:o en:o retour:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "Morgiana checked the next jar.",
+   "tgt": "Morgiana:o vérifia:v la:o jarre:n suivante:a .:o"
+  },
+  {
+   "n": 164,
+   "en": "Another robber was hidden in that jar too.",
+   "tgt": "Un:o autre:o voleur:n était:v caché:a dans:o cette:o jarre:n aussi:a .:o"
+  },
+  {
+   "n": 165,
+   "en": "She checked every jar in the courtyard.",
+   "tgt": "Elle:o vérifia:v chaque:o jarre:n dans:o la:o cour:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "A robber was hidden in each jar but one.",
+   "tgt": "Un:o voleur:n était:v caché:a dans:o chaque:o jarre:n sauf:o une:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "The last jar held real oil.",
+   "tgt": "La:o dernière:a jarre:n contenait:v de:o la:o vraie:a huile:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "Morgiana took the oil and heated it until it boiled.",
+   "tgt": "Morgiana:o prit:v l':o huile:n et:o la:o fit:v chauffer:v jusqu':o à:o ce:o qu':o elle:o bouille:v .:o"
+  },
+  {
+   "n": 169,
+   "en": "She poured the hot oil into each jar with a robber inside.",
+   "tgt": "Elle:o versa:v l':o huile:n chaude:a dans:o chaque:o jarre:n avec:o un:o voleur:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "The hot oil killed the robbers in the jars.",
+   "tgt": "L':o huile:n chaude:a tua:v les:o voleurs:n dans:o les:o jarres:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "The disguised captain waited for his men to come out of the jars.",
+   "tgt": "Le:o capitaine:n déguisé:a attendit:v que:o ses:o hommes:n sortent:v des:o jarres:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "He had told them to come out when he gave a signal.",
+   "tgt": "Il:o leur:o avait:v dit:v de:o sortir:v quand:o il:o donnerait:v un:o signal:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "But no robber came out of any jar.",
+   "tgt": "Mais:o aucun:o voleur:n ne:o sortit:v d':o aucune:o jarre:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "The disguised captain went to the courtyard alone.",
+   "tgt": "Le:o capitaine:n déguisé:a alla:v dans:o la:o cour:n seul:a .:o"
+  },
+  {
+   "n": 175,
+   "en": "He looked inside the jars, one by one.",
+   "tgt": "Il:o regarda:v à:o l':o intérieur:n des:o jarres:n ,:o une:o par:o une:o .:o"
+  },
+  {
+   "n": 176,
+   "en": "He found his men dead in the jars.",
+   "tgt": "Il:o trouva:v ses:o hommes:n morts:a dans:o les:o jarres:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "The disguised captain was afraid.",
+   "tgt": "Le:o capitaine:n déguisé:a avait:v peur:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "The disguised captain ran from the courtyard in the night.",
+   "tgt": "Le:o capitaine:n déguisé:a s':o enfuit:v de:o la:o cour:n dans:o la:o nuit:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "In the morning, Ali Baba heard what Morgiana had done.",
+   "tgt": "Le:o matin:n ,:o Ali:o Baba:o entendit:v ce:o que:o Morgiana:o avait:v fait:v .:o"
+  },
+  {
+   "n": 180,
+   "en": "Morgiana told Ali Baba about the oil merchant's jars.",
+   "tgt": "Morgiana:o raconta:v à:o Ali:o Baba:o les:o jarres:n du:o marchand:n d':o huile:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "\"The jars were full of robbers, not oil,\" said Morgiana.",
+   "tgt": "«:o Les:o jarres:n étaient:v pleines:a de:o voleurs:n ,:o pas:o d':o huile:n ,:o »:o dit:v Morgiana:o .:o"
+  },
+  {
+   "n": 182,
+   "en": "Ali Baba knew that Morgiana had saved his life.",
+   "tgt": "Ali:o Baba:o savait:v que:o Morgiana:o avait:v sauvé:v sa:o vie:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "He was glad and thanked Morgiana.",
+   "tgt": "Il:o était:v content:a et:o remercia:v Morgiana:o .:o"
+  },
+  {
+   "n": 184,
+   "en": "The captain was now alone, for all his men were dead.",
+   "tgt": "Le:o capitaine:n était:v maintenant:a seul:a ,:o car:o tous:o ses:o hommes:n étaient:v morts:a .:o"
+  },
+  {
+   "n": 185,
+   "en": "He wanted revenge.",
+   "tgt": "Il:o voulait:v se:o venger:v .:o"
+  },
+  {
+   "n": 186,
+   "en": "The captain disguised himself again, as another merchant.",
+   "tgt": "Le:o capitaine:n se:o déguisa:v de:o nouveau:a ,:o en:o un:o autre:o marchand:n .:o"
+  },
+  {
+   "n": 187,
+   "en": "He went to the town and met Ali Baba's son.",
+   "tgt": "Il:o alla:v en:o ville:n et:o rencontra:v le:o fils:n d':o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "The captain became friends with Ali Baba's son.",
+   "tgt": "Le:o capitaine:n devint:v ami:n avec:o le:o fils:n d':o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 189,
+   "en": "Ali Baba's son did not know who this merchant was.",
+   "tgt": "Le:o fils:n de:o Ali:o Baba:o ne:o savait:v pas:o qui:o était:v ce:o marchand:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "One day, Ali Baba's son asked the merchant to his home.",
+   "tgt": "Un:o jour:n ,:o le:o fils:n de:o Ali:o Baba:o invita:v le:o marchand:n chez:o lui:o .:o"
+  },
+  {
+   "n": 191,
+   "en": "The captain came to Ali Baba's house as a guest.",
+   "tgt": "Le:o capitaine:n vint:v chez:o Ali:o Baba:o en:o tant:o que:o invité:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "Ali Baba welcomed the guest.",
+   "tgt": "Ali:o Baba:o accueillit:v l':o invité:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "Morgiana looked at the guest.",
+   "tgt": "Morgiana:o regarda:v l':o invité:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "She recognized the captain, though he was disguised.",
+   "tgt": "Elle:o reconnut:v le:o capitaine:n ,:o bien:o qu':o il:o fût:v déguisé:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "But Morgiana said nothing yet.",
+   "tgt": "Mais:o Morgiana:o ne:o dit:v rien:o encore:a .:o"
+  },
+  {
+   "n": 196,
+   "en": "Morgiana asked to dance for the guest with a dagger.",
+   "tgt": "Morgiana:o demanda:v à:o danser:v devant:o l':o invité:n avec:o un:o poignard:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "She danced before the captain with the dagger.",
+   "tgt": "Elle:o dansa:v devant:o le:o capitaine:n avec:o le:o poignard:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "Then Morgiana killed the captain with the dagger.",
+   "tgt": "Puis:o Morgiana:o tua:v le:o capitaine:n avec:o le:o poignard:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "Ali Baba came and found the dead captain, with Morgiana and the dagger.",
+   "tgt": "Ali:o Baba:o arriva:v et:o trouva:v le:o capitaine:n mort:a ,:o avec:o Morgiana:o et:o le:o poignard:n .:o"
+  },
+  {
+   "n": 200,
+   "en": "\"You have saved my life again,\" said Ali Baba.",
+   "tgt": "«:o Tu:o as:v sauvé:v ma:o vie:n encore:a ,:o »:o dit:v -il:o Ali:o Baba:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"The guest was the robber captain,\" said Morgiana.",
+   "tgt": "«:o L':o invité:n était:v le:o capitaine:n des:o voleurs:n ,:o »:o dit:v -elle:o ,:o dit:v Morgiana:o .:o"
+  },
+  {
+   "n": 202,
+   "en": "Ali Baba knew that Morgiana had saved him twice.",
+   "tgt": "Ali:o Baba:o savait:v que:o Morgiana:o l':o avait:v sauvé:v deux:o fois:n .:o"
+  },
+  {
+   "n": 203,
+   "en": "\"You are no longer a servant,\" said Ali Baba.",
+   "tgt": "«:o Tu:o n':o es:v plus:o une:o servante:n ,:o »:o dit:v Ali:o Baba:o .:o"
+  },
+  {
+   "n": 204,
+   "en": "He gave Morgiana her freedom.",
+   "tgt": "Il:o donna:v à:o Morgiana:o sa:o liberté:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "Ali Baba's son wanted Morgiana for his wife, and Ali Baba was glad.",
+   "tgt": "Le:o fils:n d':o Ali:o Baba:o voulait:v Morgiana:o pour:o femme:n ,:o et:o Ali:o Baba:o était:v content:a .:o"
+  },
+  {
+   "n": 206,
+   "en": "Ali Baba married Morgiana to his son.",
+   "tgt": "Ali:o Baba:o maria:v Morgiana:o à:o son:o fils:n .:o"
+  },
+  {
+   "n": 207,
+   "en": "They alone knew the secret of the cave.",
+   "tgt": "Eux:o seuls:a connaissaient:v le:o secret:n de:o la:o caverne:n .:o"
+  },
+  {
+   "n": 208,
+   "en": "The family used the gold wisely.",
+   "tgt": "La:o famille:n utilisa:v l':o or:n sagement:a .:o"
+  }
+ ]
+}

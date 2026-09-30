@@ -1,0 +1,444 @@
+{
+ "slug": "jack_and_the_beanstalk",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Jack Discovers the Beanstalk",
+   "en": "Jack and his mother really needed money.",
+   "tgt": "Jack:o et:o sa:o mère:n avaient:v vraiment:a besoin:n d':o argent:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Jack sold their cow for some beans.",
+   "tgt": "Jack:o vendit:v leur:o vache:n contre:o des:o haricots:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "His mother was angry and threw the beans outside.",
+   "tgt": "Sa:o mère:n était:v en:o colère:n et:o jeta:v les:o haricots:n dehors:o .:o"
+  },
+  {
+   "n": 4,
+   "en": "Overnight, the beans grew into a tall beanstalk.",
+   "tgt": "Pendant:o la:o nuit:n ,:o les:o haricots:n poussèrent:v en:o une:o grande:a tige:n de:o haricot:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Jack climbed up the tall beanstalk.",
+   "tgt": "Jack:o grimpa:v le:o long:n de:o la:o grande:a tige:n de:o haricot:n .:o"
+  },
+  {
+   "n": 6,
+   "chapter": "Inside the Giant's House",
+   "en": "At the top, Jack saw a house.",
+   "tgt": "En:o haut:a ,:o Jack:o vit:v une:o maison:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "It was the home of a giant.",
+   "tgt": "C':o était:v la:o demeure:n d':o un:o géant:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "The giant's wife came to the door.",
+   "tgt": "La:o femme:n du:o géant:n vint:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"I have no money and no food,\" said Jack.",
+   "tgt": "«:o Je:o n':o ai:v pas:a d':o argent:n et:o pas:a de:o nourriture:n »:o ,:o dit:v Jack:o .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Please may I have some food?\"",
+   "tgt": "«:o Puis:o -je:o avoir:v un:o peu:a de:o nourriture:n ,:o s':o il:o vous:o plaît:v ?:o »:o"
+  },
+  {
+   "n": 11,
+   "en": "The wife gave Jack some food.",
+   "tgt": "La:o femme:n donna:v un:o peu:a de:o nourriture:n à:o Jack:o .:o"
+  },
+  {
+   "n": 12,
+   "en": "\"But my husband eats boys, so hide,\" she said.",
+   "tgt": "«:o Mais:o mon:o mari:n mange:v les:o garçons:n ,:o alors:a cache-toi:v »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "Then Jack heard the giant come home.",
+   "tgt": "Puis:o Jack:o entendit:v le:o géant:n rentrer:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The wife hid Jack in the oven.",
+   "tgt": "La:o femme:n cacha:v Jack:o dans:o le:o four:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "The giant came in and sat down.",
+   "tgt": "Le:o géant:n entra:v et:o s':o assit:v .:o"
+  },
+  {
+   "n": 16,
+   "en": "The giant looked around.",
+   "tgt": "Le:o géant:n regarda:v autour:a de:o lui:o .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"I smell a boy in this house!\"",
+   "tgt": "«:o Je:o sens:v l':o odeur:n d':o un:o garçon:n dans:o cette:o maison:n !:o »:o"
+  },
+  {
+   "n": 18,
+   "chapter": "Jack Steals the Gold",
+   "en": "\"There is no boy here,\" said the wife.",
+   "tgt": "«:o Il:o n':o y:o a:v pas:a de:o garçon:n ici:a »:o ,:o dit:v la:o femme:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The giant sat down and ate his food.",
+   "tgt": "Le:o géant:n s':o assit:v et:o mangea:v sa:o nourriture:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "Then the giant took out his gold.",
+   "tgt": "Puis:o le:o géant:n sortit:v son:o or:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "He counted the gold again and again.",
+   "tgt": "Il:o compta:v l':o or:n encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 22,
+   "en": "The giant had many bags of gold.",
+   "tgt": "Le:o géant:n avait:v de:o nombreux:a sacs:n d':o or:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The giant fell asleep.",
+   "tgt": "Le:o géant:n s':o endormit:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "Jack came out of the oven.",
+   "tgt": "Jack:o sortit:v du:o four:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He took one bag of the giant's gold.",
+   "tgt": "Il:o prit:v un:o sac:n de:o l':o or:n du:o géant:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "Then Jack ran to the tall beanstalk.",
+   "tgt": "Puis:o Jack:o courut:v vers:o le:o grand:a haricot:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "He climbed down with the heavy bag.",
+   "tgt": "Il:o descendit:v avec:o le:o lourd:a sac:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"Mother, look at this gold!\" said Jack.",
+   "tgt": "«:o Maman:n ,:o regarde:v cet:o or:n !:o »:o dit:v Jack:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "Now Jack and his mother had money again.",
+   "tgt": "Maintenant:a ,:o Jack:o et:o sa:o mère:n avaient:v de:o nouveau:a de:o l':o argent:n .:o"
+  },
+  {
+   "n": 30,
+   "chapter": "Jack Climbs Back",
+   "en": "Jack gave the gold to his mother.",
+   "tgt": "Jack:o donna:v l':o or:n à:o sa:o mère:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "But one day all the gold was gone.",
+   "tgt": "Mais:o un:o jour:n ,:o tout:a l':o or:n était:v parti:v .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"I will climb the beanstalk again,\" said Jack.",
+   "tgt": "«:o Je:o vais:v grimper:v de:o nouveau:a sur:o le:o haricot:n magique:a »:o ,:o dit:v Jack:o .:o"
+  },
+  {
+   "n": 33,
+   "en": "Jack climbed up to the giant's house.",
+   "tgt": "Jack:o grimpa:v jusqu':o à:o la:o maison:n du:o géant:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The giant's wife was at the door.",
+   "tgt": "La:o femme:n du:o géant:n était:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"You took our gold!\" said the wife.",
+   "tgt": "«:o Tu:o as:v pris:v notre:o or:n !:o »:o dit:v la:o femme:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"Please let me hide again,\" said Jack.",
+   "tgt": "«:o S':o il:o te:o plaît:v ,:o laisse:v -moi:o me:o cacher:v de:o nouveau:a »:o ,:o dit:v Jack:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "The kind wife gave Jack some food.",
+   "tgt": "La:o gentille:n femme:n donna:v un:o peu:a de:o nourriture:n à:o Jack:o .:o"
+  },
+  {
+   "n": 38,
+   "en": "Then they heard the giant come home.",
+   "tgt": "Puis:o ils:o entendirent:v le:o géant:n rentrer:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The wife hid Jack in a big pot.",
+   "tgt": "La:o femme:n cacha:v Jack:o dans:o un:o grand:a pot:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The giant came in for his food.",
+   "tgt": "Le:o géant:n entra:v pour:o prendre:v sa:o nourriture:n .:o"
+  },
+  {
+   "n": 41,
+   "chapter": "The Hen of Golden Eggs",
+   "en": "\"No boy is here,\" said the wife again.",
+   "tgt": "«:o Aucun:o garçon:n n':o est:v ici:a »:o ,:o dit:v de:o nouveau:a la:o femme:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "The giant ate all of his food.",
+   "tgt": "Le:o géant:n mangea:v toute:a sa:o nourriture:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "Then the giant brought out a little hen.",
+   "tgt": "Puis:o le:o géant:n sortit:v une:o petite:a poule:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"Lay!\" said the giant to the hen.",
+   "tgt": "«:o Ponds:n !:o »:o dit:v le:o géant:n à:o la:o poule:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The hen laid an egg of gold.",
+   "tgt": "La:o poule:n pondit:v un:o œuf:n d':o or:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The giant looked at his egg of gold.",
+   "tgt": "Le:o géant:n regarda:v son:o œuf:n d':o or:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "Soon the giant fell asleep again.",
+   "tgt": "Bientôt:a le:o géant:n s':o endormit:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 48,
+   "en": "Jack came out and took the hen.",
+   "tgt": "Jack:o sortit:v et:o prit:v la:o poule:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "He ran to the tall beanstalk with the hen.",
+   "tgt": "Il:o courut:v vers:o le:o grand:a haricot:n avec:o la:o poule:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Jack climbed down to his mother.",
+   "tgt": "Jack:o descendit:v jusqu':o à:o sa:o mère:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"This hen lays eggs of gold!\" said Jack.",
+   "tgt": "«:o Cette:o poule:n pond:v des:o œufs:n d':o or:n !:o »:o dit:v Jack:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "Now Jack and his mother were rich.",
+   "tgt": "Désormais:a Jack:o et:o sa:o mère:n étaient:v riches:a .:o"
+  },
+  {
+   "n": 53,
+   "chapter": "One Climb Too Many",
+   "en": "Now Jack had the hen and the gold.",
+   "tgt": "Maintenant:a ,:o Jack:o avait:v la:o poule:n et:o l':o or:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "But Jack wanted to climb up once more.",
+   "tgt": "Mais:o Jack:o voulait:v grimper:v une:o fois:n de:o plus:a .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"Stay home, Jack,\" said his mother.",
+   "tgt": "«:o Reste:v à:o la:o maison:n ,:o Jack:o »:o ,:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "But Jack climbed the beanstalk again.",
+   "tgt": "Mais:o Jack:o grimpa:v de:o nouveau:a le:o haricot:n magique:a .:o"
+  },
+  {
+   "n": 57,
+   "en": "Soon he was at the giant's house.",
+   "tgt": "Bientôt:a ,:o il:o fut:v à:o la:o maison:n du:o géant:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The giant's wife saw Jack come in.",
+   "tgt": "La:o femme:n du:o géant:n vit:v Jack:o entrer:v .:o"
+  },
+  {
+   "n": 59,
+   "en": "\"You are here again!\" said the wife.",
+   "tgt": "«:o Tu:n es:v encore:a ici:a !:o »:o dit:v la:o femme:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "But she let Jack hide once more.",
+   "tgt": "Mais:o elle:o laissa:v Jack:o se:o cacher:v une:o fois:n de:o plus:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "The wife hid Jack in a cupboard.",
+   "tgt": "La:o femme:n cacha:v Jack:o dans:o un:o placard:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Soon the giant came home for food.",
+   "tgt": "Bientôt:a ,:o le:o géant:n rentra:v à:o la:o maison:n pour:o manger:v .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"I smell a boy here!\" said the giant.",
+   "tgt": "«:o Je:o sens:v un:o garçon:n ici:a !:o »:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 64,
+   "chapter": "Jack and the Singing Harp",
+   "en": "Again the wife said no boy was there.",
+   "tgt": "De:o nouveau:a ,:o la:o femme:n dit:v qu':o aucun:o garçon:n n':o était:v là:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "The giant ate his big dinner.",
+   "tgt": "Le:o géant:n mangea:v son:o grand:a dîner:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Then the giant brought out a gold harp.",
+   "tgt": "Puis:o le:o géant:n sortit:v une:o harpe:n en:o or:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "\"Sing for me!\" said the giant.",
+   "tgt": "«:o Chante:a pour:o moi:o !:o »:o dit:v le:o géant:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The gold harp sang a soft song.",
+   "tgt": "La:o harpe:n en:o or:n chanta:v une:o chanson:n douce:a .:o"
+  },
+  {
+   "n": 69,
+   "en": "Soon the music made the giant sleep.",
+   "tgt": "Bientôt:a ,:o la:o musique:n endormit:v le:o géant:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "Jack jumped up and grabbed the harp.",
+   "tgt": "Jack:o se:o leva:v d':o un:o bond:n et:o saisit:v la:o harpe:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "But the harp called out to the giant.",
+   "tgt": "Mais:o la:o harpe:n appela:v le:o géant:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "\"Master! Master!\" cried the gold harp.",
+   "tgt": "«:o Maître:n !:o Maître:n !:o »:o cria:v la:o harpe:n en:o or:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The giant woke up in a rage.",
+   "tgt": "Le:o géant:n se:o réveilla:v dans:o une:o rage:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "He ran after Jack with big steps.",
+   "tgt": "Il:o courut:v après:o Jack:o à:o grands:a pas:a .:o"
+  },
+  {
+   "n": 75,
+   "en": "Jack raced down the tall beanstalk.",
+   "tgt": "Jack:o dévala:v le:o grand:a haricot:n magique:a .:o"
+  },
+  {
+   "n": 76,
+   "chapter": "The Chase and the Fall",
+   "en": "Jack climbed down the tall beanstalk fast.",
+   "tgt": "Jack:o descendit:v rapidement:a le:o grand:a haricot:n magique:a .:o"
+  },
+  {
+   "n": 77,
+   "en": "The giant climbed down after him.",
+   "tgt": "Le:o géant:n descendit:v à:o sa:o poursuite:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "\"Mother, bring me the axe!\" called Jack.",
+   "tgt": "«:o Mère:o ,:o apporte:v -moi:o la:o hache:n !:o »:o cria:o Jack:o .:o"
+  },
+  {
+   "n": 79,
+   "en": "His mother ran out with a big axe.",
+   "tgt": "Sa:o mère:n accourut:v avec:o une:o grande:a hache:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "Jack took the axe and began to cut.",
+   "tgt": "Jack:o prit:v la:o hache:n et:o commença:v à:o couper:v .:o"
+  },
+  {
+   "n": 81,
+   "en": "He cut and cut the tall beanstalk.",
+   "tgt": "Il:o coupa:v et:o coupa:v le:o grand:a haricot:n magique:a .:o"
+  },
+  {
+   "n": 82,
+   "en": "The tall beanstalk broke in two.",
+   "tgt": "Le:o grand:a haricot:n magique:a se:o brisa:v en:o deux:o .:o"
+  },
+  {
+   "n": 83,
+   "en": "The giant fell to the ground and died.",
+   "tgt": "Le:o géant:n tomba:v par:o terre:n et:o mourut:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "Jack and his mother were safe at last.",
+   "tgt": "Jack:o et:o sa:o mère:n étaient:v enfin:a en:o sécurité:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "They still had the gold, the hen, and the harp.",
+   "tgt": "Ils:o avaient:v encore:a l':o or:n ,:o la:o poule:n et:o la:o harpe:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "Jack and his mother were rich for life.",
+   "tgt": "Jack:o et:o sa:o mère:n furent:v riches:a pour:o la:o vie:n .:o"
+  }
+ ]
+}

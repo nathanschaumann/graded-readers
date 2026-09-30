@@ -1,0 +1,1735 @@
+{
+ "slug": "wizard_of_oz",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Cyclone",
+   "en": "Dorothy was on a farm in Kansas with Uncle Henry and Aunt Em.",
+   "tgt": "Dorothy:o était:v dans:o une:o ferme:n au:o Kansas:o avec:o l':o oncle:n Henry:o et:o la:o tante:n Em:o .:o"
+  },
+  {
+   "n": 2,
+   "en": "Toto was her little dog, and he went with her.",
+   "tgt": "Toto:o était:v son:o petit:a chien:n ,:o et:o il:o allait:v avec:o elle:o .:o"
+  },
+  {
+   "n": 3,
+   "en": "Uncle Henry looked at the sky, and a storm was coming.",
+   "tgt": "L':o oncle:n Henry:o regarda:v le:o ciel:n ,:o et:o une:o tempête:n arrivait:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "\"A cyclone is coming!\" he called.",
+   "tgt": "«:o Un:o cyclone:n arrive:v !:o »:o cria-t:v -il:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"Get to the cellar!\" he said to Aunt Em and Dorothy.",
+   "tgt": "«:o Allez:v dans:o la:o cave:n !:o »:o dit:v -il:o à:o la:o tante:n Em:o et:o à:o Dorothy:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "Aunt Em ran down into the cellar under the house.",
+   "tgt": "La:o tante:n Em:o courut:v dans:o la:o cave:n sous:o la:o maison:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "But Dorothy ran to find Toto, who was hidden under the bed.",
+   "tgt": "Mais:o Dorothy:o courut:v pour:o trouver:v Toto:o ,:o qui:o était:v caché:a sous:o le:o lit:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "She pulled Toto out as the wind grew loud.",
+   "tgt": "Elle:o tira:v Toto:o dehors:a pendant:o que:o le:o vent:n devenait:v fort:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "The cyclone came before Dorothy could get down to the cellar.",
+   "tgt": "Le:o cyclone:n arriva:v avant:o que:o Dorothy:o puisse:v descendre:v dans:o la:o cave:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The house spun and rose into the air.",
+   "tgt": "La:o maison:n tourna:v et:o s':o éleva:v dans:o l':o air:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "Dorothy sat down with Toto.",
+   "tgt": "Dorothy:o s':o assit:v avec:o Toto:o .:o"
+  },
+  {
+   "n": 12,
+   "en": "The house did not fall.",
+   "tgt": "La:o maison:n ne:o tomba:v pas:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "It went up and up into the sky.",
+   "tgt": "Il:o monta:v et:o monta:v dans:o le:o ciel:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Then the wind grew still, and the house came down soft.",
+   "tgt": "Puis:o le:o vent:n devint:v calme:a ,:o et:o la:o maison:n descendit:v doucement:a .:o"
+  },
+  {
+   "n": 15,
+   "en": "Dorothy got up and went to the door.",
+   "tgt": "Dorothy:o se:o leva:v et:o alla:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "She opened the door and looked out.",
+   "tgt": "Elle:o ouvrit:v la:o porte:n et:o regarda:v dehors:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "Dorothy walked out of the house.",
+   "tgt": "Dorothy:o sortit:v de:o la:o maison:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Little people came out to look at her.",
+   "tgt": "De:o petites:a personnes:n sortirent:v pour:o la:o regarder:v .:o"
+  },
+  {
+   "n": 19,
+   "en": "The house had come down on the Wicked Witch of the East.",
+   "tgt": "La:o maison:n était:v tombée:v sur:o la:o Méchante:o Sorcière:o de:o l':o Est:o .:o"
+  },
+  {
+   "n": 20,
+   "en": "The Wicked Witch of the East was dead.",
+   "tgt": "La:o Méchante:o Sorcière:o de:o l':o Est:o était:v morte:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "The little people were glad, for the witch had ruled them.",
+   "tgt": "Les:o petites:a personnes:n étaient:v contentes:a ,:o car:o la:o sorcière:n les:o avait:v gouvernées:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "An old woman came out and walked up to Dorothy.",
+   "tgt": "Une:o vieille:a femme:n sortit:v et:o s':o approcha:v de:o Dorothy:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"I am the Good Witch of the North,\" she said.",
+   "tgt": "«:o Je:o suis:v la:o Bonne:a Sorcière:n du:o Nord:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "\"Your house made my people free,\" said the old woman.",
+   "tgt": "«:o Votre:o maison:n a:v rendu:v mon:o peuple:n libre:a »:o ,:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"In Oz, a good witch rules the North, but a wicked witch still rules the West,\" the old woman said.",
+   "tgt": "«:o En:o Oz:o ,:o une:o bonne:a sorcière:n gouverne:v le:o Nord:n ,:o mais:o une:o méchante:a sorcière:n gouverne:v encore:a l':o Ouest:n »:o ,:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The little people took the silver shoes out from under the house.",
+   "tgt": "Les:o petites:a gens:n prirent:v les:o souliers:n d':o argent:n de:o dessous:o la:o maison:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "They gave the silver shoes to Dorothy.",
+   "tgt": "Ils:o donnèrent:v les:o souliers:n d':o argent:n à:o Dorothy:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "The old woman kissed Dorothy.",
+   "tgt": "La:o vieille:a femme:n embrassa:v Dorothy:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"No one will hurt you, for my kiss will keep you safe on the road,\" she said.",
+   "tgt": "«:o Personne:o ne:o vous:o fera:v de:o mal:n ,:o car:o mon:o baiser:n vous:o gardera:v en:o sécurité:n sur:o la:o route:n »:o ,:o dit-elle:v .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"Go to the Emerald City, and ask the Great Oz to help you get home.\"",
+   "tgt": "«:o Allez:v à:o la:o Cité:n d':o Émeraude:n ,:o et:o demandez:v au:o Grand:a Oz:o de:o vous:o aider:v à:o rentrer:v chez:o vous:o .:o »:o"
+  },
+  {
+   "n": 31,
+   "en": "\"The road of yellow brick will take you there.\"",
+   "tgt": "«:o La:o route:n de:o briques:n jaunes:a vous:o mènera:v là-bas:a .:o »:o"
+  },
+  {
+   "n": 32,
+   "en": "Dorothy thanked the old woman, and the little people were glad as she went down the road.",
+   "tgt": "Dorothy:o remercia:v la:o vieille:a femme:n ,:o et:o les:o petites:a gens:n étaient:v contents:a tandis:o qu':o elle:o descendait:v la:o route:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "Dorothy went down the road of yellow brick with Toto.",
+   "tgt": "Dorothy:o descendit:v la:o route:n de:o briques:n jaunes:a avec:o Toto:o .:o"
+  },
+  {
+   "n": 34,
+   "en": "She came to a pole.",
+   "tgt": "Elle:o arriva:v à:o un:o poteau:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "A Scarecrow made of straw hung on the pole.",
+   "tgt": "Un:o Épouvantail:n fait:v de:o paille:n était:v accroché:v au:o poteau:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "He winked at her.",
+   "tgt": "Il:o lui:o fit:v un:o clin:n d':o œil:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "Dorothy stopped, for she did not know a scarecrow could talk.",
+   "tgt": "Dorothy:o s':o arrêta:v ,:o car:o elle:o ne:o savait:v pas:o qu':o un:o épouvantail:n pouvait:v parler:v .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"Will you help me down from the pole?\" the Scarecrow asked.",
+   "tgt": "«:o Pouvez-vous:v m':o aider:v à:o descendre:v du:o poteau:n ?:o »:o demanda:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "Dorothy pulled him down.",
+   "tgt": "Dorothy:o le:o fit:v descendre:v .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"Thank you,\" said the Scarecrow.",
+   "tgt": "«:o Merci:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"I have wanted to get down.\"",
+   "tgt": "«:o Je:o voulais:v descendre:v depuis:o longtemps:a .:o »:o"
+  },
+  {
+   "n": 42,
+   "en": "\"A farmer made me to scare crows from the corn,\" the Scarecrow said.",
+   "tgt": "«:o Un:o fermier:n m':o a:v fabriqué:v pour:o effrayer:v les:o corbeaux:n loin:a du:o maïs:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"But I have no brains, so I cannot think.\"",
+   "tgt": "«:o Mais:o je:o n':o ai:v pas:o de:o cervelle:n ,:o donc:o je:o ne:o peux:v pas:o réfléchir:v .:o »:o"
+  },
+  {
+   "n": 44,
+   "en": "\"I wish I had brains,\" said the Scarecrow.",
+   "tgt": "«:o Je:o voudrais:v avoir:v de:o la:o cervelle:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"I am going to ask the Great Oz to help me get home,\" said Dorothy.",
+   "tgt": "«:o Je:o vais:v demander:v au:o Grand:a Oz:o de:o m':o aider:v à:o rentrer:v chez:o moi:o ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"Do you think he would give me brains?\" the Scarecrow asked.",
+   "tgt": "«:o Pensez-vous:v qu':o il:o me:o donnerait:v de:o la:o cervelle:n ?:o »:o demanda:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"I do not know, but you may come and ask him,\" said Dorothy.",
+   "tgt": "«:o Je:o ne:o sais:v pas:o ,:o mais:o vous:o pouvez:v venir:v le:o lui:o demander:v ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "The Scarecrow got up and went down the road with Dorothy and Toto.",
+   "tgt": "L':o Épouvantail:n se:o leva:v et:o descendit:v la:o route:n avec:o Dorothy:o et:o Toto:o .:o"
+  },
+  {
+   "n": 49,
+   "chapter": "The Tin Woodman",
+   "en": "Dorothy, the Scarecrow, and Toto went into a great forest.",
+   "tgt": "Dorothy:o ,:o l':o Épouvantail:n ,:o et:o Toto:o entrèrent:v dans:o une:o grande:a forêt:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "They found a Tin Woodman standing still with an old axe.",
+   "tgt": "Ils:o trouvèrent:v un:o Bûcheron:n de:o Fer-Blanc:n immobile:a avec:o une:o vieille:a hache:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "Rust was on him.",
+   "tgt": "La:o rouille:n était:v sur:o lui:o .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"Oil my mouth,\" the Tin Woodman said.",
+   "tgt": "«:o Huilez:v ma:o bouche:n ,:o »:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Dorothy found an oil can and put oil on his mouth, and he could move it.",
+   "tgt": "Dorothy:o trouva:v une:o burette:n d':o huile:n et:o mit:v de:o l':o huile:n sur:o sa:o bouche:n ,:o et:o il:o put:v la:o bouger:v .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Oil my arms and legs too, for I have not moved in a year,\" he said.",
+   "tgt": "«:o Huilez:v aussi:a mes:o bras:n et:o mes:o jambes:n ,:o car:o je:o n':o ai:v pas:o bougé:v depuis:o un:o an:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 55,
+   "en": "Dorothy put oil on his old arms and legs, and he could move them.",
+   "tgt": "Dorothy:o mit:v de:o l':o huile:n sur:o ses:o vieux:a bras:n et:o ses:o jambes:n ,:o et:o il:o put:v les:o bouger:v .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"Thank you,\" said the Tin Woodman.",
+   "tgt": "«:o Merci:n ,:o »:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"Why were you standing still?\" Dorothy asked.",
+   "tgt": "«:o Pourquoi:o étiez-vous:v immobile:a ?:o »:o demanda:v Dorothy:o .:o"
+  },
+  {
+   "n": 58,
+   "en": "\"I was a man who cut wood in this forest,\" he said.",
+   "tgt": "«:o J':o étais:v un:o homme:n qui:o coupait:v du:o bois:n dans:o cette:o forêt:n ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 59,
+   "en": "\"An old witch put a curse on my axe.\"",
+   "tgt": "«:o Une:o vieille:a sorcière:n mit:v une:o malédiction:n sur:o ma:o hache:n .:o »:o"
+  },
+  {
+   "n": 60,
+   "en": "\"The axe cut off my arms and legs, and a man made me new arms and legs of tin.\"",
+   "tgt": "«:o La:o hache:n coupa:v mes:o bras:n et:o mes:o jambes:n ,:o et:o un:o homme:n me:o fit:v de:o nouveaux:a bras:n et:o de:o nouvelles:a jambes:n en:o étain:n .:o »:o"
+  },
+  {
+   "n": 61,
+   "en": "\"The axe cut me, and I lost my heart.\"",
+   "tgt": "«:o La:o hache:n me:o coupa:v ,:o et:o je:o perdis:v mon:o cœur:n .:o »:o"
+  },
+  {
+   "n": 62,
+   "en": "\"Now I have no heart, and I cannot love.\"",
+   "tgt": "«:o Maintenant:a je:o n':o ai:v pas:o de:o cœur:n ,:o et:o je:o ne:o peux:v pas:o aimer:v .:o »:o"
+  },
+  {
+   "n": 63,
+   "en": "\"I am going to ask the Great Oz to help me get a new heart,\" said the Tin Woodman.",
+   "tgt": "«:o Je:o vais:v demander:v au:o grand:a Oz:o de:o m':o aider:v à:o obtenir:v un:o nouveau:a cœur:n ,:o »:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "\"You may come with me to ask for brains and a home too,\" said Dorothy.",
+   "tgt": "«:o Tu:o peux:v venir:v avec:o moi:o pour:o demander:v un:o cerveau:n et:o une:o maison:n aussi:a ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 65,
+   "en": "The Tin Woodman took his old axe, and they all went on down the road.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n prit:v sa:o vieille:a hache:n ,:o et:o ils:o continuèrent:v tous:o à:o descendre:v la:o route:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "They went on in the forest.",
+   "tgt": "Ils:o continuèrent:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "A great Lion jumped out into the road with a loud roar.",
+   "tgt": "Un:o grand:a Lion:n bondit:v sur:o la:o route:n avec:o un:o rugissement:n fort:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "The Lion ran at Toto.",
+   "tgt": "Le:o Lion:n courut:v vers:o Toto:o .:o"
+  },
+  {
+   "n": 69,
+   "en": "Dorothy went to Toto and hit the Lion on the nose.",
+   "tgt": "Dorothy:o alla:v vers:o Toto:o et:o frappa:v le:o Lion:n sur:o le:o nez:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"Do not bite Toto!\" she said.",
+   "tgt": "«:o Ne:o mords:v pas:o Toto:o !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"You should not bite a little dog!\" she said to the Lion.",
+   "tgt": "«:o Tu:o ne:o devrais:v pas:o mordre:v un:o petit:a chien:n !:o »:o dit:v -elle:o au:o Lion:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The Lion stopped and looked at Dorothy.",
+   "tgt": "Le:o Lion:o s':o arrêta:v et:o regarda:v Dorothy:o .:o"
+  },
+  {
+   "n": 73,
+   "en": "\"I did not bite him,\" said the Lion.",
+   "tgt": "«:o Je:o ne:o l':o ai:v pas:o mordu:v ,:o »:o dit:v -il:o le:o Lion:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"I wanted to scare him.\"",
+   "tgt": "«:o Je:o voulais:v lui:o faire:v peur:n .:o »:o"
+  },
+  {
+   "n": 75,
+   "en": "\"You are a coward to scare a little dog,\" said Dorothy.",
+   "tgt": "«:o Tu:o es:v un:o lâche:n de:o faire:v peur:n à:o un:o petit:a chien:n ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"I know I am a coward,\" said the Lion.",
+   "tgt": "«:o Je:o sais:v que:o je:o suis:v un:o lâche:n ,:o »:o dit:v le:o Lion:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"A beast comes at me, and I run.\"",
+   "tgt": "«:o Une:o bête:n vient:v vers:o moi:o ,:o et:o je:o cours:v .:o »:o"
+  },
+  {
+   "n": 78,
+   "en": "\"Your roar is loud,\" said the Scarecrow.",
+   "tgt": "«:o Ton:o rugissement:n est:v fort:a ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "\"I wish I had the courage of a king of beasts,\" said the Lion.",
+   "tgt": "«:o Je:o voudrais:v avoir:v le:o courage:n d':o un:o roi:n des:o bêtes:n ,:o »:o dit:v le:o Lion:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "\"We are going to ask the Great Oz for help,\" said Dorothy.",
+   "tgt": "«:o Nous:o allons:v demander:v de:o l':o aide:n au:o grand:a Oz:o ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"The Scarecrow wants brains, and the Tin Woodman wants a heart.\"",
+   "tgt": "«:o L':o Épouvantail:n veut:v des:o cerveaux:n ,:o et:o le:o Bûcheron:n de:o Fer-Blanc:n veut:v un:o cœur:n .:o »:o"
+  },
+  {
+   "n": 82,
+   "en": "\"Do you think Oz would give me courage?\" the Lion asked.",
+   "tgt": "«:o Pensez-vous:v qu':o Oz:o me:o donnerait:v du:o courage:n ?:o »:o demanda:v le:o Lion:o .:o"
+  },
+  {
+   "n": 83,
+   "en": "\"You may come with me and ask him,\" said Dorothy.",
+   "tgt": "«:o Vous:o pouvez:v venir:v avec:o moi:o et:o lui:o demander:v ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 84,
+   "en": "The Lion was glad, and he went with them.",
+   "tgt": "Le:o Lion:n était:v content:a ,:o et:o il:o alla:v avec:o eux:o .:o"
+  },
+  {
+   "n": 85,
+   "chapter": "The Kalidahs",
+   "en": "Soon they came to a ravine.",
+   "tgt": "Bientôt:a ils:o arrivèrent:v à:o un:o ravin:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "The ravine was too wide to jump.",
+   "tgt": "Le:o ravin:n était:v trop:a large:a pour:o sauter:v .:o"
+  },
+  {
+   "n": 87,
+   "en": "\"The Tin Woodman can cut down a tree to make a bridge,\" said the Scarecrow.",
+   "tgt": "«:o Le:o Bûcheron:n de:o Fer-Blanc:n peut:v couper:v un:o arbre:n pour:o faire:v un:o pont:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "The Tin Woodman cut down a tree with his axe.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n coupa:v un:o arbre:n avec:o sa:o hache:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "The tree fell across the ravine.",
+   "tgt": "L':o arbre:n tomba:v en:o travers:n du:o ravin:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "Dorothy walked across, with Toto behind her.",
+   "tgt": "Dorothy:o traversa:v ,:o avec:o Toto:o derrière:o elle:o .:o"
+  },
+  {
+   "n": 91,
+   "en": "The Scarecrow and the Tin Woodman walked across too.",
+   "tgt": "L':o Épouvantail:n et:o le:o Bûcheron:n de:o Fer-Blanc:n traversèrent:v aussi:a .:o"
+  },
+  {
+   "n": 92,
+   "en": "But the Lion was afraid to cross the narrow tree.",
+   "tgt": "Mais:o le:o Lion:n avait:v peur:n de:o traverser:v l':o arbre:n étroit:a .:o"
+  },
+  {
+   "n": 93,
+   "en": "\"Do not be a coward,\" said Dorothy.",
+   "tgt": "«:o Ne:o soyez:v pas:o un:o lâche:n ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "The Lion walked across the tree, and it did not break.",
+   "tgt": "Le:o Lion:o marcha:v sur:o l':o arbre:n ,:o et:o il:o ne:o se:o cassa:v pas:o .:o"
+  },
+  {
+   "n": 95,
+   "en": "Then two Kalidahs ran out of the forest behind them.",
+   "tgt": "Puis:o deux:o Kalidahs:o sortirent:v en:o courant:v de:o la:o forêt:n derrière:o eux:o .:o"
+  },
+  {
+   "n": 96,
+   "en": "The Kalidahs had the heads of tigers and the bodies of bears.",
+   "tgt": "Les:o Kalidahs:o avaient:v les:o têtes:n de:o tigres:n et:o les:o corps:n d':o ours:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"The beasts want to eat us!\" said the Scarecrow.",
+   "tgt": "«:o Les:o bêtes:n veulent:v nous:o manger:v !:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "The Tin Woodman ran back across the tree with his axe.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n retourna:v en:o courant:v sur:o l':o arbre:n avec:o sa:o hache:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "He cut the tree, and it fell into the ravine.",
+   "tgt": "Il:o coupa:v l':o arbre:n ,:o et:o il:o tomba:v dans:o le:o ravin:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The two Kalidahs fell down into the ravine too.",
+   "tgt": "Les:o deux:o Kalidahs:o tombèrent:v aussi:a dans:o le:o ravin:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "\"I thank you,\" said the Lion.",
+   "tgt": "«:o Je:o vous:o remercie:v ,:o »:o dit:v le:o Lion:o .:o"
+  },
+  {
+   "n": 102,
+   "en": "They went on and soon came to a wide river.",
+   "tgt": "Ils:o continuèrent:v et:o arrivèrent:v bientôt:a à:o une:o large:a rivière:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"We must cross the river,\" said the Scarecrow.",
+   "tgt": "«:o Nous:o devons:v traverser:v la:o rivière:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "The Tin Woodman cut down trees and made a raft.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n abattit:v des:o arbres:n et:o construisit:v un:o radeau:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "They got on the raft and went out on the river.",
+   "tgt": "Ils:o montèrent:v sur:o le:o radeau:n et:o partirent:v sur:o la:o rivière:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "The water was strong and pushed the raft.",
+   "tgt": "Le:o courant:n était:v fort:a et:o poussa:v le:o radeau:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "The Lion jumped into the water and swam by the raft.",
+   "tgt": "Le:o Lion:n sauta:v dans:o l':o eau:n et:o nagea:v à:o côté:n du:o radeau:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "He pushed the raft to the other side of the river.",
+   "tgt": "Il:o poussa:v le:o radeau:n vers:o l':o autre:a côté:n de:o la:o rivière:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "They went on and came to a field of flowers.",
+   "tgt": "Ils:o continuèrent:v et:o arrivèrent:v à:o un:o champ:n de:o fleurs:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "The flowers had a strong smell, and it made Dorothy sleepy.",
+   "tgt": "Les:o fleurs:n avaient:v une:o odeur:n forte:a ,:o et:o cela:o rendit:v Dorothy:o somnolente:a .:o"
+  },
+  {
+   "n": 111,
+   "en": "Toto and the Lion grew sleepy too, and soon they fell asleep.",
+   "tgt": "Toto:o et:o le:o Lion:n devinrent:v somnolents:a aussi:a ,:o et:o bientôt:a ils:o s':o endormirent:v .:o"
+  },
+  {
+   "n": 112,
+   "en": "But the Scarecrow and the Tin Woodman were not sleepy at all.",
+   "tgt": "Mais:o l':o Épouvantail:n et:o le:o Bûcheron:n de:o Fer-Blanc:n n':o étaient:v pas:o somnolents:a du:o tout:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "\"The Scarecrow and I do not breathe, so the flowers cannot hurt us,\" said the Tin Woodman.",
+   "tgt": "«:o L':o Épouvantail:n et:o moi:o ne:o respirons:v pas:o ,:o donc:o les:o fleurs:n ne:o peuvent:v pas:o nous:o blesser:v »:o ,:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "The Tin Woodman took Toto, and the Scarecrow took Dorothy.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n prit:v Toto:o ,:o et:o l':o Épouvantail:n prit:v Dorothy:o .:o"
+  },
+  {
+   "n": 115,
+   "en": "They went out of the field with Dorothy and Toto.",
+   "tgt": "Ils:o sortirent:v du:o champ:n avec:o Dorothy:o et:o Toto:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "Dorothy and Toto woke up.",
+   "tgt": "Dorothy:o et:o Toto:o se:o réveillèrent:v .:o"
+  },
+  {
+   "n": 117,
+   "en": "But the Lion was too big to take.",
+   "tgt": "Mais:o le:o Lion:n était:v trop:a grand:a pour:o être:v emporté:v .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"We must find a way to save the Lion,\" said Dorothy.",
+   "tgt": "«:o Nous:o devons:v trouver:v un:o moyen:n de:o sauver:v le:o Lion:n ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 119,
+   "chapter": "The Queen of the Field Mice",
+   "en": "The Tin Woodman and the Scarecrow sat by the field of flowers.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n et:o l':o Épouvantail:n s':o assirent:v près:o du:o champ:n de:o fleurs:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "The Tin Woodman heard a small cry in the grass.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n entendit:v un:o petit:a cri:n dans:o l':o herbe:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "A wildcat was after a little mouse.",
+   "tgt": "Un:o chat:n sauvage:a poursuivait:v une:o petite:a souris:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "The Tin Woodman cut down the wildcat with his axe.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n abattit:v le:o chat:n sauvage:a avec:o sa:o hache:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "The little mouse stopped shaking and looked up at him.",
+   "tgt": "La:o petite:a souris:n cessa:v de:o trembler:v et:o leva:v les:o yeux:n vers:o lui:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"Thank you,\" said the mouse.",
+   "tgt": "«:o Merci:n ,:o »:o dit:v la:o souris:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "\"I am the Queen of the Field Mice.\"",
+   "tgt": "«:o Je:o suis:v la:o Reine:n des:o Souris:n des:o Champs:n .:o »:o"
+  },
+  {
+   "n": 126,
+   "en": "\"I will help you,\" said the Queen.",
+   "tgt": "«:o Je:o vais:v vous:o aider:v ,:o »:o dit:v la:o Reine:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "\"The Lion is a friend, and he is asleep in the field of flowers,\" said the Tin Woodman.",
+   "tgt": "«:o Le:o Lion:n est:v un:o ami:n ,:o et:o il:o dort:v dans:o le:o champ:n de:o fleurs:n ,:o »:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "\"I will call my mice to help you,\" said the Queen.",
+   "tgt": "«:o Je:o vais:v appeler:v mes:o souris:n pour:o vous:o aider:v ,:o »:o dit:v la:o Reine:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The Queen gave a small cry, and mice came to the field.",
+   "tgt": "La:o Reine:n poussa:v un:o petit:a cri:n ,:o et:o des:o souris:n vinrent:v dans:o le:o champ:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"We must build a cart to take the Lion,\" said the Scarecrow.",
+   "tgt": "«:o Nous:o devons:v construire:v une:o charrette:n pour:o transporter:v le:o Lion:n ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "The Tin Woodman cut wood and made a big cart.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n coupa:v du:o bois:n et:o construisit:v une:o grande:a charrette:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "The mice pulled the cart to the Lion in the field of flowers.",
+   "tgt": "Les:o souris:n tirèrent:v la:o charrette:n jusqu':o au:o Lion:n dans:o le:o champ:n de:o fleurs:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "The Tin Woodman put the Lion on the cart.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n posa:v le:o Lion:n sur:o la:o charrette:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "The mice pulled the cart with the Lion out of the field.",
+   "tgt": "Les:o souris:n tirèrent:v la:o charrette:n avec:o le:o Lion:n hors:o du:o champ:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "Away from the flowers, the Lion woke up, and he and Dorothy thanked the little mice.",
+   "tgt": "Loin:a des:o fleurs:n ,:o le:o Lion:n se:o réveilla:v ,:o et:o lui:o et:o Dorothy:o remercièrent:v les:o petites:a souris:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "The Queen gave Dorothy a small whistle to call her mice.",
+   "tgt": "La:o Reine:n donna:v à:o Dorothy:o un:o petit:a sifflet:n pour:o appeler:v ses:o souris:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "They came to the gates of the Emerald City.",
+   "tgt": "Ils:o arrivèrent:v aux:o portes:n de:o la:o Cité:n d':o Émeraude:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "The gates were green.",
+   "tgt": "Les:o portes:n étaient:v vertes:a .:o"
+  },
+  {
+   "n": 139,
+   "en": "A man came to them at the gates.",
+   "tgt": "Un:o homme:n vint:v à:o eux:o aux:o portes:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "He wore a green coat and had a long beard.",
+   "tgt": "Il:o portait:v un:o manteau:n vert:a et:o avait:v une:o longue:a barbe:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "\"I am the Guardian of the Gates,\" he said.",
+   "tgt": "«:o Je:o suis:v le:o Gardien:n des:o Portes:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 142,
+   "en": "\"Why have you come to the Emerald City?\"",
+   "tgt": "«:o Pourquoi:o êtes:v -vous:o venus:v à:o la:o Cité:n d':o Émeraude:n ?:o »:o"
+  },
+  {
+   "n": 143,
+   "en": "\"We must see the Great Oz,\" said Dorothy.",
+   "tgt": "«:o Nous:o devons:v voir:v le:o Grand:a Oz:o ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "\"You must all wear green glasses in this city,\" said the Guardian.",
+   "tgt": "«:o Vous:o devez:v tous:o porter:v des:o lunettes:n vertes:a dans:o cette:o ville:n ,:o »:o dit:v le:o Gardien:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"The city is so bright that it would hurt you.\"",
+   "tgt": "«:o La:o ville:n est:v si:a brillante:a qu':o elle:o vous:o blesserait:v .:o »:o"
+  },
+  {
+   "n": 146,
+   "en": "The Guardian put green glasses on Dorothy, Toto, and her friends.",
+   "tgt": "Le:o Gardien:n posa:v des:o lunettes:n vertes:a sur:o Dorothy:o ,:o Toto:o ,:o et:o ses:o amis:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "He locked the glasses with gold.",
+   "tgt": "Il:o ferma:v les:o lunettes:n à:o clé:n avec:o de:o l':o or:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "The Guardian opened the gates.",
+   "tgt": "Le:o Gardien:n ouvrit:v les:o portes:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "Dorothy and her friends walked into the city.",
+   "tgt": "Dorothy:o et:o ses:o amis:n entrèrent:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "Every house in the city was green.",
+   "tgt": "Chaque:o maison:n de:o la:o ville:n était:v verte:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "The people of the city wore green clothes too.",
+   "tgt": "Les:o gens:n de:o la:o ville:n portaient:v aussi:a des:o vêtements:n verts:a .:o"
+  },
+  {
+   "n": 152,
+   "en": "The Guardian took them to a green palace.",
+   "tgt": "Le:o Gardien:n les:o conduisit:v à:o un:o palais:n vert:a .:o"
+  },
+  {
+   "n": 153,
+   "en": "\"You may rest,\" he said.",
+   "tgt": "«:o Vous:o pouvez:v vous:o reposer:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 154,
+   "en": "\"The Great Oz will see you soon.\"",
+   "tgt": "«:o Le:o Grand:a Oz:o vous:o verra:v bientôt:a .:o »:o"
+  },
+  {
+   "n": 155,
+   "en": "Dorothy and her friends waited in the palace for the Great Oz.",
+   "tgt": "Dorothy:o et:o ses:o amis:n attendirent:v dans:o le:o palais:n le:o Grand:a Oz:o .:o"
+  },
+  {
+   "n": 156,
+   "chapter": "The Great Oz",
+   "en": "Dorothy was called to see the Great Oz.",
+   "tgt": "Dorothy:o fut:v appelée:v à:o voir:v le:o Grand:a Oz:o .:o"
+  },
+  {
+   "n": 157,
+   "en": "Dorothy walked into a big room.",
+   "tgt": "Dorothy:o entra:v dans:o une:o grande:a salle:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "In the room, she saw only a head.",
+   "tgt": "Dans:o la:o salle:n ,:o elle:o ne:o vit:v qu':o une:o tête:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The head could talk, but it had no arms and no legs.",
+   "tgt": "La:o tête:n pouvait:v parler:v ,:o mais:o elle:o n':o avait:v pas:o de:o bras:n et:o pas:o de:o jambes:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "\"I am Oz, the Great and Terrible,\" the head said loudly.",
+   "tgt": "«:o Je:o suis:v Oz:o ,:o le:o Grand:a et:o Terrible:a ,:o »:o dit:v la:o tête:n à:o voix:n haute:a .:o"
+  },
+  {
+   "n": 161,
+   "en": "\"Why have you come to see me?\"",
+   "tgt": "«:o Pourquoi:o êtes-vous:v venu:v me:o voir:v ?:o »:o"
+  },
+  {
+   "n": 162,
+   "en": "\"I want to go home to Kansas,\" said Dorothy.",
+   "tgt": "«:o Je:o veux:v rentrer:v chez:o moi:o au:o Kansas:o ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "\"My friends want brains, a heart, and courage.\"",
+   "tgt": "«:o Mes:o amis:n veulent:v un:o cerveau:n ,:o un:o cœur:n ,:o et:o du:o courage:n .:o »:o"
+  },
+  {
+   "n": 164,
+   "en": "\"I will help you, but first you must help me,\" said the head.",
+   "tgt": "«:o Je:o vais:v vous:o aider:v ,:o mais:o d':o abord:a vous:o devez:v m':o aider:v ,:o »:o dit:v la:o tête:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "\"You must kill the Wicked Witch of the West.\"",
+   "tgt": "«:o Vous:o devez:v tuer:v la:o Méchante:a Sorcière:n de:o l':o Ouest:n .:o »:o"
+  },
+  {
+   "n": 166,
+   "en": "\"It is my only rule,\" said the head. \"Now go.\"",
+   "tgt": "«:o C':o est:v ma:o seule:a règle:n ,:o »:o dit:v la:o tête:n .:o «:o Partez:v maintenant:a .:o »:o"
+  },
+  {
+   "n": 167,
+   "en": "Oz called the Scarecrow into the big room next.",
+   "tgt": "Oz:o appela:v l':o Épouvantail:n dans:o la:o grande:a salle:n ensuite:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "But now, Oz was not a head.",
+   "tgt": "Mais:o maintenant:a ,:o Oz:o n':o était:v pas:o une:o tête:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "Oz was a lady.",
+   "tgt": "Oz:o était:v une:o dame:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "She told the Scarecrow the rule too: kill the witch first.",
+   "tgt": "Elle:o dit:v la:o même:a règle:n à:o l':o Épouvantail:o aussi:a ::o tue:v la:o sorcière:n d':o abord:a .:o"
+  },
+  {
+   "n": 171,
+   "en": "Oz called the Tin Woodman and the Lion in next, one at a time.",
+   "tgt": "Oz:o appela:v ensuite:a le:o Bûcheron:n de:o Fer-Blanc:n et:o le:o Lion:o ,:o l':o un:o après:o l':o autre:o .:o"
+  },
+  {
+   "n": 172,
+   "en": "To the Tin Woodman, Oz was a terrible beast.",
+   "tgt": "Pour:o le:o Bûcheron:n de:o Fer-Blanc:n ,:o Oz:o était:v une:o bête:n terrible:a .:o"
+  },
+  {
+   "n": 173,
+   "en": "To the Lion, Oz was fire.",
+   "tgt": "Pour:o le:o Lion:o ,:o Oz:o était:v du:o feu:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "The four friends went west to find the Wicked Witch.",
+   "tgt": "Les:o quatre:o amis:n allèrent:v à:o l':o ouest:o pour:o trouver:v la:o Méchante:a Sorcière:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "The Wicked Witch of the West had one eye that could see far.",
+   "tgt": "La:o Méchante:a Sorcière:n de:o l':o Ouest:o avait:v un:o œil:n qui:o pouvait:v voir:v loin:a .:o"
+  },
+  {
+   "n": 176,
+   "en": "She saw the four friends come into her land.",
+   "tgt": "Elle:o vit:v les:o quatre:o amis:n entrer:v dans:o ses:o terres:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "She was angry, and she called many wolves.",
+   "tgt": "Elle:o était:v en:o colère:n ,:o et:o elle:o appela:v beaucoup:a de:o loups:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "\"Go and kill them!\" she said to the wolves.",
+   "tgt": "«:o Allez:v les:o tuer:v !:o »:o dit:v -elle:o aux:o loups:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "The wolves ran at the four friends with sharp teeth.",
+   "tgt": "Les:o loups:n coururent:v vers:o les:o quatre:o amis:n avec:o leurs:o dents:n acérées:a .:o"
+  },
+  {
+   "n": 180,
+   "en": "The Tin Woodman cut down the wolves with his axe.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n abattit:v les:o loups:n avec:o sa:o hache:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "Not one wolf got away.",
+   "tgt": "Pas:o un:o loup:n ne:o s':o échappa:v .:o"
+  },
+  {
+   "n": 182,
+   "en": "The witch was still angry, so she called many crows.",
+   "tgt": "La:o sorcière:n était:v encore:a en:o colère:n ,:o alors:o elle:o appela:v beaucoup:a de:o corbeaux:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "\"Go and hurt their eyes!\" she said to the crows.",
+   "tgt": "«:o Allez:v blesser:v leurs:o yeux:n !:o »:o dit:v -elle:o aux:o corbeaux:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "The crows flew at the four friends.",
+   "tgt": "Les:o corbeaux:n volèrent:v vers:o les:o quatre:o amis:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "The Scarecrow stopped each crow.",
+   "tgt": "L':o Épouvantail:o arrêta:v chaque:o corbeau:n .:o"
+  },
+  {
+   "n": 186,
+   "en": "Not one crow got away.",
+   "tgt": "Pas:o un:o corbeau:n ne:o s':o échappa:v .:o"
+  },
+  {
+   "n": 187,
+   "en": "The witch called many black bees.",
+   "tgt": "La:o sorcière:n appela:v beaucoup:a d':o abeilles:n noires:a .:o"
+  },
+  {
+   "n": 188,
+   "en": "\"Go and sting them all!\" she said to the bees.",
+   "tgt": "«:o Allez:v les:o piquer:v toutes:o !:o »:o dit:v -elle:o aux:o abeilles:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "The Scarecrow pulled out his straw and put it on Dorothy, Toto, and the Lion.",
+   "tgt": "L':o Épouvantail:o sortit:v sa:o paille:n et:o la:o posa:v sur:o Dorothy:o ,:o Toto:o et:o le:o Lion:o .:o"
+  },
+  {
+   "n": 190,
+   "en": "The straw kept the bees away.",
+   "tgt": "La:o paille:n éloigna:v les:o abeilles:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "The bees flew at the Tin Woodman, but their stings broke on his tin body.",
+   "tgt": "Les:o abeilles:n volèrent:v vers:o le:o Bûcheron:n de:o Fer-Blanc:n ,:o mais:o leurs:o dards:n se:o brisèrent:v sur:o son:o corps:n de:o fer:n .:o"
+  },
+  {
+   "n": 192,
+   "chapter": "The Winged Monkeys",
+   "en": "The witch had a gold cap with magic words on it.",
+   "tgt": "La:o sorcière:n avait:v un:o bonnet:n d':o or:n avec:o des:o mots:n magiques:a dessus:o .:o"
+  },
+  {
+   "n": 193,
+   "en": "The cap could call the Winged Monkeys three times.",
+   "tgt": "Le:o bonnet:n pouvait:v appeler:v les:o Singes:n Ailés:a trois:o fois:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "The witch put on the cap and said the magic words.",
+   "tgt": "La:o sorcière:n mit:v le:o bonnet:n et:o dit:v les:o mots:n magiques:a .:o"
+  },
+  {
+   "n": 195,
+   "en": "The Winged Monkeys came down from the sky and flew to the four friends.",
+   "tgt": "Les:o Singes:n Ailés:a descendirent:v du:o ciel:n et:o volèrent:v vers:o les:o quatre:o amis:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "The monkeys pulled the straw out of the Scarecrow and threw it far away.",
+   "tgt": "Les:o singes:n arrachèrent:v la:o paille:n de:o l':o Épouvantail:n et:o la:o jetèrent:v au:o loin:a .:o"
+  },
+  {
+   "n": 197,
+   "en": "They took the Tin Woodman and threw him down, and he had many dents.",
+   "tgt": "Ils:o prirent:v le:o Bûcheron:n de:o Fer-Blanc:n et:o le:o jetèrent:v à:o terre:n ,:o et:o il:o avait:v de:o nombreuses:a bosses:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "They tied the Lion and carried him away.",
+   "tgt": "Ils:o attachèrent:v le:o Lion:n et:o l':o emportèrent:v .:o"
+  },
+  {
+   "n": 199,
+   "en": "The monkeys came to Dorothy next.",
+   "tgt": "Les:o singes:n vinrent:v ensuite:a vers:o Dorothy:o .:o"
+  },
+  {
+   "n": 200,
+   "en": "They saw the mark of the Good Witch's kiss on her.",
+   "tgt": "Ils:o virent:v la:o marque:n du:o baiser:n de:o la:o Bonne:a Sorcière:n sur:o elle:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"We cannot hurt her,\" said one of the monkeys.",
+   "tgt": "«:o Nous:o ne:o pouvons:v pas:o lui:o faire:v de:o mal:n ,:o »:o dit:v un:o des:o singes:n .:o"
+  },
+  {
+   "n": 202,
+   "en": "The monkeys took Dorothy and Toto.",
+   "tgt": "Les:o singes:n prirent:v Dorothy:o et:o Toto:o .:o"
+  },
+  {
+   "n": 203,
+   "en": "They carried Dorothy and Toto to the witch's castle.",
+   "tgt": "Ils:o portèrent:v Dorothy:o et:o Toto:o au:o château:n de:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 204,
+   "en": "The witch was glad to see the silver shoes on Dorothy.",
+   "tgt": "La:o sorcière:n fut:v contente:a de:o voir:v les:o chaussures:n argentées:a sur:o Dorothy:o .:o"
+  },
+  {
+   "n": 205,
+   "en": "But the Scarecrow had no straw left, and the Tin Woodman had many dents.",
+   "tgt": "Mais:o l':o Épouvantail:n n':o avait:v plus:o de:o paille:n ,:o et:o le:o Bûcheron:n de:o Fer-Blanc:n avait:v de:o nombreuses:a bosses:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "The Lion was tied up in the witch's castle too.",
+   "tgt": "Le:o Lion:n était:v attaché:a dans:o le:o château:n de:o la:o sorcière:n aussi:a .:o"
+  },
+  {
+   "n": 207,
+   "en": "Dorothy did not know how to help her friends now.",
+   "tgt": "Dorothy:o ne:o savait:v pas:o comment:o aider:v ses:o amis:n maintenant:a .:o"
+  },
+  {
+   "n": 208,
+   "en": "The witch made Dorothy work in the castle each day.",
+   "tgt": "La:o sorcière:n fit:v travailler:v Dorothy:o dans:o le:o château:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "The witch wanted the silver shoes on Dorothy's feet.",
+   "tgt": "La:o sorcière:n voulait:v les:o chaussures:n argentées:a aux:o pieds:n de:o Dorothy:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "But she could not take a shoe while Dorothy wore it.",
+   "tgt": "Mais:o elle:o ne:o pouvait:v pas:o prendre:v une:o chaussure:n pendant:o que:o Dorothy:o la:o portait:v .:o"
+  },
+  {
+   "n": 211,
+   "en": "She put a bar on the kitchen floor, but Dorothy could not see it.",
+   "tgt": "Elle:o posa:v une:o barre:n sur:o le:o sol:n de:o la:o cuisine:n ,:o mais:o Dorothy:o ne:o pouvait:v pas:o la:o voir:v .:o"
+  },
+  {
+   "n": 212,
+   "en": "One day, Dorothy walked over the bar and fell down.",
+   "tgt": "Un:o jour:n ,:o Dorothy:o marcha:v sur:o la:o barre:n et:o tomba:v .:o"
+  },
+  {
+   "n": 213,
+   "en": "One silver shoe came off her foot.",
+   "tgt": "Un:o soulier:n argenté:a tomba:v de:o son:o pied:n .:o"
+  },
+  {
+   "n": 214,
+   "en": "The witch took the shoe and put it on her foot.",
+   "tgt": "La:o sorcière:n prit:v le:o soulier:n et:o le:o mit:v sur:o son:o pied:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "Dorothy was angry, for it was her shoe.",
+   "tgt": "Dorothy:o était:v en:o colère:n ,:o car:o c':o était:v son:o soulier:n .:o"
+  },
+  {
+   "n": 216,
+   "en": "A bucket of water was in the kitchen.",
+   "tgt": "Un:o seau:n d':o eau:n se:o trouvait:v dans:o la:o cuisine:n .:o"
+  },
+  {
+   "n": 217,
+   "en": "Dorothy took the bucket and threw the water at the witch.",
+   "tgt": "Dorothy:o prit:v le:o seau:n et:o jeta:v l':o eau:n sur:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 218,
+   "en": "The witch gave a great cry.",
+   "tgt": "La:o sorcière:n poussa:v un:o grand:a cri:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "\"You wicked one!\" said the witch.",
+   "tgt": "«:o Méchante:a !:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 220,
+   "en": "The witch melted away.",
+   "tgt": "La:o sorcière:n fondit:v et:o disparut:v .:o"
+  },
+  {
+   "n": 221,
+   "en": "Dorothy took her silver shoe and put it on.",
+   "tgt": "Dorothy:o prit:v son:o soulier:n argenté:a et:o le:o mit:v .:o"
+  },
+  {
+   "n": 222,
+   "en": "The people of the castle came in and saw that the witch was gone.",
+   "tgt": "Les:o gens:n du:o château:n entrèrent:v et:o virent:v que:o la:o sorcière:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 223,
+   "en": "\"You have set us free!\" said one of them.",
+   "tgt": "«:o Vous:o nous:o avez:v libérés:v !:o »:o dit:v un:o d':o eux:o .:o"
+  },
+  {
+   "n": 224,
+   "en": "They were glad, for the witch had ruled them for many years.",
+   "tgt": "Ils:o étaient:v contents:a ,:o car:o la:o sorcière:n les:o avait:v gouvernés:v pendant:o de:o nombreuses:a années:n .:o"
+  },
+  {
+   "n": 225,
+   "chapter": "The Winkies Freed",
+   "en": "Dorothy ran to set the Lion free.",
+   "tgt": "Dorothy:o courut:v libérer:v le:o Lion:n .:o"
+  },
+  {
+   "n": 226,
+   "en": "\"You are free,\" said Dorothy. \"The witch is gone.\"",
+   "tgt": "«:o Vous:o êtes:v libre:a ,:o »:o dit:v Dorothy:o .:o «:o La:o sorcière:n est:v partie:v .:o »:o"
+  },
+  {
+   "n": 227,
+   "en": "The Lion thanked Dorothy for her help.",
+   "tgt": "Le:o Lion:n remercia:v Dorothy:o pour:o son:o aide:n .:o"
+  },
+  {
+   "n": 228,
+   "en": "The people of the castle mended the Tin Woodman and the Scarecrow.",
+   "tgt": "Les:o gens:n du:o château:n réparèrent:v le:o Bûcheron:n de:o Fer-Blanc:n et:o l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 229,
+   "en": "The Scarecrow and the Tin Woodman thanked the people of the castle.",
+   "tgt": "L':o Épouvantail:n et:o le:o Bûcheron:n de:o Fer-Blanc:n remercièrent:v les:o gens:n du:o château:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Dorothy took the witch's gold cap and kept it safe.",
+   "tgt": "Dorothy:o prit:v le:o chapeau:n d':o or:n de:o la:o sorcière:n et:o le:o garda:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "\"Stay and rule us,\" the people said to the Tin Woodman.",
+   "tgt": "«:o Restez:v et:o gouvernez:v -nous:o ,:o »:o dirent:v les:o gens:n au:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 232,
+   "en": "\"I will come back after I help Dorothy,\" he said.",
+   "tgt": "«:o Je:o reviendrai:v après:o avoir:v aidé:v Dorothy:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 233,
+   "en": "The Scarecrow, the Tin Woodman, and the Lion went with Dorothy.",
+   "tgt": "L':o Épouvantail:n ,:o le:o Bûcheron:n de:o Fer-Blanc:n ,:o et:o le:o Lion:n allèrent:v avec:o Dorothy:o .:o"
+  },
+  {
+   "n": 234,
+   "en": "The four friends went back to the Emerald City.",
+   "tgt": "Les:o quatre:o amis:n retournèrent:v à:o la:o Cité:n d':o Émeraude:n .:o"
+  },
+  {
+   "n": 235,
+   "en": "Dorothy wanted to tell the Great Oz that the witch was dead.",
+   "tgt": "Dorothy:o voulait:v dire:v au:o grand:a Oz:o que:o la:o sorcière:n était:v morte:a .:o"
+  },
+  {
+   "n": 236,
+   "en": "\"Oz must give us what he said he would,\" said the Scarecrow.",
+   "tgt": "«:o Oz:o doit:v nous:o donner:v ce:o qu':o il:o a:v dit:v qu':o il:o ferait:v ,:o »:o dit:v l':o Épouvantail:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "They went on the road for many days.",
+   "tgt": "Ils:o voyagèrent:v sur:o la:o route:n pendant:o de:o nombreux:a jours:n .:o"
+  },
+  {
+   "n": 238,
+   "en": "Soon they came to the green gates.",
+   "tgt": "Bientôt:a ils:o arrivèrent:v aux:o portes:n vertes:a .:o"
+  },
+  {
+   "n": 239,
+   "en": "The Guardian of the Gates was glad to see them.",
+   "tgt": "Le:o Gardien:n des:o Portes:n était:v content:a de:o les:o voir:v .:o"
+  },
+  {
+   "n": 240,
+   "en": "\"Did you kill the Wicked Witch of the West?\" he asked.",
+   "tgt": "«:o Avez:v -vous:o tué:v la:o Méchante:a Sorcière:n de:o l':o Ouest:n ?:o »:o demanda:v -t:o -il:o .:o"
+  },
+  {
+   "n": 241,
+   "en": "The Guardian let the friends into the Emerald City.",
+   "tgt": "Le:o Gardien:n laissa:v les:o amis:n entrer:v dans:o la:o Cité:n d':o Émeraude:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "They went to see the Great Oz.",
+   "tgt": "Ils:o allèrent:v voir:v le:o grand:a Oz:o .:o"
+  },
+  {
+   "n": 243,
+   "en": "\"You must wait many days to see Oz,\" said a soldier.",
+   "tgt": "«:o Vous:o devez:v attendre:v de:o nombreux:a jours:n pour:o voir:v Oz:o ,:o »:o dit:v un:o soldat:n .:o"
+  },
+  {
+   "n": 244,
+   "en": "The soldier let them into the great room.",
+   "tgt": "Le:o soldat:n les:o laissa:v entrer:v dans:o la:o grande:a salle:n .:o"
+  },
+  {
+   "n": 245,
+   "en": "But this time, Oz was no head, lady, or beast.",
+   "tgt": "Mais:o cette:o fois:n ,:o Oz:o n':o était:v ni:o tête:n ,:o ni:o dame:n ,:o ni:o bête:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "They only heard a man talking.",
+   "tgt": "Ils:o entendirent:v seulement:a un:o homme:n parler:v .:o"
+  },
+  {
+   "n": 247,
+   "en": "Toto ran to a screen in the room.",
+   "tgt": "Toto:o courut:v vers:o un:o paravent:n dans:o la:o salle:n .:o"
+  },
+  {
+   "n": 248,
+   "en": "Toto pulled the screen down with his teeth.",
+   "tgt": "Toto:o tira:v le:o paravent:n vers:o le:o bas:n avec:o ses:o dents:n .:o"
+  },
+  {
+   "n": 249,
+   "en": "A little old man was behind the screen.",
+   "tgt": "Un:o petit:a vieux:a homme:n se:o trouvait:v derrière:o le:o paravent:n .:o"
+  },
+  {
+   "n": 250,
+   "en": "\"Are you the Great Oz?\" asked Dorothy.",
+   "tgt": "«:o Êtes-vous:v le:o Grand:a Oz:o ?:o »:o demanda:v Dorothy:o .:o"
+  },
+  {
+   "n": 251,
+   "en": "\"I am,\" said the little old man. \"But I am not great.\"",
+   "tgt": "«:o Je:o le:o suis:v ,:o »:o dit:v le:o petit:a vieux:a homme:n .:o «:o Mais:o je:o ne:o suis:v pas:o grand:a .:o »:o"
+  },
+  {
+   "n": 252,
+   "en": "\"I came from a city called Omaha in a balloon.\"",
+   "tgt": "«:o Je:o vins:v d':o une:o ville:n appelée:v Omaha:o dans:o un:o ballon:n .:o »:o"
+  },
+  {
+   "n": 253,
+   "en": "\"The people here thought I had great magic, so I let them think it.\"",
+   "tgt": "«:o Les:o gens:n ici:a pensaient:v que:o j':o avais:v une:o grande:a magie:n ,:o alors:o je:o les:o laissai:v le:o croire:v .:o »:o"
+  },
+  {
+   "n": 254,
+   "en": "\"I made this green city with green glasses, not with magic.\"",
+   "tgt": "«:o Je:o fis:v cette:o ville:n verte:a avec:o des:o lunettes:n vertes:a ,:o non:o avec:o de:o la:o magie:n .:o »:o"
+  },
+  {
+   "n": 255,
+   "en": "\"I am sorry I told you to kill the witch,\" said the old man.",
+   "tgt": "«:o Je:o suis:v désolé:a de:o vous:o avoir:v dit:v de:o tuer:v la:o sorcière:n ,:o »:o dit:v le:o vieil:a homme:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "\"I did not think you could do it.\"",
+   "tgt": "«:o Je:o ne:o pensais:v pas:o que:o vous:o pourriez:v le:o faire:v .:o »:o"
+  },
+  {
+   "n": 257,
+   "en": "\"You are not great, and you are not terrible,\" said the Scarecrow.",
+   "tgt": "«:o Vous:o n':o êtes:v pas:o grand:a ,:o et:o vous:o n':o êtes:v pas:o terrible:a ,:o »:o dit:v l':o Épouvantail:o .:o"
+  },
+  {
+   "n": 258,
+   "en": "\"You are only a man,\" said Dorothy.",
+   "tgt": "«:o Vous:o n':o êtes:v qu':o un:o homme:n ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 259,
+   "chapter": "Brains, a Heart, and Courage",
+   "en": "\"But you said you would give us what we wanted,\" said the Scarecrow.",
+   "tgt": "«:o Mais:o vous:o avez:v dit:v que:o vous:o nous:o donneriez:v ce:o que:o nous:o voulions:v ,:o »:o dit:v l':o Épouvantail:o .:o"
+  },
+  {
+   "n": 260,
+   "en": "\"I will give you brains,\" Oz said to the Scarecrow.",
+   "tgt": "«:o Je:o vous:o donnerai:v une:o cervelle:n ,:o »:o dit:v Oz:o à:o l':o Épouvantail:o .:o"
+  },
+  {
+   "n": 261,
+   "en": "Oz opened the Scarecrow's head.",
+   "tgt": "Oz:o ouvrit:v la:o tête:n de:o l':o Épouvantail:o .:o"
+  },
+  {
+   "n": 262,
+   "en": "He filled it with bran, pins, and needles.",
+   "tgt": "Il:o la:o remplit:v de:o son:n ,:o d':o épingles:n et:o d':o aiguilles:n .:o"
+  },
+  {
+   "n": 263,
+   "en": "\"Now you have sharp brains,\" said Oz.",
+   "tgt": "«:o Maintenant:a vous:o avez:v une:o cervelle:n aiguisée:a ,:o »:o dit:v Oz:o .:o"
+  },
+  {
+   "n": 264,
+   "en": "The Scarecrow was glad, and he said he felt wise.",
+   "tgt": "L':o Épouvantail:o était:v content:a ,:o et:o il:o dit:v qu':o il:o se:o sentait:v sage:a .:o"
+  },
+  {
+   "n": 265,
+   "en": "Oz turned to the Tin Woodman.",
+   "tgt": "Oz:o se:o tourna:v vers:o le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 266,
+   "en": "He cut a hole in the Tin Woodman's chest.",
+   "tgt": "Il:o fit:v une:o incision:n dans:o la:o poitrine:n du:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 267,
+   "en": "He put in a heart made of silk and filled with sawdust.",
+   "tgt": "Il:o y:o mit:v un:o cœur:n fait:a de:o soie:n et:o rempli:a de:o sciure:n .:o"
+  },
+  {
+   "n": 268,
+   "en": "\"You have a heart now,\" said Oz.",
+   "tgt": "«:o Vous:o avez:v maintenant:a un:o cœur:n ,:o »:o dit:v Oz:o .:o"
+  },
+  {
+   "n": 269,
+   "en": "The Tin Woodman was glad, and he said he could love again.",
+   "tgt": "Le:o Bûcheron:n de:o Fer-Blanc:n était:v content:a ,:o et:o il:o dit:v qu':o il:o pouvait:v aimer:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 270,
+   "en": "Oz turned to the Lion.",
+   "tgt": "Oz:o se:o tourna:v vers:o le:o Lion:n .:o"
+  },
+  {
+   "n": 271,
+   "en": "He gave the Lion a drink from a green bottle.",
+   "tgt": "Il:o donna:v au:o Lion:n une:o gorgée:n d':o une:o bouteille:n verte:a .:o"
+  },
+  {
+   "n": 272,
+   "en": "\"Drink this, and you will have courage,\" said Oz.",
+   "tgt": "«:o Buvez:v ceci:o ,:o et:o vous:o aurez:v du:o courage:n ,:o »:o dit:v Oz:o .:o"
+  },
+  {
+   "n": 273,
+   "en": "The Lion drank it all.",
+   "tgt": "Le:o Lion:n but:v tout:a .:o"
+  },
+  {
+   "n": 274,
+   "en": "\"I feel brave now!\" said the Lion.",
+   "tgt": "«:o Je:o me:o sens:v courageux:a maintenant:a !:o »:o dit:v le:o Lion:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "Dorothy looked at her three friends.",
+   "tgt": "Dorothy:o regarda:v ses:o trois:o amis:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "\"But what of my home?\" Dorothy asked Oz.",
+   "tgt": "«:o Mais:o qu':o en:o est-il:v de:o ma:o maison:n ?:o »:o demanda:v Dorothy:o à:o Oz:o .:o"
+  },
+  {
+   "n": 277,
+   "en": "Oz did not know how to answer her.",
+   "tgt": "Oz:o ne:o savait:v pas:o comment:o répondre:v à:o elle:o .:o"
+  },
+  {
+   "n": 278,
+   "en": "\"I will take you home,\" Oz said to Dorothy.",
+   "tgt": "«:o Je:o vous:o ramènerai:v chez:o vous:o »:o ,:o dit:v Oz:o à:o Dorothy:o .:o"
+  },
+  {
+   "n": 279,
+   "en": "\"I came to Oz in a balloon, and I can go the same way.\"",
+   "tgt": "«:o Je:o suis:v venu:v à:o Oz:o en:o ballon:n ,:o et:o je:o peux:v y:o aller:v de:o la:o même:a façon:n .:o »:o"
+  },
+  {
+   "n": 280,
+   "en": "Oz made a big balloon of silk.",
+   "tgt": "Oz:o fabriqua:v un:o grand:a ballon:n de:o soie:n .:o"
+  },
+  {
+   "n": 281,
+   "en": "He filled it with hot air from a fire.",
+   "tgt": "Il:o le:o remplit:v d':o air:n chaud:a provenant:v d':o un:o feu:n .:o"
+  },
+  {
+   "n": 282,
+   "en": "\"The Scarecrow will rule the Emerald City while I am gone,\" said Oz.",
+   "tgt": "«:o L':o Épouvantail:n gouvernera:v la:o Cité:n d':o Émeraude:o pendant:o mon:o absence:n »:o ,:o dit:v Oz:o .:o"
+  },
+  {
+   "n": 283,
+   "en": "The people of the city came to see Oz go.",
+   "tgt": "Les:o gens:n de:o la:o cité:n vinrent:v voir:v Oz:o partir:v .:o"
+  },
+  {
+   "n": 284,
+   "en": "Oz got into the basket under the balloon.",
+   "tgt": "Oz:o monta:v dans:o le:o panier:n sous:o le:o ballon:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "\"Come, Dorothy!\" Oz called. \"It is time to go home.\"",
+   "tgt": "«:o Viens:v ,:o Dorothy:o !:o »:o appela:v Oz:o .:o «:o Il:o est:v temps:n de:o rentrer:v chez:o soi:o .:o »:o"
+  },
+  {
+   "n": 286,
+   "en": "Dorothy ran to get into the basket with Toto.",
+   "tgt": "Dorothy:o courut:v pour:o monter:v dans:o le:o panier:n avec:o Toto:o .:o"
+  },
+  {
+   "n": 287,
+   "en": "But Toto saw a cat in the crowd and ran after it.",
+   "tgt": "Mais:o Toto:o vit:v un:o chat:n dans:o la:o foule:n et:o courut:v après:o lui:o .:o"
+  },
+  {
+   "n": 288,
+   "en": "Dorothy ran after Toto to get him.",
+   "tgt": "Dorothy:o courut:v après:o Toto:o pour:o l':o attraper:v .:o"
+  },
+  {
+   "n": 289,
+   "en": "While Dorothy was gone, the ropes came loose.",
+   "tgt": "Pendant:o que:o Dorothy:o était:v partie:v ,:o les:o cordes:n se:o dénouèrent:v .:o"
+  },
+  {
+   "n": 290,
+   "en": "The balloon rose into the sky without Dorothy.",
+   "tgt": "La:o montgolfière:n monta:v dans:o le:o ciel:n sans:o Dorothy:o .:o"
+  },
+  {
+   "n": 291,
+   "en": "\"Come back!\" Dorothy called. \"I cannot fly this balloon!\"",
+   "tgt": "«:o Revenez:v !:o »:o appela:v Dorothy:o .:o «:o Je:o ne:o peux:v pas:o piloter:v cette:o montgolfière:n !:o »:o"
+  },
+  {
+   "n": 292,
+   "en": "The balloon went up and up, and soon it was gone.",
+   "tgt": "La:o montgolfière:n monta:v de:o plus:o en:o plus:o haut:a ,:o et:o bientôt:a elle:o disparut:v .:o"
+  },
+  {
+   "n": 293,
+   "en": "Dorothy never saw Oz again.",
+   "tgt": "Dorothy:o ne:o revit:v jamais:o Oz:o .:o"
+  },
+  {
+   "n": 294,
+   "en": "\"Now I will never get home,\" said Dorothy.",
+   "tgt": "«:o Maintenant:a je:o ne:o rentrerai:v jamais:o chez:o moi:o ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 295,
+   "en": "The Scarecrow came to her.",
+   "tgt": "L':o Épouvantail:n vint:v la:o voir:v .:o"
+  },
+  {
+   "n": 296,
+   "chapter": "Seeking Glinda",
+   "en": "\"There is a way for you to get home,\" said the Tin Woodman.",
+   "tgt": "«:o Il:o y:o a:v un:o moyen:n pour:o toi:o de:o rentrer:v chez:o toi:o ,:o »:o dit:v le:o Bûcheron:n de:o Fer-Blanc:n .:o"
+  },
+  {
+   "n": 297,
+   "en": "\"A good witch called Glinda rules in the South.\"",
+   "tgt": "«:o Une:o bonne:a sorcière:n nommée:v Glinda:o règne:v dans:o le:o Sud:n .:o »:o"
+  },
+  {
+   "n": 298,
+   "en": "\"She may know how to help you.\"",
+   "tgt": "«:o Elle:o sait:v peut-être:a comment:o t':o aider:v .:o »:o"
+  },
+  {
+   "n": 299,
+   "en": "Dorothy, Toto, the Scarecrow, the Tin Woodman, and the Lion went to find Glinda.",
+   "tgt": "Dorothy:o ,:o Toto:o ,:o l':o Épouvantail:n ,:o le:o Bûcheron:n de:o Fer-Blanc:n ,:o et:o le:o Lion:n allèrent:v trouver:v Glinda:o .:o"
+  },
+  {
+   "n": 300,
+   "en": "They went through a forest full of tall trees.",
+   "tgt": "Ils:o traversèrent:v une:o forêt:n pleine:a de:o grands:a arbres:n .:o"
+  },
+  {
+   "n": 301,
+   "en": "In the forest, many beasts came to the Lion for help.",
+   "tgt": "Dans:o la:o forêt:n ,:o beaucoup:a de:o bêtes:n vinrent:v vers:o le:o Lion:n pour:o demander:v de:o l':o aide:n .:o"
+  },
+  {
+   "n": 302,
+   "en": "\"A big spider comes to our forest and eats us,\" said a beast.",
+   "tgt": "«:o Une:o grande:a araignée:n vient:v dans:o notre:o forêt:n et:o nous:o mange:v ,:o »:o dit:v une:o bête:n .:o"
+  },
+  {
+   "n": 303,
+   "en": "\"It has long legs and a mouth full of teeth.\"",
+   "tgt": "«:o Elle:o a:v de:o longues:a pattes:n et:o une:o bouche:n pleine:a de:o dents:n .:o »:o"
+  },
+  {
+   "n": 304,
+   "en": "\"I will fight the spider for you,\" said the Lion.",
+   "tgt": "«:o Je:o vais:v combattre:v l':o araignée:n pour:o vous:o ,:o »:o dit:v le:o Lion:n .:o"
+  },
+  {
+   "n": 305,
+   "en": "The Lion found the spider asleep under a tree.",
+   "tgt": "Le:o Lion:n trouva:v l':o araignée:n endormie:a sous:o un:o arbre:n .:o"
+  },
+  {
+   "n": 306,
+   "en": "He jumped on the spider and killed it.",
+   "tgt": "Il:o sauta:v sur:o l':o araignée:n et:o la:o tua:v .:o"
+  },
+  {
+   "n": 307,
+   "en": "The beasts of the forest thanked the Lion.",
+   "tgt": "Les:o bêtes:n de:o la:o forêt:n remercièrent:v le:o Lion:n .:o"
+  },
+  {
+   "n": 308,
+   "en": "\"You are our king now,\" said the beasts.",
+   "tgt": "«:o Vous:o êtes:v notre:o roi:n maintenant:a ,:o »:o dirent:v les:o bêtes:n .:o"
+  },
+  {
+   "n": 309,
+   "en": "\"I will be your king, but I must help Dorothy first, and I will come back,\" said the Lion.",
+   "tgt": "«:o Je:o serai:v votre:o roi:n ,:o mais:o je:o dois:v aider:v Dorothy:o d':o abord:a ,:o et:o je:o reviendrai:v ,:o »:o dit:v le:o Lion:n .:o"
+  },
+  {
+   "n": 310,
+   "en": "Soon they came to a high hill, and they could not climb it.",
+   "tgt": "Bientôt:a ils:o arrivèrent:v à:o une:o haute:a colline:n ,:o et:o ils:o ne:o pouvaient:v pas:o la:o gravir:v .:o"
+  },
+  {
+   "n": 311,
+   "en": "\"We cannot go on,\" said Dorothy. \"What will we do now?\"",
+   "tgt": "«:o Nous:o ne:o pouvons:v pas:o continuer:v ,:o »:o dit:v Dorothy:o .:o «:o Que:o ferons:v -nous:o maintenant:a ?:o »:o"
+  },
+  {
+   "n": 312,
+   "en": "\"I have the witch's gold cap,\" said Dorothy. \"It can call the Winged Monkeys.\"",
+   "tgt": "«:o J':o ai:v le:o bonnet:n d':o or:n de:o la:o sorcière:n ,:o »:o dit:v Dorothy:o .:o «:o Il:o peut:v appeler:v les:o Singes:n Ailés:a .:o »:o"
+  },
+  {
+   "n": 313,
+   "en": "Dorothy put on the gold cap and said the magic words.",
+   "tgt": "Dorothy:o mit:v le:o bonnet:n d':o or:n et:o dit:v les:o mots:n magiques:a .:o"
+  },
+  {
+   "n": 314,
+   "en": "The Winged Monkeys came down from the sky.",
+   "tgt": "Les:o Singes:n Ailés:a descendirent:v du:o ciel:n .:o"
+  },
+  {
+   "n": 315,
+   "en": "\"What do you want of us?\" asked the king of the monkeys.",
+   "tgt": "«:o Que:o voulez:v -vous:o de:o nous:o ?:o »:o demanda:v le:o roi:n des:o singes:n .:o"
+  },
+  {
+   "n": 316,
+   "en": "\"We cannot climb this hill,\" said Dorothy. \"Can you fly us over it?\"",
+   "tgt": "«:o Nous:o ne:o pouvons:v pas:o gravir:v cette:o colline:n ,:o »:o dit:v Dorothy:o .:o «:o Pouvez:v -vous:o nous:o faire:v voler:v par-dessus:o ?:o »:o"
+  },
+  {
+   "n": 317,
+   "en": "\"We must do what the cap tells us,\" said the king of the monkeys.",
+   "tgt": "«:o Nous:o devons:v faire:v ce:o que:o le:o bonnet:n nous:o ordonne:v ,:o »:o dit:v le:o roi:n des:o singes:n .:o"
+  },
+  {
+   "n": 318,
+   "en": "The monkeys took Dorothy, Toto, and her three friends.",
+   "tgt": "Les:o singes:n prirent:v Dorothy:o ,:o Toto:o ,:o et:o ses:o trois:o amis:n .:o"
+  },
+  {
+   "n": 319,
+   "en": "They flew over the high hill.",
+   "tgt": "Ils:o volèrent:v par-dessus:o la:o haute:a colline:n .:o"
+  },
+  {
+   "n": 320,
+   "en": "The monkeys flew on and on to the South.",
+   "tgt": "Les:o singes:n volèrent:v encore:a et:o encore:a vers:o le:o Sud:n .:o"
+  },
+  {
+   "n": 321,
+   "en": "Soon the monkeys came down near a pink castle.",
+   "tgt": "Bientôt:a les:o singes:n descendirent:v près:o d':o un:o château:n rose:a .:o"
+  },
+  {
+   "n": 322,
+   "en": "\"This is the castle of Glinda the Good,\" said the king of the monkeys.",
+   "tgt": "«:o C':o est:v le:o château:n de:o Glinda:o la:o Bonne:n ,:o »:o dit:v le:o roi:n des:o singes:n .:o"
+  },
+  {
+   "n": 323,
+   "en": "\"This cap has made us obey a master for a long time,\" said the king.",
+   "tgt": "«:o Ce:o chapeau:n nous:o a:v fait:v obéir:v à:o un:o maître:n pendant:o longtemps:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 324,
+   "en": "\"I do not want to be your master,\" said Dorothy.",
+   "tgt": "«:o Je:o ne:o veux:v pas:o être:v votre:o maître:n ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 325,
+   "en": "\"Here is the cap. You are free.\"",
+   "tgt": "«:o Voici:v le:o chapeau:n .:o Vous:o êtes:v libres:a .:o »:o"
+  },
+  {
+   "n": 326,
+   "en": "The king of the monkeys was glad, and he took the cap.",
+   "tgt": "Le:o roi:n des:o singes:n était:v content:a ,:o et:o il:o prit:v le:o chapeau:n .:o"
+  },
+  {
+   "n": 327,
+   "en": "The Winged Monkeys flew away into the sky.",
+   "tgt": "Les:o Singes:n Ailés:a s':o envolèrent:v dans:o le:o ciel:n .:o"
+  },
+  {
+   "n": 328,
+   "en": "Dorothy and her friends walked to the castle gate.",
+   "tgt": "Dorothy:o et:o ses:o amis:n marchèrent:v jusqu':o à:o la:o porte:n du:o château:n .:o"
+  },
+  {
+   "n": 329,
+   "en": "Glinda the Good came to them.",
+   "tgt": "Glinda:o la:o Bonne:n vint:v vers:o eux:o .:o"
+  },
+  {
+   "n": 330,
+   "en": "Dorothy told Glinda of the cyclone and her friends.",
+   "tgt": "Dorothy:o raconta:v à:o Glinda:o l':o histoire:n du:o cyclone:n et:o de:o ses:o amis:n .:o"
+  },
+  {
+   "n": 331,
+   "en": "\"Your silver shoes can take you anywhere in three steps,\" said Glinda.",
+   "tgt": "«:o Vos:o souliers:n d':o argent:n peuvent:v vous:o emmener:v partout:a en:o trois:o pas:n ,:o »:o dit:v Glinda:o .:o"
+  },
+  {
+   "n": 332,
+   "en": "\"You could have gone home since you came to Oz!\"",
+   "tgt": "«:o Vous:o auriez:v pu:v rentrer:v chez:o vous:o depuis:o votre:o arrivée:n à:o Oz:o !:o »:o"
+  },
+  {
+   "n": 333,
+   "en": "\"The Scarecrow will rule the Emerald City, and the Tin Woodman will rule the people of the West,\" said Glinda.",
+   "tgt": "«:o L':o Épouvantail:n gouvernera:v la:o Cité:n d':o Émeraude:n ,:o et:o le:o Bûcheron:n de:o Fer-Blanc:n gouvernera:v les:o gens:n de:o l':o Ouest:n ,:o »:o dit:v Glinda:o .:o"
+  },
+  {
+   "n": 334,
+   "en": "\"The Lion will rule the beasts.\"",
+   "tgt": "«:o Le:o Lion:n gouvernera:v les:o bêtes:n .:o »:o"
+  },
+  {
+   "n": 335,
+   "en": "The three friends were glad to have a home, and Dorothy left them.",
+   "tgt": "Les:o trois:o amis:n étaient:v contents:a d':o avoir:v un:o foyer:n ,:o et:o Dorothy:o les:o quitta:v .:o"
+  },
+  {
+   "n": 336,
+   "en": "\"I must go home now,\" said Dorothy.",
+   "tgt": "«:o Je:o dois:v rentrer:v chez:o moi:o maintenant:a ,:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 337,
+   "en": "Dorothy took Toto and tapped her silver shoes three times.",
+   "tgt": "Dorothy:o prit:v Toto:o et:o frappa:v ses:o souliers:n d':o argent:n trois:o fois:n .:o"
+  },
+  {
+   "n": 338,
+   "en": "\"Take me home to Aunt Em!\" said Dorothy.",
+   "tgt": "«:o Emmène-moi:v chez:o Tante:n Em:o !:o »:o dit:v Dorothy:o .:o"
+  },
+  {
+   "n": 339,
+   "en": "The wind rose and carried Dorothy through the air.",
+   "tgt": "Le:o vent:n se:o leva:v et:o porta:v Dorothy:o à:o travers:o les:o airs:n .:o"
+  },
+  {
+   "n": 340,
+   "en": "She came down on the Kansas prairie.",
+   "tgt": "Elle:o atterrit:v sur:o la:o prairie:n du:o Kansas:o .:o"
+  },
+  {
+   "n": 341,
+   "en": "Dorothy looked for her silver shoes, but they were gone.",
+   "tgt": "Dorothy:o chercha:v ses:o chaussures:n en:o argent:n ,:o mais:o elles:o avaient:v disparu:v .:o"
+  },
+  {
+   "n": 342,
+   "en": "Dorothy saw a farmhouse, ran to it, and called for Aunt Em.",
+   "tgt": "Dorothy:o aperçut:v une:o ferme:n ,:o courut:v vers:o elle:o et:o appela:v Tante:o Em:o .:o"
+  },
+  {
+   "n": 343,
+   "en": "Aunt Em ran to Dorothy and held her.",
+   "tgt": "Tante:o Em:o courut:v vers:o Dorothy:o et:o la:o serra:v dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 344,
+   "en": "\"I am home now, and I am glad,\" said Dorothy.",
+   "tgt": "«:o Je:o suis:v chez:o moi:o maintenant:a ,:o et:o je:o suis:v contente:a ,:o »:o dit:v -elle:o .:o"
+  }
+ ]
+}

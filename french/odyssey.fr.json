@@ -1,0 +1,1456 @@
+{
+ "slug": "odyssey",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Ithaca Waits",
+   "en": "The long war at Troy was over.",
+   "tgt": "La:o longue:a guerre:n à:o Troie:o était:v finie:a .:o"
+  },
+  {
+   "n": 2,
+   "en": "The kings of Greece sailed home over the sea.",
+   "tgt": "Les:o rois:n de:o Grèce:o rentrèrent:v chez:o eux:o par:o la:o mer:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "But one king did not come home.",
+   "tgt": "Mais:o un:o roi:n ne:o rentra:v pas:o chez:o lui:o .:o"
+  },
+  {
+   "n": 4,
+   "en": "His name was Odysseus, and his home was Ithaca.",
+   "tgt": "Il:o s':o appelait:v Odysseus:o ,:o et:o sa:o maison:n était:v Ithaca:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "In Ithaca his wife Penelope waited for him.",
+   "tgt": "À:o Ithaca:o ,:o sa:o femme:n Penelope:o l':o attendait:v .:o"
+  },
+  {
+   "n": 6,
+   "en": "Penelope: My king has been gone for many years.",
+   "tgt": "«:o Penelope:o ::o Mon:o roi:n est:v parti:a depuis:o de:o nombreuses:a années:n .:o »:o"
+  },
+  {
+   "n": 7,
+   "en": "Telemachus: Now I am a man, but my father is gone.",
+   "tgt": "«:o Télémaque:o ::o Je:o suis:v maintenant:a un:o homme:n ,:o mais:o mon:o père:n est:v parti:a .:o »:o"
+  },
+  {
+   "n": 8,
+   "en": "Bad men came to the hall of Odysseus.",
+   "tgt": "De:o mauvais:a hommes:n vinrent:v dans:o la:o salle:n d':o Odysseus:o .:o"
+  },
+  {
+   "n": 9,
+   "en": "Suitor: Odysseus is dead, Penelope.",
+   "tgt": "«:o Prétendant:o ::o Odysseus:o est:v mort:a ,:o Penelope:o .:o »:o"
+  },
+  {
+   "n": 10,
+   "en": "Suitor: Take one of us for your king today.",
+   "tgt": "«:o Prétendant:o ::o Prends:v l':o un:o de:o nous:o pour:o ton:o roi:n aujourd'hui:a .:o »:o"
+  },
+  {
+   "n": 11,
+   "en": "Penelope: I will not, while my king may live.",
+   "tgt": "«:o Penelope:o ::o Je:o ne:o le:o ferai:v pas:o ,:o tant:o que:o mon:o roi:n peut:v vivre:v .:o »:o"
+  },
+  {
+   "n": 12,
+   "en": "Suitor: Then we will eat your food and drink your wine.",
+   "tgt": "«:o Prétendant:o ::o Alors:o nous:o mangerons:v ta:o nourriture:n et:o boirons:v ton:o vin:n .:o »:o"
+  },
+  {
+   "n": 13,
+   "en": "The bad men ate the food and drank the wine every day.",
+   "tgt": "Les:o mauvais:a hommes:n mangeaient:v la:o nourriture:n et:o buvaient:v le:o vin:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Telemachus: I will sail out and look for the king.",
+   "tgt": "Télémaque:o ::o Je:o vais:v naviguer:v et:o chercher:v le:o roi:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Athena, a goddess, came down to Telemachus.",
+   "tgt": "Athena:o ,:o une:o déesse:n ,:o descendit:v vers:o Télémaque:o .:o"
+  },
+  {
+   "n": 16,
+   "en": "Athena: Be brave, for your father is not dead.",
+   "tgt": "Athena:o ::o Sois:v courageux:a ,:o car:o ton:o père:n n':o est:v pas:o mort:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "Athena: Odysseus wants to come home over the sea.",
+   "tgt": "Athena:o ::o Odysseus:o veut:v rentrer:v chez:o lui:o par:o la:o mer:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Odysseus had left Troy with his men.",
+   "tgt": "Odysseus:o avait:v quitté:v Troie:o avec:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "Twelve ships sailed with him over the sea.",
+   "tgt": "Douze:o navires:n naviguèrent:v avec:o lui:o sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "A storm blew the ships to a far land.",
+   "tgt": "Une:o tempête:n poussa:v les:o navires:n vers:o une:o terre:n lointaine:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "Odysseus: Go and see what men live here.",
+   "tgt": "Odysseus:o ::o Allez:v voir:v quels:o hommes:n vivent:v ici:a .:o"
+  },
+  {
+   "n": 22,
+   "en": "Three men walked in and met a kind people.",
+   "tgt": "Trois:o hommes:n entrèrent:v et:o rencontrèrent:v un:o peuple:n aimable:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "These people ate only the fruit of the lotus.",
+   "tgt": "Ces:o gens:n mangeaient:v seulement:a le:o fruit:n du:o lotus:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "Lotus Man: Eat this sweet fruit and stay with us.",
+   "tgt": "Lotus:o Man:o ::o «:o Mange:v ce:o fruit:n doux:a et:o reste:v avec:o nous:o .:o »:o"
+  },
+  {
+   "n": 25,
+   "en": "The three men ate the lotus and forgot their home.",
+   "tgt": "Les:o trois:o hommes:n mangèrent:v le:o lotus:n et:o oublièrent:v leur:o maison:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "Odysseus: Why do my men not come back?",
+   "tgt": "Odysseus:o ::o «:o Pourquoi:o mes:o hommes:n ne:o reviennent:v -ils:o pas:o ?:o »:o"
+  },
+  {
+   "n": 27,
+   "en": "Odysseus walked in and found them with the lotus.",
+   "tgt": "Odysseus:o entra:v et:o les:o trouva:v avec:o le:o lotus:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "Lost Man: I will not go from here.",
+   "tgt": "Homme:n perdu:a ::o «:o Je:o ne:o partirai:v pas:o d':o ici:o .:o »:o"
+  },
+  {
+   "n": 29,
+   "en": "Odysseus: This sweet fruit made you forget your home.",
+   "tgt": "Odysseus:o ::o «:o Ce:o fruit:n doux:a vous:o a:v fait:v oublier:v votre:o maison:n .:o »:o"
+  },
+  {
+   "n": 30,
+   "en": "Odysseus: You forget your wife over the sea.",
+   "tgt": "Odysseus:o ::o «:o Tu:o oublies:v ta:o femme:n au-delà:o de:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 31,
+   "en": "Odysseus pulled the three men back to the ship.",
+   "tgt": "Odysseus:o ramena:v les:o trois:o hommes:n au:o navire:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "Odysseus: Row hard, men, and leave this land.",
+   "tgt": "Odysseus:o ::o «:o Ramez:v fort:a ,:o hommes:n ,:o et:o quittez:v cette:o terre:n .:o »:o"
+  },
+  {
+   "n": 33,
+   "en": "The ships sailed on over the sea.",
+   "tgt": "Les:o navires:n voguèrent:v sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "Next the ships came to an island.",
+   "tgt": "Ensuite:a les:o navires:n arrivèrent:v à:o une:o île:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "Odysseus: A great cave is up on the land.",
+   "tgt": "Odysseus:o ::o «:o Une:o grande:a grotte:n se:o trouve:v sur:o la:o terre:n .:o »:o"
+  },
+  {
+   "n": 36,
+   "en": "Odysseus: Take some men and some wine.",
+   "tgt": "Odysseus:o ::o «:o Prenez:v quelques:o hommes:n et:o du:o vin:n .:o »:o"
+  },
+  {
+   "n": 37,
+   "en": "Odysseus went up to the cave with his men.",
+   "tgt": "Odysseus:o monta:v à:o la:o grotte:n avec:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "In the cave they found food to eat.",
+   "tgt": "Dans:o la:o grotte:n ils:o trouvèrent:v de:o la:o nourriture:n à:o manger:v .:o"
+  },
+  {
+   "n": 39,
+   "en": "Man: Take this food and go to the ship.",
+   "tgt": "Homme:n ::o «:o Prenez:v cette:o nourriture:n et:o allez:v au:o navire:n .:o »:o"
+  },
+  {
+   "n": 40,
+   "en": "Odysseus: No, I want to see the one who lives here.",
+   "tgt": "Odysseus:o ::o «:o Non:o ,:o je:o veux:v voir:v celui:o qui:o vit:v ici:a .:o »:o"
+  },
+  {
+   "n": 41,
+   "en": "The cave was the home of a giant.",
+   "tgt": "La:o grotte:n était:v le:o foyer:n d':o un:o géant:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Men called the giant a Cyclops.",
+   "tgt": "Les:o hommes:n appelaient:v le:o géant:n un:o Cyclope:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "The Cyclops had one eye and ate men.",
+   "tgt": "Le:o Cyclope:o avait:v un:o œil:n et:o mangeait:v des:o hommes:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "He came home with his sheep.",
+   "tgt": "Il:o rentra:v chez:o lui:o avec:o ses:o moutons:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "He put a great stone over the cave.",
+   "tgt": "Il:o plaça:v une:o grande:a pierre:n sur:o la:o grotte:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "Cyclops: Who are you, and why are you here?",
+   "tgt": "Cyclope:o ::o Qui:o êtes:v -vous:o ,:o et:o pourquoi:o êtes:v -vous:o ici:a ?:o"
+  },
+  {
+   "n": 47,
+   "en": "Odysseus: We are men of Greece, on our way home.",
+   "tgt": "Odysseus:o ::o Nous:o sommes:v des:o hommes:n de:o Grèce:o ,:o en:o chemin:n vers:o notre:o maison:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "Odysseus: Be kind to us, as the gods say.",
+   "tgt": "Odysseus:o ::o Soyez:v bons:a envers:o nous:o ,:o comme:o les:o dieux:n le:o disent:v .:o"
+  },
+  {
+   "n": 49,
+   "en": "Cyclops: I want nothing from you and your gods.",
+   "tgt": "Cyclope:o ::o Je:o ne:o veux:v rien:o de:o vous:o et:o de:o vos:o dieux:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "The Cyclops took two men and ate them.",
+   "tgt": "Le:o Cyclope:o prit:v deux:o hommes:n et:o les:o mangea:v .:o"
+  },
+  {
+   "n": 51,
+   "en": "Cyclops: Sleep now, and I will eat more men.",
+   "tgt": "Cyclope:o ::o Dormez:v maintenant:a ,:o et:o je:o mangerai:v d':o autres:a hommes:n .:o"
+  },
+  {
+   "n": 52,
+   "chapter": "The Name Nobody",
+   "en": "The Cyclops ate two more of the men.",
+   "tgt": "Le:o Cyclope:o mangea:v deux:o autres:a des:o hommes:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "He took his sheep out of the cave.",
+   "tgt": "Il:o fit:v sortir:v ses:o moutons:n de:o la:o grotte:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "Odysseus: We cannot move that great stone.",
+   "tgt": "Odysseus:o ::o Nous:o ne:o pouvons:v pas:o déplacer:v cette:o grande:a pierre:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "Odysseus: But I will hurt this giant and get away.",
+   "tgt": "Odysseus:o ::o Mais:o je:o vais:v blesser:v ce:o géant:n et:o m':o échapper:v .:o"
+  },
+  {
+   "n": 56,
+   "en": "Odysseus and his men made a great pole with a sharp end.",
+   "tgt": "Odysseus:o et:o ses:o hommes:n fabriquèrent:v un:o grand:a pieu:n avec:o une:o extrémité:n pointue:a .:o"
+  },
+  {
+   "n": 57,
+   "en": "At night the Cyclops came to the cave.",
+   "tgt": "La:o nuit:n le:o Cyclope:n vint:v à:o la:o grotte:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "Odysseus: But I will give him wine to drink.",
+   "tgt": "Odysseus:o ::o Mais:o je:o vais:v lui:o donner:v du:o vin:n à:o boire:v .:o"
+  },
+  {
+   "n": 59,
+   "en": "Odysseus: Here, take this wine and drink.",
+   "tgt": "Odysseus:o ::o Tiens:v ,:o prends:v ce:o vin:n et:o bois:v .:o"
+  },
+  {
+   "n": 60,
+   "en": "Cyclops: Give me more of this wine.",
+   "tgt": "Cyclope:o ::o Donne:v -moi:o encore:a de:o ce:o vin:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "Odysseus: Here is more wine, great Cyclops.",
+   "tgt": "Odysseus:o ::o Voici:o encore:a du:o vin:n ,:o grand:a Cyclope:o .:o"
+  },
+  {
+   "n": 62,
+   "en": "Cyclops: Tell me your name, man.",
+   "tgt": "Cyclope:o ::o Dis:v -moi:o ton:o nom:n ,:o homme:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "Odysseus: My name is Nobody.",
+   "tgt": "Odysseus:o ::o Mon:o nom:n est:v Personne:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "Cyclops: Then Nobody is the last man I will eat.",
+   "tgt": "Cyclope:o ::o Alors:o Personne:o est:v le:o dernier:a homme:n que:o je:o vais:v manger:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "The giant drank more wine and fell to sleep.",
+   "tgt": "Le:o géant:n but:v plus:a de:o vin:n et:o tomba:v en:o sommeil:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Odysseus and his men made the pole hot in the cave.",
+   "tgt": "Odysseus:o et:o ses:o hommes:n chauffèrent:v le:o pieu:n dans:o la:o grotte:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "They put the sharp end into his one eye.",
+   "tgt": "Ils:o mirent:v l':o extrémité:n pointue:a dans:o son:o unique:a œil:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The Cyclops woke and called out.",
+   "tgt": "Le:o Cyclope:o se:o réveilla:v et:o cria:v .:o"
+  },
+  {
+   "n": 69,
+   "en": "Cyclops: Nobody has put out my eye!",
+   "tgt": "Cyclope:o ::o «:o Personne:o n':o a:v mis:v mon:o œil:n hors:o de:o combat:n !:o »:o"
+  },
+  {
+   "n": 70,
+   "en": "Giant: If nobody hurt you, why call us here?",
+   "tgt": "Géant:o ::o «:o Si:o personne:o ne:o t':o a:v blessé:a ,:o pourquoi:o nous:o appeler:v ici:a ?:o »:o"
+  },
+  {
+   "n": 71,
+   "en": "The other giants went away and gave no help.",
+   "tgt": "Les:o autres:a géants:n partirent:v et:o n':o apportèrent:v aucune:o aide:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The Cyclops could not see, and sat in the cave door.",
+   "tgt": "Le:o Cyclope:o ne:o pouvait:v pas:o voir:v ,:o et:o s':o assit:v à:o l':o entrée:n de:o la:o grotte:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Cyclops: No man will get out now.",
+   "tgt": "Cyclope:o ::o «:o Aucun:o homme:n ne:o sortira:v maintenant:a .:o »:o"
+  },
+  {
+   "n": 74,
+   "en": "Odysseus looked at the sheep in the cave.",
+   "tgt": "Odysseus:o regarda:v les:o moutons:n dans:o la:o grotte:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Odysseus: We will go out under the sheep.",
+   "tgt": "Odysseus:o ::o «:o Nous:o sortirons:v sous:o les:o moutons:n .:o »:o"
+  },
+  {
+   "n": 76,
+   "en": "He tied his men under the sheep.",
+   "tgt": "Il:o attacha:v ses:o hommes:n sous:o les:o moutons:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "At day the sheep walked out to eat.",
+   "tgt": "Le:o jour:n les:o moutons:n sortirent:v pour:o manger:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "The Cyclops put his hand on each sheep, not the men.",
+   "tgt": "Le:o Cyclope:o posa:v sa:o main:n sur:o chaque:o mouton:n ,:o pas:o sur:o les:o hommes:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "One by one the men came out.",
+   "tgt": "Un:o par:o un:o les:o hommes:n sortirent:v .:o"
+  },
+  {
+   "n": 80,
+   "en": "Odysseus: Run to the ship with the sheep.",
+   "tgt": "Odysseus:o ,:o courez:v au:o navire:n avec:o les:o moutons:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "They rowed out to sea with the sheep.",
+   "tgt": "Ils:o ramèrent:v vers:o la:o mer:n avec:o les:o moutons:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Odysseus: You ate my men, Cyclops!",
+   "tgt": "Odysseus:o ,:o tu:o as:v mangé:v mes:o hommes:n ,:o Cyclope:o !:o"
+  },
+  {
+   "n": 83,
+   "en": "The giant threw a great rock at the sea.",
+   "tgt": "Le:o géant:n lança:v un:o grand:a rocher:n vers:o la:o mer:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "Cyclops: Tell me the name of the man who did this.",
+   "tgt": "Cyclope:o ,:o dis:v -moi:o le:o nom:n de:o l':o homme:n qui:o fit:v cela:o .:o"
+  },
+  {
+   "n": 85,
+   "en": "Odysseus: Odysseus of Ithaca put out your eye.",
+   "tgt": "Odysseus:o ,:o Odysseus:o d':o Ithaca:o t':o a:v crevé:v l':o œil:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "Cyclops: Poseidon, keep this man from his home.",
+   "tgt": "Poseidon:o ,:o empêche:v cet:o homme:n de:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "Poseidon, the god of the sea, heard him.",
+   "tgt": "Poseidon:o ,:o le:o dieu:n de:o la:o mer:n ,:o l':o entendit:v .:o"
+  },
+  {
+   "n": 88,
+   "en": "From that day the sea god kept Odysseus from home.",
+   "tgt": "À:o partir:v de:o ce:o jour:n ,:o le:o dieu:n de:o la:o mer:n empêcha:v Odysseus:o de:o rentrer:v chez:o lui:o .:o"
+  },
+  {
+   "n": 89,
+   "en": "The ships came to the island of Aeolus.",
+   "tgt": "Les:o navires:n arrivèrent:v à:o l':o île:n d':o Éole:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "Aeolus was the god of the winds.",
+   "tgt": "Éole:o était:v le:o dieu:n des:o vents:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "Aeolus: I will help you get home, king.",
+   "tgt": "Éole:o ::o «:o Je:o vais:v vous:o aider:v à:o rentrer:v chez:o vous:o ,:o roi:n .:o »:o"
+  },
+  {
+   "n": 92,
+   "en": "He put all the winds into a great bag.",
+   "tgt": "Il:o mit:v tous:o les:o vents:n dans:o un:o grand:a sac:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "Aeolus: Do not open this bag, and one wind will take you home.",
+   "tgt": "Éole:o ::o «:o N':o ouvrez:v pas:o ce:o sac:n ,:o et:o un:o vent:n vous:o ramènera:v chez:o vous:o .:o »:o"
+  },
+  {
+   "n": 94,
+   "en": "For nine days the ship went home over the sea.",
+   "tgt": "Pendant:o neuf:o jours:n le:o navire:n rentra:v chez:o lui:o sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Odysseus held the bag and did not sleep.",
+   "tgt": "Odysseus:o tenait:v le:o sac:n et:o ne:o dormit:v pas:o .:o"
+  },
+  {
+   "n": 96,
+   "en": "On the last day they came near home.",
+   "tgt": "Le:o dernier:a jour:n ils:o arrivèrent:v près:o de:o chez:o eux:o .:o"
+  },
+  {
+   "n": 97,
+   "en": "Then Odysseus fell to sleep.",
+   "tgt": "Alors:o Odysseus:o s':o endormit:v .:o"
+  },
+  {
+   "n": 98,
+   "en": "Man: What is in that great bag?",
+   "tgt": "L':o homme:n ::o «:o Qu':o est:v -ce:o qu':o il:o y:o a:v dans:o ce:o grand:a sac:n ?:o »:o"
+  },
+  {
+   "n": 99,
+   "en": "Man: There is gold from Troy in it.",
+   "tgt": "L':o homme:n ::o «:o Il:o y:o a:v de:o l':o or:n de:o Troie:o là-dedans:o .:o »:o"
+  },
+  {
+   "n": 100,
+   "en": "Man: Let us open it and take the gold.",
+   "tgt": "L':o homme:n ::o «:o Ouvrons:v -la:o et:o prenons:v l':o or:n .:o »:o"
+  },
+  {
+   "n": 101,
+   "en": "The men opened the great bag.",
+   "tgt": "Les:o hommes:n ouvrirent:v le:o grand:a sac:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "All the winds came out.",
+   "tgt": "Tous:o les:o vents:n sortirent:v .:o"
+  },
+  {
+   "n": 103,
+   "en": "A wind blew the ship away from home.",
+   "tgt": "Un:o vent:n poussa:v le:o navire:n loin:a de:o chez:o eux:o .:o"
+  },
+  {
+   "n": 104,
+   "en": "Odysseus woke and saw home go away.",
+   "tgt": "Odysseus:o se:o réveilla:v et:o vit:v sa:o maison:n s':o éloigner:v .:o"
+  },
+  {
+   "n": 105,
+   "en": "Odysseus: My own men have done this to us.",
+   "tgt": "Odysseus:o ::o «:o Mes:o propres:a hommes:n nous:o ont:v fait:v cela:o .:o »:o"
+  },
+  {
+   "n": 106,
+   "en": "The wind blew them back to Aeolus.",
+   "tgt": "Le:o vent:n les:o ramena:v vers:o Éole:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "Aeolus: The gods are not with you, so go.",
+   "tgt": "Éole:o ::o «:o Les:o dieux:n ne:o sont:v pas:o avec:o vous:o ,:o alors:o partez:v .:o »:o"
+  },
+  {
+   "n": 108,
+   "chapter": "The Witch Circe",
+   "en": "Next the ships came to the island of Circe.",
+   "tgt": "Ensuite:a les:o navires:n arrivèrent:v à:o l':o île:n de:o Circe:o .:o"
+  },
+  {
+   "n": 109,
+   "en": "Circe had magic and lived in a house of stone.",
+   "tgt": "Circe:o avait:v de:o la:o magie:n et:o vivait:v dans:o une:o maison:n de:o pierre:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "Odysseus: Go and see this land.",
+   "tgt": "Odysseus:o ::o «:o Allez:v voir:v cette:o terre:n .:o »:o"
+  },
+  {
+   "n": 111,
+   "en": "His men came to the house of Circe.",
+   "tgt": "Ses:o hommes:n vinrent:v à:o la:o maison:n de:o Circe:o .:o"
+  },
+  {
+   "n": 112,
+   "en": "Circe: Come in, men, and eat with me.",
+   "tgt": "Circe:o ::o «:o Entrez:v ,:o hommes:n ,:o et:o mangez:v avec:o moi:o .:o »:o"
+  },
+  {
+   "n": 113,
+   "en": "She gave them food with magic in it.",
+   "tgt": "Elle:o leur:o donna:v de:o la:o nourriture:n avec:o de:o la:o magie:n dedans:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "Circe put out her hand, and the men became pigs.",
+   "tgt": "Circe:o tendit:v la:o main:n ,:o et:o les:o hommes:n devinrent:v des:o cochons:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "Circe: Now you are pigs, and here you will stay.",
+   "tgt": "Circe:o ::o «:o Maintenant:a vous:o êtes:v des:o cochons:n ,:o et:o ici:a vous:o resterez:v .:o »:o"
+  },
+  {
+   "n": 116,
+   "en": "One man ran back to tell Odysseus.",
+   "tgt": "Un:o homme:n courut:v en-arrière:a pour:o dire:v à:o Odysseus:o ce:o qui:o s':o était:v passé:v .:o"
+  },
+  {
+   "n": 117,
+   "en": "Man: Circe has made our men into pigs.",
+   "tgt": "Homme:o ::o «:o Circe:o a:v transformé:v nos:o hommes:n en:o cochons:n .:o »:o"
+  },
+  {
+   "n": 118,
+   "en": "Odysseus: I will go and get my men back.",
+   "tgt": "Odysseus:o ::o «:o Je:o vais:v aller:v chercher:v mes:o hommes:n .:o »:o"
+  },
+  {
+   "n": 119,
+   "en": "The god Hermes came down to him.",
+   "tgt": "Le:o dieu:n Hermes:o descendit:v vers:o lui:o .:o"
+  },
+  {
+   "n": 120,
+   "en": "Hermes: Eat this plant, and her magic cannot hurt you.",
+   "tgt": "Hermes:o ::o «:o Mange:v cette:o plante:n ,:o et:o sa:o magie:n ne:o peut:v pas:o te:o blesser:v .:o »:o"
+  },
+  {
+   "n": 121,
+   "en": "Odysseus ate the plant and came to the house.",
+   "tgt": "Odysseus:o mangea:v la:o plante:n et:o vint:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "Circe put out her hand, but he did not become a pig.",
+   "tgt": "Circe:o tendit:v la:o main:n ,:o mais:o il:o ne:o devint:v pas:o cochon:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "Odysseus: Make my men men again, Circe.",
+   "tgt": "Odysseus:o ::o Rends:v mes:o hommes:n hommes:n à:o nouveau:a ,:o Circe:o .:o"
+  },
+  {
+   "n": 124,
+   "en": "Circe: You must be Odysseus, so I will free your men.",
+   "tgt": "Circe:o ::o Tu:o dois:v être:v Odysseus:o ,:o donc:o je:o vais:v libérer:v tes:o hommes:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "She gave the pigs her hand, and they became men.",
+   "tgt": "Elle:o donna:v sa:o main:n aux:o cochons:n ,:o et:o ils:o devinrent:v des:o hommes:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "Odysseus and his men were with Circe for a year.",
+   "tgt": "Odysseus:o et:o ses:o hommes:n restèrent:v avec:o Circe:o pendant:o un:o an:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "When the year was over, the men wanted home.",
+   "tgt": "Quand:o l':o année:n fut:v terminée:a ,:o les:o hommes:n voulaient:v rentrer:v chez:o eux:o .:o"
+  },
+  {
+   "n": 128,
+   "en": "Odysseus: Circe, how do we get home from here?",
+   "tgt": "Odysseus:o ::o Circe:o ,:o comment:o rentrons:v -nous:o chez:o nous:o depuis:o ici:a ?:o"
+  },
+  {
+   "n": 129,
+   "en": "Circe: You will pass the rocks of the Sirens.",
+   "tgt": "Circe:o ::o Vous:o passerez:v devant:o les:o rochers:n des:o Sirènes:o .:o"
+  },
+  {
+   "n": 130,
+   "en": "Circe: Their song makes men die on the rocks.",
+   "tgt": "Circe:o ::o Leur:o chant:n fait:v mourir:v les:o hommes:n sur:o les:o rochers:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "Circe: Put soft wax in the ears of your men.",
+   "tgt": "Circe:o ::o Mets:v de:o la:o cire:n douce:a dans:o les:o oreilles:n de:o tes:o hommes:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "Circe: If you want to hear, be tied to the mast.",
+   "tgt": "Circe:o ::o Si:o tu:o veux:v entendre:v ,:o fais:v -toi:o attacher:v au:o mât:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Odysseus put wax in the ears of his men.",
+   "tgt": "Odysseus:o mit:v de:o la:o cire:n dans:o les:o oreilles:n de:o ses:o hommes:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "Odysseus: Tie me to the mast and do not set me free.",
+   "tgt": "Odysseus:o ::o Attachez:v -moi:o au:o mât:n et:o ne:o me:o libérez:v pas:o .:o"
+  },
+  {
+   "n": 135,
+   "en": "The men tied him and rowed hard.",
+   "tgt": "Les:o hommes:n le:o lièrent:v et:o ramèrent:v fort:a .:o"
+  },
+  {
+   "n": 136,
+   "en": "Then the song of the Sirens came over the sea.",
+   "tgt": "Puis:o le:o chant:n des:o Sirènes:o vint:v sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "Siren: Come to us, Odysseus, and hear our song.",
+   "tgt": "Sirène:o ::o Viens:v vers:o nous:o ,:o Odysseus:o ,:o et:o écoute:v notre:o chant:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "Odysseus wanted the song so much that he cried out.",
+   "tgt": "Odysseus:o voulait:v tellement:a le:o chant:n qu':o il:o cria:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "Odysseus: Set me free now!",
+   "tgt": "Odysseus:o ::o Libère:v -moi:o maintenant:a !:o"
+  },
+  {
+   "n": 140,
+   "en": "But his men rowed on and held Odysseus down.",
+   "tgt": "Mais:o ses:o hommes:n continuèrent:v à:o ramer:v et:o maintinrent:v Odysseus:o en:o bas:a .:o"
+  },
+  {
+   "n": 141,
+   "en": "At last the ship passed the rocks.",
+   "tgt": "Enfin:a le:o navire:n dépassa:v les:o rochers:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "The men took the wax out and set Odysseus free.",
+   "tgt": "Les:o hommes:n retirèrent:v la:o cire:n et:o libérèrent:v Odysseus:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "Circe had told them of Scylla and Charybdis.",
+   "tgt": "Circe:o leur:o avait:v parlé:v de:o Scylla:o et:o de:o Charybdis:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "Circe: Scylla lives in the high rocks.",
+   "tgt": "Circe:o ::o Scylla:o vit:v dans:o les:o hauts:a rochers:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "Circe: She has six heads, and each takes a man.",
+   "tgt": "Circe:o ::o Elle:o a:v six:o têtes:n ,:o et:o chacune:o prend:v un:o homme:n .:o"
+  },
+  {
+   "n": 146,
+   "en": "Circe: Charybdis pulls the sea and ships down.",
+   "tgt": "Circe:o ::o Charybdis:o tire:v la:o mer:n et:o les:o navires:n vers:o le:o bas:a .:o"
+  },
+  {
+   "n": 147,
+   "en": "Odysseus: How can we live between the two?",
+   "tgt": "Odysseus:o ,:o Comment:o pouvons:v -nous:o vivre:v entre:o les:o deux:o ?:o"
+  },
+  {
+   "n": 148,
+   "en": "Circe: Go near Scylla, and lose six men, not all.",
+   "tgt": "Circe:o ::o Approchez:v -vous:o de:o Scylla:o ,:o et:o vous:o perdrez:v six:o hommes:n ,:o pas:o tous:o .:o"
+  },
+  {
+   "n": 149,
+   "en": "The ship came to the sea between them.",
+   "tgt": "Le:o navire:n arriva:v à:o la:o mer:n entre:o eux:o .:o"
+  },
+  {
+   "n": 150,
+   "en": "Odysseus: Keep away from Charybdis, and row hard.",
+   "tgt": "Odysseus:o ::o Restez:v loin:a de:o Charybdis:o ,:o et:o ramez:v fort:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "He did not tell his men of Scylla in the rocks.",
+   "tgt": "Il:o ne:o dit:v pas:o à:o ses:o hommes:n ce:o qu':o il:o y:o avait:v de:o Scylla:o dans:o les:o rochers:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "As they came near, Scylla put down her heads.",
+   "tgt": "Quand:o ils:o s':o approchèrent:v ,:o Scylla:o abaissa:v ses:o têtes:n .:o"
+  },
+  {
+   "n": 153,
+   "en": "Her six heads took six men from the ship.",
+   "tgt": "Ses:o six:o têtes:n prirent:v six:o hommes:n du:o navire:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "Man: Odysseus, help us!",
+   "tgt": "Homme:n ::o Odysseus:o ,:o aide:v -nous:o !:o"
+  },
+  {
+   "n": 155,
+   "en": "Odysseus: I could do nothing for them.",
+   "tgt": "Odysseus:o ::o Je:o ne:o pouvais:v rien:o faire:v pour:o eux:o .:o"
+  },
+  {
+   "n": 156,
+   "en": "It was a hard thing for Odysseus to see.",
+   "tgt": "C':o était:v une:o chose:n difficile:a à:o voir:v pour:o Odysseus:o .:o"
+  },
+  {
+   "n": 157,
+   "en": "But the ship came away, and the men still lived.",
+   "tgt": "Mais:o le:o navire:n s':o éloigna:v ,:o et:o les:o hommes:n vivaient:v encore:a .:o"
+  },
+  {
+   "n": 158,
+   "en": "Odysseus: Row on, for we are not all dead.",
+   "tgt": "Odysseus:o ::o Ramez:v encore:a ,:o car:o nous:o ne:o sommes:v pas:o tous:o morts:a .:o"
+  },
+  {
+   "n": 159,
+   "chapter": "The Cattle of the Sun",
+   "en": "Next the ship came to the island of the Sun.",
+   "tgt": "Ensuite:a le:o navire:n arriva:v à:o l':o île:n du:o Soleil:o .:o"
+  },
+  {
+   "n": 160,
+   "en": "On the land were the cattle of the sun god.",
+   "tgt": "Sur:o la:o terre:n se:o trouvaient:v les:o bovins:n du:o dieu:n du:o soleil:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "Odysseus: Circe told us not to touch these cattle.",
+   "tgt": "Odysseus:o ::o Circe:o nous:o a:v dit:v de:o ne:o pas:o toucher:v ces:o bovins:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "Odysseus: If we do, we will not see home.",
+   "tgt": "Odysseus:o ::o Si:o nous:o le:o faisons:v ,:o nous:o ne:o verrons:v pas:o notre:o maison:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "Odysseus: Eat only the food we have on the ship.",
+   "tgt": "Odysseus:o ::o Mangez:v seulement:a la:o nourriture:n que:o nous:o avons:v sur:o le:o navire:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "But a storm kept the ship on the land for days.",
+   "tgt": "Mais:o une:o tempête:n retint:v le:o navire:n sur:o la:o terre:n pendant:o des:o jours:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "Soon all the food on the ship was gone.",
+   "tgt": "Bientôt:a toute:o la:o nourriture:n sur:o le:o navire:n fut:v épuisée:a .:o"
+  },
+  {
+   "n": 166,
+   "en": "The men looked at the cattle of the sun god.",
+   "tgt": "Les:o hommes:n regardèrent:v les:o bovins:n du:o dieu:n du:o soleil:n .:o"
+  },
+  {
+   "n": 167,
+   "en": "Man: We will die here if we do not eat.",
+   "tgt": "Homme:o ::o Nous:o mourrons:v ici:a si:o nous:o ne:o mangeons:v pas:o .:o"
+  },
+  {
+   "n": 168,
+   "en": "While Odysseus slept, the men killed the cattle.",
+   "tgt": "Pendant:o qu':o Odysseus:o dormait:v ,:o les:o hommes:n tuèrent:v les:o bovins:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "They made a fire and ate the cattle.",
+   "tgt": "Ils:o firent:v un:o feu:n et:o mangèrent:v les:o bovins:n .:o"
+  },
+  {
+   "n": 170,
+   "en": "Odysseus woke and saw the fire.",
+   "tgt": "Odysseus:o se:o réveilla:v et:o vit:v le:o feu:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "Odysseus: What have you done, men?",
+   "tgt": "Odysseus:o ::o «:o Qu':o avez-vous:o fait:v ,:o hommes:n ?:o »:o"
+  },
+  {
+   "n": 172,
+   "en": "Odysseus: The sun god will make us pay.",
+   "tgt": "Odysseus:o ::o «:o Le:o dieu:n du:o soleil:n nous:o fera:v payer:v .:o »:o"
+  },
+  {
+   "n": 173,
+   "en": "The sun god saw his cattle dead and called to Zeus.",
+   "tgt": "Le:o dieu:n du:o soleil:n vit:v ses:o bovins:n morts:a et:o appela:v Zeus:o .:o"
+  },
+  {
+   "n": 174,
+   "en": "Sun God: Make these men pay for this.",
+   "tgt": "Dieu:n du:o Soleil:n ::o «:o Fais:v payer:v ces:o hommes:n pour:o cela:o .:o »:o"
+  },
+  {
+   "n": 175,
+   "en": "Zeus: I will break their ship in the sea.",
+   "tgt": "Zeus:o ::o «:o Je:o briserai:v leur:o navire:n dans:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 176,
+   "en": "When the storm went, the ship sailed out.",
+   "tgt": "Quand:o la:o tempête:n passa:v ,:o le:o navire:n prit:v la:o mer:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "Zeus threw down fire and broke the ship.",
+   "tgt": "Zeus:o lança:v du:o feu:n et:o brisa:v le:o navire:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "All the men died but Odysseus.",
+   "tgt": "Tous:o les:o hommes:n moururent:v sauf:o Odysseus:o .:o"
+  },
+  {
+   "n": 179,
+   "en": "Odysseus held to the mast on the sea for nine days.",
+   "tgt": "Odysseus:o resta:v accroché:a au:o mât:n sur:o la:o mer:n pendant:o neuf:o jours:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "The sea took Odysseus to an island.",
+   "tgt": "La:o mer:n porta:v Odysseus:o vers:o une:o île:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "On the island lived Calypso.",
+   "tgt": "Sur:o l':o île:n vivait:v Calypso:o .:o"
+  },
+  {
+   "n": 182,
+   "en": "Calypso saw Odysseus on her land.",
+   "tgt": "Calypso:o vit:v Odysseus:o sur:o sa:o terre:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "She was good to him in her home by the sea.",
+   "tgt": "Elle:o fut:v bonne:a envers:o lui:o dans:o sa:o maison:n près:o de:o la:o mer:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "Calypso: Stay here with me for all your days.",
+   "tgt": "Calypso:o «:o Reste:v ici:a avec:o moi:o pour:o tous:o tes:o jours:n »:o .:o"
+  },
+  {
+   "n": 185,
+   "en": "Calypso: I will make you a god, and we will live here.",
+   "tgt": "Calypso:o «:o Je:o vais:v te:o faire:v dieu:n ,:o et:o nous:o vivrons:v ici:a »:o .:o"
+  },
+  {
+   "n": 186,
+   "en": "Odysseus: But my home is Ithaca, with my wife.",
+   "tgt": "Odysseus:o «:o Mais:o ma:o maison:n est:v Ithaca:o ,:o avec:o ma:o femme:n »:o .:o"
+  },
+  {
+   "n": 187,
+   "en": "For long years Calypso kept him here.",
+   "tgt": "Pendant:o de:o longues:a années:n ,:o Calypso:o le:o garda:v ici:a .:o"
+  },
+  {
+   "n": 188,
+   "en": "Each day Odysseus went to the sea.",
+   "tgt": "Chaque:o jour:n ,:o Odysseus:o allait:v à:o la:o mer:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "Then Athena went to Zeus.",
+   "tgt": "Alors:o Athena:o alla:v vers:o Zeus:o .:o"
+  },
+  {
+   "n": 190,
+   "en": "Athena: Zeus, why must Odysseus stay here so long?",
+   "tgt": "Athena:o ::o «:o Zeus:o ,:o pourquoi:o Odysseus:o doit:v -il:o rester:v ici:a si:a longtemps:a ?:o »:o"
+  },
+  {
+   "n": 191,
+   "en": "Athena: Send Hermes, and let this man go home.",
+   "tgt": "Athena:o ::o «:o Envoie:v Hermes:o ,:o et:o laisse:v cet:o homme:n rentrer:v chez:o lui:o .:o »:o"
+  },
+  {
+   "n": 192,
+   "en": "Hermes came down to the island of Calypso.",
+   "tgt": "Hermes:o descendit:v sur:o l':o île:n de:o Calypso:o .:o"
+  },
+  {
+   "n": 193,
+   "en": "Hermes: Zeus says you must let this man go home.",
+   "tgt": "Hermes:o ::o «:o Zeus:o dit:v que:o tu:o dois:v laisser:v cet:o homme:n rentrer:v chez:o lui:o .:o »:o"
+  },
+  {
+   "n": 194,
+   "en": "Calypso: I cannot say no to Zeus.",
+   "tgt": "Calypso:o ::o «:o Je:o ne:o peux:v pas:o dire:v non:o à:o Zeus:o .:o »:o"
+  },
+  {
+   "n": 195,
+   "en": "Calypso: Make a boat, and go home over the sea.",
+   "tgt": "Calypso:o ::o «:o Construis:v un:o bateau:n ,:o et:o rentre:v chez:o toi:o sur:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 196,
+   "en": "Odysseus cut down trees and made a boat.",
+   "tgt": "Odysseus:o coupa:v des:o arbres:n et:o construisit:v un:o bateau:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "He went away over the sea to his home.",
+   "tgt": "Il:o partit:v sur:o la:o mer:n vers:o sa:o maison:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "But Poseidon saw Odysseus on the sea.",
+   "tgt": "Mais:o Poseidon:o vit:v Odysseus:o sur:o la:o mer:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "Poseidon: This man will not get home so soon.",
+   "tgt": "Poseidon:o ::o «:o Cet:o homme:n ne:o rentrera:v pas:o chez:o lui:o si:a tôt:a .:o »:o"
+  },
+  {
+   "n": 200,
+   "en": "He sent a great storm down on Odysseus.",
+   "tgt": "Il:o envoya:v une:o grande:a tempête:n sur:o Odysseus:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "Odysseus was many days in the sea.",
+   "tgt": "Odysseus:o passa:v de:o nombreux:a jours:n en:o mer:n .:o"
+  },
+  {
+   "n": 202,
+   "en": "At last he came to a land.",
+   "tgt": "Enfin:a il:o arriva:v dans:o une:o terre:n .:o"
+  },
+  {
+   "n": 203,
+   "en": "This was the land of the Phaeacians.",
+   "tgt": "C':o était:v la:o terre:n des:o Phéaciens:o .:o"
+  },
+  {
+   "n": 204,
+   "en": "A woman came to Odysseus by the sea.",
+   "tgt": "Une:o femme:n vint:v vers:o Odysseus:o au:o bord:n de:o la:o mer:n .:o"
+  },
+  {
+   "n": 205,
+   "en": "Woman: Come and see my father the king.",
+   "tgt": "Femme:o ::o «:o Viens:v voir:v mon:o père:n le:o roi:n .:o »:o"
+  },
+  {
+   "n": 206,
+   "en": "The king of the Phaeacians was good to him.",
+   "tgt": "Le:o roi:n des:o Phéaciens:o fut:v bon:a envers:o lui:o .:o"
+  },
+  {
+   "n": 207,
+   "en": "King: Come and eat with us, Odysseus.",
+   "tgt": "Roi:o ::o «:o Viens:v manger:v avec:o nous:o ,:o Odysseus:o .:o »:o"
+  },
+  {
+   "n": 208,
+   "en": "King: Tell us your name and your land.",
+   "tgt": "Roi:o ::o «:o Dis:v -nous:o ton:o nom:n et:o ta:o terre:n .:o »:o"
+  },
+  {
+   "n": 209,
+   "en": "Odysseus: I am Odysseus, who was at Troy.",
+   "tgt": "Odysseus:o ::o «:o Je:o suis:v Odysseus:o ,:o qui:o était:v à:o Troie:o .:o »:o"
+  },
+  {
+   "n": 210,
+   "en": "Odysseus told the king of the Cyclops and Circe.",
+   "tgt": "Odysseus:o parla:v au:o roi:n du:o Cyclope:o et:o de:o Circe:o .:o"
+  },
+  {
+   "n": 211,
+   "en": "Odysseus: I have lost my ships and all my men.",
+   "tgt": "Odysseus:o ::o «:o J':o ai:v perdu:v mes:o navires:n et:o tous:o mes:o hommes:n .:o »:o"
+  },
+  {
+   "n": 212,
+   "en": "King: We will give you a ship to take you home.",
+   "tgt": "Roi:o ::o Nous:o vous:o donnerons:v un:o navire:n pour:o vous:o ramener:v chez:o vous:o .:o"
+  },
+  {
+   "n": 213,
+   "en": "The Phaeacians put gold on the ship for him.",
+   "tgt": "Les:o Phéaciens:o mirent:v de:o l':o or:n sur:o le:o navire:n pour:o lui:o .:o"
+  },
+  {
+   "n": 214,
+   "en": "Odysseus slept as the ship went over the sea.",
+   "tgt": "Odysseus:o dormit:v pendant:o que:o le:o navire:n traversait:v la:o mer:n .:o"
+  },
+  {
+   "n": 215,
+   "en": "At day the ship came to Ithaca.",
+   "tgt": "Au:o matin:n ,:o le:o navire:n arriva:v à:o Ithaca:o .:o"
+  },
+  {
+   "n": 216,
+   "en": "The men put Odysseus down on his land.",
+   "tgt": "Les:o hommes:n déposèrent:v Odysseus:o sur:o sa:o terre:n .:o"
+  },
+  {
+   "n": 217,
+   "chapter": "Home in Disguise",
+   "en": "Odysseus woke on a land he did not know.",
+   "tgt": "Odysseus:o se:o réveilla:v sur:o une:o terre:n qu':o il:o ne:o connaissait:v pas:o .:o"
+  },
+  {
+   "n": 218,
+   "en": "Athena came to him as a man.",
+   "tgt": "Athena:o vint:v à:o lui:o sous:o l':o apparence:n d':o un:o homme:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "Athena: You are home now, in Ithaca.",
+   "tgt": "Athena:o ::o Vous:o êtes:v maintenant:a chez:o vous:o ,:o à:o Ithaca:o .:o"
+  },
+  {
+   "n": 220,
+   "en": "Odysseus: Then I must take care, for I have no men.",
+   "tgt": "Odysseus:o ::o Alors:o je:o dois:v faire:v attention:n ,:o car:o je:o n':o ai:v pas:o d':o hommes:n .:o"
+  },
+  {
+   "n": 221,
+   "en": "Athena: The bad men are in your hall and want your wife.",
+   "tgt": "Athena:o ::o Les:o mauvais:a hommes:n sont:v dans:o votre:o salle:n et:o veulent:v votre:o femme:n .:o"
+  },
+  {
+   "n": 222,
+   "en": "Athena: I will make you an old man.",
+   "tgt": "Athena:o ::o Je:o ferai:v de:o vous:o un:o vieil:a homme:n .:o"
+  },
+  {
+   "n": 223,
+   "en": "Odysseus became an old man.",
+   "tgt": "Odysseus:o devint:v un:o vieil:a homme:n .:o"
+  },
+  {
+   "n": 224,
+   "en": "Odysseus went to the home of his pig man.",
+   "tgt": "Odysseus:o alla:v à:o la:o maison:n de:o son:o porcher:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "The pig man did not know his own king.",
+   "tgt": "Le:o porcher:n ne:o reconnut:v pas:o son:o propre:a roi:n .:o"
+  },
+  {
+   "n": 226,
+   "en": "Pig Man: Come in, old man, and eat with me.",
+   "tgt": "Porcher:o ::o «:o Entre:v ,:o vieil:a homme:n ,:o et:o mange:v avec:o moi:o .:o »:o"
+  },
+  {
+   "n": 227,
+   "en": "Pig Man: My king Odysseus is lost on the sea.",
+   "tgt": "Porcher:o ::o «:o Mon:o roi:n Odysseus:o est:v perdu:a sur:o la:o mer:n .:o »:o"
+  },
+  {
+   "n": 228,
+   "en": "Odysseus: Your king is near, I tell you.",
+   "tgt": "Odysseus:o ::o «:o Votre:o roi:n est:v proche:a ,:o je:o vous:o le:o dis:v .:o »:o"
+  },
+  {
+   "n": 229,
+   "en": "That day Telemachus came home from the sea.",
+   "tgt": "Ce:o jour-là:a ,:o Télémaque:o rentra:v chez:o lui:o depuis:o la:o mer:n .:o"
+  },
+  {
+   "n": 230,
+   "en": "Athena made Odysseus the king again.",
+   "tgt": "Athena:o rendit:v à:o Odysseus:o son:o apparence:n de:o roi:n .:o"
+  },
+  {
+   "n": 231,
+   "en": "Telemachus: Are you a god come to me?",
+   "tgt": "Télémaque:o ::o «:o Êtes:v -vous:o un:o dieu:n venu:v vers:o moi:o ?:o »:o"
+  },
+  {
+   "n": 232,
+   "en": "Odysseus: No, I am your father, home again.",
+   "tgt": "Odysseus:o ::o «:o Non:o ,:o je:o suis:v ton:o père:n ,:o de:o retour:n chez:o moi:o .:o »:o"
+  },
+  {
+   "n": 233,
+   "en": "Telemachus: Father, I have waited so long for you!",
+   "tgt": "Télémaque:o ::o Père:n ,:o j':o ai:v attendu:v si:a longtemps:a pour:o vous:o !:o"
+  },
+  {
+   "n": 234,
+   "en": "They held each other and cried.",
+   "tgt": "Ils:o se:o tinrent:v l':o un:o l':o autre:o et:o pleurèrent:v .:o"
+  },
+  {
+   "n": 235,
+   "en": "Odysseus: Tell no one that the king is home.",
+   "tgt": "Odysseus:o ::o Ne:o dites:v à:o personne:o que:o le:o roi:n est:v rentré:a .:o"
+  },
+  {
+   "n": 236,
+   "en": "Odysseus: We will send the bad men from my hall.",
+   "tgt": "Odysseus:o ::o Nous:o chasserons:v les:o mauvais:a hommes:n de:o ma:o salle:n .:o"
+  },
+  {
+   "n": 237,
+   "en": "Penelope came to the hall with the bad men.",
+   "tgt": "Penelope:o vint:v dans:o la:o salle:n avec:o les:o mauvais:a hommes:n .:o"
+  },
+  {
+   "n": 238,
+   "en": "Penelope: The man who wins my game will be king.",
+   "tgt": "Penelope:o ::o L':o homme:n qui:o gagnera:v mon:o jeu:n sera:v roi:n .:o"
+  },
+  {
+   "n": 239,
+   "en": "Penelope: Here is the great bow of Odysseus.",
+   "tgt": "Penelope:o ::o Voici:v le:o grand:a arc:n d':o Odysseus:o .:o"
+  },
+  {
+   "n": 240,
+   "en": "Penelope: Bend it and shoot an arrow through twelve rings.",
+   "tgt": "Penelope:o ::o Tendez:v -le:o et:o tirez:v une:o flèche:n à:o travers:o douze:o anneaux:n .:o"
+  },
+  {
+   "n": 241,
+   "en": "She set twelve rings up in a row.",
+   "tgt": "Elle:o plaça:v douze:o anneaux:n en:o rang:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "One by one the bad men came to bend the bow.",
+   "tgt": "Un:o par:o un:o ,:o les:o mauvais:a hommes:n vinrent:v tendre:v l':o arc:n .:o"
+  },
+  {
+   "n": 243,
+   "en": "Not one of them was strong to bend it.",
+   "tgt": "Pas:o un:o d':o eux:o n':o était:v assez:a fort:a pour:o le:o tendre:v .:o"
+  },
+  {
+   "n": 244,
+   "en": "The old man came up to the bow.",
+   "tgt": "Le:o vieux:a homme:n s':o approcha:v de:o l':o arc:n .:o"
+  },
+  {
+   "n": 245,
+   "en": "Odysseus: Let me try the great bow.",
+   "tgt": "Odysseus:o ::o «:o Laissez:v -moi:o essayer:v le:o grand:a arc:n .:o »:o"
+  },
+  {
+   "n": 246,
+   "en": "Suitor: Sit down, old man, this bow is not for you.",
+   "tgt": "Prétendant:n ::o «:o Assieds:v -toi:o ,:o vieux:a homme:n ,:o cet:o arc:n n':o est:v pas:o pour:o toi:o .:o »:o"
+  },
+  {
+   "n": 247,
+   "en": "Telemachus: Give the man the bow, and let him try.",
+   "tgt": "Télémaque:o ::o «:o Donnez:v à:o l':o homme:n l':o arc:n ,:o et:o laissez:v -le:o essayer:v .:o »:o"
+  },
+  {
+   "n": 248,
+   "en": "Odysseus took the bow and looked at it.",
+   "tgt": "Odysseus:o prit:v l':o arc:n et:o le:o regarda:v .:o"
+  },
+  {
+   "n": 249,
+   "en": "He bent the bow and put the string on.",
+   "tgt": "Il:o tendit:v l':o arc:n et:o mit:v la:o corde:n dessus:a .:o"
+  },
+  {
+   "n": 250,
+   "en": "The bad men grew still and looked on.",
+   "tgt": "Les:o mauvais:a hommes:n restèrent:v immobiles:a et:o regardèrent:v .:o"
+  },
+  {
+   "n": 251,
+   "en": "Odysseus put an arrow to the bow.",
+   "tgt": "Odysseus:o plaça:v une:o flèche:n sur:o l':o arc:n .:o"
+  },
+  {
+   "n": 252,
+   "en": "The arrow went through all twelve rings.",
+   "tgt": "La:o flèche:n passa:v à:o travers:o les:o douze:o anneaux:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "Telemachus took his spear and stood by Odysseus.",
+   "tgt": "Télémaque:o prit:v sa:o lance:n et:o se:o plaça:v aux:o côtés:n d':o Odysseus:o .:o"
+  },
+  {
+   "n": 254,
+   "en": "Odysseus put down his old-man look and stood up.",
+   "tgt": "Odysseus:o abandonna:v son:o apparence:n de:o vieil:a homme:n et:o se:o redressa:v .:o"
+  },
+  {
+   "n": 255,
+   "en": "Odysseus: You said the king would never come home.",
+   "tgt": "Odysseus:o ::o Tu:o as:v dit:v que:o le:o roi:n ne:o rentrerait:v jamais:o à:o la:o maison:n .:o"
+  },
+  {
+   "n": 256,
+   "en": "Odysseus: I am Odysseus, and I am here.",
+   "tgt": "Odysseus:o ::o Je:o suis:v Odysseus:o ,:o et:o je:o suis:v ici:a .:o"
+  },
+  {
+   "n": 257,
+   "en": "The bad men got up and looked for the door.",
+   "tgt": "Les:o mauvais:a hommes:n se:o levèrent:v et:o cherchèrent:v la:o porte:n .:o"
+  },
+  {
+   "n": 258,
+   "en": "Suitor: Put down the bow, Odysseus!",
+   "tgt": "Prétendant:o ::o Pose:v l':o arc:n ,:o Odysseus:o !:o"
+  },
+  {
+   "n": 259,
+   "en": "Suitor: We will pay for all we ate!",
+   "tgt": "Prétendant:o ::o Nous:o paierons:v pour:o tout:o ce:o que:o nous:o avons:v mangé:v !:o"
+  },
+  {
+   "n": 260,
+   "en": "Odysseus: You ate my food and wanted my wife.",
+   "tgt": "Odysseus:o ::o Vous:o avez:v mangé:v ma:o nourriture:n et:o vouliez:v ma:o femme:n .:o"
+  },
+  {
+   "n": 261,
+   "en": "Odysseus: Now no one of you will get out.",
+   "tgt": "Odysseus:o ::o Maintenant:a aucun:o d':o vous:o ne:o sortira:v .:o"
+  },
+  {
+   "n": 262,
+   "en": "Telemachus shut the doors of the hall.",
+   "tgt": "Télémaque:o ferma:v les:o portes:n de:o la:o salle:n .:o"
+  },
+  {
+   "n": 263,
+   "en": "Odysseus put his arrows into the bad men.",
+   "tgt": "Odysseus:o envoya:v ses:o flèches:n dans:o les:o mauvais:a hommes:n .:o"
+  },
+  {
+   "n": 264,
+   "en": "Telemachus and the pig man stood by the king.",
+   "tgt": "Télémaque:o et:o le:o porcher:n se:o tinrent:v aux:o côtés:n du:o roi:n .:o"
+  },
+  {
+   "n": 265,
+   "en": "Suitor: The gods are with this man!",
+   "tgt": "Prétendant:o ::o Les:o dieux:n sont:v avec:o cet:o homme:n !:o"
+  },
+  {
+   "n": 266,
+   "en": "One by one the bad men fell.",
+   "tgt": "Un:o à:o un:o les:o mauvais:a hommes:n tombèrent:v .:o"
+  },
+  {
+   "n": 267,
+   "en": "Soon all the bad men were dead.",
+   "tgt": "Bientôt:a tous:o les:o mauvais:a hommes:n étaient:v morts:a .:o"
+  },
+  {
+   "n": 268,
+   "en": "Old Nurse: My king, are you home at last?",
+   "tgt": "Vieille:a Nourrice:n ::o Mon:o roi:n ,:o êtes-vous:v chez:o vous:o enfin:a ?:o"
+  },
+  {
+   "n": 269,
+   "en": "Odysseus: I am home again, good nurse.",
+   "tgt": "Odysseus:o ::o Je:o suis:v de:o retour:n chez:o moi:o ,:o bonne:a nourrice:n .:o"
+  },
+  {
+   "n": 270,
+   "en": "Athena stood by Odysseus.",
+   "tgt": "Athena:o se:o tint:v aux:o côtés:n d':o Odysseus:o .:o"
+  },
+  {
+   "n": 271,
+   "en": "Athena: The bad men are dead, and your home is your own.",
+   "tgt": "Athena:o ::o Les:o mauvais:a hommes:n sont:v morts:a ,:o et:o votre:o maison:n est:v la:o vôtre:n .:o"
+  },
+  {
+   "n": 272,
+   "en": "Odysseus: One thing is left for me now.",
+   "tgt": "Odysseus:o ::o Une:o chose:n me:o reste:v maintenant:a .:o"
+  },
+  {
+   "n": 273,
+   "en": "Odysseus: I must go up to my wife Penelope.",
+   "tgt": "Odysseus:o ::o Je:o dois:v monter:v voir:v ma:o femme:n Penelope:o .:o"
+  },
+  {
+   "n": 274,
+   "en": "Penelope came to the hall.",
+   "tgt": "Penelope:o vint:v dans:o la:o salle:n .:o"
+  },
+  {
+   "n": 275,
+   "en": "She looked at the man who said he was her king.",
+   "tgt": "Elle:o regarda:v l':o homme:n qui:o disait:v être:v son:o roi:n .:o"
+  },
+  {
+   "n": 276,
+   "en": "Penelope: They tell me the king has come home.",
+   "tgt": "Penelope:o ::o On:o me:o dit:v que:o le:o roi:n est:v rentré:v chez:o lui:o .:o"
+  },
+  {
+   "n": 277,
+   "en": "Penelope: But it has been so long, and I do not know you.",
+   "tgt": "Penelope:o ::o Mais:o cela:o fait:v si:a longtemps:a ,:o et:o je:o ne:o vous:o connais:v pas:o .:o"
+  },
+  {
+   "n": 278,
+   "en": "Odysseus: Look at me, Penelope, I am your king.",
+   "tgt": "Odysseus:o ::o Regardez:v -moi:o ,:o Penelope:o ,:o je:o suis:v votre:o roi:n .:o"
+  },
+  {
+   "n": 279,
+   "en": "Penelope: I will not take a man I do not know.",
+   "tgt": "Penelope:o ::o Je:o ne:o prendrai:v pas:o un:o homme:n que:o je:o ne:o connais:v pas:o .:o"
+  },
+  {
+   "n": 280,
+   "en": "Penelope: Move our bed out of the room for this man.",
+   "tgt": "Penelope:o ::o Sortez:v notre:o lit:n de:o la:o chambre:n pour:o cet:o homme:n .:o"
+  },
+  {
+   "n": 281,
+   "en": "Odysseus: No man can move that bed, and you know why.",
+   "tgt": "Odysseus:o ::o Aucun:o homme:n ne:o peut:v déplacer:v ce:o lit:n ,:o et:o vous:o savez:v pourquoi:o .:o"
+  },
+  {
+   "n": 282,
+   "en": "Odysseus: I made the bed from a tree in the ground.",
+   "tgt": "Odysseus:o ::o J':o ai:v fabriqué:v le:o lit:n à:o partir:v d':o un:o arbre:n dans:o le:o sol:n .:o"
+  },
+  {
+   "n": 283,
+   "en": "Then Penelope knew this man was her own king.",
+   "tgt": "Alors:o Penelope:o sut:v que:o cet:o homme:n était:v son:o propre:a roi:n .:o"
+  },
+  {
+   "n": 284,
+   "en": "She came to Odysseus and held him.",
+   "tgt": "Elle:o vint:v vers:o Odysseus:o et:o le:o tint:v dans:o ses:o bras:n .:o"
+  },
+  {
+   "n": 285,
+   "en": "Penelope: Now I know you are my king.",
+   "tgt": "Penelope:o ::o Maintenant:a je:o sais:v que:o vous:o êtes:v mon:o roi:n .:o"
+  },
+  {
+   "n": 286,
+   "en": "Odysseus: And I know you are my own wife.",
+   "tgt": "Odysseus:o ::o Et:o je:o sais:v que:o vous:o êtes:v ma:o propre:a femme:n .:o"
+  },
+  {
+   "n": 287,
+   "en": "The king and his wife told of their long years.",
+   "tgt": "Le:o roi:n et:o sa:o femme:n parlèrent:v de:o leurs:o longues:a années:n .:o"
+  },
+  {
+   "n": 288,
+   "en": "Athena kept back the day to give them more night.",
+   "tgt": "Athena:o retint:v le:o jour:n pour:o leur:o donner:v plus:o de:o nuit:n .:o"
+  },
+  {
+   "n": 289,
+   "en": "Odysseus was home in Ithaca, and his long way was over.",
+   "tgt": "Odysseus:o était:v chez:o lui:o à:o Ithaca:o ,:o et:o son:o long:a voyage:n était:v terminé:a .:o"
+  }
+ ]
+}

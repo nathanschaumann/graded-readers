@@ -1,0 +1,934 @@
+{
+ "slug": "hansel_and_gretel",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Not Enough Food",
+   "en": "A poor woodcutter lived near a forest.",
+   "tgt": "Un:o pauvre:a bûcheron:n vivait:v près:o d':o une:o forêt:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "He lived with his two children, Hansel and Gretel.",
+   "tgt": "Il:o vivait:v avec:o ses:o deux:o enfants:n ,:o Hansel:o et:o Gretel:o .:o"
+  },
+  {
+   "n": 3,
+   "en": "Their mother had died when the children were young.",
+   "tgt": "Leur:o mère:n était:v morte:a quand:o les:o enfants:n étaient:v jeunes:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "Soon he had a new wife, their stepmother.",
+   "tgt": "Bientôt:a il:o eut:v une:o nouvelle:a femme:n ,:o leur:o belle-mère:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "The stepmother did not love Hansel and Gretel.",
+   "tgt": "La:o belle-mère:n n':o aimait:v pas:o Hansel:o et:o Gretel:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "But that year, people had little money to buy wood.",
+   "tgt": "Mais:o cette:o année-là:a ,:o les:o gens:n avaient:v peu:a d':o argent:n pour:o acheter:v du:o bois:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "Hansel and Gretel were hungry too.",
+   "tgt": "Hansel:o et:o Gretel:o avaient:v faim:n aussi:a .:o"
+  },
+  {
+   "n": 8,
+   "en": "The stepmother did not want two hungry children.",
+   "tgt": "La:o belle-mère:n ne:o voulait:v pas:o deux:o enfants:n affamés:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "She talked to the woodcutter.",
+   "tgt": "Elle:o parla:v au:o bûcheron:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"We have too little food,\" she said.",
+   "tgt": "«:o Nous:o avons:v trop:a peu:a de:o nourriture:n ,:o »:o dit-elle:v .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"We must leave the children in the forest,\" said the stepmother.",
+   "tgt": "«:o Nous:o devons:v laisser:v les:o enfants:n dans:o la:o forêt:n ,:o »:o dit:v la:o belle-mère:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "He loved his children, but did not want to lose them.",
+   "tgt": "Il:o aimait:v ses:o enfants:n ,:o mais:o ne:o voulait:v pas:o les:o perdre:v .:o"
+  },
+  {
+   "n": 13,
+   "en": "He agreed to the stepmother's plan.",
+   "tgt": "Il:o accepta:v le:o plan:n de:o la:o belle-mère:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Soon, Hansel and Gretel were too hungry to sleep.",
+   "tgt": "Bientôt:a ,:o Hansel:o et:o Gretel:o avaient:v trop:a faim:n pour:o dormir:v .:o"
+  },
+  {
+   "n": 15,
+   "en": "They heard the stepmother's plan.",
+   "tgt": "Ils:o entendirent:v le:o plan:n de:o la:o belle-mère:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The poor woodcutter wanted food for his hungry children.",
+   "tgt": "Le:o pauvre:a bûcheron:n voulait:v de:o la:o nourriture:n pour:o ses:o enfants:n affamés:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "Gretel cried.",
+   "tgt": "Gretel:o pleura:v .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"Do not cry, Gretel,\" said Hansel.",
+   "tgt": "«:o Ne:o pleure:v pas:o ,:o Gretel:o »:o ,:o dit:v -il:o Hansel:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "He got up and went outside.",
+   "tgt": "Il:o se:o leva:v et:o sortit:v dehors:a .:o"
+  },
+  {
+   "n": 20,
+   "en": "White stones shone near the house in the moonlight.",
+   "tgt": "Des:o pierres:n blanches:a brillaient:v près:o de:o la:o maison:n au:o clair:n de:o lune:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "Hansel filled his pockets with the stones.",
+   "tgt": "Hansel:o remplit:v ses:o poches:n de:o pierres:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "He lay near Gretel.",
+   "tgt": "Il:o s':o allongea:v près:o de:o Gretel:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"Do not be afraid,\" he said.",
+   "tgt": "«:o N':o aie:v pas:o peur:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "Soon the children slept.",
+   "tgt": "Bientôt:a les:o enfants:n s':o endormirent:v .:o"
+  },
+  {
+   "n": 25,
+   "en": "Soon, the family left the house and walked to the forest.",
+   "tgt": "Bientôt:a ,:o la:o famille:n quitta:v la:o maison:n et:o marcha:v vers:o la:o forêt:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The woodcutter said they would cut wood.",
+   "tgt": "Le:o bûcheron:n dit:v qu':o ils:o couperaient:v du:o bois:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "Hansel walked behind the family.",
+   "tgt": "Hansel:o marcha:v derrière:o la:o famille:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "He took a stone from his pocket.",
+   "tgt": "Il:o prit:v une:o pierre:n dans:o sa:o poche:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "He dropped the stone on the path.",
+   "tgt": "Il:o laissa:v tomber:v la:o pierre:n sur:o le:o chemin:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "Hansel did this again and again.",
+   "tgt": "Hansel:o fit:v cela:o encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "Soon, the family came to a deep part of the forest.",
+   "tgt": "Bientôt:a ,:o la:o famille:n arriva:v à:o une:o partie:n profonde:a de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The woodcutter made a fire for them from wood he had cut.",
+   "tgt": "Le:o bûcheron:n fit:v un:o feu:n pour:o eux:o avec:o du:o bois:n qu':o il:o avait:v coupé:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"Wait here. We must cut wood,\" said the woodcutter.",
+   "tgt": "«:o Attendez:v ici:a .:o Nous:o devons:v couper:v du:o bois:n ,:o »:o dit:v le:o bûcheron:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The woodcutter did not want to leave them alone.",
+   "tgt": "Le:o bûcheron:n ne:o voulait:v pas:o les:o laisser:v seuls:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "The stepmother and the woodcutter walked away.",
+   "tgt": "La:o belle-mère:n et:o le:o bûcheron:n s':o éloignèrent:v .:o"
+  },
+  {
+   "n": 36,
+   "en": "Hansel and Gretel waited by the fire.",
+   "tgt": "Hansel:o et:o Gretel:o attendirent:v près:o du:o feu:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "The fire grew small, and night came.",
+   "tgt": "Le:o feu:n devint:v petit:a ,:o et:o la:o nuit:n arriva:v .:o"
+  },
+  {
+   "n": 38,
+   "en": "The children were alone in the dark forest.",
+   "tgt": "Les:o enfants:n étaient:v seuls:a dans:o la:o forêt:n sombre:a .:o"
+  },
+  {
+   "n": 39,
+   "en": "Gretel cried again.",
+   "tgt": "Gretel:o pleura:v encore:a .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"The moon will show the way home,\" said Hansel.",
+   "tgt": "«:o La:o lune:n montrera:v le:o chemin:n vers:o la:o maison:n ,:o »:o dit:v -il:o ,:o Hansel:o .:o"
+  },
+  {
+   "n": 41,
+   "en": "The white stones shone in the moonlight.",
+   "tgt": "Les:o pierres:n blanches:a brillèrent:v dans:o la:o lumière:n de:o la:o lune:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Hansel and Gretel followed the stones.",
+   "tgt": "Hansel:o et:o Gretel:o suivirent:v les:o pierres:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "They walked in the night.",
+   "tgt": "Ils:o marchèrent:v dans:o la:o nuit:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "Soon they saw their house.",
+   "tgt": "Bientôt:a ils:o virent:v leur:o maison:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "Hansel and Gretel went to the house.",
+   "tgt": "Hansel:o et:o Gretel:o allèrent:v à:o la:o maison:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "The woodcutter came outside and saw the children.",
+   "tgt": "Le:o bûcheron:n sortit:v dehors:a et:o vit:v les:o enfants:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "He was glad to see Hansel and Gretel.",
+   "tgt": "Il:o était:v heureux:a de:o voir:v Hansel:o et:o Gretel:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "But the stepmother was not glad.",
+   "tgt": "Mais:o la:o belle-mère:n n':o était:v pas:o contente:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "The house still had little food.",
+   "tgt": "La:o maison:n avait:v encore:a peu:o de:o nourriture:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Soon winter came, and food grew scarce.",
+   "tgt": "Bientôt:a l':o hiver:n arriva:v ,:o et:o la:o nourriture:n devint:v rare:a .:o"
+  },
+  {
+   "n": 51,
+   "en": "The children grew thin and cold.",
+   "tgt": "Les:o enfants:n devinrent:v maigres:a et:o froids:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "That winter, the stepmother wanted to leave the children again.",
+   "tgt": "Cet:o hiver-là:n ,:o la:o belle-mère:n voulut:v abandonner:v les:o enfants:n encore:a .:o"
+  },
+  {
+   "n": 53,
+   "chapter": "The Locked Door",
+   "en": "That night, Hansel heard the stepmother again.",
+   "tgt": "Cette:o nuit-là:n ,:o Hansel:o entendit:v encore:a la:o belle-mère:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"We must leave the children again,\" she said.",
+   "tgt": "«:o Nous:o devons:v abandonner:v les:o enfants:n encore:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "Hansel got up again for stones.",
+   "tgt": "Hansel:o se:o leva:v encore:a pour:o chercher:v des:o pierres:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "But the door would not open.",
+   "tgt": "Mais:o la:o porte:n ne:o voulut:v pas:o s':o ouvrir:v .:o"
+  },
+  {
+   "n": 57,
+   "en": "The stepmother had locked the door.",
+   "tgt": "La:o belle-mère:n avait:v fermé:v la:o porte:n à:o clé:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "He went back to Gretel.",
+   "tgt": "Il:o retourna:v vers:o Gretel:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "\"The door is locked,\" he said.",
+   "tgt": "«:o La:o porte:n est:v verrouillée:a »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 60,
+   "en": "Gretel was afraid again.",
+   "tgt": "Gretel:o avait:v peur:n à:o nouveau:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "Hansel and Gretel waited in the house.",
+   "tgt": "Hansel:o et:o Gretel:o attendirent:v dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "The house was cold.",
+   "tgt": "La:o maison:n était:v froide:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "\"I have bread from supper,\" said Hansel.",
+   "tgt": "«:o J':o ai:v du:o pain:n du:o souper:n »:o ,:o dit:v Hansel:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "\"I will drop crumbs, not stones,\" he said.",
+   "tgt": "«:o Je:o vais:v laisser:v des:o miettes:n ,:o pas:o des:o pierres:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 65,
+   "en": "Hansel broke the bread apart.",
+   "tgt": "Hansel:o brisa:v le:o pain:n en:o morceaux:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Soon, the family walked to the forest again.",
+   "tgt": "Bientôt:a ,:o la:o famille:n marcha:v vers:o la:o forêt:n à:o nouveau:a .:o"
+  },
+  {
+   "n": 67,
+   "en": "The children were hungry again.",
+   "tgt": "Les:o enfants:n avaient:v faim:n à:o nouveau:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "But this time, they walked deeper in the forest.",
+   "tgt": "Mais:o cette:o fois:n ,:o ils:o marchèrent:v plus:a loin:a dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The path grew narrow and dark.",
+   "tgt": "Le:o chemin:n devint:v étroit:a et:o sombre:a .:o"
+  },
+  {
+   "n": 70,
+   "en": "Hansel dropped crumbs of bread on the path.",
+   "tgt": "Hansel:o laissa:v tomber:v des:o miettes:n de:o pain:n sur:o le:o chemin:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "Birds sat near the path and watched the crumbs fall.",
+   "tgt": "Des:o oiseaux:n s':o assirent:v près:o du:o chemin:n et:o regardèrent:v les:o miettes:n tomber:v .:o"
+  },
+  {
+   "n": 72,
+   "en": "He did this again and again.",
+   "tgt": "Il:o fit:v cela:o encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 73,
+   "en": "Gretel held Hansel's hand.",
+   "tgt": "Gretel:o tenait:v la:o main:n de:o Hansel:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "Gretel was afraid, but Hansel was not.",
+   "tgt": "Gretel:o avait:v peur:n ,:o mais:o Hansel:o n':o avait:v pas:o peur:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Soon, the family came to a deeper part of the forest.",
+   "tgt": "Bientôt:a ,:o la:o famille:n arriva:v dans:o une:o partie:n plus:o profonde:a de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "Again, the woodcutter made a fire and said they would cut wood.",
+   "tgt": "De:o nouveau:a ,:o le:o bûcheron:n fit:v un:o feu:n et:o dit:v qu':o ils:o couperaient:v du:o bois:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "The stepmother and the woodcutter left again.",
+   "tgt": "La:o belle-mère:n et:o le:o bûcheron:n partirent:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 78,
+   "en": "Hansel and Gretel waited near the fire.",
+   "tgt": "Hansel:o et:o Gretel:o attendirent:v près:o du:o feu:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "Again, the fire grew small.",
+   "tgt": "De:o nouveau:a ,:o le:o feu:n devint:v petit:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "The children were alone in the dark forest again.",
+   "tgt": "De:o nouveau:a ,:o les:o enfants:n étaient:v seuls:a dans:o la:o sombre:a forêt:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "When night came, Hansel and Gretel got up.",
+   "tgt": "Quand:o la:o nuit:n tomba:v ,:o Hansel:o et:o Gretel:o se:o levèrent:v .:o"
+  },
+  {
+   "n": 82,
+   "en": "\"We can follow the crumbs home now,\" said Hansel.",
+   "tgt": "«:o Nous:o pouvons:v suivre:v les:o miettes:n jusqu':o à:o la:o maison:n maintenant:a ,:o »:o dit:v Hansel:o .:o"
+  },
+  {
+   "n": 83,
+   "en": "But the crumbs were gone.",
+   "tgt": "Mais:o les:o miettes:n avaient:v disparu:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "Birds had eaten every crumb.",
+   "tgt": "Les:o oiseaux:n avaient:v mangé:v chaque:o miette:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "They were lost.",
+   "tgt": "Ils:o étaient:v perdus:a .:o"
+  },
+  {
+   "n": 86,
+   "en": "The forest looked the same in every direction.",
+   "tgt": "La:o forêt:n semblait:v la:o même:a dans:o chaque:o direction:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "Gretel cried again.",
+   "tgt": "Gretel:o pleura:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 88,
+   "en": "Hansel was not afraid, but Gretel was.",
+   "tgt": "Hansel:o n':o était:v pas:o effrayé:a ,:o mais:o Gretel:o l':o était:v .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"We will get home soon,\" he said.",
+   "tgt": "«:o Nous:o rentrerons:v bientôt:a à:o la:o maison:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "But Hansel was not sure this time.",
+   "tgt": "Mais:o Hansel:o n':o était:v pas:o sûr:a cette:o fois:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "For three days, Hansel and Gretel walked in the forest.",
+   "tgt": "Pendant:o trois:o jours:n ,:o Hansel:o et:o Gretel:o marchèrent:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "They were hungry every day.",
+   "tgt": "Ils:o avaient:v faim:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "They had nothing to eat.",
+   "tgt": "Ils:o n':o avaient:v rien:o à:o manger:v .:o"
+  },
+  {
+   "n": 94,
+   "en": "Gretel could not walk in the forest.",
+   "tgt": "Gretel:o ne:o pouvait:v pas:o marcher:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Gretel cried, for she was hungry.",
+   "tgt": "Gretel:o pleura:v ,:o car:o elle:o avait:v faim:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "Hansel did not want Gretel to cry.",
+   "tgt": "Hansel:o ne:o voulait:v pas:o que:o Gretel:o pleure:v .:o"
+  },
+  {
+   "n": 97,
+   "en": "Then a white bird came to them.",
+   "tgt": "Alors:o ,:o un:o oiseau:n blanc:a vint:v vers:o eux:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "Hansel and Gretel followed the small bird.",
+   "tgt": "Hansel:o et:o Gretel:o suivirent:v le:o petit:a oiseau:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "The bird flew from tree to tree.",
+   "tgt": "L':o oiseau:n vola:v d':o arbre:n en:o arbre:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Soon, the bird led them to a small clearing.",
+   "tgt": "Bientôt:a ,:o l':o oiseau:n les:o conduisit:v à:o une:o petite:a clairière:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Ahead stood a strange house.",
+   "tgt": "Devant:o eux:o se:o dressait:v une:o maison:n étrange:a .:o"
+  },
+  {
+   "n": 102,
+   "en": "The old house was made of bread and sugar.",
+   "tgt": "La:o vieille:a maison:n était:v faite:a de:o pain:n et:o de:o sucre:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The forest was dark near the strange house.",
+   "tgt": "La:o forêt:n était:v sombre:a près:o de:o l':o étrange:a maison:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "Hansel and Gretel ate the bread and sugar.",
+   "tgt": "Hansel:o et:o Gretel:o mangèrent:v le:o pain:n et:o le:o sucre:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "Then an old woman came from the house.",
+   "tgt": "Puis:o une:o vieille:a femme:n vint:v de:o la:o maison:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "Hansel held Gretel's cold hand.",
+   "tgt": "Hansel:o tint:v la:o main:n froide:a de:o Gretel:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"Who eats my house?\" said the old woman.",
+   "tgt": "«:o Qui:o mange:v ma:o maison:n ?:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The old woman could not see well.",
+   "tgt": "La:o vieille:a femme:n ne:o pouvait:v pas:o bien:a voir:v .:o"
+  },
+  {
+   "n": 109,
+   "en": "She touched Hansel and Gretel with her cold hands.",
+   "tgt": "Elle:o toucha:v Hansel:o et:o Gretel:o avec:o ses:o mains:n froides:a .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"You poor children,\" said the old woman.",
+   "tgt": "«:o Vous:o pauvres:a enfants:n ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"Come inside, and I will feed you,\" she said.",
+   "tgt": "«:o Entrez:v ,:o et:o je:o vous:o nourrirai:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 112,
+   "en": "The poor children went inside with her.",
+   "tgt": "Les:o pauvres:a enfants:n entrèrent:v avec:o elle:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "The old woman had a plan.",
+   "tgt": "La:o vieille:a femme:n avait:v un:o plan:n .:o"
+  },
+  {
+   "n": 114,
+   "chapter": "The Witch's True Face",
+   "en": "The old witch lived alone in the little house near the forest.",
+   "tgt": "La:o vieille:a sorcière:n vivait:v seule:a dans:o la:o petite:a maison:n près:o de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "The old witch grabbed Hansel.",
+   "tgt": "La:o vieille:a sorcière:n attrapa:v Hansel:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "She put him in a cage in the house.",
+   "tgt": "Elle:o le:o mit:v dans:o une:o cage:n dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "The old witch locked the cage.",
+   "tgt": "La:o vieille:a sorcière:n ferma:v la:o cage:n à:o clé:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"You will grow fat here,\" said the witch.",
+   "tgt": "«:o Tu:o deviendras:v gros:a ici:a ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "\"Then I will eat you,\" she said.",
+   "tgt": "«:o Ensuite:a je:o te:o mangerai:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 120,
+   "en": "Gretel wanted to leave the house again, but she could not.",
+   "tgt": "Gretel:o voulait:v quitter:v la:o maison:n encore:a ,:o mais:o elle:o ne:o pouvait:v pas:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"You must cook and clean for me,\" said the witch.",
+   "tgt": "«:o Tu:o dois:v cuisiner:v et:o nettoyer:v pour:o moi:o ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "Every day, Gretel did what the old witch said.",
+   "tgt": "Chaque:o jour:n ,:o Gretel:o faisait:v ce:o que:o la:o vieille:a sorcière:n disait:v .:o"
+  },
+  {
+   "n": 123,
+   "en": "Gretel cooked and carried water for the witch.",
+   "tgt": "Gretel:o cuisinait:v et:o portait:v de:o l':o eau:n pour:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "Every day, the witch fed Hansel a lot of food again.",
+   "tgt": "Chaque:o jour:n ,:o la:o sorcière:n donnait:v à:o Hansel:o beaucoup:a de:o nourriture:n encore:a .:o"
+  },
+  {
+   "n": 125,
+   "en": "Hansel stayed in the cage for many days.",
+   "tgt": "Hansel:o resta:v dans:o la:o cage:n pendant:o beaucoup:o de:o jours:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The little cage was cold.",
+   "tgt": "La:o petite:a cage:n était:v froide:a .:o"
+  },
+  {
+   "n": 127,
+   "en": "Every day, the witch checked Hansel's finger.",
+   "tgt": "Chaque:o jour:n ,:o la:o sorcière:n vérifiait:v le:o doigt:n de:o Hansel:o .:o"
+  },
+  {
+   "n": 128,
+   "en": "She wanted to know if he was fat.",
+   "tgt": "Elle:o voulait:v savoir:v s':o il:o était:v gros:a .:o"
+  },
+  {
+   "n": 129,
+   "en": "But the witch could not see well.",
+   "tgt": "Mais:o la:o sorcière:n ne:o pouvait:v pas:o voir:v bien:a .:o"
+  },
+  {
+   "n": 130,
+   "en": "She touched his finger to check instead.",
+   "tgt": "Elle:o touchait:v son:o doigt:n pour:o vérifier:v à:o la:o place:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "Gretel was afraid every day and cooked food for the witch.",
+   "tgt": "Gretel:o avait:v peur:n chaque:o jour:n et:o cuisinait:v de:o la:o nourriture:n pour:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "The witch went away every day.",
+   "tgt": "La:o sorcière:n partait:v chaque:o jour:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "Hansel had an old bone in the cage.",
+   "tgt": "Hansel:o avait:v un:o vieux:a os:n dans:o la:o cage:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "He held out the bone, not his finger.",
+   "tgt": "Il:o tendit:v l':o os:n ,:o pas:o son:o doigt:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "The witch touched the thin bone.",
+   "tgt": "La:o sorcière:n toucha:v le:o mince:a os:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "\"You are still too thin,\" said the witch.",
+   "tgt": "«:o Tu:o es:v encore:a trop:a maigre:a ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "The witch put Hansel back in the cage.",
+   "tgt": "La:o sorcière:n remit:v Hansel:o dans:o la:o cage:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "She checked him again and again.",
+   "tgt": "Elle:o le:o vérifia:v encore:a et:o encore:a .:o"
+  },
+  {
+   "n": 139,
+   "en": "Hansel was still in the cage, but the witch would not wait.",
+   "tgt": "Hansel:o était:v encore:a dans:o la:o cage:n ,:o mais:o la:o sorcière:n ne:o voulait:v plus:o attendre:v .:o"
+  },
+  {
+   "n": 140,
+   "en": "\"I will cook Hansel,\" said the witch.",
+   "tgt": "«:o Je:o vais:v cuisiner:v Hansel:o ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The witch made the oven hot.",
+   "tgt": "La:o sorcière:n rendit:v le:o four:n chaud:a .:o"
+  },
+  {
+   "n": 142,
+   "en": "\"Gretel, look in the oven,\" said the witch.",
+   "tgt": "«:o Gretel:o ,:o regarde:v dans:o le:o four:n ,:o »:o dit:v la:o sorcière:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "Gretel did not want to lose Hansel.",
+   "tgt": "Gretel:o ne:o voulait:v pas:o perdre:v Hansel:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "Gretel did not know how to look in the oven.",
+   "tgt": "Gretel:o ne:o savait:v pas:o comment:o regarder:v dans:o le:o four:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"Show me how,\" said Gretel.",
+   "tgt": "«:o Montre:v -moi:o comment:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 146,
+   "en": "The witch put her head in the oven.",
+   "tgt": "La:o sorcière:n mit:v sa:o tête:n dans:o le:o four:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "Though afraid, Gretel loved Hansel and did what she must.",
+   "tgt": "Bien:o que:o effrayée:a ,:o Gretel:o aimait:v Hansel:o et:o fit:v ce:o qu':o elle:o devait:v .:o"
+  },
+  {
+   "n": 148,
+   "en": "Gretel pushed the witch in, and she could not get out.",
+   "tgt": "Gretel:o poussa:v la:o sorcière:n dedans:o ,:o et:o elle:o ne:o pouvait:v pas:o sortir:v .:o"
+  },
+  {
+   "n": 149,
+   "en": "Gretel shut the oven door.",
+   "tgt": "Gretel:o ferma:v la:o porte:n du:o four:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "The old witch died alone in the hot oven.",
+   "tgt": "La:o vieille:a sorcière:n mourut:v seule:a dans:o le:o four:n chaud:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "Hansel, still thin and afraid, heard the witch cry out.",
+   "tgt": "Hansel:o ,:o encore:o maigre:a et:o effrayé:a ,:o entendit:v la:o sorcière:n crier:v .:o"
+  },
+  {
+   "n": 152,
+   "en": "Gretel opened the cage, and Hansel came out to her.",
+   "tgt": "Gretel:o ouvrit:v la:o cage:n ,:o et:o Hansel:o sortit:v vers:o elle:o .:o"
+  },
+  {
+   "n": 153,
+   "en": "Hansel and Gretel looked around the witch's dark house.",
+   "tgt": "Hansel:o et:o Gretel:o regardèrent:v autour:o de:o la:o sombre:a maison:n de:o la:o sorcière:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "The house had gold.",
+   "tgt": "La:o maison:n avait:v de:o l':o or:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "Jewels and pearls were in the house too.",
+   "tgt": "Des:o bijoux:n et:o des:o perles:n étaient:v dans:o la:o maison:n aussi:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "Hansel filled his pockets with gold.",
+   "tgt": "Hansel:o remplit:v ses:o poches:n d':o or:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "Gretel filled her pockets with jewels and pearls.",
+   "tgt": "Gretel:o remplit:v ses:o poches:n de:o bijoux:n et:o de:o perles:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "\"We are rich,\" said Hansel.",
+   "tgt": "«:o Nous:o sommes:v riches:a ,:o »:o dit:v Hansel:o .:o"
+  },
+  {
+   "n": 159,
+   "en": "\"This gold will feed our family,\" he said.",
+   "tgt": "«:o Cet:o or:n nourrira:v notre:o famille:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 160,
+   "en": "Hansel and Gretel wanted to go home to see the woodcutter again.",
+   "tgt": "Hansel:o et:o Gretel:o voulaient:v rentrer:v chez:o eux:o pour:o revoir:v le:o bûcheron:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "Gretel held Hansel's hand and was glad to leave the dark house.",
+   "tgt": "Gretel:o tint:v la:o main:n de:o Hansel:o et:o était:v contente:a de:o quitter:v la:o maison:n sombre:a .:o"
+  },
+  {
+   "n": 162,
+   "en": "They left the witch's house and walked to the forest.",
+   "tgt": "Ils:o quittèrent:v la:o maison:n de:o la:o sorcière:n et:o marchèrent:v vers:o la:o forêt:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "Hansel and Gretel walked to a wide water.",
+   "tgt": "Hansel:o et:o Gretel:o marchèrent:v jusqu':o à:o une:o large:a étendue:n d':o eau:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "They could not cross the water.",
+   "tgt": "Ils:o ne:o pouvaient:v pas:o traverser:v l':o eau:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "A white duck came to them.",
+   "tgt": "Un:o canard:n blanc:a vint:v vers:o eux:o .:o"
+  },
+  {
+   "n": 166,
+   "en": "\"Will you carry us across the water?\" said Hansel.",
+   "tgt": "«:o Voulez-vous:v nous:o porter:v de:o l':o autre:o côté:n de:o l':o eau:n ?:o »:o dit:v Hansel:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "The duck carried Hansel across, and then Gretel too.",
+   "tgt": "Le:o canard:n porta:v Hansel:o de:o l':o autre:o côté:n ,:o puis:o Gretel:o aussi:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "They thanked the white duck, and the duck flew away.",
+   "tgt": "Ils:o remercièrent:v le:o canard:n blanc:a ,:o et:o le:o canard:n s':o envola:v .:o"
+  },
+  {
+   "n": 169,
+   "en": "The water was cold and wide.",
+   "tgt": "L':o eau:n était:v froide:a et:o large:a .:o"
+  },
+  {
+   "n": 170,
+   "en": "They walked in the dark forest again.",
+   "tgt": "Ils:o marchèrent:v de:o nouveau:a dans:o la:o sombre:a forêt:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "Hansel and Gretel followed the path home.",
+   "tgt": "Hansel:o et:o Gretel:o suivirent:v le:o chemin:n vers:o la:o maison:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "They walked for three days.",
+   "tgt": "Ils:o marchèrent:v pendant:o trois:o jours:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "The forest was cold in the night.",
+   "tgt": "La:o forêt:n était:v froide:a la:o nuit:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "They still had gold in their pockets.",
+   "tgt": "Ils:o avaient:v encore:a de:o l':o or:n dans:o leurs:o poches:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "Soon they saw their old house.",
+   "tgt": "Bientôt:a ils:o virent:v leur:o vieille:a maison:n .:o"
+  },
+  {
+   "n": 176,
+   "en": "The woodcutter was alone and sad every day.",
+   "tgt": "Le:o bûcheron:n était:v seul:a et:o triste:a chaque:o jour:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "The stepmother was gone.",
+   "tgt": "La:o belle-mère:n était:v partie:a .:o"
+  },
+  {
+   "n": 178,
+   "en": "Hansel and Gretel went to him.",
+   "tgt": "Hansel:o et:o Gretel:o allèrent:v vers:o lui:o .:o"
+  },
+  {
+   "n": 179,
+   "en": "\"You are home!\" said the woodcutter.",
+   "tgt": "«:o Tu:o es:v à:o la:o maison:n !:o »:o dit:v le:o bûcheron:n .:o"
+  },
+  {
+   "n": 180,
+   "en": "He held Hansel and Gretel again.",
+   "tgt": "Il:o serra:v Hansel:o et:o Gretel:o de:o nouveau:a .:o"
+  },
+  {
+   "n": 181,
+   "en": "The woodcutter cried from joy.",
+   "tgt": "Le:o bûcheron:n pleura:v de:o joie:n .:o"
+  },
+  {
+   "n": 182,
+   "en": "Hansel gave him the gold and jewels.",
+   "tgt": "Hansel:o lui:o donna:v l':o or:n et:o les:o joyaux:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "The gold shone in the woodcutter's hands.",
+   "tgt": "L':o or:n brillait:v dans:o les:o mains:n du:o bûcheron:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "\"This gold will feed our family,\" said Hansel.",
+   "tgt": "«:o Cette:o or:n nourrira:v notre:o famille:n »:o ,:o dit:v Hansel:o .:o"
+  },
+  {
+   "n": 185,
+   "en": "The family was not poor now, and they were never hungry again.",
+   "tgt": "La:o famille:n n':o était:v plus:o pauvre:a ,:o et:o ils:o n':o avaient:v plus:o jamais:a faim:n .:o"
+  }
+ ]
+}

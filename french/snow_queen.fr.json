@@ -1,0 +1,1056 @@
+{
+ "slug": "snow_queen",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Troll's Mirror",
+   "en": "Long ago, a troll made a mirror.",
+   "tgt": "Il:o y:o avait:v autrefois:a un:o troll:o qui:o fabriqua:v un:o miroir:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "This troll loved to trick and laugh at people.",
+   "tgt": "Ce:o troll:o aimait:v tromper:v et:o se:o moquer:v des:o gens:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The mirror changed how things looked.",
+   "tgt": "Le:o miroir:n changeait:v l':o apparence:n des:o choses:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "Good things looked bad in the mirror.",
+   "tgt": "Les:o bonnes:a choses:n semblaient:v mauvaises:a dans:o le:o miroir:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "A kind face looked cruel in the mirror.",
+   "tgt": "Un:o visage:n aimable:a semblait:v cruel:a dans:o le:o miroir:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The mirror made bad things look worse.",
+   "tgt": "Le:o miroir:n faisait:v paraître:v les:o mauvaises:a choses:n encore:a pires:a .:o"
+  },
+  {
+   "n": 7,
+   "en": "The troll carried the mirror from town to town.",
+   "tgt": "Le:o troll:o porta:v le:o miroir:n de:o ville:n en:o ville:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "He looked at what the mirror showed and laughed.",
+   "tgt": "Il:o regardait:v ce:o que:o le:o miroir:n montrait:v et:o riait:v .:o"
+  },
+  {
+   "n": 9,
+   "en": "One day, the troll climbed a mountain with the mirror.",
+   "tgt": "Un:o jour:n ,:o le:o troll:o gravit:v une:o montagne:n avec:o le:o miroir:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "He held the mirror up to look at the whole world.",
+   "tgt": "Il:o leva:v le:o miroir:n pour:o regarder:v le:o monde:n entier:a .:o"
+  },
+  {
+   "n": 11,
+   "en": "The mirror grew heavy in his hands.",
+   "tgt": "Le:o miroir:n devint:v lourd:a dans:o ses:o mains:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "It slipped and fell.",
+   "tgt": "Il:o glissa:v et:o tomba:v .:o"
+  },
+  {
+   "n": 13,
+   "en": "The mirror broke into small splinters on the rocks.",
+   "tgt": "Le:o miroir:n se:o brisa:v en:o petits:a éclats:n sur:o les:o rochers:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "A cold wind carried the splinters across the world.",
+   "tgt": "Un:o vent:n froid:a porta:v les:o éclats:n à:o travers:o le:o monde:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "A splinter in the eye made everything look bad.",
+   "tgt": "Un:o éclat:n dans:o l':o œil:n faisait:v tout:o paraître:v mauvais:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "A splinter in the heart made it cold.",
+   "tgt": "Un:o éclat:n dans:o le:o cœur:n le:o rendait:v froid:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "In a small town, Kai and Gerda lived in two houses, side by side.",
+   "tgt": "Dans:o une:o petite:a ville:n ,:o Kai:o et:o Gerda:o vivaient:v dans:o deux:o maisons:n ,:o côte:n à:o côte:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Each house had a box of roses by its window.",
+   "tgt": "Chaque:o maison:n avait:v une:o caisse:n de:o roses:n près:o de:o sa:o fenêtre:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "The two boxes had a board between them.",
+   "tgt": "Les:o deux:o caisses:n avaient:v une:o planche:n entre:o elles:o .:o"
+  },
+  {
+   "n": 20,
+   "en": "Kai and Gerda climbed across the board each day.",
+   "tgt": "Kai:o et:o Gerda:o traversaient:v la:o planche:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "They loved each other like brother and sister.",
+   "tgt": "Ils:o s':o aimaient:v comme:o frère:n et:o sœur:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "In winter, Kai's grandmother told them of the Snow Queen by the fire.",
+   "tgt": "En:o hiver:n ,:o la:o grand-mère:n de:o Kai:o leur:o parla:v de:o la:o Reine:n des:o Neiges:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The Snow Queen lived in the snow and cold.",
+   "tgt": "La:o Reine:n des:o Neiges:n vivait:v dans:o la:o neige:n et:o le:o froid:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "\"She looked in at windows and made them cold with frost,\" said grandmother.",
+   "tgt": "«:o Elle:o regardait:v par:o les:o fenêtres:n et:o les:o rendait:v froides:a avec:o le:o givre:n ,:o »:o dit:v grand-mère:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"She had a palace of ice, up in the north,\" grandmother said.",
+   "tgt": "«:o Elle:o avait:v un:o palais:n de:o glace:n ,:o là-haut:a dans:o le:o nord:n ,:o »:o dit:v grand-mère:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "Kai looked at the frost on his window.",
+   "tgt": "Kai:o regarda:v le:o givre:n sur:o sa:o fenêtre:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "Kai said he would put the Snow Queen by the warm fire.",
+   "tgt": "Kai:o dit:v qu':o il:o mettrait:v la:o Reine:n des:o Neiges:n près:o du:o feu:n chaud:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "Gerda laughed at this.",
+   "tgt": "Gerda:o rit:v de:o cela:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "Kai and Gerda looked at their roses each day.",
+   "tgt": "Kai:o et:o Gerda:o regardaient:v leurs:o roses:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "One cold winter night, Kai sat by his small window.",
+   "tgt": "Un:o froid:a soir:n d':o hiver:n ,:o Kai:o était:v assis:a près:o de:o sa:o petite:a fenêtre:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "A cold wind blew a small splinter into Kai's eye.",
+   "tgt": "Un:o vent:n froid:a souffla:v une:o petite:a éclat:n dans:o l':o œil:n de:o Kai:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "Kai rubbed his eye with his hand, but the splinter stayed.",
+   "tgt": "Kai:o se:o frotta:v l':o œil:n avec:o sa:o main:n ,:o mais:o l':o éclat:n resta:v .:o"
+  },
+  {
+   "n": 33,
+   "en": "That night, another splinter went into Kai's heart, and it stayed.",
+   "tgt": "Cette:o nuit-là:n ,:o une:o autre:o éclat:n entra:v dans:o le:o cœur:n de:o Kai:o ,:o et:o elle:o y:o resta:v .:o"
+  },
+  {
+   "n": 34,
+   "en": "The splinter in his eye made Kai see only what was bad.",
+   "tgt": "L':o éclat:n dans:o son:o œil:n fit:v Kai:o voir:v seulement:a ce:o qui:o était:v mauvais:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "The splinter in his heart made it cold, like the wind and the snow.",
+   "tgt": "L':o éclat:n dans:o son:o cœur:n le:o rendit:v froid:a ,:o comme:o le:o vent:n et:o la:o neige:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "Kai's heart was cold like the snow, so he no longer loved Gerda.",
+   "tgt": "Le:o cœur:n de:o Kai:o était:v froid:a comme:o la:o neige:n ,:o alors:o il:o n':o aimait:v plus:o Gerda:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "That day, Kai looked at Gerda's roses and said they were bad.",
+   "tgt": "Ce:o jour-là:o ,:o Kai:o regarda:v les:o roses:n de:o Gerda:o et:o dit:v qu':o elles:o étaient:v mauvaises:a .:o"
+  },
+  {
+   "n": 38,
+   "en": "He pulled the roses from their box and threw them.",
+   "tgt": "Il:o arracha:v les:o roses:n de:o leur:o boîte:n et:o les:o jeta:v .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"Stop!\" Gerda said to Kai, but Kai only laughed.",
+   "tgt": "«:o Arrête:v !:o »:o dit:v Gerda:o à:o Kai:o ,:o mais:o Kai:o ne:o fit:v que:o rire:v .:o"
+  },
+  {
+   "n": 40,
+   "en": "Gerda did not want this bad change, but Kai would not stop.",
+   "tgt": "Gerda:o ne:o voulait:v pas:o ce:o mauvais:a changement:n ,:o mais:o Kai:o ne:o voulait:v pas:o s':o arrêter:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "Kai no longer wanted to sit by the roses with Gerda.",
+   "tgt": "Kai:o ne:o voulait:v plus:o s':o asseoir:v près:o des:o roses:n avec:o Gerda:o .:o"
+  },
+  {
+   "n": 42,
+   "en": "Gerda did not know why Kai had changed.",
+   "tgt": "Gerda:o ne:o savait:v pas:o pourquoi:o Kai:o avait:v changé:v .:o"
+  },
+  {
+   "n": 43,
+   "chapter": "The Snow Queen's Sledge",
+   "en": "Winter came, and snow lay on the town.",
+   "tgt": "L':o hiver:n arriva:v ,:o et:o la:o neige:n recouvrit:v la:o ville:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "Boys carried their sleds to the town square.",
+   "tgt": "Des:o garçons:n portèrent:v leurs:o luges:n à:o la:o place:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "Kai went to the square with his sled.",
+   "tgt": "Kai:o alla:v à:o la:o place:n avec:o sa:o traîneau:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "A white sledge came fast into the square.",
+   "tgt": "Un:o grand:a traîneau:n blanc:a entra:v rapidement:a dans:o la:o place:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "A driver in white fur sat in the sledge.",
+   "tgt": "Un:o conducteur:n en:o fourrure:n blanche:a était:v assis:a dans:o le:o traîneau:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "Kai tied his sled to the white sledge.",
+   "tgt": "Kai:o attacha:v sa:o traîneau:n au:o grand:a traîneau:n blanc:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "The sledge flew out of the square and into the town.",
+   "tgt": "Le:o traîneau:n s':o élança:v hors:o de:o la:o place:n et:o dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Kai wanted to go home, afraid of the fast ride.",
+   "tgt": "Kai:o voulait:v rentrer:v chez:o lui:o ,:o effrayé:a par:o la:o course:n rapide:a .:o"
+  },
+  {
+   "n": 51,
+   "en": "He thought of his warm house and grandmother by the fire.",
+   "tgt": "Il:o pensa:v à:o sa:o maison:n chaude:a et:o à:o sa:o grand-mère:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The sledge went out of the town, into the snow.",
+   "tgt": "Le:o traîneau:n sortit:v de:o la:o ville:n ,:o dans:o la:o neige:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Kai's hands were too cold to move, and the cold wind hurt his face.",
+   "tgt": "Les:o mains:n de:o Kai:o étaient:v trop:a froides:a pour:o bouger:v ,:o et:o le:o vent:n froid:a blessa:v son:o visage:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "Kai called out, afraid, but no one heard him.",
+   "tgt": "Kai:o cria:v ,:o effrayé:a ,:o mais:o personne:o ne:o l':o entendit:v .:o"
+  },
+  {
+   "n": 55,
+   "en": "The sledge stopped, and the driver looked at Kai.",
+   "tgt": "Le:o traîneau:n s':o arrêta:v ,:o et:o le:o conducteur:n regarda:v Kai:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "The driver was the Snow Queen, in white fur.",
+   "tgt": "Le:o conducteur:n était:v la:o Reine:n des:o Neiges:n ,:o en:o fourrure:n blanche:a .:o"
+  },
+  {
+   "n": 57,
+   "en": "Her eyes were as cold as the snow and the wind.",
+   "tgt": "Ses:o yeux:n étaient:v aussi:a froids:a que:o la:o neige:n et:o le:o vent:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The Snow Queen put Kai into her sledge and wrapped him in fur.",
+   "tgt": "La:o Reine:n des:o Neiges:n mit:v Kai:o dans:o son:o traîneau:n et:o l':o enveloppa:v dans:o de:o la:o fourrure:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "In the cold night, the Snow Queen kissed Kai, and the cold left him.",
+   "tgt": "Dans:o la:o froide:a nuit:n ,:o la:o Reine:n des:o Neiges:n embrassa:v Kai:o ,:o et:o le:o froid:n le:o quitta:v .:o"
+  },
+  {
+   "n": 60,
+   "en": "The kiss made Kai forget Gerda, his grandmother, and his warm home.",
+   "tgt": "Le:o baiser:n fit:v oublier:v à:o Kai:o Gerda:o ,:o sa:o grand-mère:n ,:o et:o sa:o maison:n chaude:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "The sledge flew north, and Kai was gone from the cold town.",
+   "tgt": "Le:o traîneau:n vola:v vers:o le:o nord:n ,:o et:o Kai:o avait:v disparu:v de:o la:o froide:a ville:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Grandmother and Gerda stayed by day and by night, but Kai did not come home.",
+   "tgt": "Grand-mère:n et:o Gerda:o attendirent:v jour:n et:o nuit:n ,:o mais:o Kai:o ne:o rentra:v pas:o .:o"
+  },
+  {
+   "n": 63,
+   "en": "People in the cold town said that Kai had fallen and was gone from home.",
+   "tgt": "Les:o gens:n de:o la:o froide:a ville:n dirent:v que:o Kai:o était:v tombé:v et:o avait:v disparu:v de:o chez:o lui:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "Gerda did not believe this, for she had not seen it.",
+   "tgt": "Gerda:o ne:o crut:v pas:o cela:o ,:o car:o elle:o ne:o l':o avait:v pas:o vu:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "Spring came, and the snow melted from the town and the small house.",
+   "tgt": "Le:o printemps:n arriva:v ,:o et:o la:o neige:n fondit:v sur:o la:o ville:n et:o la:o petite:a maison:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Their roses bloomed in the window boxes that spring.",
+   "tgt": "Leurs:o roses:n fleurirent:v dans:o les:o jardinières:n de:o fenêtre:n ce:o printemps-là:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "Gerda looked at the roses in the window and thought of Kai and of home.",
+   "tgt": "Gerda:o regarda:v les:o roses:n dans:o la:o fenêtre:n et:o pensa:v à:o Kai:o et:o à:o la:o maison:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "\"I will go and find Kai now,\" Gerda said to grandmother by the fire.",
+   "tgt": "«:o Je:o vais:v aller:v trouver:v Kai:o maintenant:a ,:o »:o dit:v Gerda:o à:o grand-mère:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "Grandmother did not think Gerda would find Kai.",
+   "tgt": "Grand-mère:n ne:o pensait:v pas:o que:o Gerda:o trouverait:v Kai:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "Gerda put on warm clothes and left the small house alone that cold day.",
+   "tgt": "Gerda:o mit:v des:o vêtements:n chauds:a et:o quitta:v la:o petite:a maison:n seule:a ce:o jour-là:o froid:a .:o"
+  },
+  {
+   "n": 71,
+   "en": "She went for days, north, into the cold snow, to look for Kai.",
+   "tgt": "Elle:o marcha:v pendant:o des:o jours:n ,:o vers:o le:o nord:n ,:o dans:o la:o neige:n froide:a ,:o pour:o chercher:v Kai:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "Gerda walked on and came to a great town with a palace.",
+   "tgt": "Gerda:o continua:v à:o marcher:v et:o arriva:v dans:o une:o grande:a ville:n avec:o un:o palais:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Gerda had walked for many days, and she was tired and cold.",
+   "tgt": "Gerda:o avait:v marché:v pendant:o de:o nombreux:a jours:n ,:o et:o elle:o était:v fatiguée:a et:o froide:a .:o"
+  },
+  {
+   "n": 74,
+   "en": "That night, Gerda went into the palace to look for Kai.",
+   "tgt": "Ce:o soir-là:a ,:o Gerda:o entra:v dans:o le:o palais:n pour:o chercher:v Kai:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "She came to a room where a prince and princess were asleep.",
+   "tgt": "Elle:o arriva:v dans:o une:o pièce:n où:o un:o prince:n et:o une:o princesse:n dormaient:v .:o"
+  },
+  {
+   "n": 76,
+   "en": "Gerda called out for Kai, and the prince and princess woke.",
+   "tgt": "Gerda:o appela:v Kai:o ,:o et:o le:o prince:n et:o la:o princesse:n se:o réveillèrent:v .:o"
+  },
+  {
+   "n": 77,
+   "en": "But the prince was not Kai, only a boy that looked like him.",
+   "tgt": "Mais:o le:o prince:n n':o était:v pas:o Kai:o ,:o seulement:a un:o garçon:n qui:o lui:o ressemblait:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "Gerda told the prince and princess about Kai and the Snow Queen.",
+   "tgt": "Gerda:o parla:v au:o prince:n et:o à:o la:o princesse:n de:o Kai:o et:o de:o la:o Reine:n des:o Neiges:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "The prince and princess were kind, and they listened to her tale.",
+   "tgt": "Le:o prince:n et:o la:o princesse:n étaient:v aimables:a ,:o et:o ils:o écoutèrent:v son:o récit:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "They believed her tale of the cold Snow Queen.",
+   "tgt": "Ils:o crurent:v son:o récit:n de:o la:o froide:a Reine:n des:o Neiges:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "The next day, they gave Gerda warm clothes for her walk north.",
+   "tgt": "Le:o lendemain:n ,:o ils:o donnèrent:v à:o Gerda:o des:o vêtements:n chauds:a pour:o sa:o marche:n vers:o le:o nord:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "They gave her a golden coach to ride north, too.",
+   "tgt": "Ils:o lui:o donnèrent:v aussi:a un:o carrosse:n doré:a pour:o voyager:v vers:o le:o nord:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "Gerda thanked the prince and princess and rode north in the coach.",
+   "tgt": "Gerda:o remercia:v le:o prince:n et:o la:o princesse:n et:o repartit:v vers:o le:o nord:n dans:o le:o carrosse:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "The golden coach carried Gerda north, into the cold and snow.",
+   "tgt": "Le:o carrosse:n doré:a porta:v Gerda:o vers:o le:o nord:n ,:o dans:o le:o froid:n et:o la:o neige:n .:o"
+  },
+  {
+   "n": 85,
+   "chapter": "Robbers in the Forest",
+   "en": "The golden coach went into a forest, and Gerda was cold and afraid.",
+   "tgt": "Le:o carrosse:n doré:a entra:v dans:o une:o forêt:n ,:o et:o Gerda:o avait:v froid:a et:o peur:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "Many robbers came out of the dark forest and stopped the coach.",
+   "tgt": "Beaucoup:o de:o brigands:n sortirent:v de:o la:o sombre:a forêt:n et:o arrêtèrent:v le:o carrosse:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "An old robber woman looked into the coach at Gerda.",
+   "tgt": "Une:o vieille:a femme:n brigand:n regarda:v dans:o le:o carrosse:n vers:o Gerda:o .:o"
+  },
+  {
+   "n": 88,
+   "en": "She pulled out a long knife to hurt Gerda for the golden coach.",
+   "tgt": "Elle:o sortit:v un:o long:a couteau:n pour:o blesser:v Gerda:o à:o cause:n du:o carrosse:n doré:a .:o"
+  },
+  {
+   "n": 89,
+   "en": "But the old robber woman had a daughter.",
+   "tgt": "Mais:o la:o vieille:a femme:n brigand:n avait:v une:o fille:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "The daughter was a rough girl that carried a knife.",
+   "tgt": "La:o fille:n était:v une:o fille:n rude:a qui:o portait:v un:o couteau:n .:o"
+  },
+  {
+   "n": 91,
+   "en": "\"Stop! I want her!\" the daughter said to her mother.",
+   "tgt": "«:o Arrête:v !:o Je:o la:o veux:v !:o »:o dit:v -elle:o à:o sa:o mère:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "The daughter stopped her mother's knife with her hand.",
+   "tgt": "La:o fille:n arrêta:v le:o couteau:n de:o sa:o mère:n avec:o sa:o main:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The robber girl was rough, but she smiled at Gerda.",
+   "tgt": "La:o fille:n brigand:n était:v rude:a ,:o mais:o elle:o sourit:v à:o Gerda:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "The robber girl had Gerda now, not her old mother.",
+   "tgt": "La:o fille:n brigand:n avait:v Gerda:o maintenant:a ,:o pas:o sa:o vieille:a mère:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "The old robber woman did not want this, but she let Gerda go.",
+   "tgt": "La:o vieille:a femme:n brigand:n ne:o voulait:v pas:o cela:o ,:o mais:o elle:o laissa:v Gerda:o partir:v .:o"
+  },
+  {
+   "n": 96,
+   "en": "The robber girl led Gerda to a castle in the forest.",
+   "tgt": "La:o fille:n du:o brigand:n conduisit:v Gerda:o à:o un:o château:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"You will live with me in this castle now,\" the robber girl said.",
+   "tgt": "«:o Tu:o vivras:v avec:o moi:o dans:o ce:o château:n maintenant:a ,:o »:o dit:v la:o fille:n du:o brigand:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "Night fell as they came to the castle, and Gerda stayed close to the girl.",
+   "tgt": "La:o nuit:n tomba:v quand:o ils:o arrivèrent:v au:o château:n ,:o et:o Gerda:o resta:v près:a de:o la:o fille:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "The robber girl's castle held many robbers.",
+   "tgt": "Le:o château:n de:o la:o fille:n du:o brigand:n abritait:v beaucoup:a de:o brigands:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "The robber girl led Gerda to a corner of the castle.",
+   "tgt": "La:o fille:n du:o brigand:n conduisit:v Gerda:o dans:o un:o coin:n du:o château:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "She kept many animals in this castle, from the forest.",
+   "tgt": "Elle:o gardait:v beaucoup:a d':o animaux:n dans:o ce:o château:n ,:o venus:a de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "Wood pigeons sat in a cage in the castle.",
+   "tgt": "Des:o pigeons:n ramiers:a étaient:v assis:a dans:o une:o cage:n dans:o le:o château:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "A reindeer stood tied by a rope in the corner.",
+   "tgt": "Un:o renne:n se:o tenait:v attaché:a par:o une:o corde:n dans:o le:o coin:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"The reindeer came from the north,\" the robber girl said.",
+   "tgt": "«:o Le:o renne:n venait:v du:o nord:n ,:o »:o dit:v la:o fille:n du:o brigand:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "She held her knife near the reindeer, and it did not move.",
+   "tgt": "Elle:o tint:v son:o couteau:n près:a du:o renne:n ,:o et:o il:o ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "That night, Gerda and the robber girl lay on a bed of straw.",
+   "tgt": "Cette:o nuit-là:a ,:o Gerda:o et:o la:o fille:n du:o brigand:n s':o allongèrent:v sur:o un:o lit:n de:o paille:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "The robber girl kept her knife in her hand, near Gerda, that night.",
+   "tgt": "La:o fille:n du:o brigand:n garda:v son:o couteau:n dans:o sa:o main:n ,:o près:o de:o Gerda:o ,:o cette:o nuit-là:o .:o"
+  },
+  {
+   "n": 108,
+   "en": "\"If anyone comes near you, I will use this,\" she said to Gerda.",
+   "tgt": "«:o Si:o quelqu':o un:o s':o approche:v de:o toi:o ,:o j':o utiliserai:v ceci:o »:o ,:o dit:v -elle:o à:o Gerda:o .:o"
+  },
+  {
+   "n": 109,
+   "en": "Gerda was afraid to move in this castle, but not afraid of the robber girl.",
+   "tgt": "Gerda:o avait:v peur:n de:o bouger:v dans:o ce:o château:n ,:o mais:o n':o avait:v pas:o peur:n de:o la:o fille:n du:o brigand:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"Why do you want to find this boy?\" the robber girl asked.",
+   "tgt": "«:o Pourquoi:o veux:v -tu:o trouver:v ce:o garçon:n ?:o »:o demanda:v la:o fille:n du:o brigand:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "Gerda told her of Kai, the splinters, and the Snow Queen's sledge that night.",
+   "tgt": "Gerda:o lui:o parla:v de:o Kai:o ,:o des:o éclats:n ,:o et:o du:o traîneau:n de:o la:o Reine:o des:o Neiges:o cette:o nuit-là:o .:o"
+  },
+  {
+   "n": 112,
+   "en": "The robber girl listened and said nothing.",
+   "tgt": "La:o fille:n du:o brigand:n écouta:v et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 113,
+   "en": "The next day, Gerda asked the wood pigeons if they had seen Kai.",
+   "tgt": "Le:o lendemain:n ,:o Gerda:o demanda:v aux:o pigeons:n ramiers:n s':o ils:o avaient:v vu:v Kai:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "\"We saw a sled tied to a white sledge,\" the pigeons said.",
+   "tgt": "«:o Nous:o avons:v vu:v un:o traîneau:n attaché:a à:o un:o grand:a traîneau:n blanc:a »:o ,:o dirent:v les:o pigeons:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "\"It flew over the forest and went north,\" they said.",
+   "tgt": "«:o Il:o vola:v au-dessus:o de:o la:o forêt:n et:o alla:v vers:o le:o nord:n »:o ,:o dirent:v -ils:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "The reindeer said he knew the way to the north.",
+   "tgt": "Le:o renne:n dit:v qu':o il:o connaissait:v le:o chemin:n vers:o le:o nord:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"The robbers tied me in this castle,\" the reindeer said.",
+   "tgt": "«:o Les:o brigands:n m':o ont:v attaché:v dans:o ce:o château:n »:o ,:o dit:v le:o renne:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"Go with the reindeer,\" the robber girl said.",
+   "tgt": "«:o Pars:v avec:o le:o renne:n ,:o »:o dit:v la:o fille:n du:o brigand:n .:o"
+  },
+  {
+   "n": 119,
+   "en": "She cut the rope from the reindeer and helped him go.",
+   "tgt": "Elle:o coupa:v la:o corde:n du:o renne:n et:o l':o aida:v à:o partir:v .:o"
+  },
+  {
+   "n": 120,
+   "en": "The robber girl gave Gerda warm mittens and warm clothes for the way.",
+   "tgt": "La:o fille:n du:o brigand:n donna:v à:o Gerda:o de:o chaudes:a moufles:n et:o de:o chauds:a vêtements:n pour:o le:o chemin:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "She helped Gerda climb onto the reindeer's warm back, with the mittens.",
+   "tgt": "Elle:o aida:v Gerda:o à:o monter:v sur:o le:o dos:n chaud:a du:o renne:n ,:o avec:o les:o moufles:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "\"If you do not find your Kai, come back to me,\" she said.",
+   "tgt": "«:o Si:o tu:o ne:o trouves:v pas:o ton:o Kai:o ,:o reviens:v vers:o moi:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 123,
+   "en": "Gerda thanked the robber girl and the reindeer for her help, and her mittens.",
+   "tgt": "Gerda:o remercia:v la:o fille:n du:o brigand:n et:o le:o renne:n pour:o son:o aide:n ,:o et:o ses:o moufles:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"Go and find your Kai,\" the robber girl said, and smiled.",
+   "tgt": "«:o Va:v et:o trouve:v ton:o Kai:o ,:o »:o dit:v la:o fille:n du:o brigand:n ,:o et:o elle:o sourit:v .:o"
+  },
+  {
+   "n": 125,
+   "en": "The reindeer ran out of the castle and into the forest, to the north.",
+   "tgt": "Le:o renne:n courut:v hors:o du:o château:n et:o dans:o la:o forêt:n ,:o vers:o le:o nord:n .:o"
+  },
+  {
+   "n": 126,
+   "chapter": "Northward with the Reindeer",
+   "en": "The reindeer ran north through the cold night.",
+   "tgt": "Le:o renne:n courut:v vers:o le:o nord:n à:o travers:o la:o froide:a nuit:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "Gerda put on the warm mittens from the robber girl, and was not afraid.",
+   "tgt": "Gerda:o mit:v les:o chaudes:a moufles:n de:o la:o fille:n du:o brigand:n ,:o et:o n':o eut:v pas:o peur:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "Lights of many colors moved across the night sky.",
+   "tgt": "Des:o lumières:n de:o nombreuses:a couleurs:n traversèrent:v le:o ciel:n nocturne:a .:o"
+  },
+  {
+   "n": 129,
+   "en": "\"The lights come from the cold north, from the Snow Queen,\" the reindeer said.",
+   "tgt": "«:o Les:o lumières:n viennent:v du:o froid:a nord:n ,:o de:o la:o Reine:o des:o Neiges:o ,:o »:o dit:v le:o renne:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "\"I saw her palace of ice,\" he said.",
+   "tgt": "«:o J':o ai:v vu:v son:o palais:n de:o glace:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 131,
+   "en": "\"It stood on ice, cold and white,\" said the reindeer.",
+   "tgt": "«:o Il:o se:o tenait:v sur:o la:o glace:n ,:o froid:a et:o blanc:a ,:o »:o dit:v le:o renne:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "Gerda asked the reindeer if Kai was in the palace of ice.",
+   "tgt": "Gerda:o demanda:v au:o renne:n si:o Kai:o était:v dans:o le:o palais:n de:o glace:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "The reindeer did not know.",
+   "tgt": "Le:o renne:n ne:o savait:v pas:o .:o"
+  },
+  {
+   "n": 134,
+   "en": "Gerda listened to the reindeer and grew a little afraid of the cold north.",
+   "tgt": "Gerda:o écouta:v le:o renne:n et:o devint:v un:o peu:a effrayée:a par:o le:o froid:a nord:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "But she did not turn back.",
+   "tgt": "Mais:o elle:o ne:o fit:v pas:o demi-tour:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "For many days and nights, the reindeer ran on.",
+   "tgt": "Pendant:o de:o nombreux:a jours:n et:o nuits:n ,:o le:o renne:n continua:v sa:o course:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "At last, they came to a small house in the cold world.",
+   "tgt": "Enfin:a ,:o ils:o arrivèrent:v à:o une:o petite:a maison:n dans:o le:o monde:n froid:a .:o"
+  },
+  {
+   "n": 138,
+   "en": "A wise woman lived there.",
+   "tgt": "Une:o femme:n sage:a vivait:v là:a .:o"
+  },
+  {
+   "n": 139,
+   "en": "The reindeer stopped at her house.",
+   "tgt": "Le:o renne:n s':o arrêta:v à:o sa:o maison:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "The wise woman looked out at Gerda and the reindeer.",
+   "tgt": "La:o femme:n sage:a regarda:v Gerda:o et:o le:o renne:n par:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "The house was small and warm, inside and out.",
+   "tgt": "La:o maison:n était:v petite:a et:o chaude:a ,:o à:o l':o intérieur:n comme:o à:o l':o extérieur:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "\"Come inside, out of the cold,\" she said.",
+   "tgt": "«:o Entrez:v ,:o venez:v vous:o mettre:v à:o l':o abri:n du:o froid:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "Gerda told her the tale, from the mirror to the Snow Queen.",
+   "tgt": "Gerda:o lui:o raconta:v l':o histoire:n ,:o depuis:o le:o miroir:n jusqu':o à:o la:o Reine:o des:o Neiges:o .:o"
+  },
+  {
+   "n": 144,
+   "en": "The wise woman listened to Gerda and said nothing.",
+   "tgt": "La:o femme:n sage:a écouta:v Gerda:o et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"The Snow Queen's palace is many cold days north,\" she said.",
+   "tgt": "«:o Le:o palais:n de:o la:o Reine:o des:o Neiges:o est:v à:o plusieurs:o jours:n froids:a vers:o le:o nord:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"Kai sits in that palace now, his heart cold from the splinter,\" she said.",
+   "tgt": "«:o Kai:o est:v assis:a dans:o ce:o palais:n maintenant:a ,:o son:o cœur:n froid:a à:o cause:n de:o l':o éclat:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 147,
+   "en": "\"Will you give Gerda magic to help her?\" the reindeer asked.",
+   "tgt": "«:o Pouvez:v -vous:o donner:v à:o Gerda:o de:o la:o magie:n pour:o l':o aider:v ?:o »:o demanda:v le:o renne:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "\"I have no more power to give her,\" the wise woman said.",
+   "tgt": "«:o Je:o n':o ai:v plus:o le:o pouvoir:n de:o lui:o en:o donner:v ,:o »:o dit:v la:o femme:n sage:a .:o"
+  },
+  {
+   "n": 149,
+   "en": "\"Her strength is her loving heart,\" said the wise woman.",
+   "tgt": "«:o Sa:o force:n est:v son:o cœur:n aimant:a ,:o »:o dit:v la:o femme:n sage:a .:o"
+  },
+  {
+   "n": 150,
+   "en": "\"That is more than any magic in the north,\" she said.",
+   "tgt": "«:o C':o est:v plus:a que:o toute:o magie:n du:o nord:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 151,
+   "en": "\"Leave her before the palace,\" she told the reindeer.",
+   "tgt": "«:o Laisse:v -la:o devant:o le:o palais:n ,:o »:o dit:v -elle:o au:o renne:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "\"From there, she will go on alone,\" the wise woman said.",
+   "tgt": "«:o De:o là:a ,:o elle:o ira:v seule:a ,:o »:o dit:v la:o femme:n sage:a .:o"
+  },
+  {
+   "n": 153,
+   "en": "The reindeer thanked her, and they went on into the cold.",
+   "tgt": "Le:o renne:n la:o remercia:v ,:o et:o ils:o continuèrent:v dans:o le:o froid:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "The reindeer ran for two more days, and the cold grew worse and worse.",
+   "tgt": "Le:o renne:n courut:v pendant:o deux:o jours:n de:o plus:a ,:o et:o le:o froid:n devint:v de:o plus:a en:o plus:a intense:a .:o"
+  },
+  {
+   "n": 155,
+   "en": "The reindeer came to the last of the cold world, and stopped.",
+   "tgt": "Le:o renne:n arriva:v au:o bout:n du:o monde:n froid:a ,:o et:o s':o arrêta:v .:o"
+  },
+  {
+   "n": 156,
+   "en": "\"I will go no farther than this,\" the reindeer said.",
+   "tgt": "«:o Je:o n':o irai:v pas:o plus:a loin:a que:o ceci:o ,:o »:o dit:v le:o renne:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "Gerda climbed down and thanked the reindeer, and he stopped there in the cold.",
+   "tgt": "Gerda:o descendit:v et:o remercia:v le:o renne:n ,:o et:o il:o s':o arrêta:v là:a dans:o le:o froid:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "She walked alone, through the wind and the snow.",
+   "tgt": "Elle:o marcha:v seule:a ,:o à:o travers:o le:o vent:n et:o la:o neige:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The cold wind came at her from the north.",
+   "tgt": "Le:o vent:n froid:a venait:v vers:o elle:o du:o nord:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "Her hands and feet grew cold in the wind, but she did not turn back.",
+   "tgt": "Ses:o mains:n et:o ses:o pieds:n devinrent:v froids:a dans:o le:o vent:n ,:o mais:o elle:o ne:o se:o retourna:v pas:o .:o"
+  },
+  {
+   "n": 161,
+   "en": "At last, Gerda saw the walls of ice before her.",
+   "tgt": "Enfin:o ,:o Gerda:o vit:v les:o murs:n de:o glace:n devant:o elle:o .:o"
+  },
+  {
+   "n": 162,
+   "en": "This was the Snow Queen's great palace of ice, cold and quiet.",
+   "tgt": "C':o était:v le:o grand:a palais:n de:o glace:n de:o la:o Reine:o des:o Neiges:o ,:o froid:a et:o silencieux:a .:o"
+  },
+  {
+   "n": 163,
+   "en": "Gerda walked through a door of ice and into the palace.",
+   "tgt": "Gerda:o passa:v par:o une:o porte:n de:o glace:n et:o entra:v dans:o le:o palais:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "The floor was one great lake of frozen ice.",
+   "tgt": "Le:o sol:n était:v un:o grand:a lac:n de:o glace:n gelée:a .:o"
+  },
+  {
+   "n": 165,
+   "en": "Gerda called out for Kai, but no one called back.",
+   "tgt": "Gerda:o appela:v Kai:o ,:o mais:o personne:o ne:o répondit:v .:o"
+  },
+  {
+   "n": 166,
+   "en": "She walked from room to room in the palace to look for Kai.",
+   "tgt": "Elle:o alla:v de:o pièce:n en:o pièce:n dans:o le:o palais:n pour:o chercher:v Kai:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "She came at last to a great hall of ice.",
+   "tgt": "Elle:o arriva:v enfin:o dans:o une:o grande:a salle:n de:o glace:n .:o"
+  },
+  {
+   "n": 168,
+   "chapter": "The Ice Puzzle",
+   "en": "Kai sat alone on the frozen lake.",
+   "tgt": "Kai:o était:v assis:a seul:a sur:o le:o lac:n gelé:a .:o"
+  },
+  {
+   "n": 169,
+   "en": "Kai was blue with cold, but he did not move.",
+   "tgt": "Kai:o était:v bleu:a de:o froid:n ,:o mais:o il:o ne:o bougeait:v pas:o .:o"
+  },
+  {
+   "n": 170,
+   "en": "He did not feel the cold on his hands.",
+   "tgt": "Il:o ne:o sentait:v pas:o le:o froid:n sur:o ses:o mains:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "Many pieces of ice lay by him, and Kai moved them, one by one.",
+   "tgt": "De:o nombreux:a morceaux:n de:o glace:n gisaient:v près:o de:o lui:o ,:o et:o Kai:o déplaçait:v les:o morceaux:n un:o par:o un:o .:o"
+  },
+  {
+   "n": 172,
+   "en": "The Snow Queen had made Kai a promise.",
+   "tgt": "La:o Reine:n des:o Neiges:n avait:v fait:v à:o Kai:o une:o promesse:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "Kai had to form one word to go free.",
+   "tgt": "Kai:o devait:v former:v un:o mot:n pour:o être:v libre:a .:o"
+  },
+  {
+   "n": 174,
+   "en": "The Snow Queen had promised him the world, and new skates.",
+   "tgt": "La:o Reine:n des:o Neiges:n lui:o avait:v promis:v le:o monde:n ,:o et:o de:o nouveaux:a patins:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "The word was \"forever,\" but Kai did not form it.",
+   "tgt": "Le:o mot:n était:v «:o forever:o »:o ,:o mais:o Kai:o ne:o le:o forma:v pas:o .:o"
+  },
+  {
+   "n": 176,
+   "en": "He moved the pieces, and moved them back.",
+   "tgt": "Il:o déplaçait:v les:o morceaux:n ,:o et:o les:o remettait:v en:o place:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "Kai's heart was cold, and he did not feel afraid.",
+   "tgt": "Le:o cœur:n de:o Kai:o était:v froid:a ,:o et:o il:o ne:o ressentait:v pas:o de:o peur:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "Gerda ran across the ice and called out to him.",
+   "tgt": "Gerda:o courut:v sur:o la:o glace:n et:o l':o appela:v .:o"
+  },
+  {
+   "n": 179,
+   "en": "Kai looked up, but his face did not change.",
+   "tgt": "Kai:o leva:v les:o yeux:n ,:o mais:o son:o visage:n ne:o changea:v pas:o .:o"
+  },
+  {
+   "n": 180,
+   "en": "He did not know her.",
+   "tgt": "Il:o ne:o la:o reconnut:v pas:o .:o"
+  },
+  {
+   "n": 181,
+   "en": "Gerda sat down by him and took his cold hands.",
+   "tgt": "Gerda:o s':o assit:v près:o de:o lui:o et:o prit:v ses:o mains:n froides:a .:o"
+  },
+  {
+   "n": 182,
+   "en": "\"Kai, it's me, Gerda,\" she said, but he only looked at his ice pieces.",
+   "tgt": "«:o Kai:o ,:o c':o est:v moi:o ,:o Gerda:o »:o ,:o dit:v -elle:o ,:o mais:o il:o ne:o regardait:v que:o ses:o morceaux:n de:o glace:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "Gerda held Kai and cried, for his heart was cold.",
+   "tgt": "Gerda:o tint:v Kai:o et:o pleura:v ,:o car:o son:o cœur:n était:v froid:a .:o"
+  },
+  {
+   "n": 184,
+   "en": "Her warm tears melted the splinter on his heart.",
+   "tgt": "Ses:o larmes:n chaudes:a fondirent:v l':o éclat:n sur:o son:o cœur:n .:o"
+  },
+  {
+   "n": 185,
+   "en": "Kai's heart was warm again, and he looked at Gerda.",
+   "tgt": "Le:o cœur:n de:o Kai:o était:v de:o nouveau:a chaud:a ,:o et:o il:o regarda:v Gerda:o .:o"
+  },
+  {
+   "n": 186,
+   "en": "His eyes had tears, and he cried.",
+   "tgt": "Ses:o yeux:n avaient:v des:o larmes:n ,:o et:o il:o pleura:v .:o"
+  },
+  {
+   "n": 187,
+   "en": "His tears washed the splinter out of his eye.",
+   "tgt": "Ses:o larmes:n lavèrent:v l':o éclat:n hors:o de:o son:o œil:n .:o"
+  },
+  {
+   "n": 188,
+   "en": "\"Gerda!\" Kai said, for he did not feel cold.",
+   "tgt": "«:o Gerda:o !:o »:o dit:v Kai:o ,:o car:o il:o ne:o sentait:v pas:o le:o froid:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "Kai did not remember the Snow Queen, or the ice palace.",
+   "tgt": "Kai:o ne:o se:o rappelait:v plus:o la:o Reine:n des:o Neiges:n ,:o ni:o le:o palais:n de:o glace:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "She held him again, and did not let go.",
+   "tgt": "Elle:o le:o tint:v de:o nouveau:a ,:o et:o ne:o le:o lâcha:v pas:o .:o"
+  },
+  {
+   "n": 191,
+   "en": "The ice pieces moved by themselves.",
+   "tgt": "Les:o morceaux:n de:o glace:n bougèrent:v d':o eux-mêmes:o .:o"
+  },
+  {
+   "n": 192,
+   "en": "One by one, the pieces went into the word.",
+   "tgt": "Une:o à:o une:o ,:o les:o pièces:n entrèrent:v dans:o le:o mot:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "The word was \"forever.\"",
+   "tgt": "Le:o mot:n était:v «:o forever:o »:o .:o"
+  },
+  {
+   "n": 194,
+   "en": "\"We must go before the Snow Queen comes back,\" Gerda said.",
+   "tgt": "«:o Nous:o devons:v partir:v avant:o que:o la:o Reine:n des:o Neiges:n revienne:v »:o ,:o dit:v Gerda:o .:o"
+  },
+  {
+   "n": 195,
+   "en": "Kai took Gerda's hand, and they ran out of the palace.",
+   "tgt": "Kai:o prit:v la:o main:n de:o Gerda:o ,:o et:o ils:o coururent:v hors:o du:o palais:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "The reindeer stood in the snow before the palace.",
+   "tgt": "Le:o renne:n se:o tenait:v dans:o la:o neige:n devant:o le:o palais:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "Kai and Gerda climbed onto his back, and he ran south.",
+   "tgt": "Kai:o et:o Gerda:o montèrent:v sur:o son:o dos:n ,:o et:o il:o courut:v vers:o le:o sud:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "Day by day, the snow grew thin.",
+   "tgt": "Jour:n après:o jour:n ,:o la:o neige:n devint:v fine:a .:o"
+  },
+  {
+   "n": 199,
+   "en": "The snow was gone, and grass grew.",
+   "tgt": "La:o neige:n avait:v disparu:v ,:o et:o l':o herbe:n poussa:v .:o"
+  },
+  {
+   "n": 200,
+   "en": "At last, the reindeer took them to their town.",
+   "tgt": "Enfin:a ,:o le:o renne:n les:o emmena:v dans:o leur:o ville:n .:o"
+  },
+  {
+   "n": 201,
+   "en": "It was summer, and the sun was warm.",
+   "tgt": "C':o était:v l':o été:n ,:o et:o le:o soleil:n était:v chaud:a .:o"
+  },
+  {
+   "n": 202,
+   "en": "Kai and Gerda thanked the reindeer.",
+   "tgt": "Kai:o et:o Gerda:o remercièrent:v le:o renne:n .:o"
+  },
+  {
+   "n": 203,
+   "en": "They walked to their house by the window.",
+   "tgt": "Ils:o marchèrent:v jusqu':o à:o leur:o maison:n près:a de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 204,
+   "en": "Grandmother sat in the sun, as before.",
+   "tgt": "Grand-mère:n s':o assit:v au:o soleil:n ,:o comme:o avant:a .:o"
+  },
+  {
+   "n": 205,
+   "en": "Their roses bloomed by the window, as they did each summer.",
+   "tgt": "Leurs:o roses:n fleurirent:v près:a de:o la:o fenêtre:n ,:o comme:o chaque:o été:n .:o"
+  },
+  {
+   "n": 206,
+   "en": "Kai looked at Gerda and saw she had grown taller.",
+   "tgt": "Kai:o regarda:v Gerda:o et:o vit:v qu':o elle:o avait:v grandi:v .:o"
+  },
+  {
+   "n": 207,
+   "en": "Gerda looked at Kai and saw he had grown taller.",
+   "tgt": "Gerda:o regarda:v Kai:o et:o vit:v qu':o il:o avait:v grandi:v .:o"
+  },
+  {
+   "n": 208,
+   "en": "They had grown up, but in their hearts, they still felt like children.",
+   "tgt": "Ils:o avaient:v grandi:v ,:o mais:o dans:o leurs:o cœurs:n ,:o ils:o se:o sentaient:v encore:a comme:o des:o enfants:n .:o"
+  },
+  {
+   "n": 209,
+   "en": "Kai and Gerda sat by the roses again.",
+   "tgt": "Kai:o et:o Gerda:o s':o assirent:v de:o nouveau:a près:a des:o roses:n .:o"
+  }
+ ]
+}

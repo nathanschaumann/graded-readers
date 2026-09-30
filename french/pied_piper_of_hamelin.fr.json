@@ -1,0 +1,668 @@
+{
+ "slug": "pied_piper_of_hamelin",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "Rats in Hamelin",
+   "en": "Hamelin was a town by a river.",
+   "tgt": "Hamelin:o était:v une:o ville:n au:o bord:n d':o une:o rivière:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "Rats came into every house in the town.",
+   "tgt": "Des:o rats:n entrèrent:v dans:o chaque:o maison:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "Man: Rats are in my house.",
+   "tgt": "Homme:o ::o «:o Les:o rats:n sont:v dans:o ma:o maison:n .:o »:o"
+  },
+  {
+   "n": 4,
+   "en": "Woman: Rats ate all my food.",
+   "tgt": "Femme:o ::o «:o Les:o rats:n ont:v mangé:v toute:o ma:o nourriture:n .:o »:o"
+  },
+  {
+   "n": 5,
+   "en": "Woman: We have no food left.",
+   "tgt": "Femme:o ::o «:o Il:o ne:o nous:o reste:v plus:o de:o nourriture:n .:o »:o"
+  },
+  {
+   "n": 6,
+   "en": "Every day more rats came to Hamelin.",
+   "tgt": "Chaque:o jour:n plus:a de:o rats:n arrivaient:v à:o Hamelin:o .:o"
+  },
+  {
+   "n": 7,
+   "en": "Man: This town is full of rats.",
+   "tgt": "Homme:o ::o «:o Cette:o ville:n est:v pleine:a de:o rats:n .:o »:o"
+  },
+  {
+   "n": 8,
+   "en": "Woman: We cannot live like this.",
+   "tgt": "Femme:o ::o «:o Nous:o ne:o pouvons:v pas:o vivre:v comme:o cela:o .:o »:o"
+  },
+  {
+   "n": 9,
+   "en": "Man: Someone must take the rats away.",
+   "tgt": "Homme:o ::o «:o Quelqu':o un:o doit:v éloigner:v les:o rats:n .:o »:o"
+  },
+  {
+   "n": 10,
+   "en": "Woman: The mayor must help us.",
+   "tgt": "Femme:o ::o «:o Le:o maire:n doit:v nous:o aider:v .:o »:o"
+  },
+  {
+   "n": 11,
+   "en": "The people of Hamelin were afraid.",
+   "tgt": "Les:o habitants:n de:o Hamelin:o avaient:v peur:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The people came to the mayor's house.",
+   "tgt": "Les:o gens:n vinrent:v à:o la:o maison:n du:o maire:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "Man: The rats are in every house.",
+   "tgt": "Homme:n ::o Les:o rats:n sont:v dans:o chaque:o maison:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "Woman: We have no food because of the rats.",
+   "tgt": "Femme:n ::o Nous:o n':o avons:v pas:o de:o nourriture:n à:o cause:n des:o rats:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Mayor: I did not know it was this bad.",
+   "tgt": "Maire:n ::o Je:o ne:o savais:v pas:o que:o c':o était:v si:a grave:a .:o"
+  },
+  {
+   "n": 16,
+   "en": "Man: You must help us with the rats.",
+   "tgt": "Homme:n ::o Vous:o devez:v nous:o aider:v avec:o les:o rats:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "Mayor: I will call my council.",
+   "tgt": "Maire:n ::o Je:o vais:v appeler:v mon:o conseil:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "The mayor called his council to his house.",
+   "tgt": "Le:o maire:n appela:v son:o conseil:n à:o sa:o maison:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "Mayor: We must find a way to stop the rats.",
+   "tgt": "Maire:n ::o Nous:o devons:v trouver:v un:o moyen:n d':o arrêter:v les:o rats:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "The council did not know what to do.",
+   "tgt": "Le:o conseil:n ne:o savait:v pas:o quoi:o faire:v .:o"
+  },
+  {
+   "n": 21,
+   "en": "Mayor: I will pay gold for help.",
+   "tgt": "Maire:n ::o Je:o paierai:v de:o l':o or:n pour:o de:o l':o aide:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "Man: Who can take so many rats away?",
+   "tgt": "Homme:n ::o Qui:o peut:v emmener:v autant:a de:o rats:n ?:o"
+  },
+  {
+   "n": 23,
+   "en": "Mayor: I do not know, but I will pay gold.",
+   "tgt": "Maire:n ::o Je:o ne:o sais:v pas:o ,:o mais:o je:o paierai:v de:o l':o or:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "A man came to Hamelin.",
+   "tgt": "Un:o homme:n vint:v à:o Hamelin:o .:o"
+  },
+  {
+   "n": 25,
+   "en": "No one in Hamelin knew this man.",
+   "tgt": "Personne:o à:o Hamelin:o ne:o connaissait:v cet:o homme:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "He wore a coat of many colors.",
+   "tgt": "Il:o portait:v un:o manteau:n de:o nombreuses:a couleurs:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "He carried a pipe.",
+   "tgt": "Il:o portait:v une:o flûte:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "Piper: I can take your rats away.",
+   "tgt": "Joueur:n de:o flûte:n ::o Je:o peux:v emmener:v vos:o rats:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "Mayor: Can you take our rats away?",
+   "tgt": "Maire:n ::o Pouvez-vous:v emmener:v nos:o rats:n ?:o"
+  },
+  {
+   "n": 30,
+   "en": "Piper: My pipe can call every rat in town.",
+   "tgt": "Joueur:n de:o flûte:n ::o Ma:o flûte:n peut:v appeler:v chaque:o rat:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "Mayor: I will pay gold if you help us.",
+   "tgt": "Maire:n ::o Je:o paierai:v de:o l':o or:n si:o vous:o nous:o aidez:v .:o"
+  },
+  {
+   "n": 32,
+   "en": "Piper: How much gold will you give me?",
+   "tgt": "Joueur:n de:o flûte:n ::o Combien:o d':o or:n me:o donnerez-vous:v ?:o"
+  },
+  {
+   "n": 33,
+   "en": "Mayor: I will give you one bag of gold.",
+   "tgt": "Maire:n ::o Je:o vous:o donnerai:v un:o sac:n d':o or:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "Piper: One bag of gold is enough for me.",
+   "tgt": "Joueur:n de:o flûte:n ::o «:o Un:o sac:n d':o or:n me:o suffit:v .:o »:o"
+  },
+  {
+   "n": 35,
+   "en": "Mayor: Take the rats away, and I will give you the gold.",
+   "tgt": "Maire:n ::o «:o Emmenez:v les:o rats:n ,:o et:o je:o vous:o donnerai:v l':o or:n .:o »:o"
+  },
+  {
+   "n": 36,
+   "en": "Piper: I will start now.",
+   "tgt": "Joueur:n de:o flûte:n ::o «:o Je:o vais:v commencer:v maintenant:a .:o »:o"
+  },
+  {
+   "n": 37,
+   "en": "The piper began to play his pipe.",
+   "tgt": "Le:o joueur:n de:o flûte:n commença:v à:o jouer:v de:o sa:o flûte:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Rats came out of every house in Hamelin.",
+   "tgt": "Des:o rats:n sortirent:v de:o chaque:o maison:n de:o Hamelin:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "The rats followed the sound of the pipe.",
+   "tgt": "Les:o rats:n suivirent:v le:o son:n de:o la:o flûte:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "The piper walked through the town.",
+   "tgt": "Le:o joueur:n de:o flûte:n traversa:v la:o ville:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "Man: Look how the rats follow him.",
+   "tgt": "Homme:n ::o «:o Regardez:v comme:o les:o rats:n le:o suivent:v .:o »:o"
+  },
+  {
+   "n": 42,
+   "en": "The piper walked toward the river.",
+   "tgt": "Le:o joueur:n de:o flûte:n marcha:v vers:o la:o rivière:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "The rats followed him all the way there.",
+   "tgt": "Les:o rats:n le:o suivirent:v jusqu':o là:a .:o"
+  },
+  {
+   "n": 44,
+   "en": "The piper played his pipe at the river.",
+   "tgt": "Le:o joueur:n de:o flûte:n joua:v de:o sa:o flûte:n à:o la:o rivière:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "The rats ran into the river.",
+   "tgt": "Les:o rats:n coururent:v dans:o la:o rivière:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "They could not swim back to land.",
+   "tgt": "Ils:o ne:o pouvaient:v pas:o nager:v pour:o revenir:v à:o terre:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The rats drowned in the river.",
+   "tgt": "Les:o rats:n se:o noyèrent:v dans:o la:o rivière:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "Man: The rats are all gone from Hamelin.",
+   "tgt": "Homme:n ::o «:o Les:o rats:n ont:v tous:a disparu:v de:o Hamelin:o .:o »:o"
+  },
+  {
+   "n": 49,
+   "en": "The piper went to see the mayor.",
+   "tgt": "Le:o joueur:n de:o flûte:n alla:v voir:v le:o maire:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "Piper: The rats are gone, as I promised.",
+   "tgt": "Joueur:n de:o flûte:n ::o «:o Les:o rats:n sont:v partis:v ,:o comme:o je:o l':o ai:v promis:v .:o »:o"
+  },
+  {
+   "n": 51,
+   "en": "Piper: Now I want my gold.",
+   "tgt": "Joueur:n de:o flûte:n ::o «:o Maintenant:a je:o veux:v mon:o or:n .:o »:o"
+  },
+  {
+   "n": 52,
+   "en": "Mayor: Are the rats gone from Hamelin?",
+   "tgt": "Maire:n ::o «:o Les:o rats:n ont:v -ils:o disparu:v de:o Hamelin:o ?:o »:o"
+  },
+  {
+   "n": 53,
+   "en": "Piper: Every rat drowned in the river.",
+   "tgt": "Joueur:n de:o flûte:n ::o «:o Chaque:o rat:n s':o est:v noyé:v dans:o la:o rivière:n .:o »:o"
+  },
+  {
+   "n": 54,
+   "en": "Mayor: That is good for our town.",
+   "tgt": "Le:o maire:n ::o Cela:o est:v bon:a pour:o notre:o ville:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "Mayor: A pipe did all of this work?",
+   "tgt": "Le:o maire:n ::o Une:o flûte:n a:v fait:v tout:o ce:o travail:n ?:o"
+  },
+  {
+   "n": 56,
+   "en": "Piper: My pipe called every rat in town.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o Ma:o flûte:n a:v appelé:v chaque:o rat:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Mayor: The rats would have left.",
+   "tgt": "Le:o maire:n ::o Les:o rats:n seraient:v partis:v .:o"
+  },
+  {
+   "n": 58,
+   "en": "Piper: I want the full bag of gold now.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o Je:o veux:v le:o sac:n plein:a d':o or:n maintenant:a .:o"
+  },
+  {
+   "n": 59,
+   "en": "Mayor: I will think about it.",
+   "tgt": "Le:o maire:n ::o J':o y:o penserai:v .:o"
+  },
+  {
+   "n": 60,
+   "chapter": "The Broken Promise",
+   "en": "The mayor called his council again.",
+   "tgt": "Le:o maire:n convoqua:v son:o conseil:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 61,
+   "en": "Mayor: The piper wants the full bag of gold.",
+   "tgt": "Le:o maire:n ::o Le:o joueur:n de:o flûte:n veut:v le:o sac:n plein:a d':o or:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Man: That is a lot of gold to pay.",
+   "tgt": "L':o homme:n ::o C':o est:v beaucoup:a d':o or:n à:o payer:v .:o"
+  },
+  {
+   "n": 63,
+   "en": "Mayor: The rats are gone, so why pay so much?",
+   "tgt": "Le:o maire:n ::o Les:o rats:n sont:v partis:v ,:o alors:o pourquoi:o payer:v autant:a ?:o"
+  },
+  {
+   "n": 64,
+   "en": "Woman: We could give him a smaller bag.",
+   "tgt": "La:o femme:n ::o Nous:o pourrions:v lui:o donner:v un:o sac:n plus:o petit:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "Mayor: Yes, give him a smaller bag.",
+   "tgt": "Le:o maire:n ::o Oui:o ,:o donnez:v -lui:o un:o sac:n plus:o petit:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "The mayor called the piper back to him.",
+   "tgt": "Le:o maire:n rappela:v le:o joueur:n de:o flûte:n à:o lui:o .:o"
+  },
+  {
+   "n": 67,
+   "en": "Mayor: This is some gold for your work.",
+   "tgt": "Le:o maire:n ::o «:o Voici:o de:o l':o or:n pour:o votre:o travail:n .:o »:o"
+  },
+  {
+   "n": 68,
+   "en": "Piper: This is not the full bag we promised.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o «:o Ce:o n':o est:v pas:o le:o sac:n plein:a que:o nous:o avions:v promis:v .:o »:o"
+  },
+  {
+   "n": 69,
+   "en": "Piper: You broke the promise you made.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o «:o Vous:o avez:v brisé:v la:o promesse:n que:o vous:o avez:v faite:v .:o »:o"
+  },
+  {
+   "n": 70,
+   "en": "Mayor: Take the gold, or take nothing at all.",
+   "tgt": "Le:o maire:n ::o «:o Prenez:v l':o or:n ,:o ou:o ne:o prenez:v rien:o du:o tout:o .:o »:o"
+  },
+  {
+   "n": 71,
+   "en": "Piper: You will be sorry for this.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o «:o Vous:o le:o regretterez:v pour:o cela:o .:o »:o"
+  },
+  {
+   "n": 72,
+   "en": "The piper left the mayor's house.",
+   "tgt": "Le:o joueur:n de:o flûte:n quitta:v la:o maison:n du:o maire:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Many days passed after the piper left.",
+   "tgt": "Beaucoup:o de:o jours:n passèrent:v après:o que:o le:o joueur:n de:o flûte:n fut:v parti:v .:o"
+  },
+  {
+   "n": 74,
+   "en": "The people of Hamelin went back to their houses.",
+   "tgt": "Les:o gens:n de:o Hamelin:o retournèrent:v dans:o leurs:o maisons:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "One day, most of the town went to church.",
+   "tgt": "Un:o jour:n ,:o la:o plupart:n des:o habitants:n allèrent:v à:o l':o église:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "The mayor and the council went.",
+   "tgt": "Le:o maire:n et:o le:o conseil:n y:o allèrent:v .:o"
+  },
+  {
+   "n": 77,
+   "en": "The children stayed in town to play.",
+   "tgt": "Les:o enfants:n restèrent:v en:o ville:n pour:o jouer:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "The piper came back into the town.",
+   "tgt": "Le:o joueur:n de:o flûte:n revint:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "He carried his pipe again.",
+   "tgt": "Il:o portait:v sa:o flûte:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "Piper: The mayor broke his promise to me.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o Le:o maire:n a:v brisé:v sa:o promesse:n envers:o moi:o .:o"
+  },
+  {
+   "n": 81,
+   "en": "Piper: Now I will take something else.",
+   "tgt": "Le:o joueur:n de:o flûte:n ::o Maintenant:a je:o vais:v prendre:v autre:o chose:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "The piper began to play his pipe.",
+   "tgt": "Le:o joueur:n de:o flûte:n commença:v à:o jouer:v de:o sa:o flûte:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "Children came out of every house in town.",
+   "tgt": "Des:o enfants:n sortirent:v de:o chaque:o maison:n en:o ville:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "Girl: Do you hear that pipe?",
+   "tgt": "Fille:o ::o «:o Est-ce:o que:o tu:o entends:v cette:o flûte:n ?:o »:o"
+  },
+  {
+   "n": 85,
+   "en": "Boy: Yes, I hear it too.",
+   "tgt": "Garçon:o ::o «:o Oui:o ,:o je:o l':o entends:v aussi:a .:o »:o"
+  },
+  {
+   "n": 86,
+   "en": "The children ran through town.",
+   "tgt": "Les:o enfants:n coururent:v à:o travers:o la:o ville:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "More children came out to follow.",
+   "tgt": "D':o autres:a enfants:n sortirent:v pour:o suivre:v .:o"
+  },
+  {
+   "n": 88,
+   "en": "The children followed the piper through town.",
+   "tgt": "Les:o enfants:n suivirent:v le:o joueur:n de:o flûte:n à:o travers:o la:o ville:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Girl: Where is he taking us?",
+   "tgt": "Fille:o ::o «:o Où:o nous:o emmène:v -t:o -il:o ?:o »:o"
+  },
+  {
+   "n": 90,
+   "en": "Boy: I do not know, but I will follow.",
+   "tgt": "Garçon:o ::o «:o Je:o ne:o sais:v pas:o ,:o mais:o je:o suivrai:v .:o »:o"
+  },
+  {
+   "n": 91,
+   "en": "One boy was lame and could not run.",
+   "tgt": "Un:o garçon:n était:v boiteux:a et:o ne:o pouvait:v pas:o courir:v .:o"
+  },
+  {
+   "n": 92,
+   "en": "He fell behind the other children.",
+   "tgt": "Il:o resta:v en:o arrière:a des:o autres:a enfants:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "The children followed the piper out of town.",
+   "tgt": "Les:o enfants:n suivirent:v le:o joueur:n de:o flûte:n hors:o de:o la:o ville:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "The children followed him.",
+   "tgt": "Les:o enfants:n le:o suivirent:v .:o"
+  },
+  {
+   "n": 95,
+   "en": "He walked toward the mountain.",
+   "tgt": "Il:o marcha:v vers:o la:o montagne:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The children followed him up a path.",
+   "tgt": "Les:o enfants:n le:o suivirent:v sur:o un:o chemin:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "Boy: My leg is tired, and I am falling behind.",
+   "tgt": "Garçon:o ::o «:o Ma:o jambe:n est:v fatiguée:a ,:o et:o je:o prends:v du:o retard:n .:o »:o"
+  },
+  {
+   "n": 98,
+   "en": "Girl: Run, do not fall behind!",
+   "tgt": "Fille:o ::o «:o Cours:v ,:o ne:o prends:v pas:o de:o retard:n !:o »:o"
+  },
+  {
+   "n": 99,
+   "en": "The other children ran away from him.",
+   "tgt": "Les:o autres:a enfants:n s':o enfuirent:v loin:a de:o lui:o .:o"
+  },
+  {
+   "n": 100,
+   "en": "The piper reached the mountain.",
+   "tgt": "Le:o joueur:n de:o flûte:n atteignit:v la:o montagne:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Boy: Wait for me! I cannot run!",
+   "tgt": "Garçon:o ::o «:o Attendez-moi:v !:o Je:o ne:o peux:v pas:o courir:v !:o »:o"
+  },
+  {
+   "n": 102,
+   "en": "No one heard the boy call out.",
+   "tgt": "Personne:o n':o entendit:v le:o garçon:n crier:v .:o"
+  },
+  {
+   "n": 103,
+   "en": "He was now behind the other children.",
+   "tgt": "Il:o était:v maintenant:a derrière:o les:o autres:a enfants:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "A door opened in the mountain.",
+   "tgt": "Une:o porte:n s':o ouvrit:v dans:o la:o montagne:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "The piper walked through the door.",
+   "tgt": "Le:o joueur:n de:o flûte:n passa:v par:o la:o porte:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "One by one, the children went inside.",
+   "tgt": "Un:o par:o un:o ,:o les:o enfants:n entrèrent:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "The lame boy ran toward the door.",
+   "tgt": "Le:o garçon:n boiteux:a courut:v vers:o la:o porte:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "Boy: Wait! Do not close the door!",
+   "tgt": "Garçon:o ::o «:o Attendez:v !:o Ne:o fermez:v pas:o la:o porte:n !:o »:o"
+  },
+  {
+   "n": 109,
+   "en": "The door closed before he could reach it.",
+   "tgt": "La:o porte:n se:o ferma:v avant:o qu':o il:o puisse:v l':o atteindre:v .:o"
+  },
+  {
+   "n": 110,
+   "en": "The boy stood by the mountain.",
+   "tgt": "Le:o garçon:n resta:v près:o de:o la:o montagne:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "He called out at the mountain.",
+   "tgt": "Il:o cria:v vers:o la:o montagne:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Boy: Let me in! The other children are inside!",
+   "tgt": "Garçon:o ::o «:o Laissez:v -moi:o entrer:v !:o Les:o autres:a enfants:n sont:v à:o l':o intérieur:n !:o »:o"
+  },
+  {
+   "n": 113,
+   "en": "The mountain grew silent.",
+   "tgt": "La:o montagne:n devint:v silencieuse:a .:o"
+  },
+  {
+   "n": 114,
+   "en": "The lame boy walked back into Hamelin.",
+   "tgt": "Le:o garçon:n boiteux:a retourna:v dans:o Hamelin:o .:o"
+  },
+  {
+   "n": 115,
+   "en": "Man: Where are the children?",
+   "tgt": "Homme:o ::o «:o Où:o sont:v les:o enfants:n ?:o »:o"
+  },
+  {
+   "n": 116,
+   "en": "Boy: The piper took them into the mountain.",
+   "tgt": "Garçon:o ::o «:o Le:o joueur:n de:o flûte:n les:o emmena:v dans:o la:o montagne:n .:o »:o"
+  },
+  {
+   "n": 117,
+   "en": "Woman: Why are you not with the children?",
+   "tgt": "Femme:o ::o «:o Pourquoi:o n':o es:v -tu:o pas:o avec:o les:o enfants:n ?:o »:o"
+  },
+  {
+   "n": 118,
+   "en": "Boy: My leg was too tired to run.",
+   "tgt": "Garçon:o ::o «:o Ma:o jambe:n était:v trop:a fatiguée:a pour:o courir:v .:o »:o"
+  },
+  {
+   "n": 119,
+   "en": "Man: Did the mountain have a door?",
+   "tgt": "Homme:o ::o «:o La:o montagne:n avait:v -elle:o une:o porte:n ?:o »:o"
+  },
+  {
+   "n": 120,
+   "en": "Boy: The door is closed now.",
+   "tgt": "Garçon:o ::o «:o La:o porte:n est:v fermée:a maintenant:a .:o »:o"
+  },
+  {
+   "n": 121,
+   "en": "Mayor: This happened because I broke my promise.",
+   "tgt": "Le:o maire:n ::o «:o Cela:o arriva:v parce:o que:o je:o brisai:v ma:o promesse:n .:o »:o"
+  },
+  {
+   "n": 122,
+   "en": "Man: We should have paid the piper his gold.",
+   "tgt": "Homme:o ::o Nous:o aurions:v dû:v payer:v le:o joueur:n de:o flûte:n avec:o son:o or:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "Woman: Now the children are gone.",
+   "tgt": "Femme:o ::o Maintenant:a les:o enfants:n sont:v partis:a .:o"
+  },
+  {
+   "n": 124,
+   "en": "The people of Hamelin searched the mountain for days.",
+   "tgt": "Les:o gens:n de:o Hamelin:o cherchèrent:v la:o montagne:n pendant:o des:o jours:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "They never found the door again.",
+   "tgt": "Ils:o ne:o trouvèrent:v jamais:o la:o porte:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 126,
+   "en": "Man: The mountain looks as it always did.",
+   "tgt": "Homme:o ::o La:o montagne:n a:v l':o air:n comme:o elle:o l':o a:v toujours:a eu:v .:o"
+  },
+  {
+   "n": 127,
+   "en": "Woman: But no children are inside it now.",
+   "tgt": "Femme:o ::o Mais:o aucun:o enfant:n n':o est:v à:o l':o intérieur:n maintenant:a .:o"
+  },
+  {
+   "n": 128,
+   "en": "The people of Hamelin waited for the children.",
+   "tgt": "Les:o gens:n de:o Hamelin:o attendirent:v les:o enfants:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The children of Hamelin never came back.",
+   "tgt": "Les:o enfants:n de:o Hamelin:o ne:o revinrent:v jamais:o .:o"
+  },
+  {
+   "n": 130,
+   "en": "Only the lame boy remembered what happened.",
+   "tgt": "Seul:a le:o garçon:n boiteux:a se:o rappelait:v ce:o qui:o s':o était:v passé:v .:o"
+  },
+  {
+   "n": 131,
+   "en": "He told other people the piper's story.",
+   "tgt": "Il:o raconta:v à:o d':o autres:a personnes:n l':o histoire:n du:o joueur:n de:o flûte:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "The people of Hamelin never forgot the piper.",
+   "tgt": "Les:o gens:n de:o Hamelin:o n':o oublièrent:v jamais:o le:o joueur:n de:o flûte:n .:o"
+  }
+ ]
+}

@@ -1,0 +1,372 @@
+{
+ "slug": "emperors_new_clothes",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Emperor Who Loved Clothes",
+   "en": "Long ago, a rich emperor loved fine new clothes.",
+   "tgt": "Il:o y:o a:v longtemps:a ,:o un:o riche:a empereur:n aimait:v de:o beaux:a nouveaux:a vêtements:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The emperor had a new coat for each hour.",
+   "tgt": "L':o empereur:n avait:v un:o nouveau:a manteau:n pour:o chaque:o heure:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "He spent all his gold on new clothes.",
+   "tgt": "Il:o dépensait:v tout:o son:o or:n en:o nouveaux:a vêtements:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The emperor did not care about his town.",
+   "tgt": "L':o empereur:n ne:o se:o souciait:v pas:o de:o sa:o ville:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "He did not care about his people.",
+   "tgt": "Il:o ne:o se:o souciait:v pas:o de:o son:o peuple:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Clothes were the only thing the emperor loved.",
+   "tgt": "Les:o vêtements:n étaient:v la:o seule:a chose:n que:o l':o empereur:n aimait:v .:o"
+  },
+  {
+   "n": 7,
+   "en": "Every morning, the emperor put on a fine coat.",
+   "tgt": "Chaque:o matin:n ,:o l':o empereur:n mettait:v un:o beau:a manteau:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Then the emperor walked through the streets of the town.",
+   "tgt": "Ensuite:o ,:o l':o empereur:n marchait:v dans:o les:o rues:n de:o la:o ville:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"Look at my new clothes!\" the emperor said.",
+   "tgt": "«:o Regardez:v mes:o nouveaux:a vêtements:n !:o »:o dit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The people looked at the grand new coat.",
+   "tgt": "Les:o gens:n regardèrent:v le:o grand:a nouveau:a manteau:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "\"Your clothes are so beautiful,\" the people said.",
+   "tgt": "«:o Vos:o vêtements:n sont:v si:a beaux:a ,:o »:o dirent:v les:o gens:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "But the emperor always wanted more new clothes.",
+   "tgt": "Mais:o l':o empereur:n voulait:v toujours:a plus:o de:o nouveaux:a vêtements:n .:o"
+  },
+  {
+   "n": 13,
+   "chapter": "The Two Men and Their Cloth",
+   "en": "One day, two men came to the town.",
+   "tgt": "Un:o jour:n ,:o deux:o hommes:n arrivèrent:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "The two men said they could make beautiful cloth.",
+   "tgt": "Les:o deux:o hommes:n dirent:v qu':o ils:o pouvaient:v faire:v un:o tissu:n magnifique:a .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"Our cloth is very beautiful,\" the men said.",
+   "tgt": "«:o Notre:o tissu:n est:v très:a beau:a ,:o »:o dirent:v les:o hommes:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"But our cloth is also special,\" said one man.",
+   "tgt": "«:o Mais:o notre:o tissu:n est:v aussi:a spécial:a ,:o »:o dit:v un:o homme:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"Only clever people can see this cloth,\" the man said.",
+   "tgt": "«:o Seules:a les:o personnes:n intelligentes:a peuvent:v voir:v ce:o tissu:n ,:o »:o dit:v l':o homme:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"A foolish person sees nothing at all,\" he said.",
+   "tgt": "«:o Une:o personne:n stupide:a ne:o voit:v rien:o du:o tout:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "The emperor heard about the special cloth.",
+   "tgt": "L':o empereur:n entendit:v parler:v du:o tissu:n spécial:a .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"I must have this special cloth!\" the emperor said.",
+   "tgt": "«:o Je:o dois:v avoir:v ce:o tissu:n spécial:a !:o »:o dit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"Then I will see who is foolish,\" he said.",
+   "tgt": "«:o Alors:o je:o verrai:v qui:o est:v stupide:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "The emperor wanted the cloth more than his gold.",
+   "tgt": "L':o empereur:n voulait:v le:o tissu:n plus:a que:o son:o or:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The emperor told the two men to make it.",
+   "tgt": "L':o empereur:n dit:v aux:o deux:o hommes:n de:o le:o faire:v .:o"
+  },
+  {
+   "n": 24,
+   "en": "\"I will give you lots of gold,\" the emperor said.",
+   "tgt": "«:o Je:o vous:o donnerai:v beaucoup:a d':o or:n ,:o »:o dit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 25,
+   "chapter": "Empty Looms",
+   "en": "The emperor gave the two men a bag of gold.",
+   "tgt": "L':o empereur:n donna:v aux:o deux:o hommes:n un:o sac:n d':o or:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "He also gave them fine silk and gold thread.",
+   "tgt": "Il:o leur:o donna:v aussi:a de:o la:o belle:a soie:n et:o du:o fil:n d':o or:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The two men made two looms for the cloth.",
+   "tgt": "Les:o deux:o hommes:n fabriquèrent:v deux:o métiers:n à:o tisser:v pour:o le:o tissu:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "But the two men put nothing on the looms.",
+   "tgt": "Mais:o les:o deux:o hommes:n ne:o mirent:v rien:o sur:o les:o métiers:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The looms were empty all day and night.",
+   "tgt": "Les:o métiers:n étaient:v vides:a toute:o la:o journée:n et:o toute:o la:o nuit:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The two men only pretended to work.",
+   "tgt": "Les:o deux:o hommes:n ne:o faisaient:v que:o semblant:n de:o travailler:v .:o"
+  },
+  {
+   "n": 31,
+   "en": "They kept the silk and gold.",
+   "tgt": "Ils:o gardèrent:v la:o soie:n et:o l':o or:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The two men did no work at all.",
+   "tgt": "Les:o deux:o hommes:n ne:o firent:v aucun:o travail:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The emperor wanted to see his beautiful cloth.",
+   "tgt": "L':o empereur:n voulait:v voir:v son:o beau:a tissu:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "But the emperor was afraid to look.",
+   "tgt": "Mais:o l':o empereur:n avait:v peur:n de:o regarder:v .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Can I see the cloth?\" the emperor thought.",
+   "tgt": "«:o Puis:v -je:o voir:v le:o tissu:n ?:o »:o pensa:v l':o empereur:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The emperor sent his old minister to look.",
+   "tgt": "L':o empereur:n envoya:v son:o vieux:a ministre:n pour:o regarder:v .:o"
+  },
+  {
+   "n": 37,
+   "chapter": "The Minister Sees Nothing",
+   "en": "The old minister came to see the two men.",
+   "tgt": "Le:o vieux:a ministre:n vint:v voir:v les:o deux:o hommes:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "The minister looked hard at the two looms.",
+   "tgt": "Le:o ministre:n regarda:v attentivement:a les:o deux:o métiers:n à:o tisser:v .:o"
+  },
+  {
+   "n": 39,
+   "en": "But the minister saw no cloth on the looms.",
+   "tgt": "Mais:o le:o ministre:n ne:o vit:v pas:o de:o tissu:n sur:o les:o métiers:n à:o tisser:v .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"These looms are empty!\" the minister thought.",
+   "tgt": "«:o Ces:o métiers:n sont:v vides:a !:o »:o pensa:v le:o ministre:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Am I a foolish old man?\" the minister asked.",
+   "tgt": "«:o Suis-je:v un:o vieil:a homme:n stupide:a ?:o »:o demanda:v le:o ministre:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "But he did not want to seem foolish.",
+   "tgt": "Mais:o il:o ne:o voulait:v pas:o paraître:v stupide:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"What fine colors this cloth has!\" the minister said.",
+   "tgt": "«:o Quelles:o belles:a couleurs:n ce:o tissu:n a:v !:o »:o dit:v le:o ministre:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The two men pointed at the empty looms.",
+   "tgt": "Les:o deux:o hommes:n pointèrent:v les:o métiers:n vides:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "Then the minister hurried back to the happy emperor.",
+   "tgt": "Puis:o le:o ministre:n se:o dépêcha:v de:o retourner:v vers:o le:o joyeux:a empereur:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"The new cloth is so beautiful,\" the minister said.",
+   "tgt": "«:o Le:o nouveau:a tissu:n est:v si:a beau:a ,:o »:o dit:v le:o ministre:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The emperor was very glad to hear this.",
+   "tgt": "L':o empereur:n fut:v très:a content:a d':o entendre:v cela:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "Now the emperor wanted to see the cloth himself.",
+   "tgt": "Maintenant:a l':o empereur:n voulait:v voir:v le:o tissu:n lui-même:o .:o"
+  },
+  {
+   "n": 49,
+   "chapter": "The Emperor Sees Nothing",
+   "en": "The next day, the emperor went to the looms.",
+   "tgt": "Le:o lendemain:n ,:o l':o empereur:n alla:v aux:o métiers:n à:o tisser:v .:o"
+  },
+  {
+   "n": 50,
+   "en": "Many of his men came with him.",
+   "tgt": "Beaucoup:a de:o ses:o hommes:n vinrent:v avec:o lui:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "But the emperor saw nothing on the looms!",
+   "tgt": "Mais:o l':o empereur:n ne:o vit:v rien:o sur:o les:o métiers:n à:o tisser:v !:o"
+  },
+  {
+   "n": 52,
+   "en": "The emperor was afraid to seem foolish.",
+   "tgt": "L':o empereur:n avait:v peur:n de:o paraître:v sot:a .:o"
+  },
+  {
+   "n": 53,
+   "en": "\"Oh, what wonderful clothes!\" the emperor said.",
+   "tgt": "«:o Oh:o ,:o quels:o merveilleux:a habits:n !:o »:o dit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Yes, the cloth is so beautiful!\" his men said.",
+   "tgt": "«:o Oui:o ,:o le:o tissu:n est:v si:a beau:a !:o »:o dirent:v ses:o hommes:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "But his men also saw nothing at all.",
+   "tgt": "Mais:o ses:o hommes:n ne:o virent:v rien:o non:o plus:o .:o"
+  },
+  {
+   "n": 56,
+   "en": "The men did not want to seem foolish.",
+   "tgt": "Les:o hommes:n ne:o voulaient:v pas:o paraître:v sots:a .:o"
+  },
+  {
+   "n": 57,
+   "en": "Then the two men dressed the emperor with care.",
+   "tgt": "Puis:o les:o deux:o hommes:n habillèrent:v l':o empereur:n avec:o soin:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The emperor looked at himself in the mirror.",
+   "tgt": "L':o empereur:n se:o regarda:v dans:o le:o miroir:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "But the emperor saw no clothes on his body.",
+   "tgt": "Mais:o l':o empereur:n ne:o vit:v aucun:o habit:n sur:o son:o corps:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"These new clothes look so fine,\" the emperor said.",
+   "tgt": "«:o Ces:o nouveaux:a habits:n semblent:v si:a beaux:a ,:o »:o dit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 61,
+   "chapter": "A Child Tells the Truth",
+   "en": "The next morning, the emperor walked through the town.",
+   "tgt": "Le:o lendemain:n matin:n ,:o l':o empereur:n marcha:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "But the emperor had no clothes on his body.",
+   "tgt": "Mais:o l':o empereur:n n':o avait:v pas:o de:o vêtements:n sur:o son:o corps:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "All the people came out to the street.",
+   "tgt": "Tout:o le:o peuple:n sortit:v dans:o la:o rue:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "\"Look at the grand new clothes!\" the people said.",
+   "tgt": "«:o Regardez:v les:o grands:a habits:n neufs:a !:o »:o dirent:v les:o gens:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "\"The fine colors are so beautiful!\" a man said.",
+   "tgt": "«:o Les:o fines:a couleurs:n sont:v si:a belles:a !:o »:o dit:v un:o homme:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "No one wanted to seem foolish.",
+   "tgt": "Personne:o ne:o voulait:v paraître:v sot:a .:o"
+  },
+  {
+   "n": 67,
+   "en": "Every person said the cloth looked wonderful.",
+   "tgt": "Chaque:o personne:n dit:v que:o le:o tissu:n semblait:v merveilleux:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "Then a young child saw the emperor.",
+   "tgt": "Alors:o un:o jeune:a enfant:n vit:v l':o empereur:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"But the emperor has no clothes on!\" the child cried.",
+   "tgt": "«:o Mais:o l':o empereur:n n':o a:v pas:o de:o vêtements:n !:o »:o cria:v l':o enfant:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "The people heard the young child and looked.",
+   "tgt": "Les:o gens:n entendirent:v le:o jeune:a enfant:n et:o regardèrent:v .:o"
+  },
+  {
+   "n": 71,
+   "en": "\"The child tells the truth!\" they all said.",
+   "tgt": "«:o L':o enfant:n dit:v la:o vérité:n !:o »:o dirent:v -ils:o tous:o .:o"
+  },
+  {
+   "n": 72,
+   "en": "The emperor knew the truth but walked on.",
+   "tgt": "L':o empereur:n connaissait:v la:o vérité:n mais:o continua:v à:o marcher:v .:o"
+  }
+ ]
+}

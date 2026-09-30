@@ -1,0 +1,571 @@
+{
+ "slug": "rumpelstiltskin",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Miller's Boast",
+   "en": "A miller lived by a mill with his daughter.",
+   "tgt": "Un:o meunier:n vivait:v près:a d':o un:o moulin:n avec:o sa:o fille:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The girl helped him every day.",
+   "tgt": "La:o fille:n l':o aidait:v chaque:o jour:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "One day, the king came to the mill.",
+   "tgt": "Un:o jour:n ,:o le:o roi:n vint:v au:o moulin:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "The miller wanted to please the king.",
+   "tgt": "Le:o meunier:n voulait:v plaire:v au:o roi:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"My daughter can spin straw into gold,\" he said.",
+   "tgt": "«:o Ma:o fille:n peut:v filer:v la:o paille:n en:o or:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "This was not true, but he said it anyway.",
+   "tgt": "Ce:o n':o était:v pas:o vrai:a ,:o mais:o il:o le:o dit:v quand-même:a .:o"
+  },
+  {
+   "n": 7,
+   "en": "The king wanted gold more than anything.",
+   "tgt": "Le:o roi:n voulait:v de:o l':o or:n plus:a que:o tout:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "\"Bring your daughter to my castle,\" said the king.",
+   "tgt": "«:o Amenez:v votre:o fille:n à:o mon:o château:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "The miller brought the girl to the castle.",
+   "tgt": "Le:o meunier:n amena:v la:o fille:n au:o château:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"Tonight you will spin straw into gold,\" said the king.",
+   "tgt": "«:o Ce:o soir:n vous:o filerez:v la:o paille:n en:o or:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 11,
+   "chapter": "The First Night's Bargain",
+   "en": "The king took the girl to a small room.",
+   "tgt": "Le:o roi:n emmena:v la:o fille:n dans:o une:o petite:a chambre:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The room was full of straw.",
+   "tgt": "La:o chambre:n était:v pleine:a de:o paille:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "\"Spin this straw into gold by morning,\" said the king.",
+   "tgt": "«:o Transforme:v cette:o paille:n en:o or:n avant:o le:o matin:n ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"If you cannot, you will die,\" he said.",
+   "tgt": "«:o Si:o tu:o ne:o peux:v pas:o ,:o tu:o mourras:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "The king locked the door and left.",
+   "tgt": "Le:o roi:n ferma:v la:o porte:n à:o clé:n et:o partit:v .:o"
+  },
+  {
+   "n": 16,
+   "en": "The girl sat alone and cried.",
+   "tgt": "La:o fille:n s':o assit:v seule:a et:o pleura:v .:o"
+  },
+  {
+   "n": 17,
+   "en": "Suddenly, a little man appeared in the room.",
+   "tgt": "Soudain:a ,:o un:o petit:a homme:n apparut:v dans:o la:o salle:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"What is wrong?\" said the little man.",
+   "tgt": "«:o Quel:o est:v le:o problème:n ?:o »:o dit:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"I cannot spin straw into gold,\" said the girl.",
+   "tgt": "«:o Je:o ne:o peux:v pas:o transformer:v la:o paille:n en:o or:n ,:o »:o dit:v la:o fille:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"I can spin it for you,\" said the little man.",
+   "tgt": "«:o Je:o peux:v le:o faire:v pour:o toi:o ,:o »:o dit:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"But what will you give me?\" he asked.",
+   "tgt": "«:o Mais:o que:o me:o donneras:v -tu:o ?:o »:o demanda:v -il:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "The girl gave him her necklace.",
+   "tgt": "La:o fille:n lui:o donna:v son:o collier:n .:o"
+  },
+  {
+   "n": 23,
+   "chapter": "Gold by Morning",
+   "en": "The little man sat at a wheel.",
+   "tgt": "Le:o petit:a homme:n s':o assit:v à:o un:o rouet:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "He spun the straw all through the night.",
+   "tgt": "Il:o fila:v la:o paille:n pendant:o toute:a la:o nuit:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "By morning, the straw was gold.",
+   "tgt": "Au:o matin:n ,:o la:o paille:n était:v d':o or:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The king opened the door and looked inside.",
+   "tgt": "Le:o roi:n ouvrit:v la:o porte:n et:o regarda:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "He looked at all the gold.",
+   "tgt": "Il:o regarda:v tout:o l':o or:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "But the king wanted even more gold.",
+   "tgt": "Mais:o le:o roi:n voulait:v encore:a plus:a d':o or:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "He took the girl to a bigger room.",
+   "tgt": "Il:o emmena:v la:o fille:n dans:o une:o salle:n plus:a grande:a .:o"
+  },
+  {
+   "n": 30,
+   "en": "This room had even more straw.",
+   "tgt": "Cette:o salle:n avait:v encore:a plus:a de:o paille:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"Spin this again, or you will die,\" said the king.",
+   "tgt": "«:o Tisse:v encore:a ceci:o ,:o ou:o tu:o mourras:v »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The king locked the door once more.",
+   "tgt": "Le:o roi:n ferma:v la:o porte:n à:o clé:n une:o fois:n de:o plus:a .:o"
+  },
+  {
+   "n": 33,
+   "chapter": "The Second Night's Bargain",
+   "en": "That night, the girl sat alone again.",
+   "tgt": "Cette:o nuit-là:n ,:o la:o fille:n s':o assit:v seule:a encore:a une:o fois:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "The little man appeared once more.",
+   "tgt": "Le:o petit:a homme:n apparut:v une:o fois:n de:o plus:a .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Have you come to help me again?\" she asked.",
+   "tgt": "«:o Es:v -tu:o venu:v m':o aider:v encore:a ?:o »:o demanda:v -t-elle:o .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"What will you give me this time?\" he asked.",
+   "tgt": "«:o Que:o me:o donneras:v -tu:o cette:o fois:n ?:o »:o demanda:v -t-il:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"I have no more gold or jewels,\" she said.",
+   "tgt": "«:o Je:o n':o ai:v plus:o d':o or:n ni:o de:o bijoux:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 38,
+   "en": "\"But you can have my ring,\" she said.",
+   "tgt": "«:o Mais:o vous:o pouvez:v avoir:v ma:o bague:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 39,
+   "en": "The girl gave him her ring.",
+   "tgt": "La:o fille:n lui:o donna:v sa:o bague:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"That will do,\" said the little man.",
+   "tgt": "«:o Cela:o suffira:v ,:o »:o dit:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "He sat down at the wheel.",
+   "tgt": "Il:o s':o assit:v au:o rouet:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "He spun the straw into gold.",
+   "tgt": "Il:o transforma:v la:o paille:n en:o or:n .:o"
+  },
+  {
+   "n": 43,
+   "chapter": "The King's Promise",
+   "en": "In the morning, the king found more gold.",
+   "tgt": "Le:o matin:n ,:o le:o roi:n trouva:v davantage:a d':o or:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "He looked at the gold.",
+   "tgt": "Il:o regarda:v l':o or:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "This was more gold than ever before.",
+   "tgt": "C':o était:v plus:a d':o or:n que:o jamais:o auparavant:a .:o"
+  },
+  {
+   "n": 46,
+   "en": "But the king still wanted more.",
+   "tgt": "Mais:o le:o roi:n voulait:v encore:a davantage:a .:o"
+  },
+  {
+   "n": 47,
+   "en": "He took her to the biggest room.",
+   "tgt": "Il:o la:o conduisit:v dans:o la:o plus:o grande:a salle:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "This room was full of even more straw.",
+   "tgt": "Cette:o salle:n était:v pleine:a d':o encore:a plus:a de:o paille:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "\"Spin this into gold one more time,\" said the king.",
+   "tgt": "«:o Transforme:v ceci:o en:o or:n encore:a une:o fois:n ,:o »:o dit:v -il:o le:o roi:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"If you do, I will marry you,\" he said.",
+   "tgt": "«:o Si:o tu:o fais:v cela:o ,:o je:o t':o épouserai:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"If you cannot, you will still die,\" said the king.",
+   "tgt": "«:o Si:o tu:o ne:o peux:v pas:o ,:o tu:o mourras:v quand:o même:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "The girl did not know what to say.",
+   "tgt": "La:o fille:n ne:o savait:v pas:o quoi:o dire:v .:o"
+  },
+  {
+   "n": 53,
+   "en": "Then the king walked out and locked the door.",
+   "tgt": "Puis:o le:o roi:n sortit:v et:o ferma:v la:o porte:n à:o clé:n .:o"
+  },
+  {
+   "n": 54,
+   "chapter": "The Last Promise",
+   "en": "That night, the girl sat alone once more.",
+   "tgt": "Cette:o nuit:n -là:o ,:o la:o fille:n s':o assit:v seule:a encore:a une:o fois:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "The little man came again.",
+   "tgt": "Le:o petit:a homme:n revint:v .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"Do you have anything left to give me?\" he asked.",
+   "tgt": "«:o Avez:v -vous:o encore:a quelque:o chose:n à:o me:o donner:v ?:o »:o demanda:v -t:o -il:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"I have nothing left to give,\" said the girl.",
+   "tgt": "«:o Je:o n':o ai:v plus:o rien:o à:o donner:v ,:o »:o dit:v la:o fille:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "\"Then promise me your first child,\" he said.",
+   "tgt": "«:o Alors:o promets:v -moi:o ton:o premier:a enfant:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "The girl was afraid to promise this.",
+   "tgt": "La:o fille:n avait:v peur:n de:o faire:v cette:o promesse:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "But if she said no, she would die.",
+   "tgt": "Mais:o si:o elle:o disait:v non:o ,:o elle:o mourrait:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "\"I promise you my first child,\" she said.",
+   "tgt": "«:o Je:o te:o promets:v mon:o premier:a enfant:n »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 62,
+   "en": "The little man smiled and sat at the wheel.",
+   "tgt": "Le:o petit:a homme:n sourit:v et:o s':o assit:v à:o la:o roue:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "He spun the last of the straw.",
+   "tgt": "Il:o fila:v le:o reste:n de:o la:o paille:n .:o"
+  },
+  {
+   "n": 64,
+   "chapter": "The Queen",
+   "en": "The next morning, the king found the gold.",
+   "tgt": "Le:o lendemain:n matin:n ,:o le:o roi:n trouva:v l':o or:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "\"You will be my queen,\" said the king.",
+   "tgt": "«:o Vous:o serez:v ma:o reine:n »:o ,:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The king married the girl.",
+   "tgt": "Le:o roi:n épousa:v la:o jeune:a fille:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "She was now the queen.",
+   "tgt": "Elle:o était:v maintenant:a la:o reine:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The queen lived in the castle with the king.",
+   "tgt": "La:o reine:n vivait:v dans:o le:o château:n avec:o le:o roi:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The king never knew about the little man.",
+   "tgt": "Le:o roi:n ne:o sut:v jamais:o rien:o du:o petit:a homme:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "Only the queen knew that secret.",
+   "tgt": "Seule:a la:o reine:n connaissait:v ce:o secret:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "A peaceful year passed in the kingdom.",
+   "tgt": "Une:o année:n paisible:a passa:v dans:o le:o royaume:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The queen had a baby.",
+   "tgt": "La:o reine:n eut:v un:o bébé:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "The king was glad to have a healthy heir.",
+   "tgt": "Le:o roi:n était:v heureux:a d':o avoir:v un:o héritier:n en:o bonne:a santé:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "The queen thought only about the baby.",
+   "tgt": "La:o reine:n pensait:v seulement:a à:o le:o bébé:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "She forgot all about her promise.",
+   "tgt": "Elle:o oublia:v complètement:a sa:o promesse:n .:o"
+  },
+  {
+   "n": 76,
+   "chapter": "The Little Man's Return",
+   "en": "One night, the little man walked into the castle.",
+   "tgt": "Une:o nuit:n ,:o le:o petit:a homme:n entra:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "\"You promised me your first child,\" he said.",
+   "tgt": "«:o Vous:o m':o avez:v promis:v votre:o premier:a enfant:n ,»:o dit-il:v .:o"
+  },
+  {
+   "n": 78,
+   "en": "\"I have come for the baby,\" said the little man.",
+   "tgt": "«:o Je:o suis:v venu:v pour:o le:o bébé:n ,»:o dit:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "The queen cried and held her baby close.",
+   "tgt": "La:o reine:n pleura:v et:o serra:v son:o bébé:n contre:o elle:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "\"Please do not take my baby,\" she said.",
+   "tgt": "«:o Je:o vous:o en:o supplie:v ,:o ne:o prenez:v pas:o mon:o bébé:n ,»:o dit-elle:v .:o"
+  },
+  {
+   "n": 81,
+   "en": "\"I will give you all my gold,\" said the queen.",
+   "tgt": "«:o Je:o vous:o donnerai:v tout:o mon:o or:n ,»:o dit:v la:o reine:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "\"I do not want your gold,\" said the little man.",
+   "tgt": "«:o Je:o ne:o veux:v pas:o votre:o or:n ,»:o dit:v le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "\"A living child means more to me than gold.\"",
+   "tgt": "«:o Un:o enfant:n vivant:a compte:v plus:a pour:o moi:o que:o l':o or:n .:o »:o"
+  },
+  {
+   "n": 84,
+   "en": "The little man saw the queen's tears.",
+   "tgt": "Le:o petit:a homme:n vit:v les:o larmes:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "\"I will give you a chance,\" said the little man.",
+   "tgt": "«:o Je:o vous:o donnerai:v une:o chance:n »:o ,:o dit:v -il:o ,:o le:o petit:a homme:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"Guess my name in three days.\"",
+   "tgt": "«:o Devinez:v mon:o nom:n en:o trois:o jours:n .:o »:o"
+  },
+  {
+   "n": 87,
+   "en": "\"Guess right, and keep the baby.\"",
+   "tgt": "«:o Devinez:v juste:a ,:o et:o gardez:v le:o bébé:n .:o »:o"
+  },
+  {
+   "n": 88,
+   "chapter": "Two Days of Guessing",
+   "en": "That night, the little man came back.",
+   "tgt": "Ce:o soir-là:a ,:o le:o petit:a homme:n revint:v .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Have you guessed my name?\" he asked.",
+   "tgt": "«:o Avez-vous:v deviné:v mon:o nom:n ?:o »:o demanda:v -t-il:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "The queen guessed the names she knew.",
+   "tgt": "La:o reine:n devina:v les:o noms:n qu':o elle:o connaissait:v .:o"
+  },
+  {
+   "n": 91,
+   "en": "Every name she said was wrong.",
+   "tgt": "Chaque:o nom:n qu':o elle:o dit:v était:v faux:a .:o"
+  },
+  {
+   "n": 92,
+   "en": "\"You have two days left,\" he said.",
+   "tgt": "«:o Il:o vous:o reste:v deux:o jours:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 93,
+   "en": "The next night, he came again.",
+   "tgt": "Le:o soir:n suivant:a ,:o il:o revint:v encore:a .:o"
+  },
+  {
+   "n": 94,
+   "en": "The queen guessed many new names.",
+   "tgt": "La:o reine:n devina:v beaucoup:a de:o nouveaux:a noms:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "None of the names were right.",
+   "tgt": "Aucun:o des:o noms:n n':o était:v juste:a .:o"
+  },
+  {
+   "n": 96,
+   "en": "The little man laughed, sure he was safe.",
+   "tgt": "Le:o petit:a homme:n rit:v ,:o certain:a qu':o il:o était:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"Tomorrow is your last chance,\" he said.",
+   "tgt": "«:o Demain:a est:v votre:o dernière:a chance:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 98,
+   "en": "The queen sent a servant into the kingdom.",
+   "tgt": "La:o reine:n envoya:v une:o servante:n dans:o le:o royaume:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "\"Find me a strange name,\" she said.",
+   "tgt": "«:o Trouvez:v -moi:o un:o nom:n étrange:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 100,
+   "chapter": "Rumpelstiltskin",
+   "en": "The servant walked into the woods and saw a fire.",
+   "tgt": "La:o servante:n marcha:v dans:o les:o bois:n et:o vit:v un:o feu:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "The little man danced around the fire.",
+   "tgt": "Le:o petit:a homme:n dansait:v autour:o du:o feu:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"My name is Rumpelstiltskin!\" he sang.",
+   "tgt": "«:o Mon:o nom:n est:v Rumpelstiltskin:o !:o »:o chanta:v -il:o .:o"
+  },
+  {
+   "n": 103,
+   "en": "The servant ran back to tell the queen.",
+   "tgt": "La:o servante:n courut:v retrouver:v la:o reine:n pour:o lui:o dire:v la:o nouvelle:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "He told her the strange name.",
+   "tgt": "Il:o lui:o dit:v le:o nom:n étrange:a .:o"
+  },
+  {
+   "n": 105,
+   "en": "The little man came back for the baby.",
+   "tgt": "Le:o petit:a homme:n revint:v chercher:v le:o bébé:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"Is your name Rumpelstiltskin?\" asked the queen.",
+   "tgt": "«:o Votre:o nom:n est:v -il:o Rumpelstiltskin:o ?:o »:o demanda:v la:o reine:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "The little man's smile was gone.",
+   "tgt": "Le:o sourire:n du:o petit:a homme:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 108,
+   "en": "He stamped his foot.",
+   "tgt": "Il:o frappa:v le:o sol:n du:o pied:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "Then he fell through the floor.",
+   "tgt": "Puis:o il:o tomba:v à:o travers:o le:o plancher:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "No one ever saw him.",
+   "tgt": "Personne:o ne:o le:o vit:v jamais:o .:o"
+  },
+  {
+   "n": 111,
+   "en": "The queen held her baby and smiled.",
+   "tgt": "La:o reine:n tint:v son:o bébé:n et:o sourit:v .:o"
+  }
+ ]
+}

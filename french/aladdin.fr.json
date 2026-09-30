@@ -1,0 +1,1298 @@
+{
+ "slug": "aladdin",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Poor Tailor's Son",
+   "en": "Aladdin lived with his mother in a house.",
+   "tgt": "Aladdin:o vivait:v avec:o sa:o mère:n dans:o une:o maison:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "His father had worked as a tailor.",
+   "tgt": "Son:o père:n avait:v travaillé:v comme:o tailleur:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "But the tailor died.",
+   "tgt": "Mais:o le:o tailleur:n mourut:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "After that, Aladdin's mother had little money.",
+   "tgt": "Après:o cela:o ,:o la:o mère:n d':o Aladdin:o avait:v peu:a d':o argent:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "She worked hard for money every day.",
+   "tgt": "Elle:o travaillait:v dur:a pour:o de:o l':o argent:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "Aladdin did not want to work.",
+   "tgt": "Aladdin:o ne:o voulait:v pas:o travailler:v .:o"
+  },
+  {
+   "n": 7,
+   "en": "He did not want a trade.",
+   "tgt": "Il:o ne:o voulait:v pas:o de:o métier:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Aladdin played in the market each day.",
+   "tgt": "Aladdin:o jouait:v au:o marché:n chaque:o jour:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "\"You must work,\" his mother said.",
+   "tgt": "«:o Tu:o dois:v travailler:v ,:o »:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "\"You must learn a trade,\" she said again.",
+   "tgt": "«:o Tu:o dois:v apprendre:v un:o métier:n ,:o »:o dit:v -elle:o encore:a .:o"
+  },
+  {
+   "n": 11,
+   "en": "He was now a young man, but still poor.",
+   "tgt": "Il:o était:v maintenant:a un:o jeune:a homme:n ,:o mais:o toujours:a pauvre:a .:o"
+  },
+  {
+   "n": 12,
+   "en": "One day, a stranger came to the market.",
+   "tgt": "Un:o jour:n ,:o un:o étranger:n arriva:v au:o marché:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "The stranger looked hard at Aladdin.",
+   "tgt": "L':o étranger:n regarda:v Aladdin:o attentivement:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "He had a long beard and rich clothes, and he did not smile.",
+   "tgt": "Il:o avait:v une:o longue:a barbe:n et:o de:o riches:a vêtements:n ,:o et:o il:o ne:o souriait:v pas:o .:o"
+  },
+  {
+   "n": 15,
+   "chapter": "An Uncle from Africa",
+   "en": "The stranger was a magician from Africa.",
+   "tgt": "L':o étranger:n était:v un:o magicien:n venu:a d':o Afrique:o .:o"
+  },
+  {
+   "n": 16,
+   "en": "The magician was looking for Aladdin, a poor young man with no trade.",
+   "tgt": "Le:o magicien:n cherchait:v Aladdin:o ,:o un:o jeune:a homme:n pauvre:a qui:o n':o avait:v aucun:o métier:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"Was the tailor your father?\" the magician asked.",
+   "tgt": "«:o Le:o tailleur:n était:v -il:o votre:o père:n ?:o »:o demanda:v le:o magicien:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"Yes, but my father died,\" said Aladdin.",
+   "tgt": "«:o Oui:a ,:o mais:o mon:o père:n est:v mort:a ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"I am your uncle,\" the magician said.",
+   "tgt": "«:o Je:o suis:v votre:o oncle:n ,:o »:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"I am your father's brother from Africa.\"",
+   "tgt": "«:o Je:o suis:v le:o frère:n de:o votre:o père:n ,:o venu:a d':o Afrique:o .:o »:o"
+  },
+  {
+   "n": 21,
+   "en": "The magician gave Aladdin some gold, for his mother still worked hard every day.",
+   "tgt": "Le:o magicien:n donna:v à:o Aladdin:o de:o l':o or:n ,:o car:o sa:o mère:n travaillait:v encore:a dur:a chaque:o jour:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "But Aladdin did not know this man.",
+   "tgt": "Mais:o Aladdin:o ne:o connaissait:v pas:o cet:o homme:n .:o"
+  },
+  {
+   "n": 23,
+   "en": "The magician went to Aladdin's house.",
+   "tgt": "Le:o magicien:n alla:v à:o la:o maison:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "Aladdin's mother did not know of this uncle, and she was afraid.",
+   "tgt": "La:o mère:n d':o Aladdin:o ne:o savait:v pas:o l':o existence:n de:o cet:o oncle:n ,:o et:o elle:o avait:v peur:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "\"Aladdin's father had no brother,\" she said.",
+   "tgt": "«:o Le:o père:n d':o Aladdin:o n':o avait:v pas:o de:o frère:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 26,
+   "en": "The magician said he had been away.",
+   "tgt": "Le:o magicien:n dit:v qu':o il:o avait:v été:v absent:a .:o"
+  },
+  {
+   "n": 27,
+   "en": "He gave Aladdin's mother gold.",
+   "tgt": "Il:o donna:v de:o l':o or:n à:o la:o mère:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "Aladdin's mother believed the magician.",
+   "tgt": "La:o mère:n d':o Aladdin:o crut:v le:o magicien:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "The magician said he would help Aladdin learn a trade.",
+   "tgt": "Le:o magicien:n dit:v qu':o il:o aiderait:v Aladdin:o à:o apprendre:v un:o métier:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"I will make him a rich merchant,\" he said.",
+   "tgt": "«:o Je:o ferai:v de:o lui:o un:o riche:a marchand:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 31,
+   "chapter": "The Cave in the Hills",
+   "en": "The magician came for Aladdin.",
+   "tgt": "Le:o magicien:n vint:v chercher:v Aladdin:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "\"Come with me on a walk,\" the magician said.",
+   "tgt": "«:o Viens:v avec:o moi:o en:o promenade:n ,:o »:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "They walked into the hills.",
+   "tgt": "Ils:o marchèrent:v dans:o les:o collines:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "They came to a place with no one.",
+   "tgt": "Ils:o arrivèrent:v dans:o un:o endroit:n où:o il:o n':o y:o avait:v personne:o .:o"
+  },
+  {
+   "n": 35,
+   "en": "The magician said magic words that Aladdin did not know.",
+   "tgt": "Le:o magicien:n dit:v des:o mots:n magiques:a qu':o Aladdin:o ne:o connaissait:v pas:o .:o"
+  },
+  {
+   "n": 36,
+   "en": "The ground shook and opened.",
+   "tgt": "Le:o sol:n trembla:v et:o s':o ouvrit:v .:o"
+  },
+  {
+   "n": 37,
+   "en": "Aladdin was afraid.",
+   "tgt": "Aladdin:o avait:v peur:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Where the ground had opened was a stone with a metal ring.",
+   "tgt": "Là:a où:o le:o sol:n s':o était:v ouvert:a se:o trouvait:v une:o pierre:n avec:o un:o anneau:n de:o métal:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"Under this stone are steps down to a cave,\" the magician said.",
+   "tgt": "«:o Sous:o cette:o pierre:n se:o trouvent:v des:o marches:n qui:o descendent:v vers:o une:o grotte:n ,:o »:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"The cave holds gold and treasure.\"",
+   "tgt": "«:o La:o grotte:n contient:v de:o l':o or:n et:o des:o trésors:n .:o »:o"
+  },
+  {
+   "n": 41,
+   "en": "\"Only you can lift this stone,\" said the magician.",
+   "tgt": "«:o Toi:o seul:a peux:v soulever:v cette:o pierre:n ,:o »:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "The magician gave Aladdin a ring to keep him safe.",
+   "tgt": "Le:o magicien:n donna:v à:o Aladdin:o un:o anneau:n pour:o le:o garder:v en:o sécurité:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "Aladdin lifted the metal ring.",
+   "tgt": "Aladdin:o souleva:v l':o anneau:n de:o métal:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "The stone came up, and stone steps went down into the dark.",
+   "tgt": "La:o pierre:n se:o leva:v ,:o et:o des:o marches:n de:o pierre:n descendirent:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 45,
+   "chapter": "The Garden Underground",
+   "en": "\"Go down and find a lamp,\" the magician said.",
+   "tgt": "«:o Descends:v et:o trouve:v une:o lampe:n ,:o »:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"Walk through the rooms, but touch nothing.\"",
+   "tgt": "«:o Traverse:v les:o pièces:n ,:o mais:o ne:o touche:v rien:o .:o »:o"
+  },
+  {
+   "n": 47,
+   "en": "\"Bring the lamp back,\" he said.",
+   "tgt": "«:o Rapporte:v la:o lampe:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "Aladdin went down the stone steps into the dark.",
+   "tgt": "Aladdin:o descendit:v les:o marches:n de:o pierre:n dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "He came into a room of gold.",
+   "tgt": "Il:o entra:v dans:o une:o salle:n d':o or:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "This gold could help his poor mother.",
+   "tgt": "Cet:o or:n pouvait:v aider:v sa:o pauvre:a mère:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "Aladdin walked through the rooms of the cave.",
+   "tgt": "Aladdin:o traversa:v les:o pièces:n de:o la:o grotte:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "He came to a garden with many trees.",
+   "tgt": "Il:o arriva:v dans:o un:o jardin:n avec:o de:o nombreux:a arbres:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Each tree had stones of a different color.",
+   "tgt": "Chaque:o arbre:n avait:v des:o pierres:n d':o une:o couleur:n différente:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "Aladdin stopped and looked at the many colors.",
+   "tgt": "Aladdin:o s':o arrêta:v et:o regarda:v les:o nombreuses:a couleurs:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "He wanted to be a rich merchant.",
+   "tgt": "Il:o voulait:v être:v un:o riche:a marchand:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The magician had said to touch nothing, but Aladdin wanted the stones.",
+   "tgt": "Le:o magicien:n avait:v dit:v de:o ne:o toucher:v rien:o ,:o mais:o Aladdin:o voulait:v les:o pierres:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Aladdin picked some stones for his shirt.",
+   "tgt": "Aladdin:o prit:v quelques:o pierres:n pour:o sa:o chemise:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "In the garden, he found the lamp.",
+   "tgt": "Dans:o le:o jardin:n ,:o il:o trouva:v la:o lampe:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "Aladdin put the lamp in his shirt.",
+   "tgt": "Aladdin:o mit:v la:o lampe:n dans:o sa:o chemise:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "He turned to go back to the steps.",
+   "tgt": "Il:o se:o retourna:v pour:o retourner:v aux:o marches:n .:o"
+  },
+  {
+   "n": 61,
+   "chapter": "Sealed in the Earth",
+   "en": "Aladdin came to the steps with the lamp and the stones.",
+   "tgt": "Aladdin:o arriva:v aux:o marches:n avec:o la:o lampe:n et:o les:o pierres:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"Give me the lamp,\" the magician called down.",
+   "tgt": "«:o Donne:v -moi:o la:o lampe:n ,:o »:o appela:v le:o magicien:n d':o en:o haut:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "Aladdin could not climb with the lamp and stones in his hands.",
+   "tgt": "Aladdin:o ne:o pouvait:v pas:o grimper:v avec:o la:o lampe:n et:o les:o pierres:n dans:o ses:o mains:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "\"Help me out, and then I will give you the lamp,\" said Aladdin.",
+   "tgt": "«:o Aide:v -moi:o à:o sortir:v ,:o et:o ensuite:a je:o te:o donnerai:v la:o lampe:n ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 65,
+   "en": "But the magician only wanted the lamp.",
+   "tgt": "Mais:o le:o magicien:n voulait:v seulement:a la:o lampe:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Aladdin still would not give it to him.",
+   "tgt": "Aladdin:o ne:o voulut:v toujours:a pas:o le:o lui:o donner:v .:o"
+  },
+  {
+   "n": 67,
+   "en": "The magician was angry and said the magic words again.",
+   "tgt": "Le:o magicien:n était:v en:o colère:n et:o dit:v les:o mots:n magiques:a de:o nouveau:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "The stone closed, and Aladdin was trapped in the dark.",
+   "tgt": "La:o pierre:n se:o ferma:v ,:o et:o Aladdin:o fut:v piégé:a dans:o le:o noir:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "He called out, but no one came.",
+   "tgt": "Il:o appela:v ,:o mais:o personne:o ne:o vint:v .:o"
+  },
+  {
+   "n": 70,
+   "en": "Aladdin sat in the dark cave for a long time.",
+   "tgt": "Aladdin:o resta:v assis:a dans:o la:o grotte:n sombre:a pendant:o longtemps:a .:o"
+  },
+  {
+   "n": 71,
+   "en": "Aladdin rubbed his hands.",
+   "tgt": "Aladdin:o se:o frotta:v les:o mains:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "This rubbed the ring on his hand.",
+   "tgt": "Cela:o frotta:v la:o bague:n sur:o sa:o main:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "A spirit came up before him.",
+   "tgt": "Un:o esprit:n apparut:v devant:o lui:o .:o"
+  },
+  {
+   "n": 74,
+   "en": "\"I am the spirit of the ring,\" it said.",
+   "tgt": "«:o Je:o suis:v l':o esprit:n de:o la:o bague:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 75,
+   "en": "\"What do you wish?\" it asked.",
+   "tgt": "«:o Que:o désirez:v -vous:o ?:o »:o demanda:v -t:o -il:o .:o"
+  },
+  {
+   "n": 76,
+   "en": "\"Take me home,\" said Aladdin.",
+   "tgt": "«:o Emmène:v -moi:o à:o la:o maison:n ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 77,
+   "en": "Then Aladdin was home again.",
+   "tgt": "Puis:o Aladdin:o était:v de:o nouveau:a chez:o lui:o .:o"
+  },
+  {
+   "n": 78,
+   "chapter": "The Lamp Is Cleaned",
+   "en": "Aladdin said the magician was not his uncle.",
+   "tgt": "Aladdin:o dit:v que:o le:o magicien:n n':o était:v pas:o son:o oncle:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "\"He only wanted the lamp,\" Aladdin said.",
+   "tgt": "«:o Il:o ne:o voulait:v que:o la:o lampe:n ,:o »:o dit:v -il:o Aladdin:o .:o"
+  },
+  {
+   "n": 80,
+   "en": "His mother was afraid of the magician now.",
+   "tgt": "Sa:o mère:n avait:v maintenant:a peur:n du:o magicien:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "They still had the colored stones from the cave.",
+   "tgt": "Ils:o avaient:v encore:a les:o pierres:n colorées:a de:o la:o grotte:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "Aladdin sold some stones for money.",
+   "tgt": "Aladdin:o vendit:v quelques:o pierres:n contre:o de:o l':o argent:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "For a time, they had money and food.",
+   "tgt": "Pendant:o un:o moment:n ,:o ils:o eurent:v de:o l':o argent:n et:o de:o la:o nourriture:n .:o"
+  },
+  {
+   "n": 84,
+   "en": "But the stones and the money were gone.",
+   "tgt": "Mais:o les:o pierres:n et:o l':o argent:n étaient:v partis:a .:o"
+  },
+  {
+   "n": 85,
+   "en": "Aladdin's mother looked at the old lamp.",
+   "tgt": "La:o mère:n d':o Aladdin:o regarda:v la:o vieille:a lampe:n .:o"
+  },
+  {
+   "n": 86,
+   "en": "\"I will clean this lamp and sell it,\" she said.",
+   "tgt": "«:o Je:o vais:v nettoyer:v cette:o lampe:n et:o la:o vendre:v ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 87,
+   "en": "She rubbed the lamp with a cloth.",
+   "tgt": "Elle:o frotta:v la:o lampe:n avec:o un:o chiffon:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "A spirit came out of the lamp.",
+   "tgt": "Un:o esprit:n sortit:v de:o la:o lampe:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "Aladdin's mother was afraid and dropped the lamp.",
+   "tgt": "La:o mère:n d':o Aladdin:o eut:v peur:n et:o laissa:v tomber:v la:o lampe:n .:o"
+  },
+  {
+   "n": 90,
+   "en": "\"I am the spirit of the lamp,\" it said.",
+   "tgt": "«:o Je:o suis:v l':o esprit:n de:o la:o lampe:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 91,
+   "en": "Aladdin was hungry, and he asked for food.",
+   "tgt": "Aladdin:o avait:v faim:n ,:o et:o il:o demanda:v de:o la:o nourriture:n .:o"
+  },
+  {
+   "n": 92,
+   "en": "Food appeared on a table before them.",
+   "tgt": "De:o la:o nourriture:n apparut:v sur:o une:o table:n devant:o eux:o .:o"
+  },
+  {
+   "n": 93,
+   "en": "Aladdin and his mother ate the food.",
+   "tgt": "Aladdin:o et:o sa:o mère:n mangèrent:v la:o nourriture:n .:o"
+  },
+  {
+   "n": 94,
+   "chapter": "Rising Fortune",
+   "en": "The lamp gave them food and gold.",
+   "tgt": "La:o lampe:n leur:o donna:v de:o la:o nourriture:n et:o de:o l':o or:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "Aladdin sold the gold for money.",
+   "tgt": "Aladdin:o vendit:v l':o or:n contre:o de:o l':o argent:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "He had a house.",
+   "tgt": "Il:o avait:v une:o maison:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "Aladdin learned to buy and sell in the market.",
+   "tgt": "Aladdin:o apprit:v à:o acheter:v et:o à:o vendre:v au:o marché:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "He was now a rich young merchant.",
+   "tgt": "Il:o était:v maintenant:a un:o jeune:a marchand:n riche:a .:o"
+  },
+  {
+   "n": 99,
+   "en": "One day, the Sultan said Princess Badr would walk outside.",
+   "tgt": "Un:o jour:n ,:o le:o Sultan:o dit:v que:o la:o princesse:n Badr:o se:o promènerait:v dehors:a .:o"
+  },
+  {
+   "n": 100,
+   "en": "\"No one could look at the princess,\" he said.",
+   "tgt": "«:o Personne:o ne:o pouvait:v regarder:v la:o princesse:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 101,
+   "en": "But Aladdin hid and looked at her.",
+   "tgt": "Mais:o Aladdin:o se:o cacha:v et:o la:o regarda:v .:o"
+  },
+  {
+   "n": 102,
+   "en": "Aladdin wanted to marry Princess Badr.",
+   "tgt": "Aladdin:o voulait:v épouser:v la:o princesse:n Badr:o .:o"
+  },
+  {
+   "n": 103,
+   "en": "He said this to his mother.",
+   "tgt": "Il:o dit:v cela:o à:o sa:o mère:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"I want to marry her,\" Aladdin said.",
+   "tgt": "«:o Je:o veux:v l':o épouser:v ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 105,
+   "en": "His mother said no.",
+   "tgt": "Sa:o mère:n dit:v non:o .:o"
+  },
+  {
+   "n": 106,
+   "en": "\"You are only a merchant,\" she said.",
+   "tgt": "«:o Tu:o n':o es:v que:o un:o marchand:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"I will ask the Sultan,\" Aladdin said.",
+   "tgt": "«:o Je:o demanderai:v au:o Sultan:o ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 108,
+   "en": "His mother was afraid, but she would help him.",
+   "tgt": "Sa:o mère:n avait:v peur:n ,:o mais:o elle:o l':o aiderait:v .:o"
+  },
+  {
+   "n": 109,
+   "chapter": "A Bowl of Stones",
+   "en": "Aladdin asked the spirit for a bowl of stones.",
+   "tgt": "Aladdin:o demanda:v à:o l':o esprit:n un:o bol:n de:o pierres:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "The spirit filled a bowl with fine stones.",
+   "tgt": "L':o esprit:n remplit:v un:o bol:n de:o belles:a pierres:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "\"Take this to the Sultan,\" Aladdin said to his mother.",
+   "tgt": "«:o Portez:v ceci:o au:o Sultan:o ,:o »:o dit:v Aladdin:o à:o sa:o mère:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "Aladdin's mother took the bowl to the palace.",
+   "tgt": "La:o mère:n d':o Aladdin:o porta:v le:o bol:n au:o palais:n .:o"
+  },
+  {
+   "n": 113,
+   "en": "She asked to see the Sultan.",
+   "tgt": "Elle:o demanda:v à:o voir:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 114,
+   "en": "The Sultan looked at the stones in the bowl.",
+   "tgt": "Le:o Sultan:o regarda:v les:o pierres:n dans:o le:o bol:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "He had never seen such fine stones before.",
+   "tgt": "Il:o n':o avait:v jamais:o vu:v de:o si:o belles:a pierres:n auparavant:a .:o"
+  },
+  {
+   "n": 116,
+   "en": "\"These stones are worth a lot,\" said the Sultan.",
+   "tgt": "«:o Ces:o pierres:n valent:v beaucoup:a ,:o »:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"Aladdin wants to marry Princess Badr,\" said Aladdin's mother.",
+   "tgt": "«:o Aladdin:o veut:v épouser:v la:o Princesse:n Badr:o ,:o »:o dit:v la:o mère:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 118,
+   "en": "\"Aladdin must bring me a gift,\" said the Sultan.",
+   "tgt": "«:o Aladdin:o doit:v m':o apporter:v un:o cadeau:n ,:o »:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 119,
+   "en": "\"What kind of gift?\" asked Aladdin's mother.",
+   "tgt": "«:o Quel:o genre:n de:o cadeau:n ?:o »:o demanda:v la:o mère:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 120,
+   "en": "\"Bring many bowls of gold and stones,\" said the Sultan.",
+   "tgt": "«:o Apportez:v de:o nombreux:a bols:n d':o or:n et:o de:o pierres:n ,:o »:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"Forty men must carry them to the palace,\" he said.",
+   "tgt": "«:o Quarante:o hommes:n doivent:v les:o porter:v au:o palais:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 122,
+   "en": "Aladdin's mother went home to tell him.",
+   "tgt": "La:o mère:n d':o Aladdin:o rentra:v chez:o elle:o pour:o lui:o dire:v .:o"
+  },
+  {
+   "n": 123,
+   "en": "She told Aladdin what the Sultan wanted.",
+   "tgt": "Elle:o dit:v à:o Aladdin:o ce:o que:o le:o Sultan:o voulait:v .:o"
+  },
+  {
+   "n": 124,
+   "en": "Aladdin knew the lamp's spirit could do this.",
+   "tgt": "Aladdin:o savait:v que:o l':o esprit:n de:o la:o lampe:n pouvait:v faire:v cela:o .:o"
+  },
+  {
+   "n": 125,
+   "chapter": "The Impossible Gift",
+   "en": "Aladdin asked the lamp's spirit for the gift.",
+   "tgt": "Aladdin:o demanda:v à:o l':o esprit:n de:o la:o lampe:n le:o cadeau:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "The spirit filled forty bowls with gold and stones.",
+   "tgt": "L':o esprit:n remplit:v quarante:o bols:n d':o or:n et:o de:o pierres:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "Forty men came to carry them.",
+   "tgt": "Quarante:o hommes:n vinrent:v les:o porter:v .:o"
+  },
+  {
+   "n": 128,
+   "en": "The spirit gave Aladdin fine clothes and a horse.",
+   "tgt": "L':o esprit:n donna:v à:o Aladdin:o de:o beaux:a vêtements:n et:o un:o cheval:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "Aladdin put on the fine clothes and rode the horse.",
+   "tgt": "Aladdin:o mit:v les:o beaux:a vêtements:n et:o monta:v le:o cheval:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "The forty men and the bowls went to the palace.",
+   "tgt": "Les:o quarante:o hommes:n et:o les:o bols:n allèrent:v au:o palais:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "All the people came out to look.",
+   "tgt": "Tous:o les:o gens:n sortirent:v pour:o regarder:v .:o"
+  },
+  {
+   "n": 132,
+   "en": "The Sultan looked at the gold and the stones.",
+   "tgt": "Le:o Sultan:o regarda:v l':o or:n et:o les:o pierres:n .:o"
+  },
+  {
+   "n": 133,
+   "en": "He had never seen so much gold.",
+   "tgt": "Il:o n':o avait:v jamais:o vu:v autant:o d':o or:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "\"This is a lot,\" said the Sultan.",
+   "tgt": "«:o C':o est:v beaucoup:a »:o ,:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 135,
+   "en": "\"Aladdin will marry Princess Badr,\" said the Sultan.",
+   "tgt": "«:o Aladdin:o épousera:v la:o princesse:n Badr:o »:o ,:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 136,
+   "en": "She went home to tell Aladdin.",
+   "tgt": "Elle:o rentra:v chez:o elle:o pour:o dire:v la:o nouvelle:n à:o Aladdin:o .:o"
+  },
+  {
+   "n": 137,
+   "en": "\"Soon you will marry the princess,\" said his mother.",
+   "tgt": "«:o Bientôt:a tu:o épouseras:v la:o princesse:n »:o ,:o dit:v sa:o mère:n .:o"
+  },
+  {
+   "n": 138,
+   "chapter": "A Palace of Wonder",
+   "en": "Aladdin and Princess Badr were married.",
+   "tgt": "Aladdin:o et:o la:o princesse:n Badr:o se:o marièrent:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "All the people came to see the wedding.",
+   "tgt": "Tous:o les:o gens:n vinrent:v voir:v le:o mariage:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "Aladdin asked the spirit for a great palace.",
+   "tgt": "Aladdin:o demanda:v à:o l':o esprit:n un:o grand:a palais:n .:o"
+  },
+  {
+   "n": 141,
+   "en": "That night, the spirit built the palace.",
+   "tgt": "Cette:o nuit-là:a ,:o l':o esprit:n construisit:v le:o palais:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "The new palace stood next to the Sultan's palace.",
+   "tgt": "Le:o nouveau:a palais:n se:o trouvait:v à:o côté:n du:o palais:n du:o Sultan:o .:o"
+  },
+  {
+   "n": 143,
+   "en": "It had many rooms full of gold.",
+   "tgt": "Il:o avait:v beaucoup:a de:o salles:n pleines:a d':o or:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "The Sultan came to see the new palace.",
+   "tgt": "Le:o Sultan:o vint:v voir:v le:o nouveau:a palais:n .:o"
+  },
+  {
+   "n": 145,
+   "en": "He had never seen such a fine palace before.",
+   "tgt": "Il:o n':o avait:v jamais:o vu:v un:o si:a beau:a palais:n auparavant:a .:o"
+  },
+  {
+   "n": 146,
+   "en": "Princess Badr walked through her new home.",
+   "tgt": "La:o princesse:n Badr:o parcourut:v sa:o nouvelle:a demeure:n .:o"
+  },
+  {
+   "n": 147,
+   "en": "Aladdin gave his mother a room in the new palace.",
+   "tgt": "Aladdin:o donna:v à:o sa:o mère:n une:o chambre:n dans:o le:o nouveau:a palais:n .:o"
+  },
+  {
+   "n": 148,
+   "en": "Aladdin gave gold to the poor people.",
+   "tgt": "Aladdin:o donna:v de:o l':o or:n aux:o gens:n pauvres:a .:o"
+  },
+  {
+   "n": 149,
+   "en": "Aladdin and Badr lived in the palace.",
+   "tgt": "Aladdin:o et:o Badr:o vivaient:v dans:o le:o palais:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "But in Africa, the magician still thought of Aladdin.",
+   "tgt": "Mais:o en:o Afrique:o ,:o le:o magicien:n pensait:v encore:a à:o Aladdin:o .:o"
+  },
+  {
+   "n": 151,
+   "chapter": "The Magician's Return",
+   "en": "In Africa, the magician said magic words to look for Aladdin.",
+   "tgt": "En:o Afrique:o ,:o le:o magicien:n prononça:v des:o mots:n magiques:a pour:o chercher:v Aladdin:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "The magic words showed him Aladdin was alive.",
+   "tgt": "Les:o mots:n magiques:a lui:o montrèrent:v qu':o Aladdin:o était:v vivant:a .:o"
+  },
+  {
+   "n": 153,
+   "en": "The magician was angry.",
+   "tgt": "Le:o magicien:n était:v furieux:a .:o"
+  },
+  {
+   "n": 154,
+   "en": "He learned that Aladdin had married Princess Badr.",
+   "tgt": "Il:o apprit:v qu':o Aladdin:o avait:v épousé:v la:o Princesse:n Badr:o .:o"
+  },
+  {
+   "n": 155,
+   "en": "Aladdin now had a rich palace and the magic lamp.",
+   "tgt": "Aladdin:o possédait:v maintenant:a un:o riche:a palais:n et:o la:o lampe:n magique:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "The magician wanted the lamp.",
+   "tgt": "Le:o magicien:n voulait:v la:o lampe:n .:o"
+  },
+  {
+   "n": 157,
+   "en": "He traveled to find Aladdin.",
+   "tgt": "Il:o voyagea:v pour:o trouver:v Aladdin:o .:o"
+  },
+  {
+   "n": 158,
+   "en": "In the market, he heard about Aladdin's palace.",
+   "tgt": "Au:o marché:n ,:o il:o entendit:v parler:v du:o palais:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 159,
+   "en": "\"Aladdin still has the lamp,\" a man in the market said.",
+   "tgt": "«:o Aladdin:o a:v encore:a la:o lampe:n ,:o »:o dit:v un:o homme:n du:o marché:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "The magician made a plan.",
+   "tgt": "Le:o magicien:n fit:v un:o plan:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "He bought many new lamps.",
+   "tgt": "Il:o acheta:v beaucoup:a de:o nouvelles:a lampes:n .:o"
+  },
+  {
+   "n": 162,
+   "en": "\"I will give new lamps for old ones,\" he said.",
+   "tgt": "«:o Je:o donnerai:v de:o nouvelles:a lampes:n contre:o de:o vieilles:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 163,
+   "en": "One day, Aladdin left the palace to hunt.",
+   "tgt": "Un:o jour:n ,:o Aladdin:o quitta:v le:o palais:n pour:o chasser:v .:o"
+  },
+  {
+   "n": 164,
+   "en": "The magician saw Aladdin ride away.",
+   "tgt": "Le:o magicien:n vit:v Aladdin:o partir:v à:o cheval:n .:o"
+  },
+  {
+   "n": 165,
+   "en": "He walked toward the new palace with his lamps.",
+   "tgt": "Il:o marcha:v vers:o le:o nouveau:a palais:n avec:o ses:o lampes:n .:o"
+  },
+  {
+   "n": 166,
+   "chapter": "New Lamps for Old",
+   "en": "\"New lamps for old lamps!\" he called out.",
+   "tgt": "«:o Des:o lampes:n neuves:a contre:o de:o vieilles:a lampes:n !:o »:o cria-t-il:v .:o"
+  },
+  {
+   "n": 167,
+   "en": "Princess Badr heard him from a window.",
+   "tgt": "La:o princesse:n Badr:o l':o entendit:v depuis:o une:o fenêtre:n .:o"
+  },
+  {
+   "n": 168,
+   "en": "She saw Aladdin's old lamp on a table.",
+   "tgt": "Elle:o vit:v la:o vieille:a lampe:n d':o Aladdin:o sur:o une:o table:n .:o"
+  },
+  {
+   "n": 169,
+   "en": "Badr did not know the lamp was magic.",
+   "tgt": "Badr:o ne:o savait:v pas:o que:o la:o lampe:n était:v magique:a .:o"
+  },
+  {
+   "n": 170,
+   "en": "\"I will trade this old lamp for a new one,\" she said.",
+   "tgt": "«:o Je:o vais:v échanger:v cette:o vieille:a lampe:n contre:o une:o nouvelle:a »:o ,:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 171,
+   "en": "A servant took the old lamp to the magician.",
+   "tgt": "Un:o serviteur:n porta:v la:o vieille:a lampe:n au:o magicien:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "The magician gave the servant a new lamp instead.",
+   "tgt": "Le:o magicien:n donna:v au:o serviteur:n une:o nouvelle:a lampe:n à:o la:o place:n .:o"
+  },
+  {
+   "n": 173,
+   "en": "He hid the new lamps and left the palace.",
+   "tgt": "Il:o cacha:v les:o nouvelles:a lampes:n et:o quitta:v le:o palais:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "That night, the magician rubbed the lamp.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o magicien:n frotta:v la:o lampe:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "The spirit of the lamp came out.",
+   "tgt": "L':o esprit:n de:o la:o lampe:n sortit:v .:o"
+  },
+  {
+   "n": 176,
+   "en": "\"Take this palace and Princess Badr to Africa,\" said the magician.",
+   "tgt": "«:o Transporte:v ce:o palais:n et:o la:o princesse:n Badr:o en:o Afrique:o »:o ,:o dit:v le:o magicien:n .:o"
+  },
+  {
+   "n": 177,
+   "en": "The whole palace flew into the sky.",
+   "tgt": "Le:o palais:n entier:a s':o envola:v dans:o le:o ciel:n .:o"
+  },
+  {
+   "n": 178,
+   "en": "It flew all the way to Africa.",
+   "tgt": "Il:o vola:v jusqu':o en:o Afrique:o .:o"
+  },
+  {
+   "n": 179,
+   "en": "Aladdin's mother looked for the palace, but it was gone.",
+   "tgt": "La:o mère:n d':o Aladdin:o chercha:v le:o palais:n ,:o mais:o il:o avait:v disparu:v .:o"
+  },
+  {
+   "n": 180,
+   "chapter": "Forty Days",
+   "en": "Aladdin came home from the hunt.",
+   "tgt": "Aladdin:o rentra:v chez:o lui:o après:o la:o chasse:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "But the new palace was gone.",
+   "tgt": "Mais:o le:o nouveau:a palais:n avait:v disparu:v .:o"
+  },
+  {
+   "n": 182,
+   "en": "His mother said a man had traded new lamps.",
+   "tgt": "Sa:o mère:n dit:v qu':o un:o homme:n avait:v échangé:v de:o nouvelles:a lampes:n .:o"
+  },
+  {
+   "n": 183,
+   "en": "Aladdin knew the magician had come back.",
+   "tgt": "Aladdin:o sut:v que:o le:o magicien:n était:v revenu:v .:o"
+  },
+  {
+   "n": 184,
+   "en": "The Sultan knew that the palace and Princess Badr were gone.",
+   "tgt": "Le:o Sultan:o sut:v que:o le:o palais:n et:o la:o princesse:n Badr:o avaient:v disparu:v .:o"
+  },
+  {
+   "n": 185,
+   "en": "The Sultan was angry.",
+   "tgt": "Le:o Sultan:o était:v furieux:a .:o"
+  },
+  {
+   "n": 186,
+   "en": "\"This is magic!\" said the Sultan.",
+   "tgt": "«:o C':o est:v de:o la:o magie:n !:o »:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 187,
+   "en": "\"Bring back Princess Badr, or you will die,\" said the Sultan.",
+   "tgt": "«:o Ramenez:v la:o princesse:n Badr:o ,:o ou:o vous:o mourrez:v ,:o »:o dit:v le:o Sultan:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "Aladdin was afraid, but he asked to wait.",
+   "tgt": "Aladdin:o était:v effrayé:a ,:o mais:o il:o demanda:v à:o attendre:v .:o"
+  },
+  {
+   "n": 189,
+   "en": "The Sultan gave Aladdin forty days to find her.",
+   "tgt": "Le:o Sultan:o donna:v à:o Aladdin:o quarante:o jours:n pour:o la:o retrouver:v .:o"
+  },
+  {
+   "n": 190,
+   "en": "Aladdin left the palace with no money and no lamp.",
+   "tgt": "Aladdin:o quitta:v le:o palais:n ,:o n':o ayant:v ni:o argent:n ni:o lampe:n .:o"
+  },
+  {
+   "n": 191,
+   "en": "He walked through the market, alone.",
+   "tgt": "Il:o traversa:v le:o marché:n ,:o seul:a .:o"
+  },
+  {
+   "n": 192,
+   "en": "No one knew where the palace had gone.",
+   "tgt": "Personne:o ne:o savait:v où:o le:o palais:n était:v allé:v .:o"
+  },
+  {
+   "n": 193,
+   "en": "Aladdin walked for days.",
+   "tgt": "Aladdin:o marcha:v pendant:o des:o jours:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "He came to a tree and sat down.",
+   "tgt": "Il:o arriva:v à:o un:o arbre:n et:o s':o assit:v .:o"
+  },
+  {
+   "n": 195,
+   "en": "Aladdin was afraid, and he rubbed his hands.",
+   "tgt": "Aladdin:o était:v effrayé:a ,:o et:o il:o se:o frotta:v les:o mains:n .:o"
+  },
+  {
+   "n": 196,
+   "chapter": "Across the Sea",
+   "en": "A spirit came up from the ring.",
+   "tgt": "Un:o esprit:n sortit:v de:o la:o bague:n .:o"
+  },
+  {
+   "n": 197,
+   "en": "\"What do you wish?\" said the spirit.",
+   "tgt": "«:o Que:o désirez:v -vous:o ?:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "\"Take me to Princess Badr,\" said Aladdin.",
+   "tgt": "«:o Emmène:v -moi:o chez:o la:o princesse:n Badr:o ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 199,
+   "en": "\"I cannot bring back the palace,\" said the spirit.",
+   "tgt": "«:o Je:o ne:o peux:v pas:o ramener:v le:o palais:n ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 200,
+   "en": "\"The lamp's spirit is more powerful than I am,\" it said.",
+   "tgt": "«:o L':o esprit:n de:o la:o lampe:n est:v plus:a puissant:a que:o moi:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 201,
+   "en": "\"But I can take you to Africa,\" said the spirit.",
+   "tgt": "«:o Mais:o je:o peux:v te:o conduire:v en:o Afrique:o ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 202,
+   "en": "Aladdin was in Africa.",
+   "tgt": "Aladdin:o était:v en:o Afrique:o .:o"
+  },
+  {
+   "n": 203,
+   "en": "He saw the palace.",
+   "tgt": "Il:o vit:v le:o palais:n .:o"
+  },
+  {
+   "n": 204,
+   "en": "Aladdin came to the palace to find Badr.",
+   "tgt": "Aladdin:o vint:v au:o palais:n pour:o trouver:v Badr:o .:o"
+  },
+  {
+   "n": 205,
+   "en": "He found Princess Badr.",
+   "tgt": "Il:o trouva:v la:o princesse:n Badr:o .:o"
+  },
+  {
+   "n": 206,
+   "en": "Badr saw Aladdin and was glad.",
+   "tgt": "Badr:o vit:v Aladdin:o et:o fut:v contente:a .:o"
+  },
+  {
+   "n": 207,
+   "en": "\"The magician brought us to Africa,\" said Badr.",
+   "tgt": "«:o Le:o magicien:n nous:o a:v amenés:v en:o Afrique:o ,:o »:o dit:v Badr:o .:o"
+  },
+  {
+   "n": 208,
+   "en": "\"He wants me to be his wife,\" said Badr.",
+   "tgt": "«:o Il:o veut:v que:o je:o sois:v sa:o femme:n ,:o »:o dit:v Badr:o .:o"
+  },
+  {
+   "n": 209,
+   "en": "But Badr said no to him.",
+   "tgt": "Mais:o Badr:o lui:o dit:v non:o .:o"
+  },
+  {
+   "n": 210,
+   "en": "Aladdin said he must get the lamp back.",
+   "tgt": "Aladdin:o dit:v qu':o il:o devait:v récupérer:v la:o lampe:n .:o"
+  },
+  {
+   "n": 211,
+   "en": "\"I have a plan,\" said Aladdin.",
+   "tgt": "«:o J':o ai:v un:o plan:n ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 212,
+   "en": "\"Give the magician wine with sleeping powder in it,\" he said.",
+   "tgt": "«:o Donne:v au:o magicien:n du:o vin:n avec:o de:o la:o poudre:n soporifique:a dedans:a ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 213,
+   "en": "Badr agreed to help Aladdin.",
+   "tgt": "Badr:o accepta:v d':o aider:v Aladdin:o .:o"
+  },
+  {
+   "n": 214,
+   "chapter": "The Magician's End",
+   "en": "Badr made wine with sleeping powder in it.",
+   "tgt": "Badr:o prépara:v du:o vin:n avec:o de:o la:o poudre:n soporifique:a dedans:a .:o"
+  },
+  {
+   "n": 215,
+   "en": "Badr said she would marry the magician after all.",
+   "tgt": "Badr:o dit:v qu':o elle:o épouserait:v le:o magicien:n finalement:a .:o"
+  },
+  {
+   "n": 216,
+   "en": "She asked him to eat with her.",
+   "tgt": "Elle:o lui:o demanda:v de:o manger:v avec:o elle:o .:o"
+  },
+  {
+   "n": 217,
+   "en": "The magician was glad and came to eat.",
+   "tgt": "Le:o magicien:n fut:v content:a et:o vint:v manger:v .:o"
+  },
+  {
+   "n": 218,
+   "en": "Badr gave him the wine with the powder.",
+   "tgt": "Badr:o lui:o donna:v le:o vin:n avec:o la:o poudre:n .:o"
+  },
+  {
+   "n": 219,
+   "en": "The magician drank all of the wine and soon fell asleep.",
+   "tgt": "Le:o magicien:n but:v tout:o le:o vin:n et:o s':o endormit:v bientôt:a .:o"
+  },
+  {
+   "n": 220,
+   "en": "Aladdin came out and looked at the magician.",
+   "tgt": "Aladdin:o sortit:v et:o regarda:v le:o magicien:n .:o"
+  },
+  {
+   "n": 221,
+   "en": "He found the lamp on the magician.",
+   "tgt": "Il:o trouva:v la:o lampe:n sur:o le:o magicien:n .:o"
+  },
+  {
+   "n": 222,
+   "en": "Aladdin took the lamp from the magician.",
+   "tgt": "Aladdin:o prit:v la:o lampe:n au:o magicien:n .:o"
+  },
+  {
+   "n": 223,
+   "en": "Then Aladdin killed the magician with a blade.",
+   "tgt": "Ensuite:a Aladdin:o tua:v le:o magicien:n avec:o une:o lame:n .:o"
+  },
+  {
+   "n": 224,
+   "en": "Aladdin rubbed the lamp.",
+   "tgt": "Aladdin:o frotta:v la:o lampe:n .:o"
+  },
+  {
+   "n": 225,
+   "en": "\"Take us home,\" said Aladdin.",
+   "tgt": "«:o Ramenez:v -nous:o chez:o nous:o ,:o »:o dit:v Aladdin:o .:o"
+  },
+  {
+   "n": 226,
+   "en": "\"Take the whole palace back home,\" he said.",
+   "tgt": "«:o Ramenez:v tout:o le:o palais:n chez:o nous:o ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 227,
+   "en": "The palace flew across the sea and all the way home.",
+   "tgt": "Le:o palais:n traversa:v la:o mer:n en:o volant:v et:o rentra:v tout:a droit:a chez:o lui:o .:o"
+  },
+  {
+   "n": 228,
+   "chapter": "The False Holy Woman",
+   "en": "The magician had a brother in Africa.",
+   "tgt": "Le:o magicien:n avait:v un:o frère:n en:o Afrique:o .:o"
+  },
+  {
+   "n": 229,
+   "en": "Magic showed the brother that the magician had died.",
+   "tgt": "La:o magie:n montra:v au:o frère:n que:o le:o magicien:n était:v mort:a .:o"
+  },
+  {
+   "n": 230,
+   "en": "The brother wanted to punish Aladdin.",
+   "tgt": "Le:o frère:n voulait:v punir:v Aladdin:o .:o"
+  },
+  {
+   "n": 231,
+   "en": "All the people loved a holy woman called Fatima.",
+   "tgt": "Tous:o les:o gens:n aimaient:v une:o femme:n sainte:a appelée:a Fatima:o .:o"
+  },
+  {
+   "n": 232,
+   "en": "The brother found Fatima and killed her.",
+   "tgt": "Le:o frère:n trouva:v Fatima:o et:o la:o tua:v .:o"
+  },
+  {
+   "n": 233,
+   "en": "He put on her clothes to look like Fatima.",
+   "tgt": "Il:o mit:v ses:o vêtements:n pour:o ressembler:v à:o Fatima:o .:o"
+  },
+  {
+   "n": 234,
+   "en": "The false Fatima came to Aladdin's palace.",
+   "tgt": "La:o fausse:a Fatima:o vint:v au:o palais:n d':o Aladdin:o .:o"
+  },
+  {
+   "n": 235,
+   "en": "Badr was glad to see Fatima.",
+   "tgt": "Badr:o était:v contente:a de:o voir:v Fatima:o .:o"
+  },
+  {
+   "n": 236,
+   "en": "\"Stay in the palace with me,\" said Badr.",
+   "tgt": "«:o Reste:v dans:o le:o palais:n avec:o moi:o ,:o »:o dit:v -elle:o Badr:o .:o"
+  },
+  {
+   "n": 237,
+   "en": "One day, the false Fatima came to the great hall.",
+   "tgt": "Un:o jour:n ,:o la:o fausse:a Fatima:o vint:v dans:o la:o grande:a salle:n .:o"
+  },
+  {
+   "n": 238,
+   "en": "She said a great bird's egg had to hang there.",
+   "tgt": "Elle:o dit:v qu':o un:o œuf:n de:o grand:a oiseau:n devait:v y:o être:v suspendu:a .:o"
+  },
+  {
+   "n": 239,
+   "en": "Badr asked Aladdin for a great bird's egg.",
+   "tgt": "Badr:o demanda:v à:o Aladdin:o un:o œuf:n de:o grand:a oiseau:n .:o"
+  },
+  {
+   "n": 240,
+   "en": "\"Get this for me,\" said Badr.",
+   "tgt": "«:o Obtiens:v ceci:o pour:o moi:o ,:o »:o dit:v Badr:o .:o"
+  },
+  {
+   "n": 241,
+   "chapter": "The Last Sorcerer",
+   "en": "Aladdin rubbed the lamp to ask for the egg.",
+   "tgt": "Aladdin:o frotta:v la:o lampe:n pour:o demander:v l':o œuf:n .:o"
+  },
+  {
+   "n": 242,
+   "en": "The spirit came and looked angry.",
+   "tgt": "L':o esprit:n vint:v et:o parut:v en:o colère:a .:o"
+  },
+  {
+   "n": 243,
+   "en": "\"A bird's egg?\" it asked.",
+   "tgt": "«:o L':o œuf:n d':o un:o oiseau:n ?:o »:o demanda:v -il:o .:o"
+  },
+  {
+   "n": 244,
+   "en": "\"An enemy would ask for this,\" said the spirit.",
+   "tgt": "«:o Un:o ennemi:n demanderait:v cela:o ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 245,
+   "en": "\"That is not Fatima,\" said the spirit.",
+   "tgt": "«:o Ce:o n':o est:v pas:o Fatima:o ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 246,
+   "en": "\"Fatima is the magician's brother,\" said the spirit.",
+   "tgt": "«:o Fatima:o est:v le:o frère:n du:o magicien:n ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 247,
+   "en": "\"He wants to kill you,\" said the spirit.",
+   "tgt": "«:o Il:o veut:v te:o tuer:v ,:o »:o dit:v l':o esprit:n .:o"
+  },
+  {
+   "n": 248,
+   "en": "Aladdin was afraid, but he was ready.",
+   "tgt": "Aladdin:o avait:v peur:n ,:o mais:o il:o était:v prêt:a .:o"
+  },
+  {
+   "n": 249,
+   "en": "He took a blade and went to find Fatima.",
+   "tgt": "Il:o prit:v une:o lame:n et:o alla:v trouver:v Fatima:o .:o"
+  },
+  {
+   "n": 250,
+   "en": "Aladdin found the false Fatima in the great hall.",
+   "tgt": "Aladdin:o trouva:v la:o fausse:a Fatima:o dans:o la:o grande:a salle:n .:o"
+  },
+  {
+   "n": 251,
+   "en": "The false Fatima saw Aladdin and looked afraid.",
+   "tgt": "La:o fausse:a Fatima:o vit:v Aladdin:o et:o parut:v effrayée:a .:o"
+  },
+  {
+   "n": 252,
+   "en": "Aladdin killed the false Fatima with the blade.",
+   "tgt": "Aladdin:o tua:v la:o fausse:a Fatima:o avec:o la:o lame:n .:o"
+  },
+  {
+   "n": 253,
+   "en": "The magician's brother was dead, and no one came after Aladdin again.",
+   "tgt": "Le:o frère:n du:o magicien:n était:v mort:a ,:o et:o personne:o ne:o vint:v après:o Aladdin:o .:o"
+  },
+  {
+   "n": 254,
+   "en": "Aladdin told Badr and the Sultan the truth.",
+   "tgt": "Aladdin:o dit:v la:o vérité:n à:o Badr:o et:o au:o Sultan:o .:o"
+  },
+  {
+   "n": 255,
+   "en": "Aladdin became Sultan.",
+   "tgt": "Aladdin:o devint:v Sultan:o .:o"
+  }
+ ]
+}

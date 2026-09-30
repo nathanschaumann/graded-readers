@@ -1,0 +1,1017 @@
+{
+ "slug": "snow_white",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Wish for a Child",
+   "en": "A king and queen lived in a castle.",
+   "tgt": "Un:o roi:n et:o une:o reine:n vivaient:v dans:o un:o château:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "For many years, they had no child.",
+   "tgt": "Pendant:o de:o nombreuses:a années:n ,:o ils:o n':o avaient:v pas:o d':o enfant:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The queen wanted a child of her own.",
+   "tgt": "La:o reine:n voulait:v un:o enfant:n à:o elle:o .:o"
+  },
+  {
+   "n": 4,
+   "en": "She wanted white skin, red lips, and black hair for the baby.",
+   "tgt": "Elle:o voulait:v une:o peau:n blanche:a ,:o des:o lèvres:n rouges:a ,:o et:o des:o cheveux:n noirs:a pour:o le:o bébé:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Soon the queen had a baby daughter.",
+   "tgt": "Bientôt:a ,:o la:o reine:n eut:v une:o fille:n bébé:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "The baby had white skin, red lips, and black hair.",
+   "tgt": "Le:o bébé:n avait:v une:o peau:n blanche:a ,:o des:o lèvres:n rouges:a ,:o et:o des:o cheveux:n noirs:a .:o"
+  },
+  {
+   "n": 7,
+   "en": "The king and queen called her Snow White.",
+   "tgt": "Le:o roi:n et:o la:o reine:n l':o appelèrent:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "One morning, the queen fell sick.",
+   "tgt": "Un:o matin:n ,:o la:o reine:n tomba:v malade:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "She died when Snow White was still a baby.",
+   "tgt": "Elle:o mourut:v quand:o Blanche-Neige:o était:v encore:a un:o bébé:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "The king was alone with his baby daughter.",
+   "tgt": "Le:o roi:n était:v seul:a avec:o sa:o fille:n bébé:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "For some years, he raised her alone.",
+   "tgt": "Pendant:o quelques:o années:n ,:o il:o l':o éleva:v seul:a .:o"
+  },
+  {
+   "n": 12,
+   "chapter": "The New Queen",
+   "en": "When Snow White was still young, the king married again.",
+   "tgt": "Quand:o Blanche-Neige:o était:v encore:a jeune:a ,:o le:o roi:n se:o maria:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "His new wife, the queen, was beautiful.",
+   "tgt": "Sa:o nouvelle:a femme:n ,:o la:o reine:n ,:o était:v belle:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "The king told Snow White to love the new queen.",
+   "tgt": "Le:o roi:n dit:v à:o Blanche-Neige:o d':o aimer:v la:o nouvelle:a reine:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Snow White grew up in the castle.",
+   "tgt": "Blanche-Neige:o grandit:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "The new queen owned a magic mirror.",
+   "tgt": "La:o nouvelle:a reine:n possédait:v un:o miroir:n magique:a .:o"
+  },
+  {
+   "n": 17,
+   "en": "The mirror could answer the queen.",
+   "tgt": "Le:o miroir:n pouvait:v répondre:v à:o la:o reine:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "Every morning, the queen stood before the mirror.",
+   "tgt": "Chaque:o matin:n ,:o la:o reine:n se:o plaçait:v devant:o le:o miroir:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "\"Mirror, mirror, who is the fairest in the land?\" she asked.",
+   "tgt": "«:o Miroir:n ,:o miroir:n ,:o qui:o est:v la:o plus:o belle:a du:o pays:n ?:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"You are the fairest in the land,\" the mirror answered.",
+   "tgt": "«:o Vous:o êtes:v la:o plus:o belle:a du:o pays:n ,:o »:o répondit:v le:o miroir:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "The queen smiled at this answer.",
+   "tgt": "La:o reine:n sourit:v à:o cette:o réponse:n .:o"
+  },
+  {
+   "n": 22,
+   "chapter": "The Mirror's Answer",
+   "en": "Years passed, and Snow White grew into a kind young woman.",
+   "tgt": "Les:o années:n passèrent:v ,:o et:o Blanche-Neige:o devint:v une:o jeune:a femme:n gentille:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "She still had white skin, red lips, and black hair.",
+   "tgt": "Elle:o avait:v encore:a la:o peau:n blanche:a ,:o les:o lèvres:n rouges:a ,:o et:o les:o cheveux:n noirs:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "The people of the land loved Snow White.",
+   "tgt": "Les:o gens:n du:o pays:n aimaient:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 25,
+   "en": "One morning, the queen stood before her mirror again.",
+   "tgt": "Un:o matin:n ,:o la:o reine:n se:o plaça:v devant:o son:o miroir:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "This time, the mirror gave a new answer.",
+   "tgt": "Cette:o fois:n ,:o le:o miroir:n donna:v une:o nouvelle:a réponse:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"Snow White is the fairest in the land now,\" said the mirror.",
+   "tgt": "«:o Blanche-Neige:o est:v la:o plus:a belle:a du:o pays:n maintenant:a ,:o »:o dit:v le:o miroir:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "Her face went red at this answer.",
+   "tgt": "Son:o visage:n devint:v rouge:a à:o cette:o réponse:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"Snow White will not be the fairest,\" she said.",
+   "tgt": "«:o Blanche-Neige:o ne:o sera:v pas:o la:o plus:o belle:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "The queen wanted to be the fairest in the land.",
+   "tgt": "La:o reine:n voulait:v être:v la:o plus:o belle:a du:o pays:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "The queen wanted Snow White gone from the king's castle.",
+   "tgt": "La:o reine:n voulait:v Blanche-Neige:o loin:a du:o château:n du:o roi:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "She called for her huntsman at the castle.",
+   "tgt": "Elle:o appela:v son:o chasseur:n au:o château:n .:o"
+  },
+  {
+   "n": 33,
+   "chapter": "The Queen's Command",
+   "en": "The huntsman came before the queen.",
+   "tgt": "Le:o chasseur:n vint:v devant:o la:o reine:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"Take Snow White into the forest,\" said the queen.",
+   "tgt": "«:o Emmène:v Blanche-Neige:o dans:o la:o forêt:n ,:o »:o dit:v la:o reine:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"Kill her there, and bring me her heart,\" she said.",
+   "tgt": "«:o Tue:v -la:o là-bas:a ,:o et:o apporte:v -moi:o son:o cœur:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 36,
+   "en": "The huntsman did not want to do this.",
+   "tgt": "Le:o chasseur:n ne:o voulait:v pas:o faire:v cela:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "He looked at the queen and said nothing.",
+   "tgt": "Il:o regarda:v la:o reine:n et:o ne:o dit:v rien:o .:o"
+  },
+  {
+   "n": 38,
+   "en": "But he did what the queen asked.",
+   "tgt": "Mais:o il:o fit:v ce:o que:o la:o reine:n demandait:v .:o"
+  },
+  {
+   "n": 39,
+   "en": "He took Snow White into the forest.",
+   "tgt": "Il:o emmena:v Blanche-Neige:o dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "Snow White believed the huntsman.",
+   "tgt": "Blanche-Neige:o crut:v le:o chasseur:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "She did not know of the queen's plan.",
+   "tgt": "Elle:o ne:o savait:v pas:o le:o plan:n de:o la:o reine:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "Birds sang in the tall trees around them.",
+   "tgt": "Des:o oiseaux:n chantaient:v dans:o les:o grands:a arbres:n autour:o d':o eux:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "The huntsman stopped in the forest.",
+   "tgt": "Le:o chasseur:n s':o arrêta:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "He raised his knife.",
+   "tgt": "Il:o leva:v son:o couteau:n .:o"
+  },
+  {
+   "n": 45,
+   "chapter": "Sparing Snow White",
+   "en": "Snow White saw the knife and moved back.",
+   "tgt": "Blanche-Neige:o vit:v le:o couteau:n et:o recula:v .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"Do not kill me,\" she said.",
+   "tgt": "«:o Ne:o me:o tuez:v pas:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"I will run away and never come back,\" she said.",
+   "tgt": "«:o Je:o m':o enfuirai:v et:o ne:o reviendrai:v jamais:o ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "The huntsman looked at her kind face.",
+   "tgt": "Le:o chasseur:n regarda:v son:o visage:n doux:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "He could not kill her with the knife.",
+   "tgt": "Il:o ne:o pouvait:v pas:o la:o tuer:v avec:o le:o couteau:n .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"Run, and never come back to the castle,\" he said.",
+   "tgt": "«:o Cours:v ,:o et:o ne:o reviens:v jamais:o au:o château:n ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 51,
+   "en": "Snow White ran into the forest alone.",
+   "tgt": "Blanche-Neige:o courut:v dans:o la:o forêt:n seule:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "The huntsman wanted a heart for the queen.",
+   "tgt": "Le:o chasseur:n voulait:v un:o cœur:n pour:o la:o reine:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "He found a deer in the forest.",
+   "tgt": "Il:o trouva:v un:o cerf:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "The huntsman killed the deer, not Snow White.",
+   "tgt": "Le:o chasseur:n tua:v le:o cerf:n ,:o pas:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "He went back to the castle in the evening.",
+   "tgt": "Il:o retourna:v au:o château:n le:o soir:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "He carried the deer's heart to the queen.",
+   "tgt": "Il:o porta:v le:o cœur:n du:o cerf:n à:o la:o reine:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"Here is Snow White's heart,\" he told the queen.",
+   "tgt": "«:o Voici:v le:o cœur:n de:o Blanche-Neige:o ,:o »:o dit:v -il:o à:o la:o reine:n .:o"
+  },
+  {
+   "n": 58,
+   "en": "The queen believed Snow White was dead, and she smiled.",
+   "tgt": "La:o reine:n crut:v que:o Blanche-Neige:o était:v morte:a ,:o et:o elle:o sourit:v .:o"
+  },
+  {
+   "n": 59,
+   "chapter": "Alone in the Forest",
+   "en": "Snow White walked through the forest alone.",
+   "tgt": "Blanche-Neige:o marcha:v à:o travers:o la:o forêt:n seule:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "But no huntsman was there to help her.",
+   "tgt": "Mais:o aucun:o chasseur:n n':o était:v là:a pour:o l':o aider:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "Tall trees stood all around her in the forest.",
+   "tgt": "De:o grands:a arbres:n se:o dressaient:v tout:a autour:a d':o elle:o dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "Animals moved in the trees.",
+   "tgt": "Des:o animaux:n bougeaient:v dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "But the animals of the forest did not hurt her.",
+   "tgt": "Mais:o les:o animaux:n de:o la:o forêt:n ne:o la:o blessèrent:v pas:o .:o"
+  },
+  {
+   "n": 64,
+   "en": "Some animals walked near her in the trees.",
+   "tgt": "Certains:o animaux:n marchèrent:v près:a d':o elle:o dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "Snow White ate nothing in the forest.",
+   "tgt": "Blanche-Neige:o ne:o mangea:v rien:o dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Evening came, and the forest was black.",
+   "tgt": "Le:o soir:n vint:v ,:o et:o la:o forêt:n était:v noire:a .:o"
+  },
+  {
+   "n": 67,
+   "en": "It was black all around her now.",
+   "tgt": "Il:o faisait:v noir:a tout:a autour:a d':o elle:o maintenant:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "Snow White found no house and no bed there.",
+   "tgt": "Blanche-Neige:o ne:o trouva:v ni:o maison:n ni:o lit:n là:a .:o"
+  },
+  {
+   "n": 69,
+   "en": "She walked on, and the morning came.",
+   "tgt": "Elle:o continua:v à:o marcher:v ,:o et:o le:o matin:n arriva:v .:o"
+  },
+  {
+   "n": 70,
+   "en": "She saw the door of a small cottage in the trees.",
+   "tgt": "Elle:o vit:v la:o porte:n d':o une:o petite:a chaumière:n dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 71,
+   "chapter": "The Little Cottage",
+   "en": "Snow White walked up to the small cottage.",
+   "tgt": "Blanche-Neige:o s':o approcha:v de:o la:o petite:a chaumière:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "Birds sang all around her in the morning.",
+   "tgt": "Des:o oiseaux:n chantaient:v tout:a autour:a d':o elle:o le:o matin:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "Snow White called at the door.",
+   "tgt": "Blanche-Neige:o frappa:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 74,
+   "en": "No one answered the door of the cottage.",
+   "tgt": "Personne:o ne:o répondit:v à:o la:o porte:n de:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "Snow White opened the door and looked inside.",
+   "tgt": "Blanche-Neige:o ouvrit:v la:o porte:n et:o regarda:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 76,
+   "en": "She saw a small table with seven small plates.",
+   "tgt": "Elle:o vit:v une:o petite:a table:n avec:o sept:o petites:a assiettes:n .:o"
+  },
+  {
+   "n": 77,
+   "en": "She ate a little food from all seven small plates.",
+   "tgt": "Elle:o mangea:v un:o peu:a de:o nourriture:n dans:o chacune:o des:o sept:o petites:a assiettes:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "Upstairs, she found seven small beds.",
+   "tgt": "À:o l':o étage:n ,:o elle:o trouva:v sept:o petits:a lits:n .:o"
+  },
+  {
+   "n": 79,
+   "en": "Snow White was tired.",
+   "tgt": "Blanche-Neige:o était:v fatiguée:a .:o"
+  },
+  {
+   "n": 80,
+   "en": "She lay down on the smallest bed.",
+   "tgt": "Elle:o s':o allongea:v sur:o le:o plus:o petit:a lit:n .:o"
+  },
+  {
+   "n": 81,
+   "en": "Soon Snow White fell asleep.",
+   "tgt": "Bientôt:a Blanche-Neige:o s':o endormit:v .:o"
+  },
+  {
+   "n": 82,
+   "chapter": "The Seven Dwarfs",
+   "en": "That evening, seven dwarfs came home from the mine.",
+   "tgt": "Ce:o soir-là:n ,:o sept:o nains:n rentrèrent:v chez:o eux:o depuis:o la:o mine:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "They found their small door open.",
+   "tgt": "Ils:o trouvèrent:v leur:o petite:a porte:n ouverte:a .:o"
+  },
+  {
+   "n": 84,
+   "en": "They found food gone from their small plates.",
+   "tgt": "Ils:o trouvèrent:v la:o nourriture:n disparue:a de:o leurs:o petites:a assiettes:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "They found Snow White asleep upstairs.",
+   "tgt": "Ils:o trouvèrent:v Blanche-Neige:o endormie:a en:o haut:a .:o"
+  },
+  {
+   "n": 86,
+   "en": "Snow White woke and saw the seven dwarfs.",
+   "tgt": "Blanche-Neige:o se:o réveilla:v et:o vit:v les:o sept:o nains:n .:o"
+  },
+  {
+   "n": 87,
+   "en": "She told them about the queen and the huntsman.",
+   "tgt": "Elle:o leur:o parla:v de:o la:o reine:n et:o du:o chasseur:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "\"Stay here with us,\" said the oldest dwarf.",
+   "tgt": "«:o Reste:v ici:a avec:o nous:o ,:o »:o dit:v le:o plus:o vieux:a nain:n .:o"
+  },
+  {
+   "n": 89,
+   "en": "\"Keep house for us when we work,\" he said.",
+   "tgt": "«:o Tiens:v la:o maison:n pour:o nous:o quand:o nous:o travaillons:v ,:o »:o dit:v -il:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "There was food and a bed for Snow White.",
+   "tgt": "Il:o y:o avait:v de:o la:o nourriture:n et:o un:o lit:n pour:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 91,
+   "en": "The dwarfs wanted Snow White to stay with them.",
+   "tgt": "Les:o nains:n voulaient:v que:o Blanche-Neige:o reste:v avec:o eux:o .:o"
+  },
+  {
+   "n": 92,
+   "en": "Snow White said she wanted to stay.",
+   "tgt": "Blanche-Neige:o dit:v qu':o elle:o voulait:v rester:v .:o"
+  },
+  {
+   "n": 93,
+   "en": "She kept the small house for them.",
+   "tgt": "Elle:o entretint:v la:o petite:a maison:n pour:o eux:o .:o"
+  },
+  {
+   "n": 94,
+   "en": "Snow White made food for them in the morning.",
+   "tgt": "Blanche-Neige:o préparait:v de:o la:o nourriture:n pour:o eux:o le:o matin:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "\"Never open the door to a stranger,\" the dwarfs warned.",
+   "tgt": "«:o N':o ouvrez:v jamais:o la:o porte:n à:o un:o étranger:n ,:o »:o avertirent:v les:o nains:n .:o"
+  },
+  {
+   "n": 96,
+   "chapter": "The Tight Laces",
+   "en": "The queen's mirror said Snow White was still alive.",
+   "tgt": "Le:o miroir:n de:o la:o reine:n dit:v que:o Blanche-Neige:o était:v encore:o vivante:a .:o"
+  },
+  {
+   "n": 97,
+   "en": "She disguised herself as an old woman.",
+   "tgt": "Elle:o se:o déguisa:v en:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "She carried pretty laces in a basket to the cottage.",
+   "tgt": "Elle:o porta:v de:o jolis:a lacets:n dans:o un:o panier:n jusqu':o à:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 99,
+   "en": "The seven dwarfs were still away at the mine in the forest.",
+   "tgt": "Les:o sept:o nains:n étaient:v encore:o partis:a à:o la:o mine:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 100,
+   "en": "Snow White did not know the old woman at the door.",
+   "tgt": "Blanche-Neige:o ne:o connaissait:v pas:o la:o vieille:a femme:n à:o la:o porte:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "Snow White opened the cottage door for the old woman.",
+   "tgt": "Blanche-Neige:o ouvrit:v la:o porte:n de:o la:o chaumière:n à:o la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "\"I have pretty laces for you,\" said the old woman.",
+   "tgt": "«:o J':o ai:v de:o jolis:a lacets:n pour:o vous:o ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 103,
+   "en": "The old woman wanted to hurt Snow White with the laces.",
+   "tgt": "La:o vieille:a femme:n voulait:v blesser:v Blanche-Neige:o avec:o les:o lacets:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "The old woman pulled the dress laces too tight at the cottage.",
+   "tgt": "La:o vieille:a femme:n serra:v les:o lacets:n de:o la:o robe:n trop:a fort:a à:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 105,
+   "en": "Snow White could not breathe, and she fell to the floor.",
+   "tgt": "Blanche-Neige:o ne:o pouvait:v pas:o respirer:v ,:o et:o elle:o tomba:v sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "That evening, the dwarfs returned and found Snow White on the floor.",
+   "tgt": "Ce:o soir-là:a ,:o les:o nains:n revinrent:v et:o trouvèrent:v Blanche-Neige:o sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "\"Snow White's laces are too tight for the dress,\" said one dwarf.",
+   "tgt": "«:o Les:o lacets:n de:o Blanche-Neige:o sont:v trop:a serrés:a pour:o la:o robe:n ,:o »:o dit:v un:o nain:n .:o"
+  },
+  {
+   "n": 108,
+   "en": "The dwarfs cut the tight laces from the dress.",
+   "tgt": "Les:o nains:n coupèrent:v les:o lacets:n serrés:a de:o la:o robe:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "Snow White could breathe again in the small cottage.",
+   "tgt": "Blanche-Neige:o put:v respirer:v de:o nouveau:a dans:o la:o petite:a chaumière:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"Never open the door to anyone,\" the dwarfs warned.",
+   "tgt": "«:o N':o ouvrez:v jamais:o la:o porte:n à:o personne:o ,:o »:o avertirent:v les:o nains:n .:o"
+  },
+  {
+   "n": 111,
+   "chapter": "The Poisoned Comb",
+   "en": "The queen learned that Snow White was still alive.",
+   "tgt": "La:o reine:n apprit:v que:o Blanche-Neige:o était:v encore:a vivante:a .:o"
+  },
+  {
+   "n": 112,
+   "en": "She made a poisoned comb and disguised herself again.",
+   "tgt": "Elle:o fabriqua:v un:o peigne:n empoisonné:a et:o se:o déguisa:v de:o nouveau:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "She carried the comb in a basket to the cottage.",
+   "tgt": "Elle:o porta:v le:o peigne:n dans:o un:o panier:n jusqu':o à:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "Snow White remembered the dwarfs and did not open the door.",
+   "tgt": "Blanche-Neige:o se:o souvint:v des:o nains:n et:o n':o ouvrit:v pas:o la:o porte:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "\"Look at this pretty comb,\" said the old woman.",
+   "tgt": "«:o Regardez:v ce:o joli:a peigne:n ,:o »:o dit:v -elle:o ,:o la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 116,
+   "en": "Snow White looked through the window at the comb.",
+   "tgt": "Blanche-Neige:o regarda:v le:o peigne:n à:o travers:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 117,
+   "en": "She opened the door at the cottage just a little.",
+   "tgt": "Elle:o ouvrit:v la:o porte:n de:o la:o chaumière:n juste:a un:o peu:a .:o"
+  },
+  {
+   "n": 118,
+   "en": "The old woman ran the comb through Snow White's hair.",
+   "tgt": "La:o vieille:a femme:n passa:v le:o peigne:n dans:o les:o cheveux:n de:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 119,
+   "en": "The poison in the comb worked, and she fell to the floor.",
+   "tgt": "Le:o poison:n dans:o le:o peigne:n agit:v ,:o et:o elle:o tomba:v sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "That evening, the dwarfs returned and found Snow White on the floor.",
+   "tgt": "Ce:o soir-là:a ,:o les:o nains:n revinrent:v et:o trouvèrent:v Blanche-Neige:o sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "\"There is a comb in Snow White's hair,\" said one dwarf.",
+   "tgt": "«:o Il:o y:o a:v un:o peigne:n dans:o les:o cheveux:n de:o Blanche-Neige:o ,:o »:o dit:v un:o nain:n .:o"
+  },
+  {
+   "n": 122,
+   "en": "They pulled out the poisoned comb from her hair.",
+   "tgt": "Ils:o retirèrent:v le:o peigne:n empoisonné:a de:o ses:o cheveux:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "Snow White woke up again in the cottage.",
+   "tgt": "Blanche-Neige:o se:o réveilla:v encore:a dans:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "\"Do not open the door, not even a little,\" the dwarfs warned.",
+   "tgt": "«:o N':o ouvrez:v pas:o la:o porte:n ,:o pas:o même:a un:o peu:a ,:o »:o avertirent:v les:o nains:n .:o"
+  },
+  {
+   "n": 125,
+   "chapter": "The Poisoned Apple",
+   "en": "The queen learned that Snow White was still alive.",
+   "tgt": "La:o reine:n apprit:v que:o Blanche-Neige:o était:v encore:a en:o vie:n .:o"
+  },
+  {
+   "n": 126,
+   "en": "This time, she made a poisoned apple in her castle.",
+   "tgt": "Cette:o fois:n ,:o elle:o prépara:v une:o pomme:n empoisonnée:a dans:o son:o château:n .:o"
+  },
+  {
+   "n": 127,
+   "en": "One half of the apple was red, with poison inside.",
+   "tgt": "Une:o moitié:n de:o la:o pomme:n était:v rouge:a ,:o avec:o du:o poison:n à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 128,
+   "en": "The queen disguised herself again to bring the apple.",
+   "tgt": "La:o reine:n se:o déguisa:v encore:a pour:o apporter:v la:o pomme:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "She carried the apple in a basket to the cottage.",
+   "tgt": "Elle:o porta:v la:o pomme:n dans:o un:o panier:n jusqu':o à:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 130,
+   "en": "Snow White would not open the door at all this time.",
+   "tgt": "Blanche-Neige:o ne:o voulut:v pas:o du:o tout:a ouvrir:v la:o porte:n cette:o fois:n .:o"
+  },
+  {
+   "n": 131,
+   "en": "\"Take this apple,\" said the old woman at the window.",
+   "tgt": "«:o Prenez:v cette:o pomme:n ,:o »:o dit:v -elle:o la:o vieille:a femme:n à:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "\"I want no apple from a stranger,\" said Snow White.",
+   "tgt": "«:o Je:o ne:o veux:v pas:o de:o pomme:n d':o une:o étrangère:n ,:o »:o dit:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 133,
+   "en": "The old woman cut the apple in half at the cottage.",
+   "tgt": "La:o vieille:a femme:n coupa:v la:o pomme:n en:o deux:o à:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 134,
+   "en": "She ate the white half of the apple herself.",
+   "tgt": "Elle:o mangea:v elle-même:o la:o moitié:n blanche:a de:o la:o pomme:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "\"Look, it is safe to eat,\" said the old woman.",
+   "tgt": "«:o Regardez:v ,:o c':o est:v sans:o danger:n à:o manger:v ,:o »:o dit:v la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "Snow White believed the old woman's apple was safe.",
+   "tgt": "Blanche-Neige:o crut:v que:o la:o pomme:n de:o la:o vieille:a femme:n était:v sans:o danger:n .:o"
+  },
+  {
+   "n": 137,
+   "en": "She opened the cottage door to the old woman.",
+   "tgt": "Elle:o ouvrit:v la:o porte:n de:o la:o chaumière:n à:o la:o vieille:a femme:n .:o"
+  },
+  {
+   "n": 138,
+   "en": "Snow White took the red half and bit into it.",
+   "tgt": "Blanche-Neige:o prit:v la:o moitié:n rouge:a et:o y:o mordit:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "She fell to the floor of the cottage.",
+   "tgt": "Elle:o tomba:v sur:o le:o sol:n de:o la:o chaumière:n .:o"
+  },
+  {
+   "n": 140,
+   "chapter": "The Glass Coffin",
+   "en": "That evening, the seven dwarfs returned home again.",
+   "tgt": "Ce:o soir-là:a ,:o les:o sept:o nains:n rentrèrent:v de:o nouveau:a chez:o eux:o .:o"
+  },
+  {
+   "n": 141,
+   "en": "They found Snow White on the floor.",
+   "tgt": "Ils:o trouvèrent:v Blanche-Neige:o sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 142,
+   "en": "This time, it was not the laces, not the comb.",
+   "tgt": "Cette:o fois:n ,:o ce:o n':o était:v pas:o les:o lacets:n ,:o pas:o le:o peigne:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "The dwarfs could not wake Snow White again.",
+   "tgt": "Les:o nains:n ne:o pouvaient:v pas:o réveiller:v Blanche-Neige:o encore:a .:o"
+  },
+  {
+   "n": 144,
+   "en": "They believed Snow White had died, and the seven dwarfs were sad.",
+   "tgt": "Ils:o croyaient:v que:o Blanche-Neige:o était:v morte:a ,:o et:o les:o sept:o nains:n étaient:v tristes:a .:o"
+  },
+  {
+   "n": 145,
+   "en": "But Snow White still did not look dead.",
+   "tgt": "Mais:o Blanche-Neige:o n':o avait:v toujours:a pas:o l':o air:n morte:a .:o"
+  },
+  {
+   "n": 146,
+   "en": "The dwarfs did not want to bury Snow White.",
+   "tgt": "Les:o nains:n ne:o voulaient:v pas:o enterrer:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 147,
+   "en": "They made a coffin of glass for Snow White.",
+   "tgt": "Ils:o fabriquèrent:v un:o cercueil:n de:o verre:n pour:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 148,
+   "en": "The dwarfs put Snow White inside the glass coffin.",
+   "tgt": "Les:o nains:n placèrent:v Blanche-Neige:o dans:o le:o cercueil:n de:o verre:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "They carried the glass coffin to a hill in the forest.",
+   "tgt": "Ils:o portèrent:v le:o cercueil:n de:o verre:n jusqu'à:o une:o colline:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 150,
+   "en": "Birds and animals came to the hill to see Snow White.",
+   "tgt": "Des:o oiseaux:n et:o des:o animaux:n vinrent:v à:o la:o colline:n pour:o voir:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 151,
+   "en": "Years passed on the hill, and Snow White did not change.",
+   "tgt": "Les:o années:n passèrent:v sur:o la:o colline:n ,:o et:o Blanche-Neige:o ne:o changea:v pas:o .:o"
+  },
+  {
+   "n": 152,
+   "en": "She still looked as if she were asleep.",
+   "tgt": "Elle:o semblait:v encore:a être:v endormie:a .:o"
+  },
+  {
+   "n": 153,
+   "chapter": "The Prince in the Forest",
+   "en": "One morning, a prince came through the forest.",
+   "tgt": "Un:o matin:n ,:o un:o prince:n traversa:v la:o forêt:n .:o"
+  },
+  {
+   "n": 154,
+   "en": "At the hill, he saw the glass coffin.",
+   "tgt": "À:o la:o colline:n ,:o il:o vit:v le:o cercueil:n de:o verre:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "Snow White lay inside the glass coffin, asleep.",
+   "tgt": "Blanche-Neige:o était:v allongée:a à:o l':o intérieur:n du:o cercueil:n de:o verre:n ,:o endormie:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "The prince stopped at the hill and looked at her.",
+   "tgt": "Le:o prince:n s':o arrêta:v à:o la:o colline:n et:o la:o regarda:v .:o"
+  },
+  {
+   "n": 157,
+   "en": "He asked the seven dwarfs about her.",
+   "tgt": "Il:o interrogea:v les:o sept:o nains:n à:o son:o sujet:n .:o"
+  },
+  {
+   "n": 158,
+   "en": "\"We believe she died, but she never changes,\" said one dwarf.",
+   "tgt": "«:o Nous:o croyons:v qu':o elle:o est:v morte:a ,:o mais:o elle:o ne:o change:v jamais:o ,:o »:o dit:v un:o nain:n .:o"
+  },
+  {
+   "n": 159,
+   "en": "The prince wanted to see Snow White every day.",
+   "tgt": "Le:o prince:n voulait:v voir:v Blanche-Neige:o chaque:o jour:n .:o"
+  },
+  {
+   "n": 160,
+   "en": "\"Let me stay here beside her,\" he asked the dwarfs.",
+   "tgt": "«:o Laissez:v -moi:o rester:v ici:a près:o d':o elle:o ,:o »:o demanda:v -t-il:o aux:o nains:n .:o"
+  },
+  {
+   "n": 161,
+   "en": "The seven dwarfs saw his sad face.",
+   "tgt": "Les:o sept:o nains:n virent:v son:o visage:n triste:a .:o"
+  },
+  {
+   "n": 162,
+   "en": "They let the prince come near the glass coffin.",
+   "tgt": "Ils:o laissèrent:v le:o prince:n s':o approcher:v du:o cercueil:n de:o verre:n .:o"
+  },
+  {
+   "n": 163,
+   "en": "He opened the glass coffin with care.",
+   "tgt": "Il:o ouvrit:v le:o cercueil:n de:o verre:n avec:o soin:n .:o"
+  },
+  {
+   "n": 164,
+   "en": "The prince kissed Snow White.",
+   "tgt": "Le:o prince:n embrassa:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 165,
+   "chapter": "Snow White Wakes",
+   "en": "As the prince kissed Snow White, he raised her from the coffin.",
+   "tgt": "Quand:o le:o prince:n embrassa:v Blanche-Neige:o ,:o il:o la:o souleva:v hors:o du:o cercueil:n .:o"
+  },
+  {
+   "n": 166,
+   "en": "The poisoned apple fell from Snow White's mouth.",
+   "tgt": "La:o pomme:n empoisonnée:a tomba:v de:o la:o bouche:n de:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 167,
+   "en": "Snow White opened her eyes at last.",
+   "tgt": "Blanche-Neige:o ouvrit:v les:o yeux:n enfin:a .:o"
+  },
+  {
+   "n": 168,
+   "en": "She saw the prince near her.",
+   "tgt": "Elle:o vit:v le:o prince:n près:o d':o elle:o .:o"
+  },
+  {
+   "n": 169,
+   "en": "\"Who are you?\" Snow White asked.",
+   "tgt": "«:o Qui:o êtes:v -vous:o ?:o »:o demanda:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 170,
+   "en": "\"You are safe with me now,\" said the prince.",
+   "tgt": "«:o Vous:o êtes:v en:o sécurité:n avec:o moi:o maintenant:a ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 171,
+   "en": "He told Snow White about the glass coffin and the seven dwarfs.",
+   "tgt": "Il:o raconta:v à:o Blanche-Neige:o l':o histoire:n du:o cercueil:n de:o verre:n et:o des:o sept:o nains:n .:o"
+  },
+  {
+   "n": 172,
+   "en": "Snow White sat up and saw the seven dwarfs near her.",
+   "tgt": "Blanche-Neige:o se:o redressa:v et:o vit:v les:o sept:o nains:n près:o d':o elle:o .:o"
+  },
+  {
+   "n": 173,
+   "en": "\"You slept for many years,\" said one dwarf.",
+   "tgt": "«:o Vous:o avez:v dormi:v pendant:o de:o nombreuses:a années:n ,:o »:o dit:v un:o nain:n .:o"
+  },
+  {
+   "n": 174,
+   "en": "\"Will you come to my castle with me?\" the prince asked.",
+   "tgt": "«:o Voulez:v -vous:o venir:v à:o mon:o château:n avec:o moi:o ?:o »:o demanda:v le:o prince:n .:o"
+  },
+  {
+   "n": 175,
+   "en": "\"Will you be my wife?\" he asked Snow White.",
+   "tgt": "«:o Voulez:v -vous:o être:v ma:o femme:n ?:o »:o demanda:v -t-il:o à:o Blanche-Neige:o .:o"
+  },
+  {
+   "n": 176,
+   "en": "Snow White looked at the prince's eyes and smiled.",
+   "tgt": "Blanche-Neige:o regarda:v les:o yeux:n du:o prince:n et:o sourit:v .:o"
+  },
+  {
+   "n": 177,
+   "en": "\"I will,\" said Snow White.",
+   "tgt": "«:o Oui:o ,:o »:o dit:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 178,
+   "chapter": "The Wedding Day",
+   "en": "Soon, Snow White and the prince planned their wedding.",
+   "tgt": "Bientôt:a ,:o Blanche-Neige:o et:o le:o prince:n planifièrent:v leur:o mariage:n .:o"
+  },
+  {
+   "n": 179,
+   "en": "The wedding would be at the prince's big castle.",
+   "tgt": "Le:o mariage:n aurait:v lieu:n au:o grand:a château:n du:o prince:o .:o"
+  },
+  {
+   "n": 180,
+   "en": "Many guests would come from every land.",
+   "tgt": "De:o nombreux:a invités:n viendraient:v de:o chaque:o pays:n .:o"
+  },
+  {
+   "n": 181,
+   "en": "The queen learned of the wedding at the castle.",
+   "tgt": "La:o reine:n apprit:v le:o mariage:n au:o château:n .:o"
+  },
+  {
+   "n": 182,
+   "en": "She asked her mirror who was the fairest now.",
+   "tgt": "Elle:o demanda:v à:o son:o miroir:n qui:o était:v la:o plus:a belle:a maintenant:a .:o"
+  },
+  {
+   "n": 183,
+   "en": "\"The prince's young wife is now the fairest,\" said the mirror.",
+   "tgt": "«:o La:o jeune:a femme:n du:o prince:o est:v maintenant:a la:o plus:a belle:a ,:o »:o dit:v le:o miroir:n .:o"
+  },
+  {
+   "n": 184,
+   "en": "The queen wanted to see this woman herself.",
+   "tgt": "La:o reine:n voulut:v voir:v cette:o femme:n elle-même:o .:o"
+  },
+  {
+   "n": 185,
+   "en": "She went to the prince's castle for the wedding.",
+   "tgt": "Elle:o alla:v au:o château:n du:o prince:o pour:o le:o mariage:n .:o"
+  },
+  {
+   "n": 186,
+   "en": "At the castle, the queen saw Snow White.",
+   "tgt": "Au:o château:n ,:o la:o reine:n vit:v Blanche-Neige:o .:o"
+  },
+  {
+   "n": 187,
+   "en": "Snow White knew the old woman and told the prince.",
+   "tgt": "Blanche-Neige:o reconnut:v la:o vieille:a femme:n et:o le:o dit:v au:o prince:o .:o"
+  },
+  {
+   "n": 188,
+   "en": "The prince learned of the tight laces, the comb, and the apple.",
+   "tgt": "Le:o prince:n apprit:v les:o lacets:n serrés:a ,:o le:o peigne:n ,:o et:o la:o pomme:n .:o"
+  },
+  {
+   "n": 189,
+   "en": "\"You came to kill Snow White three times,\" the prince said.",
+   "tgt": "«:o Tu:o vins:v tuer:v Blanche-Neige:o trois:o fois:n ,:o »:o dit:v le:o prince:n .:o"
+  },
+  {
+   "n": 190,
+   "en": "The prince made the queen go from the kingdom forever.",
+   "tgt": "Le:o prince:n fit:v partir:v la:o reine:n du:o royaume:n pour:o toujours:a .:o"
+  },
+  {
+   "n": 191,
+   "chapter": "A Happy Ending",
+   "en": "Snow White married the prince at his castle.",
+   "tgt": "Blanche-Neige:o épousa:v le:o prince:n dans:o son:o château:n .:o"
+  },
+  {
+   "n": 192,
+   "en": "The seven dwarfs came to the wedding.",
+   "tgt": "Les:o sept:o nains:n vinrent:v au:o mariage:n .:o"
+  },
+  {
+   "n": 193,
+   "en": "Bells rang across the kingdom for the wedding.",
+   "tgt": "Des:o cloches:n sonnèrent:v dans:o tout:o le:o royaume:n pour:o le:o mariage:n .:o"
+  },
+  {
+   "n": 194,
+   "en": "Snow White thanked the seven dwarfs at the wedding.",
+   "tgt": "Blanche-Neige:o remercia:v les:o sept:o nains:n au:o mariage:n .:o"
+  },
+  {
+   "n": 195,
+   "en": "\"You will always be our friend,\" said one dwarf.",
+   "tgt": "«:o Tu:o seras:v toujours:a notre:o amie:n »:o ,:o dit:v un:o nain:n .:o"
+  },
+  {
+   "n": 196,
+   "en": "Snow White promised to visit the cottage often.",
+   "tgt": "Blanche-Neige:o promit:v de:o visiter:v la:o chaumière:n souvent:a .:o"
+  },
+  {
+   "n": 197,
+   "en": "She and the prince lived on in the castle.",
+   "tgt": "Elle:o et:o le:o prince:n continuèrent:v à:o vivre:v dans:o le:o château:n .:o"
+  },
+  {
+   "n": 198,
+   "en": "The glass coffin stayed on the hill in the forest.",
+   "tgt": "Le:o cercueil:n de:o verre:n resta:v sur:o la:o colline:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 199,
+   "en": "No one asked the mirror who was the fairest now.",
+   "tgt": "Personne:o ne:o demanda:v au:o miroir:n qui:o était:v la:o plus:o belle:a maintenant:a .:o"
+  }
+ ]
+}

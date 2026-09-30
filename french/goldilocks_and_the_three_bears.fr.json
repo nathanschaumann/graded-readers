@@ -1,0 +1,362 @@
+{
+ "slug": "goldilocks_and_the_three_bears",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Three Bears",
+   "en": "Three bears lived in a house in a big wood.",
+   "tgt": "Trois:o ours:n vivaient:v dans:o une:o maison:n dans:o un:o grand:a bois:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "One was a big bear, one was a middle bear.",
+   "tgt": "L':o un:o était:v un:o grand:a ours:n ,:o l':o un:o était:v un:o ours:n moyen:a .:o"
+  },
+  {
+   "n": 3,
+   "en": "One was a little bear.",
+   "tgt": "L':o un:o était:v un:o petit:a ours:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "Every morning, the bears made hot porridge.",
+   "tgt": "Chaque:o matin:n ,:o les:o ours:n préparaient:v du:o porridge:n chaud:a .:o"
+  },
+  {
+   "n": 5,
+   "en": "But today, the porridge was too hot to eat.",
+   "tgt": "Mais:o aujourd'hui:o ,:o le:o porridge:n était:v trop:a chaud:a pour:o manger:v .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"Let's walk while it cools,\" said the big bear.",
+   "tgt": "«:o Marchons:v pendant:o qu':o il:o refroidit:v ,:o »:o dit:v le:o grand:a ours:n .:o"
+  },
+  {
+   "n": 7,
+   "en": "The three bears walked into the wood.",
+   "tgt": "Les:o trois:o ours:n marchèrent:v dans:o le:o bois:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "Nearby, a girl named Goldilocks walked through the wood too.",
+   "tgt": "Tout:a près:a ,:o une:o fille:n nommée:v Goldilocks:o marchait:v dans:o le:o bois:n aussi:a .:o"
+  },
+  {
+   "n": 9,
+   "en": "She had golden hair, like her name.",
+   "tgt": "Elle:o avait:v les:o cheveux:n dorés:a ,:o comme:o son:o nom:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "Goldilocks saw a small house among the trees.",
+   "tgt": "Goldilocks:o vit:v une:o petite:a maison:n parmi:o les:o arbres:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "She walked toward it.",
+   "tgt": "Elle:o marcha:v vers:o elle:o .:o"
+  },
+  {
+   "n": 12,
+   "chapter": "The Three Bowls of Porridge",
+   "en": "Goldilocks was hungry after her long walk.",
+   "tgt": "Goldilocks:o avait:v faim:n après:o sa:o longue:a promenade:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "She knocked on the door, but no one answered.",
+   "tgt": "Elle:o frappa:v à:o la:o porte:n ,:o mais:o personne:o ne:o répondit:v .:o"
+  },
+  {
+   "n": 14,
+   "en": "She pushed the door open and walked inside.",
+   "tgt": "Elle:o poussa:v la:o porte:n et:o entra:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "Goldilocks saw three bowls of porridge on the table.",
+   "tgt": "Goldilocks:o vit:v trois:o bols:n de:o bouillie:n sur:o la:o table:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "She tasted the porridge in the big bowl.",
+   "tgt": "Elle:o goûta:v la:o bouillie:n dans:o le:o grand:a bol:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "It burned her tongue.",
+   "tgt": "Cela:o brûla:v sa:o langue:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"This is too hot!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a chaud:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 19,
+   "en": "Next, she tasted the porridge in the middle bowl.",
+   "tgt": "Ensuite:a ,:o elle:o goûta:v la:o bouillie:n dans:o le:o bol:n du:o milieu:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "\"This is too cold!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a froid:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 21,
+   "en": "Then she tasted the porridge in the little bowl.",
+   "tgt": "Puis:o elle:o goûta:v la:o bouillie:n dans:o le:o petit:a bol:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"This is just right!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v parfait:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "Goldilocks ate up all the porridge in the little bowl.",
+   "tgt": "Goldilocks:o mangea:v toute:a la:o bouillie:n du:o petit:a bol:n .:o"
+  },
+  {
+   "n": 24,
+   "chapter": "The Three Chairs",
+   "en": "After she ate, Goldilocks saw three chairs by the fire.",
+   "tgt": "Après:o avoir:v mangé:v ,:o Goldilocks:o vit:v trois:o chaises:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "Then she climbed onto the big chair.",
+   "tgt": "Ensuite:a elle:o monta:v sur:o la:o grande:a chaise:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "\"This is too hard!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a dur:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 27,
+   "en": "Her back began to hurt.",
+   "tgt": "Son:o dos:n commença:v à:o faire:v mal:a .:o"
+  },
+  {
+   "n": 28,
+   "en": "She climbed onto the middle chair.",
+   "tgt": "Elle:o monta:v sur:o la:o chaise:n du:o milieu:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"This is too soft!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a mou:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "She climbed onto the little chair.",
+   "tgt": "Elle:o monta:v sur:o la:o petite:a chaise:n .:o"
+  },
+  {
+   "n": 31,
+   "en": "\"This is just right!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v parfait:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 32,
+   "en": "But the little chair was too small for her.",
+   "tgt": "Mais:o la:o petite:a chaise:n était:v trop:a petite:a pour:o elle:o .:o"
+  },
+  {
+   "n": 33,
+   "en": "It broke into pieces under her weight.",
+   "tgt": "Elle:o se:o brisa:v en:o morceaux:n sous:o son:o poids:n .:o"
+  },
+  {
+   "n": 34,
+   "en": "Goldilocks fell down onto the floor.",
+   "tgt": "Goldilocks:o tomba:v par:o terre:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "She stood up and looked at the broken chair.",
+   "tgt": "Elle:o se:o leva:v et:o regarda:v la:o chaise:n brisée:a .:o"
+  },
+  {
+   "n": 36,
+   "chapter": "The Three Beds",
+   "en": "Goldilocks was tired from her long walk.",
+   "tgt": "Goldilocks:o était:v fatiguée:a par:o sa:o longue:a marche:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "No one else was in the house.",
+   "tgt": "Personne:o d':o autre:a n':o était:v dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "She walked upstairs to look for a bed.",
+   "tgt": "Elle:o monta:v à:o l':o étage:n pour:o chercher:v un:o lit:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "Goldilocks lay down on the big bed.",
+   "tgt": "Goldilocks:o s':o allongea:v sur:o le:o grand:a lit:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"This is too hard!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a dur:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 41,
+   "en": "She lay down on the middle bed.",
+   "tgt": "Elle:o s':o allongea:v sur:o le:o lit:n du:o milieu:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"This is too soft!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v trop:a mou:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "She lay down on the little bed.",
+   "tgt": "Elle:o s':o allongea:v sur:o le:o petit:a lit:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"This is just right!\" said Goldilocks.",
+   "tgt": "«:o C':o est:v parfait:a !:o »:o dit:v Goldilocks:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "Goldilocks pulled up the blanket and closed her eyes.",
+   "tgt": "Goldilocks:o remonta:v la:o couverture:n et:o ferma:v les:o yeux:n .:o"
+  },
+  {
+   "n": 46,
+   "en": "Soon, she fell fast asleep in the little bed.",
+   "tgt": "Bientôt:a ,:o elle:o s':o endormit:v profondément:a dans:o le:o petit:a lit:n .:o"
+  },
+  {
+   "n": 47,
+   "chapter": "The Bears Come Home",
+   "en": "Soon, the three bears came home from their walk.",
+   "tgt": "Bientôt:a ,:o les:o trois:o ours:n rentrèrent:v chez:o eux:o après:o leur:o promenade:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "The door of their house was open.",
+   "tgt": "La:o porte:n de:o leur:o maison:n était:v ouverte:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "The hungry bears saw their empty bowls.",
+   "tgt": "Les:o ours:n affamés:a virent:v leurs:o bols:n vides:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"Someone ate my porridge!\" said the big bear.",
+   "tgt": "«:o Quelqu':o un:o a:v mangé:v mon:o porridge:n !:o »:o dit:v le:o grand:a ours:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"Someone ate my porridge too!\" said the middle bear.",
+   "tgt": "«:o Quelqu':o un:o a:v mangé:v mon:o porridge:n aussi:a !:o »:o dit:v l':o ours:n du:o milieu:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"Someone ate all my porridge!\" cried the little bear.",
+   "tgt": "«:o Quelqu':o un:o a:v mangé:v tout:o mon:o porridge:n !:o »:o cria:v le:o petit:a ours:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "Then they saw their chairs by the fire.",
+   "tgt": "Puis:o ils:o virent:v leurs:o chaises:n près:o du:o feu:n .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"Someone sat in my chair!\" said the big bear.",
+   "tgt": "«:o Quelqu':o un:o s':o est:v assis:v dans:o ma:o chaise:n !:o »:o dit:v le:o grand:a ours:n .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"Someone sat in my chair too!\" said the middle bear.",
+   "tgt": "«:o Quelqu':o un:o s':o est:v assis:v dans:o ma:o chaise:n aussi:a !:o »:o dit:v l':o ours:n du:o milieu:n .:o"
+  },
+  {
+   "n": 56,
+   "en": "The little bear looked at the pieces on the floor.",
+   "tgt": "Le:o petit:a ours:n regarda:v les:o morceaux:n sur:o le:o sol:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"Someone broke my chair!\" he cried.",
+   "tgt": "«:o Quelqu':o un:o a:v cassé:v ma:o chaise:n !:o »:o cria:v -t:o -il:o .:o"
+  },
+  {
+   "n": 58,
+   "en": "They did not know who came, so they walked upstairs.",
+   "tgt": "Ils:o ne:o savaient:v pas:o qui:o était:v venu:v ,:o alors:o ils:o montèrent:v à:o l':o étage:n .:o"
+  },
+  {
+   "n": 59,
+   "chapter": "Goldilocks Runs Away",
+   "en": "Upstairs, the three bears looked at their beds.",
+   "tgt": "En:o haut:a ,:o les:o trois:o ours:n regardèrent:v leurs:o lits:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "\"Someone slept in my bed!\" said the big bear.",
+   "tgt": "«:o Quelqu':o un:o a:v dormi:v dans:o mon:o lit:n !:o »:o dit:v le:o grand:a ours:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "\"Someone slept in my bed too!\" said the middle bear.",
+   "tgt": "«:o Quelqu':o un:o a:v dormi:v dans:o mon:o lit:n aussi:a !:o »:o dit:v l':o ours:n du:o milieu:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"Someone slept in my bed!\" cried the little bear.",
+   "tgt": "«:o Quelqu':o un:o a:v dormi:v dans:o mon:o lit:n !:o »:o cria:v le:o petit:a ours:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "Goldilocks was still asleep in the little bear's bed.",
+   "tgt": "Goldilocks:o dormait:v encore:a dans:o le:o lit:n du:o petit:a ours:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The little bear cried, and Goldilocks woke up.",
+   "tgt": "Le:o petit:a ours:n pleura:v ,:o et:o Goldilocks:o se:o réveilla:v .:o"
+  },
+  {
+   "n": 65,
+   "en": "She opened her eyes and saw the three bears.",
+   "tgt": "Elle:o ouvrit:v les:o yeux:n et:o vit:v les:o trois:o ours:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Goldilocks jumped up, scared of the bears.",
+   "tgt": "Goldilocks:o sauta:v ,:o effrayée:a par:o les:o ours:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "Her heart beat fast.",
+   "tgt": "Son:o cœur:n battit:v vite:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "She ran out of the bed and down the stairs.",
+   "tgt": "Elle:o sortit:v du:o lit:n et:o descendit:v les:o escaliers:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "Goldilocks ran out the door and into the wood.",
+   "tgt": "Goldilocks:o sortit:v par:o la:o porte:n et:o courut:v dans:o le:o bois:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "She never came back to the small house again.",
+   "tgt": "Elle:o ne:o revint:v jamais:a dans:o la:o petite:a maison:n .:o"
+  }
+ ]
+}

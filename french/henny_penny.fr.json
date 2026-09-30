@@ -1,0 +1,378 @@
+{
+ "slug": "henny_penny",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Acorn Falls",
+   "en": "Henny Penny lived on a farm.",
+   "tgt": "Henny:o Penny:o vivait:v dans:o une:o ferme:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "One day, she stood under a tree.",
+   "tgt": "Un:o jour:n ,:o elle:o se:o tenait:v sous:o un:o arbre:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "An acorn fell from the tree.",
+   "tgt": "Un:o gland:n tomba:v de:o l':o arbre:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "It hit her on the head.",
+   "tgt": "Il:o la:o frappa:v sur:o la:o tête:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "She did not see it fall.",
+   "tgt": "Elle:o ne:o le:o vit:v pas:o tomber:v .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"Oh no!\" cried Henny Penny.",
+   "tgt": "«:o Oh:o non:a !:o »:o s':o écria:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 7,
+   "en": "\"The sky is falling!\" she said.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 8,
+   "en": "\"I must tell the king!\"",
+   "tgt": "«:o Je:o dois:v prévenir:v le:o roi:n !:o »:o"
+  },
+  {
+   "n": 9,
+   "en": "Henny Penny ran off the farm.",
+   "tgt": "Henny:o Penny:o quitta:v la:o ferme:n en:o courant:v .:o"
+  },
+  {
+   "n": 10,
+   "chapter": "Cocky Locky Joins",
+   "en": "Henny Penny walked down a road.",
+   "tgt": "Henny:o Penny:o marcha:v sur:o un:o chemin:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "Soon she saw a rooster.",
+   "tgt": "Bientôt:a elle:o aperçut:v un:o coq:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "His name was Cocky Locky.",
+   "tgt": "Il:o s':o appelait:v Cocky:o Locky:o .:o"
+  },
+  {
+   "n": 13,
+   "en": "\"Where are you going?\" asked Cocky Locky.",
+   "tgt": "«:o Où:o vas:v -tu:o ?:o »:o demanda:v Cocky:o Locky:o .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"The sky is falling!\" said Henny Penny.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "\"I must tell the king,\" she said.",
+   "tgt": "«:o Je:o dois:v le:o dire:v au:o roi:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 16,
+   "en": "\"I will come with you,\" said Cocky Locky.",
+   "tgt": "«:o Je:o viendrai:v avec:o vous:o ,:o »:o dit:v Cocky:o Locky:o .:o"
+  },
+  {
+   "n": 17,
+   "en": "Henny Penny and Cocky Locky walked on together.",
+   "tgt": "Henny:o Penny:o et:o Cocky:o Locky:o marchèrent:v ensemble:a .:o"
+  },
+  {
+   "n": 18,
+   "en": "They wanted to find the king.",
+   "tgt": "Ils:o voulaient:v trouver:v le:o roi:n .:o"
+  },
+  {
+   "n": 19,
+   "chapter": "Ducky Lucky and Goosey Loosey Join",
+   "en": "Soon they came to a small pond.",
+   "tgt": "Bientôt:a ils:o arrivèrent:v à:o un:o petit:a étang:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "A duck named Ducky Lucky stood by the water.",
+   "tgt": "Un:o canard:n nommé:v Ducky:o Lucky:o se:o tenait:v près:o de:o l':o eau:n .:o"
+  },
+  {
+   "n": 21,
+   "en": "\"The sky is falling!\" said Henny Penny.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 22,
+   "en": "\"We must tell the king,\" Cocky Locky told Ducky Lucky.",
+   "tgt": "«:o Nous:o devons:v le:o dire:v au:o roi:n ,:o »:o dit:v Cocky:o Locky:o à:o Ducky:o Lucky:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "\"I will come with you,\" said Ducky Lucky.",
+   "tgt": "«:o Je:o viendrai:v avec:o vous:o ,:o »:o dit:v Ducky:o Lucky:o .:o"
+  },
+  {
+   "n": 24,
+   "en": "The three birds walked down the road.",
+   "tgt": "Les:o trois:o oiseaux:n marchèrent:v sur:o la:o route:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "They came to a green field next.",
+   "tgt": "Ils:o arrivèrent:v ensuite:a dans:o un:o champ:n vert:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "A goose named Goosey Loosey looked up.",
+   "tgt": "Une:o oie:n nommée:v Goosey:o Loosey:o leva:v les:o yeux:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "\"The sky is falling!\" Ducky Lucky told Goosey Loosey.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v Ducky:o Lucky:o à:o Goosey:o Loosey:o .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"We must tell the king,\" said Henny Penny.",
+   "tgt": "«:o Nous:o devons:v prévenir:v le:o roi:n ,:o »:o dit:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"I will come too,\" cried Goosey Loosey.",
+   "tgt": "«:o Je:o viendrai:v aussi:a ,:o »:o cria:v Goosey:o Loosey:o .:o"
+  },
+  {
+   "n": 30,
+   "en": "Four birds now walked on together.",
+   "tgt": "Les:o quatre:o oiseaux:n marchèrent:v maintenant:a ensemble:a .:o"
+  },
+  {
+   "n": 31,
+   "chapter": "Turkey Lurkey Joins",
+   "en": "The four birds came to a barn.",
+   "tgt": "Les:o quatre:o oiseaux:n arrivèrent:v à:o une:o grange:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "A big bird named Turkey Lurkey was there.",
+   "tgt": "Un:o grand:a oiseau:n nommé:v Turkey:o Lurkey:o était:v là:a .:o"
+  },
+  {
+   "n": 33,
+   "en": "\"Where are you going?\" asked Turkey Lurkey.",
+   "tgt": "«:o Où:a allez-vous:v ?:o »:o demanda:v Turkey:o Lurkey:o .:o"
+  },
+  {
+   "n": 34,
+   "en": "\"The sky is falling!\" said Henny Penny.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 35,
+   "en": "\"We must tell the king,\" said Cocky Locky.",
+   "tgt": "«:o Nous:o devons:v prévenir:v le:o roi:n ,:o »:o dit:v Cocky:o Locky:o .:o"
+  },
+  {
+   "n": 36,
+   "en": "\"I will come too,\" said Turkey Lurkey.",
+   "tgt": "«:o Je:o viendrai:v aussi:a ,:o »:o dit:v Turkey:o Lurkey:o .:o"
+  },
+  {
+   "n": 37,
+   "en": "The birds walked on together.",
+   "tgt": "Les:o oiseaux:n continuèrent:v à:o marcher:v ensemble:a .:o"
+  },
+  {
+   "n": 38,
+   "en": "They wanted to find the king.",
+   "tgt": "Ils:o voulaient:v trouver:v le:o roi:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "The road led through the woods.",
+   "tgt": "La:o route:n traversait:v les:o bois:n .:o"
+  },
+  {
+   "n": 40,
+   "chapter": "Foxy Loxy and the Short Way",
+   "en": "The five birds walked into the woods.",
+   "tgt": "Les:o cinq:o oiseaux:n entrèrent:v dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "Foxy Loxy saw them from the woods.",
+   "tgt": "Foxy:o Loxy:o les:o vit:v depuis:o les:o bois:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "He came out to them.",
+   "tgt": "Il:o sortit:v vers:o eux:o .:o"
+  },
+  {
+   "n": 43,
+   "en": "\"Where are you going?\" asked Foxy Loxy.",
+   "tgt": "«:o Où:o allez-vous:v ?:o »:o demanda:v Foxy:o Loxy:o .:o"
+  },
+  {
+   "n": 44,
+   "en": "\"We must tell the king,\" said Cocky Locky.",
+   "tgt": "«:o Nous:o devons:v avertir:v le:o roi:n »:o ,:o dit:v Cocky:o Locky:o .:o"
+  },
+  {
+   "n": 45,
+   "en": "\"The sky is falling!\" said Turkey Lurkey.",
+   "tgt": "«:o Le:o ciel:n tombe:v !:o »:o dit:v Turkey:o Lurkey:o .:o"
+  },
+  {
+   "n": 46,
+   "en": "\"I know a short way,\" said Foxy Loxy.",
+   "tgt": "«:o Je:o connais:v un:o chemin:n court:a »:o ,:o dit:v Foxy:o Loxy:o .:o"
+  },
+  {
+   "n": 47,
+   "en": "\"Follow me through the woods,\" he said.",
+   "tgt": "«:o Suivez:v -moi:o dans:o les:o bois:n »:o ,:o dit:v -il:o .:o"
+  },
+  {
+   "n": 48,
+   "en": "But the short way led to his den.",
+   "tgt": "Mais:o le:o chemin:n court:a menait:v à:o son:o repaire:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "The birds did not know this.",
+   "tgt": "Les:o oiseaux:n ne:o savaient:v pas:o cela:o .:o"
+  },
+  {
+   "n": 50,
+   "en": "They followed Foxy Loxy off the road.",
+   "tgt": "Ils:o suivirent:v Foxy:o Loxy:o hors:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "Foxy Loxy led them deep into the woods.",
+   "tgt": "Foxy:o Loxy:o les:o conduisit:v loin:a dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 52,
+   "chapter": "Into the Den",
+   "en": "They came to a big den.",
+   "tgt": "Ils:o arrivèrent:v à:o un:o grand:a terrier:n .:o"
+  },
+  {
+   "n": 53,
+   "en": "\"This den is the short way,\" said Foxy Loxy.",
+   "tgt": "«:o Ce:o terrier:n est:v le:o chemin:n court:a ,:o »:o dit:v Foxy:o Loxy:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "\"It leads to the king's home.\"",
+   "tgt": "«:o Il:o mène:v à:o la:o maison:n du:o roi:n .:o »:o"
+  },
+  {
+   "n": 55,
+   "en": "\"Only one bird can go at a time.\"",
+   "tgt": "«:o Un:o seul:a oiseau:n peut:v y:o aller:v à:o la:o fois:n .:o »:o"
+  },
+  {
+   "n": 56,
+   "en": "\"Go in, and I will follow,\" said Foxy Loxy.",
+   "tgt": "«:o Entrez:v ,:o et:o je:o vous:o suivrai:v ,:o »:o dit:v Foxy:o Loxy:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "Cocky Locky went in first.",
+   "tgt": "Cocky:o Locky:o entra:v en:o premier:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "He did not come out.",
+   "tgt": "Il:o ne:o sortit:v pas:o .:o"
+  },
+  {
+   "n": 59,
+   "en": "Ducky Lucky went in next.",
+   "tgt": "Ducky:o Lucky:o entra:v ensuite:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "She did not come out.",
+   "tgt": "Elle:o ne:o sortit:v pas:o .:o"
+  },
+  {
+   "n": 61,
+   "en": "Goosey Loosey went in too.",
+   "tgt": "Goosey:o Loosey:o entra:v aussi:a .:o"
+  },
+  {
+   "n": 62,
+   "en": "She did not come out at all.",
+   "tgt": "Elle:o ne:o sortit:v pas:o du:o tout:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "Only Turkey Lurkey and Henny Penny stood outside.",
+   "tgt": "Seuls:a Turkey:o Lurkey:o et:o Henny:o Penny:o restèrent:v dehors:a .:o"
+  },
+  {
+   "n": 64,
+   "chapter": "Henny Penny Runs Home",
+   "en": "Turkey Lurkey went into the den next.",
+   "tgt": "Turkey:o Lurkey:o entra:v ensuite:a dans:o le:o repaire:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "He never came out of it.",
+   "tgt": "Il:o n':o en:o sortit:v jamais:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "Henny Penny stood outside.",
+   "tgt": "Henny:o Penny:o resta:v dehors:a .:o"
+  },
+  {
+   "n": 67,
+   "en": "She heard a noise from inside.",
+   "tgt": "Elle:o entendit:v un:o bruit:n venant:a de:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "The noise scared Henny Penny.",
+   "tgt": "Le:o bruit:n effraya:v Henny:o Penny:o .:o"
+  },
+  {
+   "n": 69,
+   "en": "She did not go inside.",
+   "tgt": "Elle:o n':o entra:v pas:o .:o"
+  },
+  {
+   "n": 70,
+   "en": "Henny Penny ran all the way home.",
+   "tgt": "Henny:o Penny:o courut:v tout:o le:o long:n du:o chemin:n jusqu':o à:o chez:o elle:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "She never found the king.",
+   "tgt": "Elle:o ne:o trouva:v jamais:a le:o roi:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "She never told him about the sky.",
+   "tgt": "Elle:o ne:o lui:o parla:v jamais:a du:o ciel:n .:o"
+  },
+  {
+   "n": 73,
+   "en": "But Henny Penny was safe at home.",
+   "tgt": "Mais:o Henny:o Penny:o était:v en:o sécurité:n chez:o elle:o .:o"
+  }
+ ]
+}

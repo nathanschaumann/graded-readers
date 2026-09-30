@@ -1,0 +1,789 @@
+{
+ "slug": "golden_goose",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "A Poor Family",
+   "en": "A poor father and mother lived near a forest.",
+   "tgt": "Un:o père:n et:o une:o mère:n pauvres:a vivaient:v près:o d':o une:o forêt:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "The father and mother had three sons.",
+   "tgt": "Le:o père:n et:o la:o mère:n avaient:v trois:o fils:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The eldest son and the second son could work.",
+   "tgt": "L':o aîné:n et:o le:o deuxième:o fils:n pouvaient:v travailler:v .:o"
+  },
+  {
+   "n": 4,
+   "en": "The youngest son was kind.",
+   "tgt": "Le:o fils:n le:o plus:a jeune:a était:v gentil:a .:o"
+  },
+  {
+   "n": 5,
+   "en": "His brothers called him a simpleton.",
+   "tgt": "Ses:o frères:n l':o appelaient:v un:o simplet:n .:o"
+  },
+  {
+   "n": 6,
+   "en": "But the youngest son did not mind.",
+   "tgt": "Mais:o le:o fils:n le:o plus:a jeune:a ne:o s':o en:o souciait:v pas:o .:o"
+  },
+  {
+   "n": 7,
+   "en": "He shared what little he had.",
+   "tgt": "Il:o partageait:v le:o peu:n qu':o il:o avait:v .:o"
+  },
+  {
+   "n": 8,
+   "en": "The father let his sons go into the forest.",
+   "tgt": "Le:o père:n laissa:v ses:o fils:n aller:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "They cut wood there to earn money.",
+   "tgt": "Ils:o y:o coupaient:v du:o bois:n pour:o gagner:v de:o l':o argent:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "One day, the eldest son wanted to go first.",
+   "tgt": "Un:o jour:n ,:o l':o aîné:n voulut:v partir:v en:o premier:a .:o"
+  },
+  {
+   "n": 11,
+   "en": "The eldest son wanted wood to earn money for his mother.",
+   "tgt": "Le:o fils:n aîné:a voulait:v du:o bois:n pour:o gagner:v de:o l':o argent:n pour:o sa:o mère:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "The mother baked a cake for the eldest son.",
+   "tgt": "La:o mère:n prépara:v un:o gâteau:n pour:o le:o fils:n aîné:a .:o"
+  },
+  {
+   "n": 13,
+   "en": "She gave him a cup of sweet milk too.",
+   "tgt": "Elle:o lui:o donna:v aussi:a une:o tasse:n de:o lait:n sucré:a .:o"
+  },
+  {
+   "n": 14,
+   "en": "The eldest son walked into the forest with an axe.",
+   "tgt": "Le:o fils:n aîné:a marcha:v dans:o la:o forêt:n avec:o une:o hache:n .:o"
+  },
+  {
+   "n": 15,
+   "en": "He cut wood near a tree.",
+   "tgt": "Il:o coupa:v du:o bois:n près:o d':o un:o arbre:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "Then a gray man came out of the trees.",
+   "tgt": "Puis:o un:o homme:n gris:a sortit:v des:o arbres:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "\"May I have some cake and milk?\" the gray man asked.",
+   "tgt": "«:o Puis-je:v avoir:v du:o gâteau:n et:o du:o lait:n ?:o »:o demanda:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 18,
+   "en": "\"No,\" said the eldest son.",
+   "tgt": "«:o Non:o ,:o »:o dit:v le:o fils:n aîné:a .:o"
+  },
+  {
+   "n": 19,
+   "en": "The eldest son ate the cake alone and was not kind.",
+   "tgt": "Le:o fils:n aîné:a mangea:v le:o gâteau:n seul:a et:o ne:o fut:v pas:o généreux:a .:o"
+  },
+  {
+   "n": 20,
+   "en": "He picked up his axe again.",
+   "tgt": "Il:o ramassa:v sa:o hache:n de:o nouveau:a .:o"
+  },
+  {
+   "n": 21,
+   "en": "The axe slipped and cut his arm.",
+   "tgt": "La:o hache:n glissa:v et:o lui:o coupa:v le:o bras:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "The eldest son could not work with a cut arm.",
+   "tgt": "L':o aîné:n ne:o pouvait:v pas:o travailler:v avec:o un:o bras:n blessé:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "He walked home with no cake or wood for his mother.",
+   "tgt": "Il:o rentra:v chez:o lui:o sans:o gâteau:n ni:o bois:n pour:o sa:o mère:n .:o"
+  },
+  {
+   "n": 24,
+   "en": "The mother worried about her sons in the forest.",
+   "tgt": "La:o mère:n s':o inquiétait:v de:o ses:o fils:n dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "The mother baked a cake for the second son too.",
+   "tgt": "La:o mère:n cuisit:v un:o gâteau:n pour:o le:o deuxième:o fils:n aussi:a .:o"
+  },
+  {
+   "n": 26,
+   "en": "The second son walked into the forest with an axe.",
+   "tgt": "Le:o deuxième:o fils:n entra:v dans:o la:o forêt:n avec:o une:o hache:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "The same gray man came out of the trees.",
+   "tgt": "Le:o même:o homme:n gris:a sortit:v des:o arbres:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"May I have some cake and milk?\" the gray man asked.",
+   "tgt": "«:o Puis:v -je:o avoir:v du:o gâteau:n et:o du:o lait:n ?:o »:o demanda:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"No,\" said the second son.",
+   "tgt": "«:o Non:o ,:o »:o dit:v le:o deuxième:o fils:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "The second son ate the cake alone.",
+   "tgt": "Le:o deuxième:o fils:n mangea:v le:o gâteau:n seul:a .:o"
+  },
+  {
+   "n": 31,
+   "en": "He stood up and picked up his axe again.",
+   "tgt": "Il:o se:o leva:v et:o reprit:v sa:o hache:n .:o"
+  },
+  {
+   "n": 32,
+   "en": "The axe slipped and cut his leg.",
+   "tgt": "La:o hache:n glissa:v et:o coupa:v sa:o jambe:n .:o"
+  },
+  {
+   "n": 33,
+   "en": "The second son could not walk with a cut leg.",
+   "tgt": "Le:o deuxième:o fils:n ne:o pouvait:v pas:o marcher:v avec:o une:o jambe:n coupée:a .:o"
+  },
+  {
+   "n": 34,
+   "en": "His leg hurt, and he walked home without wood.",
+   "tgt": "Sa:o jambe:n lui:o faisait:v mal:a ,:o et:o il:o rentra:v chez:o lui:o sans:o bois:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "Both brothers came home hurt from the forest.",
+   "tgt": "Les:o deux:o frères:n rentrèrent:v blessés:a de:o la:o forêt:n .:o"
+  },
+  {
+   "n": 36,
+   "en": "The father feared for his youngest son's safety.",
+   "tgt": "Le:o père:n craignait:v pour:o la:o sécurité:n de:o son:o fils:n le:o plus:o jeune:a .:o"
+  },
+  {
+   "n": 37,
+   "en": "\"The forest is not safe,\" the father said.",
+   "tgt": "«:o La:o forêt:n n':o est:v pas:o sûre:a ,:o »:o dit:v le:o père:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "But the youngest son wanted to try too.",
+   "tgt": "Mais:o le:o fils:n le:o plus:o jeune:a voulait:v essayer:v aussi:a .:o"
+  },
+  {
+   "n": 39,
+   "en": "\"Please let me go,\" he said.",
+   "tgt": "«:o Laissez-moi:v partir:v ,:o je:o vous:o en:o prie:v .:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 40,
+   "en": "The father let him go.",
+   "tgt": "Le:o père:n le:o laissa:v partir:v .:o"
+  },
+  {
+   "n": 41,
+   "en": "The mother had little left to give him.",
+   "tgt": "La:o mère:n avait:v peu:a de:o choses:n à:o lui:o donner:v .:o"
+  },
+  {
+   "n": 42,
+   "en": "She baked a dry cake for him.",
+   "tgt": "Elle:o lui:o fit:v un:o gâteau:n sec:a .:o"
+  },
+  {
+   "n": 43,
+   "en": "She gave him a cup of sour milk too.",
+   "tgt": "Elle:o lui:o donna:v aussi:a une:o tasse:n de:o lait:n aigre:a .:o"
+  },
+  {
+   "n": 44,
+   "en": "The youngest son thanked his mother for the poor meal.",
+   "tgt": "Le:o fils:n cadet:a remercia:v sa:o mère:n pour:o le:o mauvais:a repas:n .:o"
+  },
+  {
+   "n": 45,
+   "en": "He walked toward the forest with the cake and milk.",
+   "tgt": "Il:o marcha:v vers:o la:o forêt:n avec:o le:o gâteau:n et:o le:o lait:n .:o"
+  },
+  {
+   "n": 46,
+   "chapter": "Sharing in the Forest",
+   "en": "But the youngest son wanted to help his family.",
+   "tgt": "Mais:o le:o fils:n cadet:a voulait:v aider:v sa:o famille:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "The same gray man came out of the trees.",
+   "tgt": "Le:o même:a homme:n gris:a sortit:v des:o arbres:n .:o"
+  },
+  {
+   "n": 48,
+   "en": "\"May I share your cake and milk?\" the gray man asked.",
+   "tgt": "«:o Puis-je:o partager:v votre:o gâteau:n et:o votre:o lait:n ?:o »:o demanda:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 49,
+   "en": "\"Yes, please share my meal,\" said the youngest son.",
+   "tgt": "«:o Oui:o ,:o partagez:v mon:o repas:n ,:o je:o vous:o en:o prie:v ,:o »:o dit:v -il:o ,:o le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "He gave the gray man the dry cake.",
+   "tgt": "Il:o donna:v à:o l':o homme:n gris:a le:o gâteau:n sec:a .:o"
+  },
+  {
+   "n": 51,
+   "en": "He gave him the cup of sour milk too.",
+   "tgt": "Il:o lui:o donna:v aussi:a la:o tasse:n de:o lait:n aigre:a .:o"
+  },
+  {
+   "n": 52,
+   "en": "The dry cake became a soft cake.",
+   "tgt": "Le:o gâteau:n sec:a devint:v un:o gâteau:n mou:a .:o"
+  },
+  {
+   "n": 53,
+   "en": "The sour milk became sweet milk too.",
+   "tgt": "Le:o lait:n aigre:a devint:v aussi:a du:o lait:n doux:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "The gray man and the youngest son ate together.",
+   "tgt": "L':o homme:n gris:a et:o le:o fils:n cadet:a mangèrent:v ensemble:a .:o"
+  },
+  {
+   "n": 55,
+   "en": "\"I will help you too,\" the gray man said.",
+   "tgt": "«:o Je:o vais:v vous:o aider:v aussi:a ,:o »:o dit:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 56,
+   "en": "\"Cut down that tree by the rock,\" said the gray man.",
+   "tgt": "«:o Coupez:v cet:o arbre:n près:o du:o rocher:n ,:o »:o dit:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 57,
+   "en": "\"Look among its roots,\" the gray man said.",
+   "tgt": "«:o Regardez:v parmi:o ses:o racines:n ,:o »:o dit:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "He found the tree by the rock.",
+   "tgt": "Il:o trouva:v l':o arbre:n près:o du:o rocher:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "He cut down the tree with his axe.",
+   "tgt": "Il:o coupa:v l':o arbre:n avec:o sa:o hache:n .:o"
+  },
+  {
+   "n": 60,
+   "en": "The tree fell down.",
+   "tgt": "L':o arbre:n tomba:v .:o"
+  },
+  {
+   "n": 61,
+   "en": "He looked among its roots.",
+   "tgt": "Il:o chercha:v parmi:o ses:o racines:n .:o"
+  },
+  {
+   "n": 62,
+   "en": "A goose sat there with golden feathers.",
+   "tgt": "Une:o oie:n était:v là:a avec:o des:o plumes:n dorées:a .:o"
+  },
+  {
+   "n": 63,
+   "en": "The youngest son picked up the goose.",
+   "tgt": "Le:o fils:n cadet:a ramassa:v l':o oie:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "The youngest son put the goose under his arm.",
+   "tgt": "Le:o fils:n cadet:a mit:v l':o oie:n sous:o son:o bras:n .:o"
+  },
+  {
+   "n": 65,
+   "en": "He thanked the gray man for his help.",
+   "tgt": "Il:o remercia:v l':o homme:n gris:a pour:o son:o aide:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "The gray man went back into the trees.",
+   "tgt": "L':o homme:n gris:a retourna:v dans:o les:o arbres:n .:o"
+  },
+  {
+   "n": 67,
+   "en": "That night, the youngest son came to an inn.",
+   "tgt": "Cette:o nuit-là:a ,:o le:o fils:n cadet:a arriva:v à:o une:o auberge:n .:o"
+  },
+  {
+   "n": 68,
+   "en": "An innkeeper lived there with his three daughters.",
+   "tgt": "Un:o aubergiste:n vivait:v là:a avec:o ses:o trois:o filles:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "\"May I stay for the night?\" the youngest son asked.",
+   "tgt": "«:o Puis-je:v rester:v pour:o la:o nuit:n ?:o »:o demanda:v le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 70,
+   "en": "\"Yes, you may,\" said the innkeeper.",
+   "tgt": "«:o Oui:a ,:o vous:o pouvez:v ,:o »:o dit:v l':o aubergiste:n .:o"
+  },
+  {
+   "n": 71,
+   "en": "The three daughters saw the golden goose under his arm.",
+   "tgt": "Les:o trois:o filles:n virent:v l':o oie:n dorée:a sous:o son:o bras:n .:o"
+  },
+  {
+   "n": 72,
+   "en": "The daughters wanted a golden feather too.",
+   "tgt": "Les:o filles:n voulaient:v une:o plume:n dorée:a aussi:a .:o"
+  },
+  {
+   "n": 73,
+   "en": "The first daughter said, \"I will take a feather.\"",
+   "tgt": "La:o première:o fille:n dit:v ,:o «:o Je:o vais:v prendre:v une:o plume:n .:o »:o"
+  },
+  {
+   "n": 74,
+   "en": "\"Wait for him to fall asleep,\" said the second daughter.",
+   "tgt": "«:o Attends:v qu':o il:o s':o endorme:v ,:o »:o dit:v la:o deuxième:o fille:n .:o"
+  },
+  {
+   "n": 75,
+   "en": "The third daughter wanted to try it too.",
+   "tgt": "La:o troisième:o fille:n voulait:v essayer:v aussi:a .:o"
+  },
+  {
+   "n": 76,
+   "en": "The youngest son ate some food and went to bed.",
+   "tgt": "Le:o fils:n cadet:a mangea:v de:o la:o nourriture:n et:o alla:v se:o coucher:v .:o"
+  },
+  {
+   "n": 77,
+   "en": "He put the golden goose in his room.",
+   "tgt": "Il:o mit:v l':o oie:n dorée:a dans:o sa:o chambre:n .:o"
+  },
+  {
+   "n": 78,
+   "en": "He fell asleep.",
+   "tgt": "Il:o s':o endormit:v .:o"
+  },
+  {
+   "n": 79,
+   "en": "Later that night, the first daughter went to his room.",
+   "tgt": "Plus:a tard:a cette:o nuit-là:a ,:o la:o première:o fille:n alla:v dans:o sa:o chambre:n .:o"
+  },
+  {
+   "n": 80,
+   "en": "The first daughter reached out and pulled at a golden feather.",
+   "tgt": "La:o première:o fille:n tendit:v la:o main:n et:o tira:v sur:o une:o plume:n dorée:a .:o"
+  },
+  {
+   "n": 81,
+   "en": "Her hand stuck fast to the goose.",
+   "tgt": "Sa:o main:n resta:v collée:a à:o l':o oie:n .:o"
+  },
+  {
+   "n": 82,
+   "en": "She called quietly for her sister.",
+   "tgt": "Elle:o appela:v doucement:a sa:o sœur:n .:o"
+  },
+  {
+   "n": 83,
+   "en": "The second daughter came to help her.",
+   "tgt": "La:o deuxième:a fille:n vint:v l':o aider:v .:o"
+  },
+  {
+   "n": 84,
+   "en": "She took hold of her sister's arm.",
+   "tgt": "Elle:o saisit:v le:o bras:n de:o sa:o sœur:n .:o"
+  },
+  {
+   "n": 85,
+   "en": "Her hand stuck fast to her sister's arm too.",
+   "tgt": "Sa:o main:n resta:v collée:a au:o bras:n de:o sa:o sœur:n aussi:a .:o"
+  },
+  {
+   "n": 86,
+   "en": "Both daughters called for the third daughter, who came to help.",
+   "tgt": "Les:o deux:o filles:n appelèrent:v la:o troisième:a fille:n ,:o qui:o vint:v les:o aider:v .:o"
+  },
+  {
+   "n": 87,
+   "en": "She took hold of the second daughter's hand.",
+   "tgt": "Elle:o saisit:v la:o main:n de:o la:o deuxième:a fille:n .:o"
+  },
+  {
+   "n": 88,
+   "en": "She stuck fast too.",
+   "tgt": "Elle:o resta:v collée:a aussi:a .:o"
+  },
+  {
+   "n": 89,
+   "en": "But the golden goose and the youngest son did not wake up.",
+   "tgt": "Mais:o l':o oie:n dorée:a et:o le:o fils:n cadet:a ne:o se:o réveillèrent:v pas:o .:o"
+  },
+  {
+   "n": 90,
+   "en": "All three daughters stood stuck together in a line.",
+   "tgt": "Les:o trois:o filles:n restèrent:v collées:a ensemble:a en:o ligne:n .:o"
+  },
+  {
+   "n": 91,
+   "chapter": "The Morning Departure",
+   "en": "The youngest son woke up.",
+   "tgt": "Le:o fils:n cadet:a se:o réveilla:v .:o"
+  },
+  {
+   "n": 92,
+   "en": "He did not mind the three daughters.",
+   "tgt": "Il:o ne:o fit:v pas:o attention:n aux:o trois:o filles:n .:o"
+  },
+  {
+   "n": 93,
+   "en": "He picked up the golden goose and held it under his arm.",
+   "tgt": "Il:o ramassa:v l':o oie:n dorée:a et:o la:o tint:v sous:o son:o bras:n .:o"
+  },
+  {
+   "n": 94,
+   "en": "He left the inn with the goose.",
+   "tgt": "Il:o quitta:v l':o auberge:n avec:o l':o oie:n .:o"
+  },
+  {
+   "n": 95,
+   "en": "The youngest son walked down the road toward the city.",
+   "tgt": "Le:o fils:n cadet:a marcha:v sur:o la:o route:n vers:o la:o ville:n .:o"
+  },
+  {
+   "n": 96,
+   "en": "The three daughters ran behind the goose.",
+   "tgt": "Les:o trois:o filles:n coururent:v derrière:o l':o oie:n .:o"
+  },
+  {
+   "n": 97,
+   "en": "\"Stop!\" the first daughter called out.",
+   "tgt": "«:o Arrêtez:v !:o »:o cria:v la:o première:a fille:n .:o"
+  },
+  {
+   "n": 98,
+   "en": "\"Wait for us!\" she said.",
+   "tgt": "«:o Attendez-nous:v !:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 99,
+   "en": "But the youngest son did not stop.",
+   "tgt": "Mais:o le:o fils:n cadet:a ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 100,
+   "en": "The three daughters ran after him in a field.",
+   "tgt": "Les:o trois:o filles:n coururent:v après:o lui:o dans:o un:o champ:n .:o"
+  },
+  {
+   "n": 101,
+   "en": "A parson stood in the field near the road.",
+   "tgt": "Un:o pasteur:n se:o tenait:v dans:o le:o champ:n près:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 102,
+   "en": "He saw the three daughters running and stuck together.",
+   "tgt": "Il:o vit:v les:o trois:o filles:n courir:v et:o rester:v collées:a ensemble:a .:o"
+  },
+  {
+   "n": 103,
+   "en": "\"Why are you running after that young man?\" the parson asked.",
+   "tgt": "«:o Pourquoi:o courez-vous:v après:o ce:o jeune:a homme:n ?:o »:o dit:v le:o pasteur:n .:o"
+  },
+  {
+   "n": 104,
+   "en": "\"You must stop now!\" he said.",
+   "tgt": "«:o Vous:o devez:v vous:o arrêter:v maintenant:a !:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 105,
+   "en": "The parson reached for the third daughter's hand.",
+   "tgt": "Le:o pasteur:n tendit:v la:o main:n vers:o la:o main:n de:o la:o troisième:o fille:n .:o"
+  },
+  {
+   "n": 106,
+   "en": "He wanted to pull her from the road.",
+   "tgt": "Il:o voulait:v la:o tirer:v hors:o de:o la:o route:n .:o"
+  },
+  {
+   "n": 107,
+   "en": "His hand stuck fast to her hand too.",
+   "tgt": "Sa:o main:n resta:v collée:a à:o sa:o main:n à:o elle:o aussi:a .:o"
+  },
+  {
+   "n": 108,
+   "en": "A sexton saw the parson running down the road.",
+   "tgt": "Un:o sacristain:n vit:v le:o pasteur:n courir:v sur:o la:o route:n .:o"
+  },
+  {
+   "n": 109,
+   "en": "\"Where are you running to?\" the sexton called.",
+   "tgt": "«:o Où:o courez-vous:v ainsi:a ?:o »:o appela:v le:o sacristain:n .:o"
+  },
+  {
+   "n": 110,
+   "en": "\"The church needs you now!\" the sexton said.",
+   "tgt": "«:o L':o église:n a:v besoin:n de:o vous:o maintenant:a !:o »:o dit:v le:o sacristain:n .:o"
+  },
+  {
+   "n": 111,
+   "en": "He took hold of the parson.",
+   "tgt": "Il:o saisit:v le:o pasteur:n .:o"
+  },
+  {
+   "n": 112,
+   "en": "He stuck fast too.",
+   "tgt": "Il:o resta:v collé:a lui:o aussi:a .:o"
+  },
+  {
+   "n": 113,
+   "en": "Five people ran behind the goose in a line.",
+   "tgt": "Cinq:o personnes:n coururent:v derrière:o l':o oie:n en:o file:n .:o"
+  },
+  {
+   "n": 114,
+   "en": "A king and his young daughter lived in the city.",
+   "tgt": "Un:o roi:n et:o sa:o jeune:a fille:n vivaient:v dans:o la:o ville:n .:o"
+  },
+  {
+   "n": 115,
+   "en": "His daughter was a young princess who never laughed.",
+   "tgt": "Sa:o fille:n était:v une:o jeune:a princesse:n qui:o ne:o riait:v jamais:o .:o"
+  },
+  {
+   "n": 116,
+   "en": "The king wanted the princess to laugh.",
+   "tgt": "Le:o roi:n voulait:v que:o la:o princesse:n rie:v .:o"
+  },
+  {
+   "n": 117,
+   "en": "\"Whoever makes the young princess laugh will marry her,\" said the king.",
+   "tgt": "«:o Celui:o qui:o fera:v rire:v la:o jeune:a princesse:n l':o épousera:v »:o ,:o dit:v -il:o le:o roi:n .:o"
+  },
+  {
+   "n": 118,
+   "en": "Many people in the city wanted to make her laugh.",
+   "tgt": "Beaucoup:o de:o gens:n dans:o la:o ville:n voulaient:v la:o faire:v rire:v .:o"
+  },
+  {
+   "n": 119,
+   "en": "But no man in the city could make the princess laugh.",
+   "tgt": "Mais:o aucun:o homme:n dans:o la:o ville:n ne:o pouvait:v faire:v rire:v la:o princesse:n .:o"
+  },
+  {
+   "n": 120,
+   "en": "The youngest son and his golden goose came near the city.",
+   "tgt": "Le:o fils:n cadet:a et:o son:o oie:n dorée:a approchèrent:v de:o la:o ville:n .:o"
+  },
+  {
+   "n": 121,
+   "en": "Five people still ran behind him and the goose, stuck fast.",
+   "tgt": "Cinq:o personnes:n couraient:v encore:a derrière:o lui:o et:o l':o oie:n ,:o collées:a solidement:a .:o"
+  },
+  {
+   "n": 122,
+   "en": "The young princess sat at her window.",
+   "tgt": "La:o jeune:a princesse:n était:v assise:a à:o sa:o fenêtre:n .:o"
+  },
+  {
+   "n": 123,
+   "en": "She heard a strange noise near the window.",
+   "tgt": "Elle:o entendit:v un:o bruit:n étrange:a près:o de:o la:o fenêtre:n .:o"
+  },
+  {
+   "n": 124,
+   "en": "She looked out of her window.",
+   "tgt": "Elle:o regarda:v par:o sa:o fenêtre:n .:o"
+  },
+  {
+   "n": 125,
+   "en": "The princess saw the youngest son and his golden goose.",
+   "tgt": "La:o princesse:n vit:v le:o fils:n cadet:a et:o son:o oie:n dorée:a .:o"
+  },
+  {
+   "n": 126,
+   "en": "Behind him ran five people, all stuck fast together.",
+   "tgt": "Derrière:o lui:o couraient:v cinq:o personnes:n ,:o toutes:o collées:a ensemble:a .:o"
+  },
+  {
+   "n": 127,
+   "en": "The parson and the sexton ran and fell down.",
+   "tgt": "Le:o pasteur:n et:o le:o sacristain:n coururent:v et:o tombèrent:v .:o"
+  },
+  {
+   "n": 128,
+   "en": "The three daughters pulled them back up.",
+   "tgt": "Les:o trois:o filles:n les:o tirèrent:v vers:o le:o haut:n .:o"
+  },
+  {
+   "n": 129,
+   "en": "The princess saw this strange thing and laughed.",
+   "tgt": "La:o princesse:n vit:v cette:o chose:n étrange:a et:o rit:v .:o"
+  },
+  {
+   "n": 130,
+   "en": "She laughed and laughed and could not stop.",
+   "tgt": "Elle:o rit:v et:o rit:v et:o ne:o put:v s':o arrêter:v .:o"
+  },
+  {
+   "n": 131,
+   "en": "Everyone in the city heard the princess laugh.",
+   "tgt": "Tout:o le:o monde:n dans:o la:o ville:n entendit:v rire:v la:o princesse:n .:o"
+  },
+  {
+   "n": 132,
+   "en": "As soon as the princess laughed, the five people came free.",
+   "tgt": "Dès:o que:o la:o princesse:n rit:v ,:o les:o cinq:o personnes:n furent:v libres:a .:o"
+  },
+  {
+   "n": 133,
+   "en": "The parson, the sexton, and the three daughters went home.",
+   "tgt": "Le:o pasteur:n ,:o le:o sacristain:n et:o les:o trois:o filles:n rentrèrent:v chez:o eux:o .:o"
+  },
+  {
+   "n": 134,
+   "en": "A servant ran to the king.",
+   "tgt": "Un:o serviteur:n courut:v vers:o le:o roi:n .:o"
+  },
+  {
+   "n": 135,
+   "en": "\"The princess laughed!\" the servant said.",
+   "tgt": "«:o La:o princesse:n a:v ri:v !:o »:o dit:v -il:o le:o serviteur:n .:o"
+  },
+  {
+   "n": 136,
+   "en": "The king came out to see the youngest son.",
+   "tgt": "Le:o roi:n sortit:v pour:o voir:v le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 137,
+   "en": "He saw the golden goose under the youngest son's arm.",
+   "tgt": "Il:o vit:v l':o oie:n dorée:a sous:o le:o bras:n du:o fils:n le:o plus:a jeune:a .:o"
+  },
+  {
+   "n": 138,
+   "en": "The king did not want his daughter to marry him.",
+   "tgt": "Le:o roi:n ne:o voulait:v pas:o que:o sa:o fille:n l':o épouse:v .:o"
+  },
+  {
+   "n": 139,
+   "en": "\"You must do one more thing first,\" said the king.",
+   "tgt": "«:o Tu:o dois:v d':o abord:a faire:v une:o chose:n de:o plus:a ,:o »:o dit:v le:o roi:n .:o"
+  },
+  {
+   "n": 140,
+   "en": "\"Bring me a man who is never full.\"",
+   "tgt": "«:o Amenez-moi:v un:o homme:n qui:o n':o est:v jamais:a rassasié:a .:o »:o"
+  },
+  {
+   "n": 141,
+   "en": "\"He must eat and eat and never stop.\"",
+   "tgt": "«:o Il:o doit:v manger:v et:o manger:v et:o ne:o jamais:a s':o arrêter:v .:o »:o"
+  },
+  {
+   "n": 142,
+   "en": "The youngest son walked back into the forest.",
+   "tgt": "Le:o fils:n le:o plus:a jeune:a retourna:v dans:o la:o forêt:n .:o"
+  },
+  {
+   "n": 143,
+   "en": "He looked for the gray man among the trees.",
+   "tgt": "Il:o chercha:v l':o homme:n gris:a parmi:o les:o arbres:n .:o"
+  },
+  {
+   "n": 144,
+   "en": "Soon he found the gray man again.",
+   "tgt": "Bientôt:a il:o trouva:v de:o nouveau:a l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 145,
+   "en": "\"I need a man who eats and eats,\" said the youngest son.",
+   "tgt": "«:o J':o ai:v besoin:n d':o un:o homme:n qui:o mange:v et:o mange:v ,:o »:o dit:v le:o fils:n le:o plus:a jeune:a .:o"
+  },
+  {
+   "n": 146,
+   "en": "\"I will do this myself,\" said the gray man.",
+   "tgt": "«:o Je:o ferai:v cela:o moi-même:o ,:o »:o dit:v l':o homme:n gris:a .:o"
+  },
+  {
+   "n": 147,
+   "en": "\"You shared your food with me before,\" he said.",
+   "tgt": "«:o Tu:o as:v partagé:v ta:o nourriture:n avec:o moi:o avant:a ,:o »:o dit-il:v .:o"
+  },
+  {
+   "n": 148,
+   "en": "The gray man walked with the youngest son to the palace.",
+   "tgt": "L':o homme:n gris:a marcha:v avec:o le:o fils:n le:o plus:a jeune:a jusqu':o au:o palais:n .:o"
+  },
+  {
+   "n": 149,
+   "en": "At the palace, he ate and ate and never stopped.",
+   "tgt": "Au:o palais:n ,:o il:o mangea:v et:o mangea:v et:o ne:o s':o arrêta:v jamais:o .:o"
+  },
+  {
+   "n": 150,
+   "en": "The king was surprised.",
+   "tgt": "Le:o roi:n fut:v surpris:a .:o"
+  },
+  {
+   "n": 151,
+   "en": "\"You have done what I asked,\" said the king.",
+   "tgt": "«:o Vous:o avez:v fait:v ce:o que:o je:o demandais:v ,:o »:o dit:v -il:o le:o roi:n .:o"
+  },
+  {
+   "n": 152,
+   "en": "\"Now you may marry my daughter.\"",
+   "tgt": "«:o Maintenant:a vous:o pouvez:v épouser:v ma:o fille:n .:o »:o"
+  },
+  {
+   "n": 153,
+   "en": "Soon the youngest son and the princess would marry.",
+   "tgt": "Bientôt:a le:o fils:n cadet:a et:o la:o princesse:n allaient:v se:o marier:v .:o"
+  },
+  {
+   "n": 154,
+   "en": "The wedding was at the king's palace.",
+   "tgt": "Le:o mariage:n eut:v lieu:n au:o palais:n du:o roi:n .:o"
+  },
+  {
+   "n": 155,
+   "en": "The golden goose lived with the youngest son.",
+   "tgt": "L':o oie:n dorée:a vécut:v avec:o le:o fils:n cadet:a .:o"
+  },
+  {
+   "n": 156,
+   "en": "The youngest son became king one day.",
+   "tgt": "Le:o fils:n cadet:a devint:v roi:n un:o jour:n .:o"
+  }
+ ]
+}

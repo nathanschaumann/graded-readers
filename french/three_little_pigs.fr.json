@@ -1,0 +1,367 @@
+{
+ "slug": "three_little_pigs",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Three Pigs Leave Home",
+   "en": "Three little pigs lived with their mother.",
+   "tgt": "Trois:o petits:a cochons:n vivaient:v avec:o leur:o mère:n .:o"
+  },
+  {
+   "n": 2,
+   "en": "They lived in a small home in the woods.",
+   "tgt": "Ils:o vivaient:v dans:o une:o petite:a maison:n dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "One day, their mother called the three pigs.",
+   "tgt": "Un:o jour:n ,:o leur:o mère:n appela:v les:o trois:o cochons:n .:o"
+  },
+  {
+   "n": 4,
+   "en": "\"You are big pigs now,\" she said.",
+   "tgt": "«:o Vous:o êtes:v de:o grands:a cochons:n maintenant:a ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 5,
+   "en": "\"Go and build houses of your own,\" she said.",
+   "tgt": "«:o Allez:v construire:v vos:o propres:a maisons:n ,:o »:o dit:v -elle:o .:o"
+  },
+  {
+   "n": 6,
+   "en": "\"But watch out for the wolf!\" she called.",
+   "tgt": "«:o Mais:o faites:v attention:n au:o loup:n !:o »:o cria:v -t-elle:o .:o"
+  },
+  {
+   "n": 7,
+   "en": "A wolf lived deep in the woods.",
+   "tgt": "Un:o loup:n vivait:v au:o fond:n des:o bois:n .:o"
+  },
+  {
+   "n": 8,
+   "en": "The wolf liked to eat little pigs.",
+   "tgt": "Le:o loup:n aimait:v manger:v de:o petits:a cochons:n .:o"
+  },
+  {
+   "n": 9,
+   "en": "The three pigs said goodbye to their mother.",
+   "tgt": "Les:o trois:o cochons:n dirent:v au:o revoir:n à:o leur:o mère:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "They left home to build their own houses.",
+   "tgt": "Ils:o quittèrent:v la:o maison:n pour:o construire:v leurs:o propres:a maisons:n .:o"
+  },
+  {
+   "n": 11,
+   "en": "Each pig went a different way.",
+   "tgt": "Chaque:o cochon:n prit:v un:o chemin:n différent:a .:o"
+  },
+  {
+   "n": 12,
+   "chapter": "Three New Houses",
+   "en": "The first pig found a pile of straw.",
+   "tgt": "Le:o premier:a cochon:n trouva:v un:o tas:n de:o paille:n .:o"
+  },
+  {
+   "n": 13,
+   "en": "He built a house of straw in one day.",
+   "tgt": "Il:o construisit:v une:o maison:n de:o paille:n en:o un:o jour:n .:o"
+  },
+  {
+   "n": 14,
+   "en": "\"Now I can play all day,\" he said.",
+   "tgt": "«:o Maintenant:a je:o peux:v jouer:v toute:o la:o journée:n »:o ,:o dit-il:o .:o"
+  },
+  {
+   "n": 15,
+   "en": "The second pig found sticks in the woods.",
+   "tgt": "Le:o deuxième:o cochon:n trouva:v des:o bâtons:n dans:o les:o bois:n .:o"
+  },
+  {
+   "n": 16,
+   "en": "He built a house of sticks in two days.",
+   "tgt": "Il:o construisit:v une:o maison:n de:o bâtons:n en:o deux:o jours:n .:o"
+  },
+  {
+   "n": 17,
+   "en": "The stick house was stronger than the straw house.",
+   "tgt": "La:o maison:n de:o bâtons:n était:v plus:a solide:a que:o la:o maison:n de:o paille:n .:o"
+  },
+  {
+   "n": 18,
+   "en": "The third pig remembered the wolf.",
+   "tgt": "Le:o troisième:o cochon:n se:o souvint:v du:o loup:n .:o"
+  },
+  {
+   "n": 19,
+   "en": "He wanted a strong house, so he gathered many bricks.",
+   "tgt": "Il:o voulait:v une:o maison:n solide:a ,:o alors:o il:o rassembla:v beaucoup:a de:o briques:n .:o"
+  },
+  {
+   "n": 20,
+   "en": "The bricks were heavy and slow to carry.",
+   "tgt": "Les:o briques:n étaient:v lourdes:a et:o lentes:a à:o porter:v .:o"
+  },
+  {
+   "n": 21,
+   "en": "The brick house took many days to build.",
+   "tgt": "La:o maison:n de:o briques:n prit:v beaucoup:a de:o jours:n à:o construire:v .:o"
+  },
+  {
+   "n": 22,
+   "en": "But the third pig was tired and did not stop.",
+   "tgt": "Mais:o le:o troisième:o cochon:n était:v fatigué:a et:o ne:o s':o arrêta:v pas:o .:o"
+  },
+  {
+   "n": 23,
+   "en": "At last, the brick house was done.",
+   "tgt": "Enfin:a ,:o la:o maison:n de:o briques:n était:v terminée:a .:o"
+  },
+  {
+   "n": 24,
+   "chapter": "The Wolf and the Straw House",
+   "en": "Soon, the wolf was hungry.",
+   "tgt": "Bientôt:a ,:o le:o loup:n avait:v faim:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "He went to find the three pigs.",
+   "tgt": "Il:o partit:v chercher:v les:o trois:o cochons:n .:o"
+  },
+  {
+   "n": 26,
+   "en": "The wolf found the house of straw.",
+   "tgt": "Le:o loup:n trouva:v la:o maison:n de:o paille:n .:o"
+  },
+  {
+   "n": 27,
+   "en": "He knocked on the door.",
+   "tgt": "Il:o frappa:v à:o la:o porte:n .:o"
+  },
+  {
+   "n": 28,
+   "en": "\"Little pig, let me come in!\" called the wolf.",
+   "tgt": "«:o Petit:a cochon:n ,:o laisse:v -moi:o entrer:v !:o »:o cria:v le:o loup:n .:o"
+  },
+  {
+   "n": 29,
+   "en": "\"No, I won't let you in!\" said the first pig.",
+   "tgt": "«:o Non:o ,:o je:o ne:o te:o laisserai:v pas:o entrer:v !:o »:o dit:v le:o premier:a cochon:n .:o"
+  },
+  {
+   "n": 30,
+   "en": "\"I'll huff and puff and blow your house down!\"",
+   "tgt": "«:o Je:o vais:v souffler:v et:o encore:o souffler:v et:o faire:v tomber:v ta:o maison:n !:o »:o"
+  },
+  {
+   "n": 31,
+   "en": "The wolf huffed.",
+   "tgt": "Le:o loup:n souffla:v fort:a .:o"
+  },
+  {
+   "n": 32,
+   "en": "The wolf puffed.",
+   "tgt": "Le:o loup:n souffla:v encore:a .:o"
+  },
+  {
+   "n": 33,
+   "en": "The straw house fell down.",
+   "tgt": "La:o maison:n de:o paille:n s':o effondra:v .:o"
+  },
+  {
+   "n": 34,
+   "en": "The first pig ran to the second pig's house.",
+   "tgt": "Le:o premier:a cochon:n courut:v vers:o la:o maison:n du:o deuxième:a cochon:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "He was safe inside the stick house.",
+   "tgt": "Il:o était:v en:o sécurité:n à:o l':o intérieur:n de:o la:o maison:n de:o bâtons:n .:o"
+  },
+  {
+   "n": 36,
+   "chapter": "The Wolf and the Stick House",
+   "en": "The wolf was still hungry.",
+   "tgt": "Le:o loup:n avait:v encore:a faim:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "He went to find the pigs.",
+   "tgt": "Il:o alla:v trouver:v les:o cochons:n .:o"
+  },
+  {
+   "n": 38,
+   "en": "Soon, the wolf found the stick house.",
+   "tgt": "Bientôt:a ,:o le:o loup:n trouva:v la:o maison:n de:o bâtons:n .:o"
+  },
+  {
+   "n": 39,
+   "en": "Two little pigs were inside.",
+   "tgt": "Deux:o petits:a cochons:n étaient:v à:o l':o intérieur:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "\"Little pigs, let me come in!\" called the wolf.",
+   "tgt": "«:o Petits:a cochons:n ,:o laissez-moi:v entrer:v !:o »:o cria:v le:o loup:n .:o"
+  },
+  {
+   "n": 41,
+   "en": "\"No, we won't let you in!\" said the pigs.",
+   "tgt": "«:o Non:o ,:o nous:o ne:o vous:o laisserons:v pas:o entrer:v !:o »:o dirent:v les:o cochons:n .:o"
+  },
+  {
+   "n": 42,
+   "en": "\"I'll huff and puff and blow your house down!\"",
+   "tgt": "«:o Je:o vais:v souffler:v et:o encore:a souffler:v et:o faire:v tomber:v votre:o maison:n !:o »:o"
+  },
+  {
+   "n": 43,
+   "en": "The wolf huffed and puffed hard.",
+   "tgt": "Le:o loup:n souffla:v très:a fort:a .:o"
+  },
+  {
+   "n": 44,
+   "en": "This time, the house did not fall fast.",
+   "tgt": "Cette:o fois:n ,:o la:o maison:n ne:o tomba:v pas:o vite:a .:o"
+  },
+  {
+   "n": 45,
+   "en": "But the stick house fell down too.",
+   "tgt": "Mais:o la:o maison:n de:o bâtons:n tomba:v aussi:a .:o"
+  },
+  {
+   "n": 46,
+   "en": "Both pigs ran to the third pig's house.",
+   "tgt": "Les:o deux:o cochons:n coururent:v vers:o la:o maison:n du:o troisième:o cochon:n .:o"
+  },
+  {
+   "n": 47,
+   "en": "They were safe inside the brick house.",
+   "tgt": "Ils:o étaient:v en:o sécurité:n à:o l':o intérieur:n de:o la:o maison:n de:o briques:n .:o"
+  },
+  {
+   "n": 48,
+   "chapter": "The Wolf and the Brick House",
+   "en": "All three pigs were inside the brick house.",
+   "tgt": "Les:o trois:o cochons:n étaient:v tous:o à:o l':o intérieur:n de:o la:o maison:n de:o briques:n .:o"
+  },
+  {
+   "n": 49,
+   "en": "The wolf found them.",
+   "tgt": "Le:o loup:n les:o trouva:v .:o"
+  },
+  {
+   "n": 50,
+   "en": "\"Little pigs, let me come in!\" called the wolf.",
+   "tgt": "«:o Petits:a cochons:n ,:o laissez:v -moi:o entrer:v !:o »:o cria:v le:o loup:n .:o"
+  },
+  {
+   "n": 51,
+   "en": "\"No, we won't let you in!\" said the pigs.",
+   "tgt": "«:o Non:o ,:o nous:o ne:o vous:o laisserons:v pas:o entrer:v !:o »:o dirent:v les:o cochons:n .:o"
+  },
+  {
+   "n": 52,
+   "en": "\"I'll huff and puff and blow your house down!\"",
+   "tgt": "«:o Je:o soufflerai:v et:o soufflerai:v encore:a et:o ferai:v tomber:v votre:o maison:n !:o »:o"
+  },
+  {
+   "n": 53,
+   "en": "The wolf huffed and puffed hard.",
+   "tgt": "Le:o loup:n souffla:v et:o souffla:v fort:a .:o"
+  },
+  {
+   "n": 54,
+   "en": "But the brick house did not move.",
+   "tgt": "Mais:o la:o maison:n de:o briques:n ne:o bougea:v pas:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "The wolf huffed and puffed.",
+   "tgt": "Le:o loup:n souffla:v et:o souffla:v .:o"
+  },
+  {
+   "n": 56,
+   "en": "Still, the house did not fall.",
+   "tgt": "Pourtant:o ,:o la:o maison:n ne:o tomba:v pas:o .:o"
+  },
+  {
+   "n": 57,
+   "en": "The wolf stopped to rest.",
+   "tgt": "Le:o loup:n s':o arrêta:v pour:o se:o reposer:v .:o"
+  },
+  {
+   "n": 58,
+   "en": "He wanted another way into the house.",
+   "tgt": "Il:o voulait:v une:o autre:a façon:n d':o entrer:v dans:o la:o maison:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "The wolf saw the chimney on the roof.",
+   "tgt": "Le:o loup:n vit:v la:o cheminée:n sur:o le:o toit:n .:o"
+  },
+  {
+   "n": 60,
+   "chapter": "Down the Chimney",
+   "en": "The wolf climbed up onto the roof.",
+   "tgt": "Le:o loup:n grimpa:v sur:o le:o toit:n .:o"
+  },
+  {
+   "n": 61,
+   "en": "The third pig heard him up there.",
+   "tgt": "Le:o troisième:a cochon:n l':o entendit:v là-haut:a .:o"
+  },
+  {
+   "n": 62,
+   "en": "\"He will come down the chimney,\" said the third pig.",
+   "tgt": "«:o Il:o descendra:v par:o la:o cheminée:n ,:o »:o dit:v le:o troisième:a cochon:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "The third pig heated a pot of water.",
+   "tgt": "Le:o troisième:a cochon:n chauffa:v une:o marmite:n d':o eau:n .:o"
+  },
+  {
+   "n": 64,
+   "en": "Soon, the water in the pot was hot.",
+   "tgt": "Bientôt:a ,:o l':o eau:n dans:o la:o marmite:n était:v chaude:a .:o"
+  },
+  {
+   "n": 65,
+   "en": "The wolf climbed down the dark chimney.",
+   "tgt": "Le:o loup:n descendit:v par:o la:o sombre:a cheminée:n .:o"
+  },
+  {
+   "n": 66,
+   "en": "Splash!",
+   "tgt": "Plouf:n !:o"
+  },
+  {
+   "n": 67,
+   "en": "The wolf fell into the hot water.",
+   "tgt": "Le:o loup:n tomba:v dans:o l':o eau:n chaude:a .:o"
+  },
+  {
+   "n": 68,
+   "en": "He jumped out with a yelp.",
+   "tgt": "Il:o sauta:v dehors:a avec:o un:o cri:n .:o"
+  },
+  {
+   "n": 69,
+   "en": "The wolf ran out through the door.",
+   "tgt": "Le:o loup:n sortit:v en:o courant:v par:o la:o porte:n .:o"
+  },
+  {
+   "n": 70,
+   "en": "He ran into the woods and never came back.",
+   "tgt": "Il:o courut:v dans:o les:o bois:n et:o ne:o revint:v jamais:o .:o"
+  },
+  {
+   "n": 71,
+   "en": "Now the three pigs were safe forever.",
+   "tgt": "Désormais:a ,:o les:o trois:o cochons:n étaient:v en:o sécurité:n pour:o toujours:a .:o"
+  }
+ ]
+}

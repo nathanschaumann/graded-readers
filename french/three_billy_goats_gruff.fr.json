@@ -1,0 +1,388 @@
+{
+ "slug": "three_billy_goats_gruff",
+ "names": {},
+ "sentences": [
+  {
+   "n": 1,
+   "chapter": "The Bare Hill",
+   "en": "Three goats lived on a bare hill.",
+   "tgt": "Trois:o chèvres:n vivaient:v sur:o une:o colline:n nue:a .:o"
+  },
+  {
+   "n": 2,
+   "en": "Little Goat, Middle Goat, and Big Goat were hungry.",
+   "tgt": "La:o Petite:n Chèvre:n ,:o la:o Chèvre:n du:o Milieu:n ,:o et:o la:o Grande:n Chèvre:n avaient:v faim:n .:o"
+  },
+  {
+   "n": 3,
+   "en": "The grass on their hill was thin and dry.",
+   "tgt": "L':o herbe:n sur:o leur:o colline:n était:v mince:a et:o sèche:a .:o"
+  },
+  {
+   "n": 4,
+   "en": "Across the bridge, a green hill stood tall.",
+   "tgt": "De:o l':o autre:o côté:n du:o pont:n ,:o une:o colline:n verte:a se:o dressait:v en:o hauteur:n .:o"
+  },
+  {
+   "n": 5,
+   "en": "Middle Goat: Look at that fresh grass!",
+   "tgt": "Chèvre:n du:o Milieu:n ,:o «:o Regardez:v cette:o herbe:n fraîche:a !:o »:o"
+  },
+  {
+   "n": 6,
+   "en": "Big Goat: We will go across the bridge.",
+   "tgt": "Grande:n Chèvre:n ,:o «:o Nous:o allons:v traverser:v le:o pont:n .:o »:o"
+  },
+  {
+   "n": 7,
+   "en": "Little Goat: I will go first.",
+   "tgt": "Petite:n Chèvre:n ,:o «:o Je:o passerai:v en:o premier:a .:o »:o"
+  },
+  {
+   "n": 8,
+   "en": "Middle Goat: Good. We will wait here.",
+   "tgt": "Chèvre:n du:o Milieu:n ,:o «:o Bien:a .:o Nous:o attendrons:v ici:a .:o »:o"
+  },
+  {
+   "n": 9,
+   "en": "Little Goat walked down to the bridge.",
+   "tgt": "La:o Petite:n Chèvre:n descendit:v vers:o le:o pont:n .:o"
+  },
+  {
+   "n": 10,
+   "en": "Under the bridge, a troll lived in the dark.",
+   "tgt": "Sous:o le:o pont:n ,:o un:o troll:n vivait:v dans:o l':o obscurité:n .:o"
+  },
+  {
+   "n": 11,
+   "chapter": "Little Goat Crosses",
+   "en": "Little Goat's hooves went trip-trap on the bridge.",
+   "tgt": "Les:o sabots:n de:o la:o Petite:n Chèvre:n faisaient:v trip-trap:a sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 12,
+   "en": "Troll: Who is trip-trapping over my bridge?",
+   "tgt": "Troll:o ,:o «:o Qui:o fait:v trip-trap:a sur:o mon:o pont:n ?:o »:o"
+  },
+  {
+   "n": 13,
+   "en": "Little Goat: It is only me, the little goat.",
+   "tgt": "«:o C':o est:v seulement:a moi:o ,:o la:o petite:a chèvre:n .:o »:o"
+  },
+  {
+   "n": 14,
+   "en": "Troll: I will eat you up!",
+   "tgt": "«:o Je:o vais:v te:o manger:v !:o »:o"
+  },
+  {
+   "n": 15,
+   "en": "Little Goat: Do not eat me, Troll.",
+   "tgt": "Petit:a Bouc:n ::o «:o Ne:o me:o mange:v pas:o ,:o Troll:o .:o »:o"
+  },
+  {
+   "n": 16,
+   "en": "Little Goat: Wait for my brother, Middle Goat.",
+   "tgt": "«:o Attends:v mon:o frère:n ,:o Middle:o Goat:o .:o »:o"
+  },
+  {
+   "n": 17,
+   "en": "Little Goat: He is bigger than me.",
+   "tgt": "«:o Il:o est:v plus:a grand:a que:o moi:o .:o »:o"
+  },
+  {
+   "n": 18,
+   "en": "Troll: Bigger, you say?",
+   "tgt": "«:o Plus:a grand:a ,:o dis:v -tu:o ?:o »:o"
+  },
+  {
+   "n": 19,
+   "en": "Troll: Then go, little goat.",
+   "tgt": "«:o Alors:o va:v ,:o petite:a chèvre:n .:o »:o"
+  },
+  {
+   "n": 20,
+   "en": "Little Goat trotted over the bridge to the green hill.",
+   "tgt": "La:o petite:a chèvre:n trotta:v sur:o le:o pont:n jusqu':o à:o la:o colline:n verte:a .:o"
+  },
+  {
+   "n": 21,
+   "chapter": "Middle Goat Crosses",
+   "en": "Middle Goat walked down to the bridge.",
+   "tgt": "Middle:o Goat:o descendit:v jusqu':o au:o pont:n .:o"
+  },
+  {
+   "n": 22,
+   "en": "He was careful and quick.",
+   "tgt": "Il:o était:v prudent:a et:o rapide:a .:o"
+  },
+  {
+   "n": 23,
+   "en": "Middle Goat's horns were still small.",
+   "tgt": "Les:o cornes:n de:o Middle:o Goat:o étaient:v encore:a petites:a .:o"
+  },
+  {
+   "n": 24,
+   "en": "Middle Goat's hooves went trip-trap on the bridge.",
+   "tgt": "Les:o sabots:n de:o Middle:o Goat:o firent:v trip-trap:a sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 25,
+   "en": "Troll: Who is trip-trapping over my bridge?",
+   "tgt": "Troll:o `:o «:o Qui:o fait:v toc-toc:a sur:o mon:o pont:n ?:o »:o"
+  },
+  {
+   "n": 26,
+   "en": "Middle Goat: It is only me, the middle goat.",
+   "tgt": "Bouc:o du:o Milieu:o `:o «:o C':o est:v seulement:a moi:o ,:o le:o bouc:n du:o milieu:n .:o »:o"
+  },
+  {
+   "n": 27,
+   "en": "Troll: I will eat you up!",
+   "tgt": "Troll:o `:o «:o Je:o vais:v te:o manger:v !:o »:o"
+  },
+  {
+   "n": 28,
+   "en": "Middle Goat: Do not eat me, Troll.",
+   "tgt": "Bouc:n du:o Milieu:n ::o «:o Ne:o me:o mange:v pas:o ,:o Troll:o .:o »:o"
+  },
+  {
+   "n": 29,
+   "en": "Middle Goat: Wait for my brother, Big Goat.",
+   "tgt": "Bouc:o du:o Milieu:o `:o «:o Attends:v mon:o frère:n ,:o Grand:o Bouc:o .:o »:o"
+  },
+  {
+   "n": 30,
+   "en": "Middle Goat: He is bigger than me.",
+   "tgt": "Bouc:o du:o Milieu:o `:o «:o Il:o est:v plus:o grand:a que:o moi:o .:o »:o"
+  },
+  {
+   "n": 31,
+   "en": "Troll: Bigger still?",
+   "tgt": "Troll:o `:o «:o Plus:o grand:a encore:a ?:o »:o"
+  },
+  {
+   "n": 32,
+   "en": "Troll: Then go, middle goat.",
+   "tgt": "Troll:o `:o «:o Alors:o va:v ,:o bouc:n du:o milieu:n .:o »:o"
+  },
+  {
+   "n": 33,
+   "en": "Middle Goat trotted over the bridge to the green hill.",
+   "tgt": "Le:o Bouc:o du:o Milieu:o trotta:v sur:o le:o pont:n jusqu':o à:o la:o colline:n verte:a .:o"
+  },
+  {
+   "n": 34,
+   "chapter": "Troll Waits, Angry",
+   "en": "The troll was still hungry.",
+   "tgt": "Le:o troll:n avait:v encore:a faim:n .:o"
+  },
+  {
+   "n": 35,
+   "en": "Two goats had crossed to the green hill.",
+   "tgt": "Deux:o chèvres:n avaient:v traversé:v jusqu':o à:o la:o colline:n verte:a .:o"
+  },
+  {
+   "n": 36,
+   "en": "The troll had eaten nothing all day.",
+   "tgt": "Le:o troll:n n':o avait:v rien:o mangé:v de:o toute:o la:o journée:n .:o"
+  },
+  {
+   "n": 37,
+   "en": "Troll: No more goats will trick me.",
+   "tgt": "Troll:o `:o «:o Plus:a aucune:o chèvre:n ne:o me:o trompera:v .:o »:o"
+  },
+  {
+   "n": 38,
+   "en": "The troll waited under the dark bridge.",
+   "tgt": "Le:o troll:n attendit:v sous:o le:o pont:n sombre:a .:o"
+  },
+  {
+   "n": 39,
+   "en": "He listened hard for more hooves.",
+   "tgt": "Il:o écouta:v attentivement:a d':o autres:o sabots:n .:o"
+  },
+  {
+   "n": 40,
+   "en": "Big Goat was the biggest of the three.",
+   "tgt": "Grand:a Bouc:n était:v le:o plus:a grand:a des:o trois:o .:o"
+  },
+  {
+   "n": 41,
+   "en": "Troll: The next goat, I will eat.",
+   "tgt": "Troll:o `:o «:o La:o prochaine:a chèvre:n ,:o je:o la:o mangerai:v .:o »:o"
+  },
+  {
+   "n": 42,
+   "chapter": "Big Goat Crosses",
+   "en": "Big Goat walked down to the bridge.",
+   "tgt": "Grand:a Bouc:n descendit:v jusqu':o au:o pont:n .:o"
+  },
+  {
+   "n": 43,
+   "en": "Big Goat's hooves went trip-trap on the bridge.",
+   "tgt": "Les:o sabots:n de:o Grand:a Bouc:n firent:v trip-trap:a sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 44,
+   "en": "Troll: Who is trip-trapping over my bridge?",
+   "tgt": "Troll:o `:o «:o Qui:o fait:v trip-trap:a sur:o mon:o pont:n ?:o »:o"
+  },
+  {
+   "n": 45,
+   "en": "Big Goat: It is I, the big goat.",
+   "tgt": "Grand:a Bouc:n `:o «:o C':o est:v moi:o ,:o le:o grand:a bouc:n .:o »:o"
+  },
+  {
+   "n": 46,
+   "en": "Troll: I will eat you up!",
+   "tgt": "Troll:o `:o «:o Je:o vais:v te:o manger:v !:o »:o"
+  },
+  {
+   "n": 47,
+   "en": "Big Goat: Come and try, Troll.",
+   "tgt": "Grand:a Bouc:n `:o «:o Viens:v essayer:v ,:o Troll:o .:o »:o"
+  },
+  {
+   "n": 48,
+   "en": "Troll: You are not small like your brothers.",
+   "tgt": "Troll:o `:o «:o Tu:o n':o es:v pas:o petit:a comme:o tes:o frères:n .:o »:o"
+  },
+  {
+   "n": 49,
+   "en": "Big Goat: No, I am big and strong.",
+   "tgt": "Grande:o Chèvre:o ::o Non:a ,:o je:o suis:v grand:a et:o fort:a .:o"
+  },
+  {
+   "n": 50,
+   "en": "Troll: I will eat you now!",
+   "tgt": "Troll:o ::o Je:o vais:v te:o manger:v maintenant:a !:o"
+  },
+  {
+   "n": 51,
+   "en": "The troll jumped onto the bridge.",
+   "tgt": "Le:o troll:n sauta:v sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 52,
+   "chapter": "The Fight on the Bridge",
+   "en": "The troll was hungry and angry.",
+   "tgt": "Le:o troll:n était:v affamé:a et:o furieux:a .:o"
+  },
+  {
+   "n": 53,
+   "en": "The troll ran at Big Goat.",
+   "tgt": "Le:o troll:n courut:v vers:o Grande:o Chèvre:o .:o"
+  },
+  {
+   "n": 54,
+   "en": "Big Goat did not run.",
+   "tgt": "Le:o Grand:a Bouc:n ne:o courut:v pas:o .:o"
+  },
+  {
+   "n": 55,
+   "en": "Big Goat lowered his sharp horns.",
+   "tgt": "Grande:o Chèvre:o baissa:v ses:o cornes:n pointues:a .:o"
+  },
+  {
+   "n": 56,
+   "en": "He charged at the troll.",
+   "tgt": "Il:o chargea:v vers:o le:o troll:n .:o"
+  },
+  {
+   "n": 57,
+   "en": "Big Goat's horns hit the troll hard.",
+   "tgt": "Les:o cornes:n de:o Grande:o Chèvre:o frappèrent:v le:o troll:n fort:a .:o"
+  },
+  {
+   "n": 58,
+   "en": "The troll flew off the bridge.",
+   "tgt": "Le:o troll:n vola:v hors:o du:o pont:n .:o"
+  },
+  {
+   "n": 59,
+   "en": "The troll fell into the water below.",
+   "tgt": "Le:o troll:n tomba:v dans:o l':o eau:n en:o dessous:a .:o"
+  },
+  {
+   "n": 60,
+   "en": "Troll: Help me, I am falling!",
+   "tgt": "Troll:o ::o Aidez-moi:v ,:o je:o tombe:v !:o"
+  },
+  {
+   "n": 61,
+   "en": "The water carried the troll away.",
+   "tgt": "L':o eau:n emporta:v le:o troll:o au:o loin:a .:o"
+  },
+  {
+   "n": 62,
+   "en": "Big Goat stood alone on the bridge.",
+   "tgt": "Le:o grand:a bouc:n se:o tenait:v seul:a sur:o le:o pont:n .:o"
+  },
+  {
+   "n": 63,
+   "en": "Big Goat's legs were strong.",
+   "tgt": "Les:o jambes:n du:o grand:a bouc:n étaient:v fortes:a .:o"
+  },
+  {
+   "n": 64,
+   "en": "Big Goat: The bridge is safe now.",
+   "tgt": "Le:o grand:a bouc:n ::o «:o Le:o pont:n est:v sûr:a maintenant:a .:o »:o"
+  },
+  {
+   "n": 65,
+   "chapter": "Grass on the Green Hill",
+   "en": "Big Goat trotted to the green hill.",
+   "tgt": "Le:o grand:a bouc:n trotta:v jusqu':o à:o la:o colline:n verte:a .:o"
+  },
+  {
+   "n": 66,
+   "en": "Little Goat: You crossed the bridge!",
+   "tgt": "Le:o petit:a bouc:n ::o «:o Tu:o as:v traversé:v le:o pont:n !:o »:o"
+  },
+  {
+   "n": 67,
+   "en": "Middle Goat: Is the troll gone?",
+   "tgt": "Le:o bouc:n du:o milieu:n ::o «:o Le:o troll:o est:v -il:o parti:a ?:o »:o"
+  },
+  {
+   "n": 68,
+   "en": "Big Goat: The troll fell in the water.",
+   "tgt": "Le:o grand:a bouc:n ::o «:o Le:o troll:o est:v tombé:v dans:o l':o eau:n .:o »:o"
+  },
+  {
+   "n": 69,
+   "en": "Big Goat: He will not come back.",
+   "tgt": "Grand:a Bouc:n ::o «:o Il:o ne:o reviendra:v pas:o .:o »:o"
+  },
+  {
+   "n": 70,
+   "en": "Little Goat: We can eat all day now.",
+   "tgt": "Le:o petit:a bouc:n ::o «:o Nous:o pouvons:v manger:v toute:o la:o journée:n maintenant:a .:o »:o"
+  },
+  {
+   "n": 71,
+   "en": "The three goats ate the fresh grass.",
+   "tgt": "Les:o trois:o boucs:n mangèrent:v l':o herbe:n fraîche:a .:o"
+  },
+  {
+   "n": 72,
+   "en": "They grew fat on the green hill.",
+   "tgt": "Ils:o grossirent:v sur:o la:o colline:n verte:a .:o"
+  },
+  {
+   "n": 73,
+   "en": "Middle Goat: This grass is the best.",
+   "tgt": "La:o Chèvre:n du:o Milieu:n ::o «:o Cette:o herbe:n est:v la:o meilleure:a .:o »:o"
+  },
+  {
+   "n": 74,
+   "en": "Big Goat: We are safe and full.",
+   "tgt": "La:o Grande:a Chèvre:n ::o «:o Nous:o sommes:v en:o sécurité:n et:o rassasiés:a .:o »:o"
+  },
+  {
+   "n": 75,
+   "en": "The three goats lived happily on the green hill.",
+   "tgt": "Les:o trois:o chèvres:n vécurent:v heureusement:a sur:o la:o colline:n verte:a .:o"
+  }
+ ]
+}
